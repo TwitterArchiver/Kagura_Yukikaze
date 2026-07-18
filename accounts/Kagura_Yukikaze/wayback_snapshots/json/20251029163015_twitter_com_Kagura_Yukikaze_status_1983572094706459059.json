@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1983564231191519273",
+    "created_at": "2025-10-29T16:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983572094706459059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1324190854085369857",
+          "start": 0,
+          "username": "2541404751Hiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983572094706459059",
+    "in_reply_to_user_id": "1324190854085369857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983564231191519273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2541404751Hiko 不可以啊😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1983564231191519273].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1983564231191519273",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1983564231191519273"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1983564231191519273",
+        "created_at": "2025-10-29T16:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983572094706459059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1324190854085369857",
+              "start": 0,
+              "username": "2541404751Hiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983572094706459059",
+        "in_reply_to_user_id": "1324190854085369857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983564231191519273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2541404751Hiko 不可以啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983188124747587585/zIni_VCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 1721,
+          "like_count": 67366,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7590
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:24:51.000Z",
+        "description": "2002大龄mtf/无证含糖hrt2025.5.18-7.5 8.20-?/178 64/intj/药攻/不建政/od成瘾/重度焦虑性抑郁症 解离型人格障碍 ptsd 状态已完全失控/真正的耐杀王/决定下海了，毕竟养自己都费劲",
+        "id": "1324190854085369857",
+        "location": "西安/",
+        "name": "HYiko🏳️‍⚧️🍥（右美沙芬的救赎）",
+        "pinned_tweet_id": "1983142017174515900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937165068979904513/qetGv_L__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 113,
+          "like_count": 108,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 231
+        },
+        "username": "2541404751Hiko",
+        "verified": false
+      }
+    ]
+  }
+}

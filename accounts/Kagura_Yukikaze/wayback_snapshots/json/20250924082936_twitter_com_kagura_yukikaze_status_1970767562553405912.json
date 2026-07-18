@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1970716085759750629",
+    "created_at": "2025-09-24T08:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970767562553405912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963118330707050496",
+          "start": 0,
+          "username": "mtnyan123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970767562553405912",
+    "in_reply_to_user_id": "1963118330707050496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970716085759750629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtnyan123 陪你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1970716085759750629",
+        "created_at": "2025-09-24T08:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970767562553405912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963118330707050496",
+              "start": 0,
+              "username": "mtnyan123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970767562553405912",
+        "in_reply_to_user_id": "1963118330707050496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970716085759750629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan123 陪你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963118330707050496",
+        "conversation_id": "1970716085759750629",
+        "created_at": "2025-09-24T05:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T06:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970716085759750629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970716085759750629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人陪我..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 1173,
+          "like_count": 55877,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 6250
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T05:54:31.000Z",
+        "description": "MtX🍥 / 无证含糖｜泛性恋 / 社恐 / 主页背景图是本猫",
+        "id": "1963118330707050496",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱（大号被盗",
+        "pinned_tweet_id": "1969665078409773144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968449968529920000/tt2tmkg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 132,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 117
+        },
+        "username": "mtnyan123",
+        "verified": false
+      }
+    ]
+  }
+}

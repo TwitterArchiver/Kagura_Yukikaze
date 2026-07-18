@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970555949283700736"
+      ],
+      "media_source_tweet_id": [
+        "1970555952643375445"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1970675501489639857",
+    "created_at": "2025-09-24T02:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T03:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970675501489639857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1531930665628971011",
+          "start": 3,
+          "username": "FemboyTrain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/exIVPrgVMy",
+          "end": 62,
+          "expanded_url": "https://x.com/FemboyTrain/status/1970555952643375445/photo/1",
+          "media_key": "3_1970555949283700736",
+          "start": 39,
+          "url": "https://t.co/exIVPrgVMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970675501489639857",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970555952643375445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FemboyTrain: New cutie obtained :3 https://t.co/exIVPrgVMy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970555949283700736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jSMgcWcAAq-xR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970555949283700736"
+          ],
+          "media_source_tweet_id": [
+            "1970555952643375445"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1970675501489639857",
+        "created_at": "2025-09-24T02:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T03:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970675501489639857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1531930665628971011",
+              "start": 3,
+              "username": "FemboyTrain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/exIVPrgVMy",
+              "end": 62,
+              "expanded_url": "https://x.com/FemboyTrain/status/1970555952643375445/photo/1",
+              "media_key": "3_1970555949283700736",
+              "start": 39,
+              "url": "https://t.co/exIVPrgVMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970675501489639857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970555952643375445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FemboyTrain: New cutie obtained :3 https://t.co/exIVPrgVMy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970555949283700736"
+          ]
+        },
+        "author_id": "1531930665628971011",
+        "conversation_id": "1970555952643375445",
+        "created_at": "2025-09-23T18:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T19:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970555952643375445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exIVPrgVMy",
+              "end": 45,
+              "expanded_url": "https://x.com/FemboyTrain/status/1970555952643375445/photo/1",
+              "media_key": "3_1970555949283700736",
+              "start": 22,
+              "url": "https://t.co/exIVPrgVMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970555952643375445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 18417,
+          "like_count": 1575,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "New cutie obtained :3 https://t.co/exIVPrgVMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 1173,
+          "like_count": 55802,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 6236
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T09:30:41.000Z",
+        "description": "Pan | 25 |\nFemboy/catboy who drives trains! |\nYes, we exist. | 🔞 🇩🇪 🇬🇧 |\nhttps://t.co/8AQ5qKSqQn |\n@NikiTheFox310 my beloved 💕 |\n@PrivateSplatty",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 99,
+                "username": "NikiTheFox310"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "PrivateSplatty"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/AETCC8m7TZ",
+                "end": 96,
+                "expanded_url": "http://discord.gg/AETCC8m7TZ",
+                "start": 73,
+                "url": "https://t.co/8AQ5qKSqQn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/femboytrain",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/femboytrain",
+                "start": 0,
+                "url": "https://t.co/wVlOmUvRGo"
+              }
+            ]
+          }
+        },
+        "id": "1531930665628971011",
+        "location": "THE LÄND, fährt für bwegt!",
+        "name": "Splatty 🚈🇩🇪",
+        "pinned_tweet_id": "1695826602926412128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541707251404111872/E7Fdnrx8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58948,
+          "following_count": 614,
+          "like_count": 180402,
+          "listed_count": 61,
+          "media_count": 5353,
+          "tweet_count": 25245
+        },
+        "url": "https://t.co/wVlOmUvRGo",
+        "username": "FemboyTrain",
+        "verified": false
+      }
+    ]
+  }
+}

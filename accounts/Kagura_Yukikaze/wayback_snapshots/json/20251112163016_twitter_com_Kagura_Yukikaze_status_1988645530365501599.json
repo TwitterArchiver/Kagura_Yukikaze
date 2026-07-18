@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1988586991790030975",
+    "created_at": "2025-11-12T16:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988645530365501599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796067856142213120",
+          "start": 0,
+          "username": "realnmudml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988645530365501599",
+    "in_reply_to_user_id": "1796067856142213120",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988605386656764363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realnmudml qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1988586991790030975",
+        "created_at": "2025-11-12T16:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988645530365501599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796067856142213120",
+              "start": 0,
+              "username": "realnmudml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988645530365501599",
+        "in_reply_to_user_id": "1796067856142213120",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988605386656764363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realnmudml qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796067856142213120",
+        "conversation_id": "1988586991790030975",
+        "created_at": "2025-11-12T13:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988605386656764363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988605386656764363",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988586991790030975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 过敏了 先不要用啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 1833,
+          "like_count": 70012,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 7804
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T06:35:42.000Z",
+        "description": "只是期待…被爱着｜od日记｜生命记录",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nmudmlclub",
+                "end": 23,
+                "expanded_url": "http://t.me/nmudmlclub",
+                "start": 0,
+                "url": "https://t.co/kJ98C5NRxK"
+              }
+            ]
+          }
+        },
+        "id": "1796067856142213120",
+        "name": "柠檬味的猫粮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839570777202704384/2VoygNni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 12,
+          "like_count": 101,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/kJ98C5NRxK",
+        "username": "realnmudml",
+        "verified": false
+      }
+    ]
+  }
+}

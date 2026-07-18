@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970601262883192832"
+      ],
+      "media_source_tweet_id": [
+        "1970601265693630625"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1970823215321866537",
+    "created_at": "2025-09-24T12:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T13:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970823215321866537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1475633511747014657",
+          "start": 3,
+          "username": "KiitSamy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RBNNTSq1ra",
+          "end": 37,
+          "expanded_url": "https://x.com/KiitSamy/status/1970601265693630625/photo/1",
+          "media_key": "3_1970601262883192832",
+          "start": 14,
+          "url": "https://t.co/RBNNTSq1ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970823215321866537",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970601265693630625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiitSamy: https://t.co/RBNNTSq1ra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_1970601262883192832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1j7aGwWwAAVe9C.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970601262883192832"
+          ],
+          "media_source_tweet_id": [
+            "1970601265693630625"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1970823215321866537",
+        "created_at": "2025-09-24T12:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T13:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970823215321866537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1475633511747014657",
+              "start": 3,
+              "username": "KiitSamy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBNNTSq1ra",
+              "end": 37,
+              "expanded_url": "https://x.com/KiitSamy/status/1970601265693630625/photo/1",
+              "media_key": "3_1970601262883192832",
+              "start": 14,
+              "url": "https://t.co/RBNNTSq1ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970823215321866537",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970601265693630625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiitSamy: https://t.co/RBNNTSq1ra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970601262883192832"
+          ]
+        },
+        "author_id": "1475633511747014657",
+        "conversation_id": "1970601265693630625",
+        "created_at": "2025-09-23T21:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T22:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970601265693630625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBNNTSq1ra",
+              "end": 23,
+              "expanded_url": "https://x.com/KiitSamy/status/1970601265693630625/photo/1",
+              "media_key": "3_1970601262883192832",
+              "start": 0,
+              "url": "https://t.co/RBNNTSq1ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970601265693630625",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 957,
+          "impression_count": 63928,
+          "like_count": 5337,
+          "quote_count": 10,
+          "reply_count": 20,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RBNNTSq1ra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 1174,
+          "like_count": 55920,
+          "listed_count": 3,
+          "media_count": 478,
+          "tweet_count": 6257
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T01:03:57.000Z",
+        "description": "Femboy 🌷 | IG KiitSamy | cuenta secundaria @kitsamydeidad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "kitsamydeidad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/vNzxkYk…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/vNzxkYkf8h",
+                "start": 0,
+                "url": "https://t.co/EsEXNPIwG2"
+              }
+            ]
+          }
+        },
+        "id": "1475633511747014657",
+        "location": " 🇨🇷",
+        "name": "Samy",
+        "pinned_tweet_id": "1850225191218991348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964982192666300416/35JEfLCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41969,
+          "following_count": 799,
+          "like_count": 13046,
+          "listed_count": 44,
+          "media_count": 1951,
+          "tweet_count": 3022
+        },
+        "url": "https://t.co/EsEXNPIwG2",
+        "username": "KiitSamy",
+        "verified": false
+      }
+    ]
+  }
+}
