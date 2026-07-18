@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2003429229657292902",
+    "created_at": "2025-12-23T11:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T12:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003429269339578858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1461017973599186944",
+          "start": 0,
+          "username": "xiaoyinyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003429269339578858",
+    "in_reply_to_user_id": "1461017973599186944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003429229657292902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyinyu520 呜呜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2003429229657292902].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2003429229657292902",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2003429229657292902"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2003429229657292902",
+        "created_at": "2025-12-23T11:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003429269339578858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1461017973599186944",
+              "start": 0,
+              "username": "xiaoyinyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003429269339578858",
+        "in_reply_to_user_id": "1461017973599186944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003429229657292902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyinyu520 呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 2114,
+          "like_count": 77801,
+          "listed_count": 2,
+          "media_count": 579,
+          "tweet_count": 8838
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-17T17:06:55.000Z",
+        "description": "05年，不抽烟不喝酒，不擅长说话，没有精神疾病，割手od自杀，2025.3.13开始hrt，8.8已炸柜",
+        "id": "1461017973599186944",
+        "name": "小银鱼",
+        "pinned_tweet_id": "1996092239572074520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917239597438025728/5uhkXdaQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 233,
+          "like_count": 4546,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 961
+        },
+        "username": "xiaoyinyu520",
+        "verified": false
+      }
+    ]
+  }
+}

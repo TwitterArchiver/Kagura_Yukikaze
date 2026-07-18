@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055628263410802689"
+      ],
+      "media_source_tweet_id": [
+        "2055628308902203756"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2055890491934425547",
+    "created_at": "2026-05-17T05:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055890491934425547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dFmSVgwnDA",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/2055628308902203756/photo/1",
+          "media_key": "3_2055628263410802689",
+          "start": 13,
+          "url": "https://t.co/dFmSVgwnDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055890491934425547",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055628308902203756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: https://t.co/dFmSVgwnDA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055628263410802689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcPA67aoAE32WV.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055628263410802689"
+          ],
+          "media_source_tweet_id": [
+            "2055628308902203756"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2055890491934425547",
+        "created_at": "2026-05-17T05:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055890491934425547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFmSVgwnDA",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/2055628308902203756/photo/1",
+              "media_key": "3_2055628263410802689",
+              "start": 13,
+              "url": "https://t.co/dFmSVgwnDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055890491934425547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055628308902203756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: https://t.co/dFmSVgwnDA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055628263410802689"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2055628308902203756",
+        "created_at": "2026-05-16T12:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055628308902203756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFmSVgwnDA",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2055628308902203756/photo/1",
+              "media_key": "3_2055628263410802689",
+              "start": 0,
+              "url": "https://t.co/dFmSVgwnDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055628308902203756",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 12842,
+          "like_count": 479,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dFmSVgwnDA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 2937,
+          "like_count": 106573,
+          "listed_count": 8,
+          "media_count": 788,
+          "tweet_count": 12975
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120238,
+          "following_count": 1119,
+          "like_count": 52317,
+          "listed_count": 291,
+          "media_count": 21539,
+          "tweet_count": 31994
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

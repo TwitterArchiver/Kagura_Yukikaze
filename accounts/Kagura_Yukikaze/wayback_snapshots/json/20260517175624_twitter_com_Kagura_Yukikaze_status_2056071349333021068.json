@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2055696051219439921",
+    "created_at": "2026-05-17T17:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056071349333021068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1974452661635473408",
+          "start": 0,
+          "username": "ynychn155026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056071349333021068",
+    "in_reply_to_user_id": "1974452661635473408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056065304942575658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynychn155026 已经习惯了（\n随手点点b掉就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2055696051219439921",
+        "created_at": "2026-05-17T17:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056071349333021068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1974452661635473408",
+              "start": 0,
+              "username": "ynychn155026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056071349333021068",
+        "in_reply_to_user_id": "1974452661635473408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056065304942575658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynychn155026 已经习惯了（\n随手点点b掉就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974452661635473408",
+        "conversation_id": "2055696051219439921",
+        "created_at": "2026-05-17T17:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056065304942575658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056065304942575658",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055696051219439921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 你能体会到为数不多的发现有人fo我结果点进去是个月抛机器人的感受吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 2937,
+          "like_count": 106614,
+          "listed_count": 8,
+          "media_count": 788,
+          "tweet_count": 12989
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T12:33:08.000Z",
+        "description": "生产日期11.4.3 是个人 mtf 不定时发癫/情\n想交朋友…有fo看到了会回的\n没什么雷点 想说什么都无所谓（吧？）\n缺点：缺爱以及你能想到的所有问题\n这里可能发一点碎碎念/情绪化/发情的东西 我发出来的图一般都用过AI修过哦（毕竟自卑）",
+        "id": "1974452661635473408",
+        "location": "風見台高校二年A組",
+        "name": "Urabe🏳️‍⚧️",
+        "pinned_tweet_id": "2053715043582443663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053792166032637953/xYc9Wtao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 171,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "username": "ynychn155026",
+        "verified": false
+      }
+    ]
+  }
+}

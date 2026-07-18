@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2059600361061810436",
+    "created_at": "2026-05-27T11:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059600361061810436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "itsCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "one-among.us/profile/Susiet…",
+          "end": 79,
+          "expanded_url": "https://one-among.us/profile/Susiethegamer",
+          "start": 56,
+          "unwound_url": "https://one-among.us/profile/Susiethegamer/",
+          "url": "https://t.co/IxbmrQqsdZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059600361061810436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059591947875131491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsCatRoll: 好像真的换了一批人了，现在都没人知道她了😵‍💫\n这是不正确的，不许忘记可爱小孩\nhttps://t.co/IxbmrQqsdZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2059600361061810436",
+        "created_at": "2026-05-27T11:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059600361061810436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "itsCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "one-among.us/profile/Susiet…",
+              "end": 79,
+              "expanded_url": "https://one-among.us/profile/Susiethegamer",
+              "start": 56,
+              "unwound_url": "https://one-among.us/profile/Susiethegamer/",
+              "url": "https://t.co/IxbmrQqsdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059600361061810436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059591947875131491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsCatRoll: 好像真的换了一批人了，现在都没人知道她了😵‍💫\n这是不正确的，不许忘记可爱小孩\nhttps://t.co/IxbmrQqsdZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2059591947875131491",
+        "created_at": "2026-05-27T11:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059591947875131491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "one-among.us/profile/Susiet…",
+              "end": 63,
+              "expanded_url": "https://one-among.us/profile/Susiethegamer",
+              "start": 40,
+              "unwound_url": "https://one-among.us/profile/Susiethegamer/",
+              "url": "https://t.co/IxbmrQqsdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059591947875131491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好像真的换了一批人了，现在都没人知道她了😵‍💫\n这是不正确的，不许忘记可爱小孩\nhttps://t.co/IxbmrQqsdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 2983,
+          "like_count": 108696,
+          "listed_count": 7,
+          "media_count": 794,
+          "tweet_count": 13263
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "工程师猫娘 软饭猫猫（x\n💌@hobartr6 猫卷的桌宠@leetfs1 🐱@_furryfur_ 笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "hobartr6"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "leetfs1"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷",
+        "pinned_tweet_id": "2016774614928724220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058178026832289792/yJCBki2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 825,
+          "like_count": 4019,
+          "listed_count": 8,
+          "media_count": 36,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

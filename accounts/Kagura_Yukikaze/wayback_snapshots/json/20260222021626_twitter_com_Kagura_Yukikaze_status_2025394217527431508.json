@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025090202054819840"
+      ],
+      "media_source_tweet_id": [
+        "2025090268069069305"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025394217527431508",
+    "created_at": "2026-02-22T02:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025394217527431508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012083684539793408",
+          "start": 3,
+          "username": "cultwas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CI99NhN4rX",
+          "end": 59,
+          "expanded_url": "https://x.com/cultwas/status/2025090268069069305/video/1",
+          "media_key": "13_2025090202054819840",
+          "start": 36,
+          "url": "https://t.co/CI99NhN4rX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025394217527431508",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025090268069069305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cultwas: 隠しコマンドの前半\n\n我ながら神運指だな〜〜 https://t.co/CI99NhN4rX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15041,
+        "height": 896,
+        "media_key": "13_2025090202054819840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025090202054819840/img/OQnPyEiofADpOyPW.jpg",
+        "public_metrics": {
+          "view_count": 6179
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025090202054819840/vid/avc1/320x398/bijTHAciOI--MDqw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025090202054819840/vid/avc1/480x596/HwYhwncbXI2McZSP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025090202054819840/vid/avc1/720x896/6HrrUElCRQg77f0j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025090202054819840/pl/8NsIbbpjPxhAv-LS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025090202054819840"
+          ],
+          "media_source_tweet_id": [
+            "2025090268069069305"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025394217527431508",
+        "created_at": "2026-02-22T02:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025394217527431508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012083684539793408",
+              "start": 3,
+              "username": "cultwas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CI99NhN4rX",
+              "end": 59,
+              "expanded_url": "https://x.com/cultwas/status/2025090268069069305/video/1",
+              "media_key": "13_2025090202054819840",
+              "start": 36,
+              "url": "https://t.co/CI99NhN4rX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025394217527431508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025090268069069305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cultwas: 隠しコマンドの前半\n\n我ながら神運指だな〜〜 https://t.co/CI99NhN4rX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025090202054819840"
+          ]
+        },
+        "author_id": "2012083684539793408",
+        "conversation_id": "2025090268069069305",
+        "created_at": "2026-02-21T06:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025090268069069305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CI99NhN4rX",
+              "end": 46,
+              "expanded_url": "https://x.com/cultwas/status/2025090268069069305/video/1",
+              "media_key": "13_2025090202054819840",
+              "start": 23,
+              "url": "https://t.co/CI99NhN4rX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025090268069069305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 10287,
+          "like_count": 119,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "隠しコマンドの前半\n\n我ながら神運指だな〜〜 https://t.co/CI99NhN4rX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 2471,
+          "like_count": 89111,
+          "listed_count": 2,
+          "media_count": 660,
+          "tweet_count": 10447
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T08:45:15.000Z",
+        "description": "いんきょしてます 過去動画ぼっと",
+        "id": "2012083684539793408",
+        "name": "でこ＋",
+        "pinned_tweet_id": "2012131968805417057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012130421044371456/8phLiu94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 41,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 81
+        },
+        "username": "cultwas",
+        "verified": false
+      }
+    ]
+  }
+}

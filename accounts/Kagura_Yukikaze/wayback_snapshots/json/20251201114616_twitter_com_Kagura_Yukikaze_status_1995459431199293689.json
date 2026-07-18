@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1995297177313415671",
+    "created_at": "2025-12-01T11:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T12:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995459431199293689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796067856142213120",
+          "start": 0,
+          "username": "realnmudml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995459431199293689",
+    "in_reply_to_user_id": "1796067856142213120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995297177313415671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realnmudml 不可以啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57063,
+        "height": 1280,
+        "media_key": "7_1995296769618649089",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995296769618649089/pu/img/Rq2DWlPT10czKKqv.jpg",
+        "public_metrics": {
+          "view_count": 1295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/vid/avc1/320x568/YMzXA65C05ZbkAJP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/vid/avc1/480x852/WCVe8BPlQtSak8zN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/vid/avc1/720x1280/_YgoW0ex_4VKcul0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/pl/sO3eqQLwOJhMd1_G.m3u8?tag=12&v=1ed"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1995297177313415671",
+        "created_at": "2025-12-01T11:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995459431199293689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796067856142213120",
+              "start": 0,
+              "username": "realnmudml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995459431199293689",
+        "in_reply_to_user_id": "1796067856142213120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995297177313415671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realnmudml 不可以啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995296769618649089"
+          ]
+        },
+        "author_id": "1796067856142213120",
+        "conversation_id": "1995297177313415671",
+        "created_at": "2025-12-01T01:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995297177313415671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaBmR3XYDS",
+              "end": 29,
+              "expanded_url": "https://x.com/realnmudml/status/1995297177313415671/video/1",
+              "media_key": "7_1995296769618649089",
+              "start": 6,
+              "url": "https://t.co/PaBmR3XYDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995297177313415671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3328,
+          "like_count": 20,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "早晨在宾馆 https://t.co/PaBmR3XYDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 1971,
+          "like_count": 73220,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 8183
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-30T06:35:42.000Z",
+        "description": "只是期待…被爱着｜od日记｜生命记录",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nmudmlclub",
+                "end": 23,
+                "expanded_url": "http://t.me/nmudmlclub",
+                "start": 0,
+                "url": "https://t.co/kJ98C5NRxK"
+              }
+            ]
+          }
+        },
+        "id": "1796067856142213120",
+        "name": "柠檬味的猫粮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839570777202704384/2VoygNni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 12,
+          "like_count": 108,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/kJ98C5NRxK",
+        "username": "realnmudml",
+        "verified": false
+      }
+    ]
+  }
+}

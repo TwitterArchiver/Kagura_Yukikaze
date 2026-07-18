@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1983518038088687698",
+    "created_at": "2025-10-29T12:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983518038088687698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711823629560819712",
+          "start": 3,
+          "username": "daimo12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983518038088687698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983007290639982846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daimo12138: 之前发的求助帖全被人删了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1983518038088687698",
+        "created_at": "2025-10-29T12:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983518038088687698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711823629560819712",
+              "start": 3,
+              "username": "daimo12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983518038088687698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983007290639982846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daimo12138: 之前发的求助帖全被人删了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711823629560819712",
+        "conversation_id": "1983007290639982846",
+        "created_at": "2025-10-28T03:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983007290639982846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983007290639982846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2971,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前发的求助帖全被人删了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983188124747587585/zIni_VCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 1714,
+          "like_count": 67146,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7568
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T19:19:01.000Z",
+        "description": "",
+        "id": "1711823629560819712",
+        "name": "莫莫（已失联 小寻代管中）",
+        "pinned_tweet_id": "1980488125731467513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982802544012210176/XKIZ4PT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 829,
+          "like_count": 134,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 652
+        },
+        "username": "daimo12138",
+        "verified": false
+      }
+    ]
+  }
+}

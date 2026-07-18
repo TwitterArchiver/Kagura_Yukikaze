@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2044015182880616600",
+    "created_at": "2026-04-14T11:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044017321073926616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457291192756957184",
+          "start": 0,
+          "username": "gucvigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044017321073926616",
+    "in_reply_to_user_id": "1457291192756957184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044015182880616600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gucvigy 羡慕呢🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044015179927826434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3M-fsasAI3Cld.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2044015182880616600",
+        "created_at": "2026-04-14T11:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044017321073926616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457291192756957184",
+              "start": 0,
+              "username": "gucvigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044017321073926616",
+        "in_reply_to_user_id": "1457291192756957184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044015182880616600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gucvigy 羡慕呢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044015179927826434"
+          ]
+        },
+        "author_id": "1457291192756957184",
+        "conversation_id": "2044015182880616600",
+        "created_at": "2026-04-14T11:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044015182880616600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XPTFNPomz",
+              "end": 26,
+              "expanded_url": "https://x.com/gucvigy/status/2044015182880616600/photo/1",
+              "media_key": "3_2044015179927826434",
+              "start": 3,
+              "url": "https://t.co/6XPTFNPomz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044015182880616600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大证 https://t.co/6XPTFNPomz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2903,
+          "following_count": 2805,
+          "like_count": 101086,
+          "listed_count": 4,
+          "media_count": 755,
+          "tweet_count": 12229
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T10:18:17.000Z",
+        "description": "00大龄yn,无证含🍬，intp-A，hrt：2025.06.11，小证：2026.01.19  大证：2026.04.13天残党，不od,不割手，情绪稳定。",
+        "id": "1457291192756957184",
+        "name": "🏹💖箭魂柔射",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978583178295267329/I4-wLvyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 609,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 611
+        },
+        "username": "gucvigy",
+        "verified": false
+      }
+    ]
+  }
+}

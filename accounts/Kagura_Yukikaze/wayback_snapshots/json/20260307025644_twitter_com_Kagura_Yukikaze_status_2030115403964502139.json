@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2030115403964502139",
+    "created_at": "2026-03-07T02:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030115403964502139"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "男妹妹"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "穿搭"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "女性化"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "肩宽"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1439465002851725314",
+          "start": 3,
+          "username": "sincecoco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030115403964502139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029936285553479993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sincecoco: 之前有男宝问我肩宽怎么办，其实可以通过穿搭来修饰！#男妹妹 #穿搭 #女性化 #肩宽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2030115403964502139",
+        "created_at": "2026-03-07T02:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030115403964502139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "男妹妹"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "穿搭"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "女性化"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "肩宽"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1439465002851725314",
+              "start": 3,
+              "username": "sincecoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030115403964502139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029936285553479993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sincecoco: 之前有男宝问我肩宽怎么办，其实可以通过穿搭来修饰！#男妹妹 #穿搭 #女性化 #肩宽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439465002851725314",
+        "conversation_id": "2029936285553479993",
+        "created_at": "2026-03-06T15:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029936285553479993"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "男妹妹"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "穿搭"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "女性化"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "肩宽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sincecoco/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/sincecoco/status/2029934973600362674",
+              "start": 43,
+              "url": "https://t.co/A2RJb6A0gY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029936285553479993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 8329,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029934973600362674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前有男宝问我肩宽怎么办，其实可以通过穿搭来修饰！#男妹妹 #穿搭 #女性化 #肩宽 https://t.co/A2RJb6A0gY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風（喵？",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 2582,
+          "like_count": 91980,
+          "listed_count": 2,
+          "media_count": 672,
+          "tweet_count": 10802
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "4i | 记录生活碎片，日常碎碎念 作家 美食分享家爱逛街 爱吃饭 争取做一个旅游博主。#日常 | #旅游｜#分享｜看黄的可以绕道走了。This is an interesting account.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 44,
+                "tag": "日常"
+              },
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "旅游"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "分享"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lShaS"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "location": "everywhere ",
+        "name": "橙子BABY",
+        "pinned_tweet_id": "2029095849716822508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021242948092919808/OmB2Fc_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10653,
+          "following_count": 303,
+          "like_count": 1231,
+          "listed_count": 29,
+          "media_count": 289,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/VCsG9lShaS",
+        "username": "sincecoco",
+        "verified": true
+      }
+    ]
+  }
+}

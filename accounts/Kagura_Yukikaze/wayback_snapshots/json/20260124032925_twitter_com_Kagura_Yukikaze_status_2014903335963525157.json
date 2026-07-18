@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014799599408709636"
+      ],
+      "media_source_tweet_id": [
+        "2014799609768640845"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2014903335963525157",
+    "created_at": "2026-01-24T03:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T04:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014903335963525157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1977716711899160576",
+          "start": 3,
+          "username": "o479xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c3s6wsvnAr",
+          "end": 35,
+          "expanded_url": "https://x.com/o479xx/status/2014799609768640845/photo/1",
+          "media_key": "3_2014799599408709636",
+          "start": 12,
+          "url": "https://t.co/c3s6wsvnAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014903335963525157",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014799609768640845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o479xx: https://t.co/c3s6wsvnAr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2014799599408709636",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_YBj5BbAAQiUgl.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014799599408709636"
+          ],
+          "media_source_tweet_id": [
+            "2014799609768640845"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2014903335963525157",
+        "created_at": "2026-01-24T03:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014903335963525157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1977716711899160576",
+              "start": 3,
+              "username": "o479xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3s6wsvnAr",
+              "end": 35,
+              "expanded_url": "https://x.com/o479xx/status/2014799609768640845/photo/1",
+              "media_key": "3_2014799599408709636",
+              "start": 12,
+              "url": "https://t.co/c3s6wsvnAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014903335963525157",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014799609768640845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o479xx: https://t.co/c3s6wsvnAr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014799599408709636"
+          ]
+        },
+        "author_id": "1977716711899160576",
+        "conversation_id": "2014799609768640845",
+        "created_at": "2026-01-23T20:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T21:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014799609768640845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3s6wsvnAr",
+              "end": 23,
+              "expanded_url": "https://x.com/o479xx/status/2014799609768640845/photo/1",
+              "media_key": "3_2014799599408709636",
+              "start": 0,
+              "url": "https://t.co/c3s6wsvnAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014799609768640845",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 6022,
+          "like_count": 1119,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c3s6wsvnAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 2276,
+          "like_count": 82644,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 9636
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T12:43:10.000Z",
+        "description": "251♡@el831143 | 女の子だけすき | OD |リスカは趣味 | 赤ちゃんじゃない男はごめん | おじさんくんな | 私の顔が一番すき",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "el831143"
+              }
+            ]
+          }
+        },
+        "id": "1977716711899160576",
+        "location": "人生は嘘",
+        "name": "なな",
+        "pinned_tweet_id": "2007078730112598055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998410883886956545/fTKVxulB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 166,
+          "like_count": 17074,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 4434
+        },
+        "username": "o479xx",
+        "verified": false
+      }
+    ]
+  }
+}

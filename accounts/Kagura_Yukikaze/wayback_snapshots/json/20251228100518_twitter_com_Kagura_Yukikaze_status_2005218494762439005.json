@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004613626087571460",
+        "3_2004613626066509824",
+        "3_2004613626079182851"
+      ],
+      "media_source_tweet_id": [
+        "2005158269933764655",
+        "2005158269933764655",
+        "2005158269933764655"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2005218494762439005",
+    "created_at": "2025-12-28T10:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T11:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005218494762439005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1580050860498771968",
+          "start": 3,
+          "username": "hilu_7355608"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2WdchAWqr",
+          "end": 59,
+          "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+          "media_key": "3_2004613626087571460",
+          "start": 36,
+          "url": "https://t.co/F2WdchAWqr"
+        },
+        {
+          "display_url": "pic.x.com/F2WdchAWqr",
+          "end": 59,
+          "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+          "media_key": "3_2004613626066509824",
+          "start": 36,
+          "url": "https://t.co/F2WdchAWqr"
+        },
+        {
+          "display_url": "pic.x.com/F2WdchAWqr",
+          "end": 59,
+          "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+          "media_key": "3_2004613626079182851",
+          "start": 36,
+          "url": "https://t.co/F2WdchAWqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005218494762439005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005158269933764655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hilu_7355608: 如下图，询问他的计算机水平如何（？ https://t.co/F2WdchAWqr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2004613626087571460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HReNbbgAQNxBE.jpg",
+        "width": 2400
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2004613626066509824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HReNWaIAAMZgx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2004613626079182851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HReNZbgAM8wlc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004613626087571460",
+            "3_2004613626066509824",
+            "3_2004613626079182851"
+          ],
+          "media_source_tweet_id": [
+            "2005158269933764655",
+            "2005158269933764655",
+            "2005158269933764655"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2005218494762439005",
+        "created_at": "2025-12-28T10:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005218494762439005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580050860498771968",
+              "start": 3,
+              "username": "hilu_7355608"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2WdchAWqr",
+              "end": 59,
+              "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+              "media_key": "3_2004613626087571460",
+              "start": 36,
+              "url": "https://t.co/F2WdchAWqr"
+            },
+            {
+              "display_url": "pic.x.com/F2WdchAWqr",
+              "end": 59,
+              "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+              "media_key": "3_2004613626066509824",
+              "start": 36,
+              "url": "https://t.co/F2WdchAWqr"
+            },
+            {
+              "display_url": "pic.x.com/F2WdchAWqr",
+              "end": 59,
+              "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+              "media_key": "3_2004613626079182851",
+              "start": 36,
+              "url": "https://t.co/F2WdchAWqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005218494762439005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005158269933764655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hilu_7355608: 如下图，询问他的计算机水平如何（？ https://t.co/F2WdchAWqr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004613626087571460",
+            "3_2004613626066509824",
+            "3_2004613626079182851"
+          ]
+        },
+        "author_id": "1580050860498771968",
+        "conversation_id": "2005158269933764655",
+        "created_at": "2025-12-28T06:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005158269933764655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2WdchAWqr",
+              "end": 41,
+              "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+              "media_key": "3_2004613626087571460",
+              "start": 18,
+              "url": "https://t.co/F2WdchAWqr"
+            },
+            {
+              "display_url": "pic.x.com/F2WdchAWqr",
+              "end": 41,
+              "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+              "media_key": "3_2004613626066509824",
+              "start": 18,
+              "url": "https://t.co/F2WdchAWqr"
+            },
+            {
+              "display_url": "pic.x.com/F2WdchAWqr",
+              "end": 41,
+              "expanded_url": "https://x.com/hilu_7355608/status/2005158269933764655/photo/1",
+              "media_key": "3_2004613626079182851",
+              "start": 18,
+              "url": "https://t.co/F2WdchAWqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005158269933764655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8806,
+          "like_count": 119,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "如下图，询问他的计算机水平如何（？ https://t.co/F2WdchAWqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2004093206515142661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 2137,
+          "like_count": 78499,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 8950
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-12T04:21:01.000Z",
+        "description": "友人顺人/bmi17/是个音游人/疑似AS，冒犯到你提前抱歉/可以叫我昼/需要回fo请私信/羡慕每一个会做饭的人/更多成分在主页置顶/如果愿意来咱的小群水群，咱会很开心/Damn this fucking world",
+        "id": "1580050860498771968",
+        "location": "距离你的当前定位26m",
+        "name": "ひる",
+        "pinned_tweet_id": "1952064003246821806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763180266330492928/-z9GzXST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 659,
+          "like_count": 9266,
+          "listed_count": 5,
+          "media_count": 325,
+          "tweet_count": 3489
+        },
+        "username": "hilu_7355608",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995690874647576581"
+      ],
+      "media_source_tweet_id": [
+        "1995690898072760664"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1995884615312314408",
+    "created_at": "2025-12-02T15:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995884615312314408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "591196074",
+          "start": 3,
+          "username": "fuyufjh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7bSaLqfQ9",
+          "end": 36,
+          "expanded_url": "https://x.com/fuyufjh/status/1995690898072760664/photo/1",
+          "media_key": "3_1995690874647576581",
+          "start": 13,
+          "url": "https://t.co/l7bSaLqfQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995884615312314408",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995690898072760664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuyufjh: https://t.co/l7bSaLqfQ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1995690874647576581",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7IeRuDbgAUl7CX.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995690874647576581"
+          ],
+          "media_source_tweet_id": [
+            "1995690898072760664"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1995884615312314408",
+        "created_at": "2025-12-02T15:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995884615312314408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "591196074",
+              "start": 3,
+              "username": "fuyufjh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7bSaLqfQ9",
+              "end": 36,
+              "expanded_url": "https://x.com/fuyufjh/status/1995690898072760664/photo/1",
+              "media_key": "3_1995690874647576581",
+              "start": 13,
+              "url": "https://t.co/l7bSaLqfQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995884615312314408",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995690898072760664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuyufjh: https://t.co/l7bSaLqfQ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995690874647576581"
+          ]
+        },
+        "author_id": "591196074",
+        "conversation_id": "1995690898072760664",
+        "created_at": "2025-12-02T03:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T04:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995690898072760664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7bSaLqfQ9",
+              "end": 23,
+              "expanded_url": "https://x.com/fuyufjh/status/1995690898072760664/photo/1",
+              "media_key": "3_1995690874647576581",
+              "start": 0,
+              "url": "https://t.co/l7bSaLqfQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995690898072760664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 27996,
+          "like_count": 575,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l7bSaLqfQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 2005,
+          "like_count": 73814,
+          "listed_count": 2,
+          "media_count": 561,
+          "tweet_count": 8241
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-26T17:47:39.000Z",
+        "description": "Programmer / Database developer / Anime / BeatSaber / Phigros / Arknights / ボカロ / 萌狼一生推 / Opinions are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ericfu.me",
+                "end": 23,
+                "expanded_url": "https://ericfu.me",
+                "start": 0,
+                "url": "https://t.co/ltnmNwk2hj"
+              }
+            ]
+          }
+        },
+        "id": "591196074",
+        "location": "Singapore",
+        "name": "Eric Fu 🐺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666672552431976448/sdPxeXW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10462,
+          "following_count": 1640,
+          "like_count": 28533,
+          "listed_count": 57,
+          "media_count": 1304,
+          "tweet_count": 7755
+        },
+        "url": "https://t.co/ltnmNwk2hj",
+        "username": "fuyufjh",
+        "verified": false
+      }
+    ]
+  }
+}

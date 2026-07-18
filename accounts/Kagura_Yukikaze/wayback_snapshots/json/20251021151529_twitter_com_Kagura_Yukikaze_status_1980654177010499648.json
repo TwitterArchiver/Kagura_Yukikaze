@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1980295358543523840"
+      ],
+      "media_source_tweet_id": [
+        "1980295801265176632"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980654177010499648",
+    "created_at": "2025-10-21T15:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980654177010499648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2893886738",
+          "start": 3,
+          "username": "bbjk666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eKzoDhvNpg",
+          "end": 49,
+          "expanded_url": "https://x.com/bbjk666/status/1980295801265176632/video/1",
+          "media_key": "7_1980295358543523840",
+          "start": 26,
+          "url": "https://t.co/eKzoDhvNpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980654177010499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980295801265176632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbjk666: 吉祥物这一顿操作太欢乐了 https://t.co/eKzoDhvNpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61334,
+        "height": 1158,
+        "media_key": "7_1980295358543523840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980295358543523840/pu/img/DaRCVmA4qV0lo2HL.jpg",
+        "public_metrics": {
+          "view_count": 55412
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980295358543523840/pu/vid/avc1/320x514/6wDs5pT7sEQLXyDK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980295358543523840/pu/vid/avc1/480x772/5EW7JzEQjtwzaLIN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980295358543523840/pu/vid/avc1/720x1158/ZdcgZicCMekp3uDk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980295358543523840/pu/pl/WI9mEkDACm7bTKz3.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980295358543523840"
+          ],
+          "media_source_tweet_id": [
+            "1980295801265176632"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980654177010499648",
+        "created_at": "2025-10-21T15:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980654177010499648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2893886738",
+              "start": 3,
+              "username": "bbjk666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKzoDhvNpg",
+              "end": 49,
+              "expanded_url": "https://x.com/bbjk666/status/1980295801265176632/video/1",
+              "media_key": "7_1980295358543523840",
+              "start": 26,
+              "url": "https://t.co/eKzoDhvNpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980654177010499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980295801265176632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbjk666: 吉祥物这一顿操作太欢乐了 https://t.co/eKzoDhvNpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980295358543523840"
+          ]
+        },
+        "author_id": "2893886738",
+        "conversation_id": "1980295801265176632",
+        "created_at": "2025-10-20T15:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980295801265176632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKzoDhvNpg",
+              "end": 36,
+              "expanded_url": "https://x.com/bbjk666/status/1980295801265176632/video/1",
+              "media_key": "7_1980295358543523840",
+              "start": 13,
+              "url": "https://t.co/eKzoDhvNpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980295801265176632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 91646,
+          "like_count": 175,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "吉祥物这一顿操作太欢乐了 https://t.co/eKzoDhvNpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1601,
+          "like_count": 64654,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7321
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "分享的内容源自网络，点赞=已阅。 ⭐不要相信山寨我的账号和评论区非官方广告❗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=wH…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bbyk168?si=wHK9ZVOdMVrGbHS3",
+                "start": 0,
+                "url": "https://t.co/XQRiJuIWBH"
+              }
+            ]
+          }
+        },
+        "id": "2893886738",
+        "location": "𝕏",
+        "name": "背包健客",
+        "pinned_tweet_id": "1980125848700338441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817918441044807680/hKAVDYHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168689,
+          "following_count": 1378,
+          "like_count": 15979,
+          "listed_count": 629,
+          "media_count": 11732,
+          "tweet_count": 15610
+        },
+        "url": "https://t.co/XQRiJuIWBH",
+        "username": "bbjk666",
+        "verified": true
+      }
+    ]
+  }
+}

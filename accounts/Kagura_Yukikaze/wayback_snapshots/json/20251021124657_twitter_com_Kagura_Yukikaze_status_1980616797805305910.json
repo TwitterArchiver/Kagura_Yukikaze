@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1980616797805305910",
+    "created_at": "2025-10-21T12:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980616797805305910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "50683",
+          "start": 3,
+          "username": "dingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980616797805305910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980516518917206359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dingyi: 还记得 06 年 Twitter 刚上线，这里还是纯粹的社交平台，没有人为了涨粉，我这个号玩了 10 年也就 1000 粉丝。现在很多人一周时间就能涨几千粉。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1980616797805305910",
+        "created_at": "2025-10-21T12:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980616797805305910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "50683",
+              "start": 3,
+              "username": "dingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980616797805305910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980516518917206359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dingyi: 还记得 06 年 Twitter 刚上线，这里还是纯粹的社交平台，没有人为了涨粉，我这个号玩了 10 年也就 1000 粉丝。现在很多人一周时间就能涨几千粉。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "50683",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1980516518917206359",
+        "created_at": "2025-10-21T06:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980516518917206359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980516518917206359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 26519,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还记得 06 年 Twitter 刚上线，这里还是纯粹的社交平台，没有人为了涨粉，我这个号玩了 10 年也就 1000 粉丝。现在很多人一周时间就能涨几千粉。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1599,
+          "like_count": 64409,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7302
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2006-12-08T15:10:12.000Z",
+        "description": "Prev: Bewater, Mask, OPPO, 36Kr...\nDesign Newsletter ‣ https://t.co/q1JG1yCzdb\nDesign Engineer News ‣ https://t.co/uHtq1Z3Kus\nPromote your product: dingyi@me.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "quaily.com/dingyi",
+                "end": 78,
+                "expanded_url": "http://quaily.com/dingyi",
+                "start": 55,
+                "url": "https://t.co/q1JG1yCzdb"
+              },
+              {
+                "display_url": "news.dex.group",
+                "end": 125,
+                "expanded_url": "http://news.dex.group",
+                "start": 102,
+                "url": "https://t.co/uHtq1Z3Kus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ding.one",
+                "end": 23,
+                "expanded_url": "http://ding.one",
+                "start": 0,
+                "url": "https://t.co/cf71jdxlkm"
+              }
+            ]
+          }
+        },
+        "id": "50683",
+        "location": " Remote",
+        "name": "ding.one",
+        "pinned_tweet_id": "1979437096315294326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961774857223630848/YOjEFAE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165200,
+          "following_count": 4704,
+          "like_count": 4062,
+          "listed_count": 551,
+          "media_count": 2241,
+          "tweet_count": 55395
+        },
+        "url": "https://t.co/cf71jdxlkm",
+        "username": "dingyi",
+        "verified": true
+      }
+    ]
+  }
+}

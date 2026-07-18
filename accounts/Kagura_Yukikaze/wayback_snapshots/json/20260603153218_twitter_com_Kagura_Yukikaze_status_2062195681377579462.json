@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2062195681377579462",
+    "created_at": "2026-06-03T15:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062195681377579462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2055867277166166016",
+          "start": 3,
+          "username": "SocDemCNBunny02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062195681377579462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061951752581099665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SocDemCNBunny02: 祝全世界LGBTQ+ 2026年骄傲月快乐，永远不要忘记骄傲 热爱自己 面对生活自信阳光开朗。也愿你们被家人 朋友 亲人接纳做真实的自己。愿你们不顾世俗的眼光活成你们自己想要的样子。你们的存在，便是对恶意最大的反抗。    \n\n2026…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2061951696566128640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2GJLHWkAAcjfb.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2062195681377579462",
+        "created_at": "2026-06-03T15:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062195681377579462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2055867277166166016",
+              "start": 3,
+              "username": "SocDemCNBunny02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062195681377579462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061951752581099665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SocDemCNBunny02: 祝全世界LGBTQ+ 2026年骄傲月快乐，永远不要忘记骄傲 热爱自己 面对生活自信阳光开朗。也愿你们被家人 朋友 亲人接纳做真实的自己。愿你们不顾世俗的眼光活成你们自己想要的样子。你们的存在，便是对恶意最大的反抗。    \n\n2026…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061951696566128640"
+          ]
+        },
+        "author_id": "2055867277166166016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2061951752581099665",
+        "created_at": "2026-06-02T23:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061951752581099665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uck7Vxxb2o",
+              "end": 208,
+              "expanded_url": "https://x.com/SocDemCNBunny02/status/2061951752581099665/photo/1",
+              "media_key": "3_2061951696566128640",
+              "start": 185,
+              "url": "https://t.co/uck7Vxxb2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061951752581099665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 613,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "祝全世界LGBTQ+ 2026年骄傲月快乐，永远不要忘记骄傲 热爱自己 面对生活自信阳光开朗。也愿你们被家人 朋友 亲人接纳做真实的自己。愿你们不顾世俗的眼光活成你们自己想要的样子。你们的存在，便是对恶意最大的反抗。    \n\n2026年骄傲月快乐\nHappy Pride Month 2026\nBon Moi des Fierté LGBTQ \n\n🏳️‍🌈🏳️‍⚧️ https://t.co/uck7Vxxb2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3151,
+          "following_count": 3012,
+          "like_count": 110292,
+          "listed_count": 7,
+          "media_count": 799,
+          "tweet_count": 13430
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T04:26:03.000Z",
+        "description": "@SocDemCNBunnyの二号机 ｜医学预科🥼+政学📖｜民社🌹｜进步派⏩｜INTP🧪｜🇺🇦🇵🇸｜史政coser🎭｜🚹🚺平等｜🏳️‍🌈🏳️‍⚧️友好｜中文🇨🇳English🇺🇸Français🇫🇷｜Retardophobia｜@WarriorBunny03 黑化地狱笑话态",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "SocDemCNBunny"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "WarriorBunny03"
+              }
+            ]
+          }
+        },
+        "id": "2055867277166166016",
+        "name": "进步的🐇酱二号机🇨🇳🇺🇦🇵🇸🏳️‍🌈🏳️‍⚧️🌹🚩🍉🌻",
+        "pinned_tweet_id": "2061951752581099665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061996258277904384/GN4UGlRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 147,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 463
+        },
+        "username": "SocDemCNBunny02",
+        "verified": false
+      }
+    ]
+  }
+}

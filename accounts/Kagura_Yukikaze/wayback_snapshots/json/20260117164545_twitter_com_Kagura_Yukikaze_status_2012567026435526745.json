@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2012056115417399462",
+    "created_at": "2026-01-17T16:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012567026435526745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002960318998491136",
+          "start": 0,
+          "username": "vokleer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012567026435526745",
+    "in_reply_to_user_id": "2002960318998491136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012471858449571943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vokleer 没那么多钱呢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2012056115417399462",
+        "created_at": "2026-01-17T16:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012567026435526745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002960318998491136",
+              "start": 0,
+              "username": "vokleer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012567026435526745",
+        "in_reply_to_user_id": "2002960318998491136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012471858449571943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vokleer 没那么多钱呢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002960318998491136",
+        "conversation_id": "2012056115417399462",
+        "created_at": "2026-01-17T10:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012471858449571943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012471858449571943",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012056115417399462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze pdd不是有买那个外版草酸的吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 2235,
+          "like_count": 81393,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 9386
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T04:32:22.000Z",
+        "description": "2006/10/02 坐标成都喵/看到我的话求求互fo喵",
+        "id": "2002960318998491136",
+        "name": "知言🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005331844280303616/0y2BfQK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 90,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "vokleer",
+        "verified": false
+      }
+    ]
+  }
+}

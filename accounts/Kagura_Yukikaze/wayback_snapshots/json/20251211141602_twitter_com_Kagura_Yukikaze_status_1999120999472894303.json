@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1999120999472894303",
+    "created_at": "2025-12-11T14:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999120999472894303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "8197942",
+          "start": 3,
+          "username": "SBSNews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999120999472894303",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998482863495213168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SBSNews: The federal government's long social media ban for children under 16 is now in effect.\n\nHere are are the platforms and apps th…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1998482842628521985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7wJjpSWAAE4924.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1999120999472894303",
+        "created_at": "2025-12-11T14:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999120999472894303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "8197942",
+              "start": 3,
+              "username": "SBSNews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999120999472894303",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998482863495213168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SBSNews: The federal government's long social media ban for children under 16 is now in effect.\n\nHere are are the platforms and apps th…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998482842628521985"
+          ]
+        },
+        "author_id": "8197942",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Australia News",
+              "id": "1098699044400943109",
+              "name": "Australia national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Australia News",
+              "id": "1098699044400943109",
+              "name": "Australia national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Australia News",
+              "id": "1098699044400943109",
+              "name": "Australia national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Australia News",
+              "id": "1098699044400943109",
+              "name": "Australia national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1998482863495213168",
+        "created_at": "2025-12-09T20:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T21:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998482863495213168"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 171,
+              "normalized_text": "Australia",
+              "probability": 0.9846,
+              "start": 163,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Welcome to SBS News, your trusted source for latest Australian and world news. Uncover breaking stories, in-depth analysis, and diverse perspectives on issues that matter.",
+              "display_url": "sbs.com.au/news",
+              "end": 249,
+              "expanded_url": "http://sbs.com.au/news",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1998482869702844417/ALtEjnn2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1998482869702844417/ALtEjnn2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 226,
+              "status": 200,
+              "title": "Latest News & Headlines from Australia and the World | SBS News",
+              "unwound_url": "https://www.sbs.com.au/news",
+              "url": "https://t.co/LEXwrNsd4b"
+            },
+            {
+              "display_url": "pic.x.com/K1nkAjSSxM",
+              "end": 273,
+              "expanded_url": "https://x.com/SBSNews/status/1998482863495213168/photo/1",
+              "media_key": "3_1998482842628521985",
+              "start": 250,
+              "url": "https://t.co/K1nkAjSSxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998482863495213168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1227,
+          "impression_count": 8043224,
+          "like_count": 3167,
+          "quote_count": 3118,
+          "reply_count": 826,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "The federal government's long social media ban for children under 16 is now in effect.\n\nHere are are the platforms and apps that children can and cannot access in Australia from today.\n\nKeep up to date with today's headlines: https://t.co/LEXwrNsd4b https://t.co/K1nkAjSSxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 2069,
+          "like_count": 75728,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 8480
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2007-08-15T06:40:45.000Z",
+        "description": "Bringing you the national 🇦🇺 and global 🌏 news that matters. See website for T&C and privacy policy.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sbsnews.com.au",
+                "end": 23,
+                "expanded_url": "http://www.sbsnews.com.au",
+                "start": 0,
+                "url": "https://t.co/YEyCzpLHoy"
+              }
+            ]
+          }
+        },
+        "id": "8197942",
+        "location": "Australia",
+        "name": "SBS News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658349990174154752/yZsfyzH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530125,
+          "following_count": 909,
+          "like_count": 357,
+          "listed_count": 4093,
+          "media_count": 42235,
+          "tweet_count": 176489
+        },
+        "url": "https://t.co/YEyCzpLHoy",
+        "username": "SBSNews",
+        "verified": false
+      }
+    ]
+  }
+}

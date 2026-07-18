@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059655437096796161"
+      ],
+      "media_source_tweet_id": [
+        "2059655442008351179"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2060147110134305204",
+    "created_at": "2026-05-28T23:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060147110134305204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1286612579314315265",
+          "start": 3,
+          "username": "20ajB"
+        },
+        {
+          "end": 20,
+          "id": "1911628907842818049",
+          "start": 11,
+          "username": "codyhunk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7LcfNpQ6B",
+          "end": 47,
+          "expanded_url": "https://x.com/20ajB/status/2059655442008351179/photo/1",
+          "media_key": "3_2059655437096796161",
+          "start": 24,
+          "url": "https://t.co/U7LcfNpQ6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060147110134305204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059655442008351179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @20ajB: @codyhunk 依旧 https://t.co/U7LcfNpQ6B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2059655437096796161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVdtR_bQAEL2Gd.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059655437096796161"
+          ],
+          "media_source_tweet_id": [
+            "2059655442008351179"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2060147110134305204",
+        "created_at": "2026-05-28T23:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060147110134305204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1286612579314315265",
+              "start": 3,
+              "username": "20ajB"
+            },
+            {
+              "end": 20,
+              "id": "1911628907842818049",
+              "start": 11,
+              "username": "codyhunk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7LcfNpQ6B",
+              "end": 47,
+              "expanded_url": "https://x.com/20ajB/status/2059655442008351179/photo/1",
+              "media_key": "3_2059655437096796161",
+              "start": 24,
+              "url": "https://t.co/U7LcfNpQ6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060147110134305204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059655442008351179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @20ajB: @codyhunk 依旧 https://t.co/U7LcfNpQ6B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059655437096796161"
+          ]
+        },
+        "author_id": "1286612579314315265",
+        "conversation_id": "2059594980436639961",
+        "created_at": "2026-05-27T15:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059655442008351179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7LcfNpQ6B",
+              "end": 36,
+              "expanded_url": "https://x.com/20ajB/status/2059655442008351179/photo/1",
+              "media_key": "3_2059655437096796161",
+              "start": 13,
+              "url": "https://t.co/U7LcfNpQ6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059655442008351179",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5610,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059594980436639961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 依旧 https://t.co/U7LcfNpQ6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3137,
+          "following_count": 3003,
+          "like_count": 109315,
+          "listed_count": 7,
+          "media_count": 797,
+          "tweet_count": 13320
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-24T10:42:09.000Z",
+        "description": "为RFS/XP 制作涂装和机场，偶尔做点2D涂装 UTC+10/+9/+8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/527044682?spm_…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/527044682?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/1jHHT9VWSM"
+              }
+            ]
+          }
+        },
+        "id": "1286612579314315265",
+        "location": "仙舟 罗浮",
+        "name": "B-20AJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041177264046649344/NmoA2qOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 141,
+          "like_count": 1481,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/1jHHT9VWSM",
+        "username": "20ajB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13998,
+          "following_count": 1145,
+          "like_count": 24374,
+          "listed_count": 40,
+          "media_count": 6284,
+          "tweet_count": 9438
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

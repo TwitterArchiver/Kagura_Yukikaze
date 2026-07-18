@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983198056754368512"
+      ],
+      "media_source_tweet_id": [
+        "1983198058436600051"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983518998458409459",
+    "created_at": "2025-10-29T12:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983518998458409459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 25,
+          "id": "1952096601222320128",
+          "start": 17,
+          "username": "guazQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UVVD06KiSR",
+          "end": 67,
+          "expanded_url": "https://x.com/XiaoHuiHuiH/status/1983198058436600051/photo/1",
+          "media_key": "3_1983198056754368512",
+          "start": 44,
+          "url": "https://t.co/UVVD06KiSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983518998458409459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983198058436600051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: @guazQAQ 是的，我们那天有活动，宣传一下…… https://t.co/UVVD06KiSR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1983198056754368512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4W8IAwW0AAlxlu.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983198056754368512"
+          ],
+          "media_source_tweet_id": [
+            "1983198058436600051"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983518998458409459",
+        "created_at": "2025-10-29T12:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983518998458409459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 25,
+              "id": "1952096601222320128",
+              "start": 17,
+              "username": "guazQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVVD06KiSR",
+              "end": 67,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1983198058436600051/photo/1",
+              "media_key": "3_1983198056754368512",
+              "start": 44,
+              "url": "https://t.co/UVVD06KiSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983518998458409459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983198058436600051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: @guazQAQ 是的，我们那天有活动，宣传一下…… https://t.co/UVVD06KiSR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983198056754368512"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982832994327908804",
+        "created_at": "2025-10-28T15:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983198058436600051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1952096601222320128",
+              "start": 0,
+              "username": "guazQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVVD06KiSR",
+              "end": 50,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1983198058436600051/photo/1",
+              "media_key": "3_1983198056754368512",
+              "start": 27,
+              "url": "https://t.co/UVVD06KiSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983198058436600051",
+        "in_reply_to_user_id": "1952096601222320128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983193355736764839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guazQAQ 是的，我们那天有活动，宣传一下…… https://t.co/UVVD06KiSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983188124747587585/zIni_VCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 1714,
+          "like_count": 67196,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7570
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/21岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11791,
+          "following_count": 1362,
+          "like_count": 148089,
+          "listed_count": 23,
+          "media_count": 4754,
+          "tweet_count": 64358
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T19:58:04.000Z",
+        "description": "09小药娘回归！173cm，59kg。上一世@guaz686，绝对有点雌小鬼属性的哈基米（），超绝敏感体质一摸即潮（×），喜欢贴贴抱抱亲亲（），也喜欢被压在身下玩弄（×），cs2完美1.31rt黄金s21星（最正确的），坐标广西南宁欢迎大家找我玩喵🥹求金主喵（）欢迎投喂喵，🚪10r加qqvx（同类免了哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "guaz686"
+              }
+            ]
+          }
+        },
+        "id": "1952096601222320128",
+        "location": "dust2",
+        "name": "guazQAQ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954546180781989888/PIjdaFZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 207,
+          "like_count": 433,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 291
+        },
+        "username": "guazQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

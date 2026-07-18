@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995097772614459392"
+      ],
+      "media_source_tweet_id": [
+        "1995097778247311743"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "1995167624406421679",
+    "created_at": "2025-11-30T16:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995167624406421679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1549787498280144896",
+          "start": 3,
+          "username": "gggwtyhyt2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TETrZkhxTk",
+          "end": 51,
+          "expanded_url": "https://x.com/gggwtyhyt2/status/1995097778247311743/photo/1",
+          "media_key": "3_1995097772614459392",
+          "start": 28,
+          "url": "https://t.co/TETrZkhxTk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995167624406421679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995097778247311743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gggwtyhyt2: 飲み物を吹き出すココア https://t.co/TETrZkhxTk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1995097772614459392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AC2ozboAAtJy8.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995097772614459392"
+          ],
+          "media_source_tweet_id": [
+            "1995097778247311743"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "1995167624406421679",
+        "created_at": "2025-11-30T16:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995167624406421679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1549787498280144896",
+              "start": 3,
+              "username": "gggwtyhyt2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TETrZkhxTk",
+              "end": 51,
+              "expanded_url": "https://x.com/gggwtyhyt2/status/1995097778247311743/photo/1",
+              "media_key": "3_1995097772614459392",
+              "start": 28,
+              "url": "https://t.co/TETrZkhxTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995167624406421679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995097778247311743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gggwtyhyt2: 飲み物を吹き出すココア https://t.co/TETrZkhxTk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995097772614459392"
+          ]
+        },
+        "author_id": "1549787498280144896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "1995097778247311743",
+        "created_at": "2025-11-30T11:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995097778247311743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TETrZkhxTk",
+              "end": 35,
+              "expanded_url": "https://x.com/gggwtyhyt2/status/1995097778247311743/photo/1",
+              "media_key": "3_1995097772614459392",
+              "start": 12,
+              "url": "https://t.co/TETrZkhxTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995097778247311743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 672,
+          "impression_count": 63644,
+          "like_count": 3475,
+          "quote_count": 7,
+          "reply_count": 27,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "飲み物を吹き出すココア https://t.co/TETrZkhxTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 1968,
+          "like_count": 73221,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 8179
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-20T16:05:34.000Z",
+        "description": "46歳/社会人/ご注文はうさぎですか？/艦隊これくしょん/東方Project/プリキュア/ガールフレンド(仮)/きかんしゃトーマス/乗り鉄/撮り鉄/模型鉄/Mr.Children/B’z/電車でGO/レトロゲーム/カラオケ/阪神タイガース/療育手帳B2/マヤちゃんしか勝たん！/同担の人と仲良くなりたいです！/旅館勤務",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/85076322",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/85076322",
+                "start": 0,
+                "url": "https://t.co/LZUMLbyAP5"
+              }
+            ]
+          }
+        },
+        "id": "1549787498280144896",
+        "location": "三重県三重郡",
+        "name": "よしっち",
+        "pinned_tweet_id": "1931549827948806429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887483517103448066/FzFy0Pjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4209,
+          "following_count": 70,
+          "like_count": 2315,
+          "listed_count": 21,
+          "media_count": 519,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/LZUMLbyAP5",
+        "username": "gggwtyhyt2",
+        "verified": true
+      }
+    ]
+  }
+}

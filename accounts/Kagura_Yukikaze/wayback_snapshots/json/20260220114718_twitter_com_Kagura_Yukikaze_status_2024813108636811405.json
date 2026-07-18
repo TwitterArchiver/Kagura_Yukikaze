@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024722650963083264"
+      ],
+      "media_source_tweet_id": [
+        "2024722684974670137"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2024813108636811405",
+    "created_at": "2026-02-20T11:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024813108636811405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529557088577396737",
+          "start": 3,
+          "username": "DarkOddCon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1G98wsuJRu",
+          "end": 39,
+          "expanded_url": "https://x.com/DarkOddCon/status/2024722684974670137/photo/1",
+          "media_key": "3_2024722650963083264",
+          "start": 16,
+          "url": "https://t.co/1G98wsuJRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024813108636811405",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024722684974670137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DarkOddCon: https://t.co/1G98wsuJRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1065,
+        "media_key": "3_2024722650963083264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlChgtXgAA4vXp.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024722650963083264"
+          ],
+          "media_source_tweet_id": [
+            "2024722684974670137"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2024813108636811405",
+        "created_at": "2026-02-20T11:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024813108636811405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529557088577396737",
+              "start": 3,
+              "username": "DarkOddCon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1G98wsuJRu",
+              "end": 39,
+              "expanded_url": "https://x.com/DarkOddCon/status/2024722684974670137/photo/1",
+              "media_key": "3_2024722650963083264",
+              "start": 16,
+              "url": "https://t.co/1G98wsuJRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024813108636811405",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024722684974670137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DarkOddCon: https://t.co/1G98wsuJRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024722650963083264"
+          ]
+        },
+        "author_id": "1529557088577396737",
+        "conversation_id": "2024722684974670137",
+        "created_at": "2026-02-20T05:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024722684974670137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1G98wsuJRu",
+              "end": 23,
+              "expanded_url": "https://x.com/DarkOddCon/status/2024722684974670137/photo/1",
+              "media_key": "3_2024722650963083264",
+              "start": 0,
+              "url": "https://t.co/1G98wsuJRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024722684974670137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 34157,
+          "like_count": 4248,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1G98wsuJRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 2440,
+          "like_count": 88425,
+          "listed_count": 2,
+          "media_count": 656,
+          "tweet_count": 10363
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T20:17:02.000Z",
+        "description": "I just post Dark Humor, Schizo, Conspiracy, Edgy, and Weird/Odd memes/posts along with regular memes too. Trying to be more active, posting regular memes too.",
+        "id": "1529557088577396737",
+        "location": "Insane Asylum",
+        "name": "Dark,Odd,Conspiracy",
+        "pinned_tweet_id": "1918862078724407667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529558209568157697/Sjv9-6f3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323852,
+          "following_count": 125,
+          "like_count": 218,
+          "listed_count": 325,
+          "media_count": 6440,
+          "tweet_count": 7653
+        },
+        "username": "DarkOddCon",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2053729848141774888",
+    "created_at": "2026-05-11T10:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053782288031514758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        },
+        {
+          "end": 21,
+          "id": "1600024316552179713",
+          "start": 9,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053782288031514758",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053729848141774888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 @kiki_qiqing 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2053729835189755904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBQZ2sbYAARdVQ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053729835093237760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBQZ2VaoAAEhMu.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053729834657071104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBQZ0tbQAACwdq.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053729835936354305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBQZ5ebkAEEBqF.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2053729848141774888",
+        "created_at": "2026-05-11T10:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053782288031514758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            },
+            {
+              "end": 21,
+              "id": "1600024316552179713",
+              "start": 9,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053782288031514758",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053729848141774888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 @kiki_qiqing 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053729835189755904",
+            "3_2053729835093237760",
+            "3_2053729834657071104",
+            "3_2053729835936354305"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053729848141774888",
+        "created_at": "2026-05-11T06:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053729848141774888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1600024316552179713",
+              "start": 9,
+              "username": "kiki_qiqing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQKuhwbadS",
+              "end": 65,
+              "expanded_url": "https://x.com/CCA8798/status/2053729848141774888/photo/1",
+              "media_key": "3_2053729835189755904",
+              "start": 42,
+              "url": "https://t.co/UQKuhwbadS"
+            },
+            {
+              "display_url": "pic.x.com/UQKuhwbadS",
+              "end": 65,
+              "expanded_url": "https://x.com/CCA8798/status/2053729848141774888/photo/1",
+              "media_key": "3_2053729835093237760",
+              "start": 42,
+              "url": "https://t.co/UQKuhwbadS"
+            },
+            {
+              "display_url": "pic.x.com/UQKuhwbadS",
+              "end": 65,
+              "expanded_url": "https://x.com/CCA8798/status/2053729848141774888/photo/1",
+              "media_key": "3_2053729834657071104",
+              "start": 42,
+              "url": "https://t.co/UQKuhwbadS"
+            },
+            {
+              "display_url": "pic.x.com/UQKuhwbadS",
+              "end": 65,
+              "expanded_url": "https://x.com/CCA8798/status/2053729848141774888/photo/1",
+              "media_key": "3_2053729835936354305",
+              "start": 42,
+              "url": "https://t.co/UQKuhwbadS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053729848141774888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是昨晚和祈晴酱(@kiki_qiqing)共进晚餐的神秘画面好吧\n😋😋😋😋😋😋😋 https://t.co/UQKuhwbadS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 2929,
+          "like_count": 105927,
+          "listed_count": 8,
+          "media_count": 782,
+          "tweet_count": 12871
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党？) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 (OD?)(双相?)重抑中焦 | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(何意味版)🍥",
+        "pinned_tweet_id": "2053530899405574509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 1118,
+          "like_count": 14933,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 |  大概是个泛性恋喵 | 170cm/55kg | 有点地雷 | 药娘共产主义）",
+        "id": "1600024316552179713",
+        "name": "祈晴🏳️‍⚧️🍥💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998058486715072512/Shc3tli3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 335,
+          "like_count": 5447,
+          "listed_count": 7,
+          "media_count": 81,
+          "tweet_count": 1979
+        },
+        "username": "kiki_qiqing",
+        "verified": false
+      }
+    ]
+  }
+}

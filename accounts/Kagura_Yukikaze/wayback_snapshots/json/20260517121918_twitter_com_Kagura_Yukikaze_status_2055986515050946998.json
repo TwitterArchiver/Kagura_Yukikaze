@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2055986321919762728",
+    "created_at": "2026-05-17T12:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055986515050946998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815444257907634177",
+          "start": 0,
+          "username": "zhouc0351"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055986515050946998",
+    "in_reply_to_user_id": "1815444257907634177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055986321919762728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouc0351 抱抱🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055986302118395904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhUphDWAAAhvgM.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2055986321919762728",
+        "created_at": "2026-05-17T12:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055986515050946998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815444257907634177",
+              "start": 0,
+              "username": "zhouc0351"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055986515050946998",
+        "in_reply_to_user_id": "1815444257907634177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055986321919762728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouc0351 抱抱🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055986302118395904"
+          ]
+        },
+        "author_id": "1815444257907634177",
+        "conversation_id": "2055986321919762728",
+        "created_at": "2026-05-17T12:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055986321919762728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1AYxcTNmE",
+              "end": 29,
+              "expanded_url": "https://x.com/zhouc0351/status/2055986321919762728/photo/1",
+              "media_key": "3_2055986302118395904",
+              "start": 6,
+              "url": "https://t.co/Y1AYxcTNmE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2055986321919762728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已剪发…… https://t.co/Y1AYxcTNmE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 2935,
+          "like_count": 106604,
+          "listed_count": 8,
+          "media_count": 788,
+          "tweet_count": 12982
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T17:50:40.000Z",
+        "description": "| 中抑 | 男猫猫 | 未出柜 | birth 02.25 |\n想成为被人喜欢的样子，要天天快乐哦❤️\n 身高161cm 体重104-110间 目前在浙江杭州，喜欢找小南娘交朋友喵！\n妹妹:@Haiyanlime",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Haiyanlime"
+              }
+            ]
+          }
+        },
+        "id": "1815444257907634177",
+        "location": "中国",
+        "name": "有苏七尾🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2010862008321876307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956287049595805697/N20J549-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 102,
+          "like_count": 43,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 172
+        },
+        "username": "zhouc0351",
+        "verified": false
+      }
+    ]
+  }
+}

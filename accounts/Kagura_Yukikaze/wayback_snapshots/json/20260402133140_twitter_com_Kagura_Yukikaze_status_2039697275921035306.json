@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039564973488357377"
+      ],
+      "media_source_tweet_id": [
+        "2039565072109109682"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039697275921035306",
+    "created_at": "2026-04-02T13:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039697275921035306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1833778159759896576",
+          "start": 3,
+          "username": "masa_no_tsume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MdMC56lPiv",
+          "end": 66,
+          "expanded_url": "https://x.com/masa_no_tsume/status/2039565072109109682/video/1",
+          "media_key": "13_2039564973488357377",
+          "start": 43,
+          "url": "https://t.co/MdMC56lPiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039697275921035306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039565072109109682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @masa_no_tsume: 流石にカッコ良すぎた\nまじで最高だったよー！！ https://t.co/MdMC56lPiv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13866,
+        "height": 1280,
+        "media_key": "13_2039564973488357377",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039564973488357377/img/63SQfA5YlY4TzhHD.jpg",
+        "public_metrics": {
+          "view_count": 391
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039564973488357377/vid/avc1/320x568/wL0vi8pP8z92sJrc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039564973488357377/vid/avc1/480x852/5maxmhnHJtm9qR9K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039564973488357377/vid/avc1/720x1280/kUuRfQQTrKRzlUQk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039564973488357377/pl/T1NgURCD4TL3K5oB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039564973488357377"
+          ],
+          "media_source_tweet_id": [
+            "2039565072109109682"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039697275921035306",
+        "created_at": "2026-04-02T13:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039697275921035306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1833778159759896576",
+              "start": 3,
+              "username": "masa_no_tsume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdMC56lPiv",
+              "end": 66,
+              "expanded_url": "https://x.com/masa_no_tsume/status/2039565072109109682/video/1",
+              "media_key": "13_2039564973488357377",
+              "start": 43,
+              "url": "https://t.co/MdMC56lPiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039697275921035306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039565072109109682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @masa_no_tsume: 流石にカッコ良すぎた\nまじで最高だったよー！！ https://t.co/MdMC56lPiv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039564973488357377"
+          ]
+        },
+        "author_id": "1833778159759896576",
+        "conversation_id": "2039565072109109682",
+        "created_at": "2026-04-02T04:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039565072109109682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdMC56lPiv",
+              "end": 47,
+              "expanded_url": "https://x.com/masa_no_tsume/status/2039565072109109682/video/1",
+              "media_key": "13_2039564973488357377",
+              "start": 24,
+              "url": "https://t.co/MdMC56lPiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039565072109109682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1136,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "流石にカッコ良すぎた\nまじで最高だったよー！！ https://t.co/MdMC56lPiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|http://en-jp-cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 2742,
+          "like_count": 98242,
+          "listed_count": 3,
+          "media_count": 734,
+          "tweet_count": 11778
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T08:02:46.000Z",
+        "description": "https://t.co/RJkEbEX6vJ 2025/4/4虹レ 菫神 菫熊舞舞 星神残り7 星舞舞残り3🔑@masasabu50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "masasabu50"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "teamOtR.KK.YOL.Hm",
+                "end": 23,
+                "expanded_url": "http://teamOtR.KK.YOL.Hm",
+                "start": 0,
+                "url": "https://t.co/RJkEbEX6vJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@masa-maimai?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@masa-maimai?si=m1GBehV2U5wiSKpP",
+                "start": 0,
+                "url": "https://t.co/7uupkYFLSo"
+              }
+            ]
+          }
+        },
+        "id": "1833778159759896576",
+        "location": "大阪",
+        "name": "くまMASAさん",
+        "pinned_tweet_id": "2022206168358334705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926085474528919552/O6iannHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 900,
+          "like_count": 9190,
+          "listed_count": 3,
+          "media_count": 1087,
+          "tweet_count": 7263
+        },
+        "url": "https://t.co/7uupkYFLSo",
+        "username": "masa_no_tsume",
+        "verified": false
+      }
+    ]
+  }
+}

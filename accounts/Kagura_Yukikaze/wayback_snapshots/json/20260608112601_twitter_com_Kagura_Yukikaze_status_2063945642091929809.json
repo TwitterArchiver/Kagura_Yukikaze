@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063703128055349249",
+        "7_2063703144669032448"
+      ],
+      "media_source_tweet_id": [
+        "2063703168496877648",
+        "2063703168496877648"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2063945642091929809",
+    "created_at": "2026-06-08T11:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063945642091929809"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "Pridemoth"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1728097655669370880",
+          "start": 3,
+          "username": "meakokawaii2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d5LDwUxoFm",
+          "end": 77,
+          "expanded_url": "https://x.com/meakokawaii2/status/2063703168496877648/video/1",
+          "media_key": "3_2063703128055349249",
+          "start": 54,
+          "url": "https://t.co/d5LDwUxoFm"
+        },
+        {
+          "display_url": "pic.x.com/d5LDwUxoFm",
+          "end": 77,
+          "expanded_url": "https://x.com/meakokawaii2/status/2063703168496877648/video/1",
+          "media_key": "7_2063703144669032448",
+          "start": 54,
+          "url": "https://t.co/d5LDwUxoFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063945642091929809",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063703168496877648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meakokawaii2: #Pridemoth China does't support us🥹 https://t.co/d5LDwUxoFm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063703128055349249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKO_D52aAAEhi5j.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 7801,
+        "height": 1280,
+        "media_key": "7_2063703144669032448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063703144669032448/pu/img/XV3Z19rkcHSLHmyB.jpg",
+        "public_metrics": {
+          "view_count": 953
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063703144669032448/pu/vid/avc1/320x568/_vD8zVtetCe-kaut.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063703144669032448/pu/vid/avc1/480x852/quC8XsnfnASuzAtl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063703144669032448/pu/vid/avc1/720x1280/ieyTit0mDr9yYAO_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063703144669032448/pu/pl/AQxe5AexVtATOiPH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063703128055349249",
+            "7_2063703144669032448"
+          ],
+          "media_source_tweet_id": [
+            "2063703168496877648",
+            "2063703168496877648"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2063945642091929809",
+        "created_at": "2026-06-08T11:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063945642091929809"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "Pridemoth"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1728097655669370880",
+              "start": 3,
+              "username": "meakokawaii2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5LDwUxoFm",
+              "end": 77,
+              "expanded_url": "https://x.com/meakokawaii2/status/2063703168496877648/video/1",
+              "media_key": "3_2063703128055349249",
+              "start": 54,
+              "url": "https://t.co/d5LDwUxoFm"
+            },
+            {
+              "display_url": "pic.x.com/d5LDwUxoFm",
+              "end": 77,
+              "expanded_url": "https://x.com/meakokawaii2/status/2063703168496877648/video/1",
+              "media_key": "7_2063703144669032448",
+              "start": 54,
+              "url": "https://t.co/d5LDwUxoFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063945642091929809",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063703168496877648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meakokawaii2: #Pridemoth China does't support us🥹 https://t.co/d5LDwUxoFm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063703128055349249",
+            "7_2063703144669032448"
+          ]
+        },
+        "author_id": "1728097655669370880",
+        "conversation_id": "2063703168496877648",
+        "created_at": "2026-06-07T19:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063703168496877648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Pridemoth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5LDwUxoFm",
+              "end": 59,
+              "expanded_url": "https://x.com/meakokawaii2/status/2063703168496877648/video/1",
+              "media_key": "3_2063703128055349249",
+              "start": 36,
+              "url": "https://t.co/d5LDwUxoFm"
+            },
+            {
+              "display_url": "pic.x.com/d5LDwUxoFm",
+              "end": 59,
+              "expanded_url": "https://x.com/meakokawaii2/status/2063703168496877648/video/1",
+              "media_key": "7_2063703144669032448",
+              "start": 36,
+              "url": "https://t.co/d5LDwUxoFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063703168496877648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2879,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#Pridemoth China does't support us🥹 https://t.co/d5LDwUxoFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 3034,
+          "like_count": 110507,
+          "listed_count": 7,
+          "media_count": 804,
+          "tweet_count": 13501
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T17:06:14.000Z",
+        "description": "18！设定上是一个来自东京都的药物滥用的粉毛小猫！欢迎交友——",
+        "id": "1728097655669370880",
+        "location": "天国",
+        "name": "mikanagi meako",
+        "pinned_tweet_id": "2061579728151290283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063030529382125568/Yip4fzhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 119,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 553
+        },
+        "username": "meakokawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043043106",
+          "name": "Microsoft - OneDrive"
+        }
+      }
+    ],
+    "conversation_id": "2036068815008563669",
+    "created_at": "2026-03-23T13:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036068815008563669"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 71,
+          "tag": "KB5085516"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602320477347000325",
+          "start": 3,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036068815008563669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035912385744318539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landiantech: 微软累积更新质量正在肉眼可见的下滑，微软现已发布本月第 3 个带外更新修复严重错误。\n\n新 OOB 更新为 #KB5085516，用于修复诸如 OneDrive 和 Edge 等微软自家软件无法使用账户登录的问题，用户安装 3 月更新后可能会发…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2035912366022676480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEDgpqbUAA9lUi.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          }
+        ],
+        "conversation_id": "2036068815008563669",
+        "created_at": "2026-03-23T13:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036068815008563669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 71,
+              "tag": "KB5085516"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602320477347000325",
+              "start": 3,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036068815008563669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035912385744318539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landiantech: 微软累积更新质量正在肉眼可见的下滑，微软现已发布本月第 3 个带外更新修复严重错误。\n\n新 OOB 更新为 #KB5085516，用于修复诸如 OneDrive 和 Edge 等微软自家软件无法使用账户登录的问题，用户安装 3 月更新后可能会发…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035912366022676480"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          }
+        ],
+        "conversation_id": "2035912385744318539",
+        "created_at": "2026-03-23T02:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035912385744318539"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 54,
+              "tag": "KB5085516"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ourl.co/112286?x",
+              "end": 172,
+              "expanded_url": "https://ourl.co/112286?x",
+              "start": 149,
+              "unwound_url": "https://www.landiannews.com/archives/112286.html?utm_source=x.com&utm_medium=default&utm_campaign=%E7%B4%AF%E7%A7%AF%E6%9B%B4%E6%96%B0%E8%B4%A8%E9%87%8F%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%E7%9A%84%E4%B8%8B%E9%99%8D%EF%BC%9A%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E6%96%B0%E5%B8%A6%E5%A4%96%E6%9B%B4%E6%96%B0%E4%BF%AE%E5%A4%8DWin11%E8%81%94%E7%BD%91%E9%97%AE%E9%A2%98",
+              "url": "https://t.co/04Y1dT9YmJ"
+            },
+            {
+              "display_url": "pic.x.com/GppdvxJ0iD",
+              "end": 196,
+              "expanded_url": "https://x.com/landiantech/status/2035912385744318539/photo/1",
+              "media_key": "3_2035912366022676480",
+              "start": 173,
+              "url": "https://t.co/GppdvxJ0iD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035912385744318539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 54,
+                "tag": "KB5085516"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/112286?x",
+                "end": 172,
+                "expanded_url": "https://ourl.co/112286?x",
+                "start": 149,
+                "url": "https://t.co/mdtsswA7ka"
+              }
+            ]
+          },
+          "text": "微软累积更新质量正在肉眼可见的下滑，微软现已发布本月第 3 个带外更新修复严重错误。\n\n新 OOB 更新为 #KB5085516，用于修复诸如 OneDrive 和 Edge 等微软自家软件无法使用账户登录的问题，用户安装 3 月更新后可能会发现涉及微软账户登录时都提示没有网络连接。\n\n下载地址：https://t.co/mdtsswA7ka"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7452,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "微软累积更新质量正在肉眼可见的下滑，微软现已发布本月第 3 个带外更新修复严重错误。\n\n新 OOB 更新为 #KB5085516，用于修复诸如 OneDrive 和 Edge 等微软自家软件无法使用账户登录的问题，用户安装 3 月更新后可能会发现涉及微软账户登录时都提示没有网络连接。\n\n下载地址：https://t.co/04Y1dT9YmJ https://t.co/GppdvxJ0iD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 2667,
+          "like_count": 95650,
+          "listed_count": 2,
+          "media_count": 716,
+          "tweet_count": 11364
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2036003751228743815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33835,
+          "following_count": 713,
+          "like_count": 4399,
+          "listed_count": 272,
+          "media_count": 5088,
+          "tweet_count": 14533
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

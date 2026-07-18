@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000918609854648320"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000918623909765391",
+    "created_at": "2025-12-16T13:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T14:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000918623909765391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/52F3P9aN30",
+          "end": 44,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/2000918623909765391/photo/1",
+          "media_key": "3_2000918609854648320",
+          "start": 21,
+          "url": "https://t.co/52F3P9aN30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000918623909765391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唯一的水月雨咖啡还不舍得喝呢\n喝喝其他的 https://t.co/52F3P9aN30"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000918609854648320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Sw39Ta0AAe2mN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000918609854648320"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000918623909765391",
+        "created_at": "2025-12-16T13:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000918623909765391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/52F3P9aN30",
+              "end": 44,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2000918623909765391/photo/1",
+              "media_key": "3_2000918609854648320",
+              "start": 21,
+              "url": "https://t.co/52F3P9aN30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000918623909765391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唯一的水月雨咖啡还不舍得喝呢\n喝喝其他的 https://t.co/52F3P9aN30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 2082,
+          "like_count": 76624,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 8663
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      }
+    ]
+  }
+}

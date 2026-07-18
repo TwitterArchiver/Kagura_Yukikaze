@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976880506886307840"
+      ],
+      "media_source_tweet_id": [
+        "1976880515740582279"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1977244577540325390",
+    "created_at": "2025-10-12T05:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T06:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977244577540325390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2822281784",
+          "start": 3,
+          "username": "HuytrrMkjhbg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0tByQsMtAA",
+          "end": 54,
+          "expanded_url": "https://x.com/HuytrrMkjhbg/status/1976880515740582279/photo/1",
+          "media_key": "3_1976880506886307840",
+          "start": 31,
+          "url": "https://t.co/0tByQsMtAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977244577540325390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976880515740582279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuytrrMkjhbg: 那艘新造的船仍旧是我吗？ https://t.co/0tByQsMtAA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1581,
+        "media_key": "3_1976880506886307840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29KWNhaQAAi0Mh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976880506886307840"
+          ],
+          "media_source_tweet_id": [
+            "1976880515740582279"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1977244577540325390",
+        "created_at": "2025-10-12T05:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977244577540325390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2822281784",
+              "start": 3,
+              "username": "HuytrrMkjhbg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tByQsMtAA",
+              "end": 54,
+              "expanded_url": "https://x.com/HuytrrMkjhbg/status/1976880515740582279/photo/1",
+              "media_key": "3_1976880506886307840",
+              "start": 31,
+              "url": "https://t.co/0tByQsMtAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977244577540325390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976880515740582279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuytrrMkjhbg: 那艘新造的船仍旧是我吗？ https://t.co/0tByQsMtAA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976880506886307840"
+          ]
+        },
+        "author_id": "2822281784",
+        "conversation_id": "1976880515740582279",
+        "created_at": "2025-10-11T05:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976880515740582279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tByQsMtAA",
+              "end": 36,
+              "expanded_url": "https://x.com/HuytrrMkjhbg/status/1976880515740582279/photo/1",
+              "media_key": "3_1976880506886307840",
+              "start": 13,
+              "url": "https://t.co/0tByQsMtAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976880515740582279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 182899,
+          "like_count": 1592,
+          "quote_count": 15,
+          "reply_count": 89,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "那艘新造的船仍旧是我吗？ https://t.co/0tByQsMtAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is Kagura Yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 1497,
+          "like_count": 62584,
+          "listed_count": 3,
+          "media_count": 524,
+          "tweet_count": 7071
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-20T16:27:20.000Z",
+        "description": "mtf/无证含糖/高功能adhd/客观且正义/精分/疏离-恐惧型回避型人格（深入关系里时）/拧巴即矛盾/喜欢人类但社恐/略带病娇属性/我爱碎碎念/互联网抽象患者/总之是个怪人",
+        "id": "2822281784",
+        "location": "1km",
+        "name": "妙本茵🍥",
+        "pinned_tweet_id": "1950088722973626613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952997703077773312/7J7vct5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1101,
+          "like_count": 2201,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 313
+        },
+        "username": "HuytrrMkjhbg",
+        "verified": false
+      }
+    ]
+  }
+}

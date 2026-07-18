@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2000913725814137325",
+    "created_at": "2025-12-16T13:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T14:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000920702837510491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000920702837510491",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000913725814137325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000913676598173698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8SsYzfa4AI1W4W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2000913677726412800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8SsY3sacAAc1vh.jpg",
+        "width": 1919
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000913677831299080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8SsY4Fa4AgYjoR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2000913685511069699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8SsZUsa4AMR73E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2000913725814137325",
+        "created_at": "2025-12-16T13:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000920702837510491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000920702837510491",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000913725814137325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000913676598173698",
+            "3_2000913677726412800",
+            "3_2000913677831299080",
+            "3_2000913685511069699"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2000913725814137325",
+        "created_at": "2025-12-16T12:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000913725814137325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoxzxeYFI4",
+              "end": 33,
+              "expanded_url": "https://x.com/yu_huacs/status/2000913725814137325/photo/1",
+              "media_key": "3_2000913676598173698",
+              "start": 10,
+              "url": "https://t.co/CoxzxeYFI4"
+            },
+            {
+              "display_url": "pic.x.com/CoxzxeYFI4",
+              "end": 33,
+              "expanded_url": "https://x.com/yu_huacs/status/2000913725814137325/photo/1",
+              "media_key": "3_2000913677726412800",
+              "start": 10,
+              "url": "https://t.co/CoxzxeYFI4"
+            },
+            {
+              "display_url": "pic.x.com/CoxzxeYFI4",
+              "end": 33,
+              "expanded_url": "https://x.com/yu_huacs/status/2000913725814137325/photo/1",
+              "media_key": "3_2000913677831299080",
+              "start": 10,
+              "url": "https://t.co/CoxzxeYFI4"
+            },
+            {
+              "display_url": "pic.x.com/CoxzxeYFI4",
+              "end": 33,
+              "expanded_url": "https://x.com/yu_huacs/status/2000913725814137325/photo/1",
+              "media_key": "3_2000913685511069699",
+              "start": 10,
+              "url": "https://t.co/CoxzxeYFI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000913725814137325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰和我玩真人星露谷 https://t.co/CoxzxeYFI4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 2082,
+          "like_count": 76664,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 8669
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 泛性恋 \n友所有群体   爱着你们深深的喜欢着你们\n成分复杂 双相焦虑治疗中 overdose lain     喜欢骑公路车 在役公路车s works old venge\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "尼特",
+        "name": "余华成霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983990838465273856/jRC_K3Tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 948,
+          "like_count": 94918,
+          "listed_count": 9,
+          "media_count": 1737,
+          "tweet_count": 16085
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2007722216528679243",
+    "created_at": "2026-01-04T08:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007726546560397687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1329664321358479360",
+          "start": 0,
+          "username": "xuxiaoxiaom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007726546560397687",
+    "in_reply_to_user_id": "1329664321358479360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007726427903598831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxiaoxiaom 揉揉姐姐哦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2007722216528679243",
+        "created_at": "2026-01-04T08:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007726546560397687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1329664321358479360",
+              "start": 0,
+              "username": "xuxiaoxiaom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007726546560397687",
+        "in_reply_to_user_id": "1329664321358479360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007726427903598831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxiaoxiaom 揉揉姐姐哦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329664321358479360",
+        "conversation_id": "2007722216528679243",
+        "created_at": "2026-01-04T08:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007726427903598831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007726427903598831",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007722216528679243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 我真好羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 2163,
+          "like_count": 79594,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 9105
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T05:54:51.000Z",
+        "description": "祈世间所梦，皆宁静长久～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starry.best",
+                "end": 23,
+                "expanded_url": "http://www.starry.best",
+                "start": 0,
+                "url": "https://t.co/wQxVUrGcXp"
+              }
+            ]
+          }
+        },
+        "id": "1329664321358479360",
+        "name": "筱筱🍥",
+        "pinned_tweet_id": "1661991045733949440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003013891367018496/-rI4zyzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 2349,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/wQxVUrGcXp",
+        "username": "xuxiaoxiaom",
+        "verified": true
+      }
+    ]
+  }
+}

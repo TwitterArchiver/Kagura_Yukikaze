@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001723607823847425"
+      ],
+      "media_source_tweet_id": [
+        "2001723810719092783"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2002030075781497151",
+    "created_at": "2025-12-19T14:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T15:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002030075781497151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1451422182614069251",
+          "start": 3,
+          "username": "DavariT72"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AjVRG0X7Sz",
+          "end": 54,
+          "expanded_url": "https://x.com/DavariT72/status/2001723810719092783/photo/1",
+          "media_key": "3_2001723607823847425",
+          "start": 31,
+          "url": "https://t.co/AjVRG0X7Sz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002030075781497151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001723810719092783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DavariT72: 旧版教材，曾经我们也拥抱世界🤔 https://t.co/AjVRG0X7Sz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_2001723607823847425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8eNBAbakAE9SPB.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001723607823847425"
+          ],
+          "media_source_tweet_id": [
+            "2001723810719092783"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2002030075781497151",
+        "created_at": "2025-12-19T14:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002030075781497151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451422182614069251",
+              "start": 3,
+              "username": "DavariT72"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVRG0X7Sz",
+              "end": 54,
+              "expanded_url": "https://x.com/DavariT72/status/2001723810719092783/photo/1",
+              "media_key": "3_2001723607823847425",
+              "start": 31,
+              "url": "https://t.co/AjVRG0X7Sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002030075781497151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001723810719092783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DavariT72: 旧版教材，曾经我们也拥抱世界🤔 https://t.co/AjVRG0X7Sz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001723607823847425"
+          ]
+        },
+        "author_id": "1451422182614069251",
+        "conversation_id": "2001723810719092783",
+        "created_at": "2025-12-18T18:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T19:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001723810719092783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVRG0X7Sz",
+              "end": 39,
+              "expanded_url": "https://x.com/DavariT72/status/2001723810719092783/photo/1",
+              "media_key": "3_2001723607823847425",
+              "start": 16,
+              "url": "https://t.co/AjVRG0X7Sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001723810719092783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 262583,
+          "like_count": 1757,
+          "quote_count": 5,
+          "reply_count": 68,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "旧版教材，曾经我们也拥抱世界🤔 https://t.co/AjVRG0X7Sz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 2090,
+          "like_count": 77074,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 8747
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到我主页，可爱橘猫🥰(MTF/植物爱好/自由主义/已嘎蛋)。身体状况很差，不断学习知识，追寻内心境界，淡薄物欲，爱吃水果!热爱植物！推文主要分享植物和一些自己的观点.\n想学养鱼但是一直养不好，不懂维持水质和过滤。",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫~有主😋🥑🐱",
+        "pinned_tweet_id": "1977900772890472700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45657,
+          "following_count": 1673,
+          "like_count": 72434,
+          "listed_count": 46,
+          "media_count": 3998,
+          "tweet_count": 50858
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

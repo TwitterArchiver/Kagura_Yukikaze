@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2057737624367014088",
+    "created_at": "2026-05-22T08:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057737624367014088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1770681338221432832",
+          "start": 3,
+          "username": "Fishlike_bird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057737624367014088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057613892969533599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fishlike_bird: 以下是男娘的几个特征，看看你中了几条：\n1.穿过丝袜\n2.刮过腿毛\n3.戴过假发\n4.量过三围\n5.喜欢粉色\n6.爱喝蜜雪\n7.不爱自拍\n8.爱玩冷门游戏\n9.说话带喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2057737624367014088",
+        "created_at": "2026-05-22T08:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057737624367014088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1770681338221432832",
+              "start": 3,
+              "username": "Fishlike_bird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057737624367014088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057613892969533599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fishlike_bird: 以下是男娘的几个特征，看看你中了几条：\n1.穿过丝袜\n2.刮过腿毛\n3.戴过假发\n4.量过三围\n5.喜欢粉色\n6.爱喝蜜雪\n7.不爱自拍\n8.爱玩冷门游戏\n9.说话带喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770681338221432832",
+        "conversation_id": "2057613892969533599",
+        "created_at": "2026-05-22T00:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057613892969533599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057613892969533599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 13141,
+          "like_count": 305,
+          "quote_count": 20,
+          "reply_count": 38,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "以下是男娘的几个特征，看看你中了几条：\n1.穿过丝袜\n2.刮过腿毛\n3.戴过假发\n4.量过三围\n5.喜欢粉色\n6.爱喝蜜雪\n7.不爱自拍\n8.爱玩冷门游戏\n9.说话带喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3092,
+          "following_count": 2946,
+          "like_count": 107285,
+          "listed_count": 8,
+          "media_count": 791,
+          "tweet_count": 13092
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T05:18:32.000Z",
+        "description": "03 | 无证含糖 | mtf | 2024.11.16开始hrt | 男女混血 | intp | 地下党 | 跨女同 | 不定期更新 | 喜欢称呼对象姐姐和老婆 |",
+        "id": "1770681338221432832",
+        "location": "0km",
+        "name": "星梦🍥🏳️‍⚧️(先天不孕)",
+        "pinned_tweet_id": "1938006909422080186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922347051146170369/REQ27USi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 544,
+          "like_count": 3536,
+          "listed_count": 7,
+          "media_count": 162,
+          "tweet_count": 799
+        },
+        "username": "Fishlike_bird",
+        "verified": false
+      }
+    ]
+  }
+}

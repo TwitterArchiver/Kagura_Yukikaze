@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979582901944455168",
+        "3_1979582901940297728",
+        "3_1979582901961248768"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1494711125950164994",
+          "name": "Strava"
+        }
+      }
+    ],
+    "conversation_id": "1979582908605346243",
+    "created_at": "2025-10-18T16:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T17:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979582908605346243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zL78bCh1Nx",
+          "end": 62,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/1979582908605346243/photo/1",
+          "media_key": "3_1979582901944455168",
+          "start": 39,
+          "url": "https://t.co/zL78bCh1Nx"
+        },
+        {
+          "display_url": "pic.x.com/zL78bCh1Nx",
+          "end": 62,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/1979582908605346243/photo/1",
+          "media_key": "3_1979582901940297728",
+          "start": 39,
+          "url": "https://t.co/zL78bCh1Nx"
+        },
+        {
+          "display_url": "pic.x.com/zL78bCh1Nx",
+          "end": 62,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/1979582908605346243/photo/1",
+          "media_key": "3_1979582901961248768",
+          "start": 39,
+          "url": "https://t.co/zL78bCh1Nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979582908605346243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "根本不会骑车\n话说怎么码表上显示的匀速34.5到strava就变成31.3了 https://t.co/zL78bCh1Nx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1979582901944455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jkKTnWEAAlM94.jpg",
+        "width": 779
+      },
+      {
+        "height": 768,
+        "media_key": "3_1979582901940297728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jkKTmWoAAhGdF.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1979582901961248768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jkKTrWUAAPGVj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979582901944455168",
+            "3_1979582901940297728",
+            "3_1979582901961248768"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494711125950164994",
+              "name": "Strava"
+            }
+          }
+        ],
+        "conversation_id": "1979582908605346243",
+        "created_at": "2025-10-18T16:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979582908605346243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zL78bCh1Nx",
+              "end": 62,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/1979582908605346243/photo/1",
+              "media_key": "3_1979582901944455168",
+              "start": 39,
+              "url": "https://t.co/zL78bCh1Nx"
+            },
+            {
+              "display_url": "pic.x.com/zL78bCh1Nx",
+              "end": 62,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/1979582908605346243/photo/1",
+              "media_key": "3_1979582901940297728",
+              "start": 39,
+              "url": "https://t.co/zL78bCh1Nx"
+            },
+            {
+              "display_url": "pic.x.com/zL78bCh1Nx",
+              "end": 62,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/1979582908605346243/photo/1",
+              "media_key": "3_1979582901961248768",
+              "start": 39,
+              "url": "https://t.co/zL78bCh1Nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979582908605346243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本不会骑车\n话说怎么码表上显示的匀速34.5到strava就变成31.3了 https://t.co/zL78bCh1Nx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 1554,
+          "like_count": 63697,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 7220
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

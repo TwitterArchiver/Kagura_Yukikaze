@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Lady Gaga",
+          "id": "806227321669591040",
+          "name": "Lady Gaga"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Lady Gaga",
+          "id": "806227321669591040",
+          "name": "Lady Gaga"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Lady Gaga",
+          "id": "806227321669591040",
+          "name": "Lady Gaga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Lady Gaga",
+          "id": "806227321669591040",
+          "name": "Lady Gaga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      }
+    ],
+    "conversation_id": "2063165128720404609",
+    "created_at": "2026-06-06T07:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063165128720404609"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "每日激同"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "平权"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1489881711693508614",
+          "start": 3,
+          "username": "HorrorTheGuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063165128720404609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062856177269313919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HorrorTheGuru: #每日激同\n全国#高考 生在#骄傲月 支持LGBTQ+#平权\n关于近两天火起来的Lady Gaga在白宫喊话奥巴马“Are You Listening”的音频被滥用来支持高考加油\n​知道gaga为什么说这话吗你就用，​还以为全国高考生都来支…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2062855904165572608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC8g-6bMAAz6mh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Lady Gaga",
+              "id": "806227321669591040",
+              "name": "Lady Gaga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Lady Gaga",
+              "id": "806227321669591040",
+              "name": "Lady Gaga"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Lady Gaga",
+              "id": "806227321669591040",
+              "name": "Lady Gaga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Lady Gaga",
+              "id": "806227321669591040",
+              "name": "Lady Gaga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          }
+        ],
+        "conversation_id": "2063165128720404609",
+        "created_at": "2026-06-06T07:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063165128720404609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "每日激同"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "平权"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1489881711693508614",
+              "start": 3,
+              "username": "HorrorTheGuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063165128720404609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062856177269313919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HorrorTheGuru: #每日激同\n全国#高考 生在#骄傲月 支持LGBTQ+#平权\n关于近两天火起来的Lady Gaga在白宫喊话奥巴马“Are You Listening”的音频被滥用来支持高考加油\n​知道gaga为什么说这话吗你就用，​还以为全国高考生都来支…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062855904165572608"
+          ]
+        },
+        "author_id": "1489881711693508614",
+        "conversation_id": "2062856177269313919",
+        "created_at": "2026-06-05T11:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062856177269313919"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "每日激同"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "平权"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1NsZ3oIpt",
+              "end": 190,
+              "expanded_url": "https://x.com/HorrorTheGuru/status/2062856177269313919/photo/1",
+              "media_key": "3_2062855904165572608",
+              "start": 167,
+              "url": "https://t.co/K1NsZ3oIpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062856177269313919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10938,
+          "like_count": 318,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "#每日激同\n全国#高考 生在#骄傲月 支持LGBTQ+#平权\n关于近两天火起来的Lady Gaga在白宫喊话奥巴马“Are You Listening”的音频被滥用来支持高考加油\n​知道gaga为什么说这话吗你就用，​还以为全国高考生都来支持LGBT平权了😂\n前脚​用这个音频发视频，后脚在说xxx是给的，我们只在现场发现了一块冻肉 https://t.co/K1NsZ3oIpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 3025,
+          "like_count": 110521,
+          "listed_count": 7,
+          "media_count": 800,
+          "tweet_count": 13473
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T08:41:09.000Z",
+        "description": "🌈side丨学期内常驻中山丨假期常驻粤西某偏僻小镇丨街机音游痴（舞战纪、舞萌）丨短裤爱好者丨绿色液体爱好者丨立直麻将新手丨神秘学爱好者丨隐属较多欢迎试探丨第二人格：阿浚（@Horror003Horror）丨没有里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "Horror003Horror"
+              }
+            ]
+          }
+        },
+        "id": "1489881711693508614",
+        "location": "那台叫《舞战纪》的跳舞机上面",
+        "name": "哈朗",
+        "pinned_tweet_id": "2044943488442331413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031474051634610176/4Ffe2yKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 760,
+          "like_count": 19309,
+          "listed_count": 2,
+          "media_count": 565,
+          "tweet_count": 2149
+        },
+        "username": "HorrorTheGuru",
+        "verified": false
+      }
+    ]
+  }
+}

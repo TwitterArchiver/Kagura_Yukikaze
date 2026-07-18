@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983526186119725371",
+    "created_at": "2025-10-29T13:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983526186119725371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561497194099646465",
+          "start": 3,
+          "username": "syake496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983526186119725371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983061959726776589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @syake496: 旧筐体だし逆手配置だしでツッコミどころが多い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983526186119725371",
+        "created_at": "2025-10-29T13:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983526186119725371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561497194099646465",
+              "start": 3,
+              "username": "syake496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983526186119725371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983061959726776589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @syake496: 旧筐体だし逆手配置だしでツッコミどころが多い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561497194099646465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983061959726776589",
+        "created_at": "2025-10-28T06:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983061959726776589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alde_hyde/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/alde_hyde/status/1982734031323316684",
+              "start": 23,
+              "url": "https://t.co/QLLy4lhryz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983061959726776589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 57711,
+          "like_count": 224,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982734031323316684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旧筐体だし逆手配置だしでツッコミどころが多い https://t.co/QLLy4lhryz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983188124747587585/zIni_VCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 1714,
+          "like_count": 67266,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7576
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T23:35:27.000Z",
+        "description": "しゃけです。 アイコンはばななさん→@big_big_banana_\nmaimai:卵熊(桃)神\nバイク:ジクサーsf150\n推し:マーゴさん、なのちゃん",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "big_big_banana_"
+              }
+            ]
+          }
+        },
+        "id": "1561497194099646465",
+        "name": "☆syake☆",
+        "pinned_tweet_id": "1885555634789113981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892330139159318528/TlhA___E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1174,
+          "like_count": 100671,
+          "listed_count": 5,
+          "media_count": 1221,
+          "tweet_count": 42697
+        },
+        "username": "syake496",
+        "verified": false
+      }
+    ]
+  }
+}

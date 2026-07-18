@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061541228886552576"
+      ],
+      "media_source_tweet_id": [
+        "2061541231801540787"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074841561188475057",
+    "created_at": "2026-07-08T13:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074841561188475057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2042068041694113793",
+          "start": 3,
+          "username": "ChineseRainbowN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XbOG57grac",
+          "end": 44,
+          "expanded_url": "https://x.com/ChineseRainbowN/status/2061541231801540787/photo/1",
+          "media_key": "3_2061541228886552576",
+          "start": 21,
+          "url": "https://t.co/XbOG57grac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074841561188475057",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061541231801540787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChineseRainbowN: https://t.co/XbOG57grac"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2061541228886552576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwQ0z2a8AAPjBb.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061541228886552576"
+          ],
+          "media_source_tweet_id": [
+            "2061541231801540787"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074841561188475057",
+        "created_at": "2026-07-08T13:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074841561188475057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2042068041694113793",
+              "start": 3,
+              "username": "ChineseRainbowN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbOG57grac",
+              "end": 44,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2061541231801540787/photo/1",
+              "media_key": "3_2061541228886552576",
+              "start": 21,
+              "url": "https://t.co/XbOG57grac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074841561188475057",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061541231801540787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChineseRainbowN: https://t.co/XbOG57grac"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061541228886552576"
+          ]
+        },
+        "author_id": "2042068041694113793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061541231801540787",
+        "created_at": "2026-06-01T20:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T21:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061541231801540787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbOG57grac",
+              "end": 23,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2061541231801540787/photo/1",
+              "media_key": "3_2061541228886552576",
+              "start": 0,
+              "url": "https://t.co/XbOG57grac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061541231801540787",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XbOG57grac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3179,
+          "following_count": 3070,
+          "like_count": 114597,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 13902
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T02:34:32.000Z",
+        "description": "We are Chinese Rainbow Network. \nThe largest oversea Chinese LGBTQ+ community in the world. instagram @chineserainbownetwork",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 102,
+                "username": "chineserainbownetwor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crn.ngo",
+                "end": 23,
+                "expanded_url": "http://crn.ngo",
+                "start": 0,
+                "url": "https://t.co/Nkar3BWvJ8"
+              }
+            ]
+          }
+        },
+        "id": "2042068041694113793",
+        "name": "Chinese Rainbow Network",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042069730715168769/vLkFF634_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 25,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/Nkar3BWvJ8",
+        "username": "ChineseRainbowN",
+        "verified": false
+      }
+    ]
+  }
+}

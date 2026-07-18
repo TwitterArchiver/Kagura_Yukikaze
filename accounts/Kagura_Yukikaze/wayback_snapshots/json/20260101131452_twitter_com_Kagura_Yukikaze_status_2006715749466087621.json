@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006366199618408449"
+      ],
+      "media_source_tweet_id": [
+        "2006371200654835797"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2006715749466087621",
+    "created_at": "2026-01-01T13:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T14:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006715749466087621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "761166670291275777",
+          "start": 3,
+          "username": "negyutyubu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zbyn5deEwH",
+          "end": 86,
+          "expanded_url": "https://x.com/negyutyubu/status/2006371200654835797/photo/1",
+          "media_key": "3_2006366199618408449",
+          "start": 63,
+          "url": "https://t.co/zbyn5deEwH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006715749466087621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006371200654835797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @negyutyubu: 今年も生き残ってしまったお前\n\n12/31 23:59\n来年こそ終わらせるって思考が出る日。 https://t.co/zbyn5deEwH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2006366199618408449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLbambEAEQ9-A.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006366199618408449"
+          ],
+          "media_source_tweet_id": [
+            "2006371200654835797"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2006715749466087621",
+        "created_at": "2026-01-01T13:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T14:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006715749466087621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "761166670291275777",
+              "start": 3,
+              "username": "negyutyubu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbyn5deEwH",
+              "end": 86,
+              "expanded_url": "https://x.com/negyutyubu/status/2006371200654835797/photo/1",
+              "media_key": "3_2006366199618408449",
+              "start": 63,
+              "url": "https://t.co/zbyn5deEwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006715749466087621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006371200654835797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @negyutyubu: 今年も生き残ってしまったお前\n\n12/31 23:59\n来年こそ終わらせるって思考が出る日。 https://t.co/zbyn5deEwH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006366199618408449"
+          ]
+        },
+        "author_id": "761166670291275777",
+        "conversation_id": "2006371200654835797",
+        "created_at": "2025-12-31T14:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:05:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006366205985300859",
+          "2006371200654835797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbyn5deEwH",
+              "end": 70,
+              "expanded_url": "https://x.com/negyutyubu/status/2006371200654835797/photo/1",
+              "media_key": "3_2006366199618408449",
+              "start": 47,
+              "url": "https://t.co/zbyn5deEwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006371200654835797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 12388,
+          "like_count": 726,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "今年も生き残ってしまったお前\n\n12/31 23:59\n来年こそ終わらせるって思考が出る日。 https://t.co/zbyn5deEwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 2159,
+          "like_count": 79218,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 9043
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T11:47:30.000Z",
+        "description": "自分が壊れてるのはもうどうでもいい。\n誰かが同じように壊れるのは見たくない。\n\nここは、そんな願いだけで立ってる奴の場所だ。\n\n※この垢の図解は\n転載・改変・AI学習「すべてOK」\n盾は置く。拾うかどうかは各自で。\n\n※AIに手伝ってもらってる。\nでも、傷までは代わりに書かせてない。\n\nアイコン： @tmtgrtnさま",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "tmtgrtn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/negyutyubu/sta…",
+                "end": 23,
+                "expanded_url": "https://x.com/negyutyubu/status/2003773985625092458",
+                "start": 0,
+                "url": "https://t.co/B9BCUdxAwg"
+              }
+            ]
+          }
+        },
+        "id": "761166670291275777",
+        "location": "ここのフォロワー＝亡霊部隊（取説↓）",
+        "name": "ねぎゅチュブ＠病みマンガ",
+        "pinned_tweet_id": "1995435500656869563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902241149911494656/wt9p7js__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15165,
+          "following_count": 20,
+          "like_count": 94631,
+          "listed_count": 22,
+          "media_count": 3514,
+          "tweet_count": 26065
+        },
+        "url": "https://t.co/B9BCUdxAwg",
+        "username": "negyutyubu",
+        "verified": true
+      }
+    ]
+  }
+}

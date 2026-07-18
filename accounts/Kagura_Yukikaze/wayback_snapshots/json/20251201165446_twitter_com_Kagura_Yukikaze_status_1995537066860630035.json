@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994680388623765504"
+      ],
+      "media_source_tweet_id": [
+        "1994680393942143268"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1995537066860630035",
+    "created_at": "2025-12-01T16:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T17:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995537066860630035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1488366358027182081",
+          "start": 3,
+          "username": "iro_iro_iroo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iP293TXFOW",
+          "end": 67,
+          "expanded_url": "https://x.com/iro_iro_iroo/status/1994680393942143268/photo/1",
+          "media_key": "3_1994680388623765504",
+          "start": 44,
+          "url": "https://t.co/iP293TXFOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995537066860630035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994680393942143268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iro_iro_iroo: (๑′△`๑)\n差分で描いたのもかわいいんだよね💭 https://t.co/iP293TXFOW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994680388623765504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66HPsRbkAArNNp.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994680388623765504"
+          ],
+          "media_source_tweet_id": [
+            "1994680393942143268"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1995537066860630035",
+        "created_at": "2025-12-01T16:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995537066860630035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1488366358027182081",
+              "start": 3,
+              "username": "iro_iro_iroo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iP293TXFOW",
+              "end": 67,
+              "expanded_url": "https://x.com/iro_iro_iroo/status/1994680393942143268/photo/1",
+              "media_key": "3_1994680388623765504",
+              "start": 44,
+              "url": "https://t.co/iP293TXFOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995537066860630035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994680393942143268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iro_iro_iroo: (๑′△`๑)\n差分で描いたのもかわいいんだよね💭 https://t.co/iP293TXFOW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994680388623765504"
+          ]
+        },
+        "author_id": "1488366358027182081",
+        "conversation_id": "1994680393942143268",
+        "created_at": "2025-11-29T08:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994680393942143268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iP293TXFOW",
+              "end": 49,
+              "expanded_url": "https://x.com/iro_iro_iroo/status/1994680393942143268/photo/1",
+              "media_key": "3_1994680388623765504",
+              "start": 26,
+              "url": "https://t.co/iP293TXFOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994680393942143268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 23909,
+          "like_count": 2355,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "(๑′△`๑)\n差分で描いたのもかわいいんだよね💭 https://t.co/iP293TXFOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 1979,
+          "like_count": 73533,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 8215
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-01T04:19:48.000Z",
+        "description": "いろんといいます。 20↑ 💭ご依頼 スケブ→https://t.co/69dNgu22OP 💭ラクガキなどの別垢→@iroN161616n   oc→ #いろんあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 77,
+                "tag": "いろんあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "iroN161616n"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@iro_iro_iroo",
+                "end": 46,
+                "expanded_url": "https://skeb.jp/@iro_iro_iroo",
+                "start": 23,
+                "url": "https://t.co/69dNgu22OP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/iroiron",
+                "end": 23,
+                "expanded_url": "https://lit.link/iroiron",
+                "start": 0,
+                "url": "https://t.co/Ek53fjIzTJ"
+              }
+            ]
+          }
+        },
+        "id": "1488366358027182081",
+        "location": "無断転載、無断使用、AI学習、自作発言NG",
+        "name": "iroN",
+        "pinned_tweet_id": "1897944482869571847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931015997177389056/6vxBJLpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15089,
+          "following_count": 470,
+          "like_count": 17912,
+          "listed_count": 171,
+          "media_count": 496,
+          "tweet_count": 9904
+        },
+        "url": "https://t.co/Ek53fjIzTJ",
+        "username": "iro_iro_iroo",
+        "verified": false
+      }
+    ]
+  }
+}

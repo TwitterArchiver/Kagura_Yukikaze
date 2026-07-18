@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1994526781953773761",
+    "created_at": "2025-11-29T18:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T19:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994828820445380762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1973748660975587328",
+          "start": 0,
+          "username": "0xAzxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994828820445380762",
+    "in_reply_to_user_id": "1973748660975587328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994526781953773761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xAzxs 抱抱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994524313828139008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G635S8WbIAAe_ak.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1994526781953773761",
+        "created_at": "2025-11-29T18:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994828820445380762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "0xAzxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994828820445380762",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994526781953773761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xAzxs 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994524313828139008"
+          ]
+        },
+        "author_id": "1973748660975587328",
+        "conversation_id": "1994526781953773761",
+        "created_at": "2025-11-28T22:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:50:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994524324213219361",
+          "1994526781953773761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FbYFS88nCy",
+              "end": 23,
+              "expanded_url": "https://x.com/0xAzxs/status/1994526781953773761/photo/1",
+              "media_key": "3_1994524313828139008",
+              "start": 0,
+              "url": "https://t.co/FbYFS88nCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994526781953773761",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3961,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FbYFS88nCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 1956,
+          "like_count": 72878,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 8138
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "监护人 @TabeWang｜活跃于BiliBili https://t.co/Tc6hC3GG8t｜吃什么 @CryptoAzxs｜06/生日10.15",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "TabeWang"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "CryptoAzxs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/Vwt7oQA",
+                "end": 49,
+                "expanded_url": "https://b23.tv/Vwt7oQA",
+                "start": 26,
+                "url": "https://t.co/Tc6hC3GG8t"
+              }
+            ]
+          }
+        },
+        "id": "1973748660975587328",
+        "location": "Tianjin China",
+        "name": "艾希 #我有抑郁症",
+        "pinned_tweet_id": "1994491997831533029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994550940872183809/Y--RCL6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 635,
+          "like_count": 4415,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 862
+        },
+        "username": "0xAzxs",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994349671318429696"
+      ],
+      "media_source_tweet_id": [
+        "1994349676506611875"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1994627538195550612",
+    "created_at": "2025-11-29T04:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994627538195550612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "866291760326098944",
+          "start": 3,
+          "username": "richaball"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sWqQOsdWgg",
+          "end": 38,
+          "expanded_url": "https://x.com/richaball/status/1994349676506611875/photo/1",
+          "media_key": "3_1994349671318429696",
+          "start": 15,
+          "url": "https://t.co/sWqQOsdWgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994627538195550612",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994349676506611875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @richaball: https://t.co/sWqQOsdWgg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_1994349671318429696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61adaTaIAAb6H8.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994349671318429696"
+          ],
+          "media_source_tweet_id": [
+            "1994349676506611875"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1994627538195550612",
+        "created_at": "2025-11-29T04:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994627538195550612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "866291760326098944",
+              "start": 3,
+              "username": "richaball"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWqQOsdWgg",
+              "end": 38,
+              "expanded_url": "https://x.com/richaball/status/1994349676506611875/photo/1",
+              "media_key": "3_1994349671318429696",
+              "start": 15,
+              "url": "https://t.co/sWqQOsdWgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994627538195550612",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994349676506611875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @richaball: https://t.co/sWqQOsdWgg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994349671318429696"
+          ]
+        },
+        "author_id": "866291760326098944",
+        "conversation_id": "1994349676506611875",
+        "created_at": "2025-11-28T10:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994349676506611875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWqQOsdWgg",
+              "end": 23,
+              "expanded_url": "https://x.com/richaball/status/1994349676506611875/photo/1",
+              "media_key": "3_1994349671318429696",
+              "start": 0,
+              "url": "https://t.co/sWqQOsdWgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994349676506611875",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7202,
+          "impression_count": 1138317,
+          "like_count": 51045,
+          "quote_count": 47,
+          "reply_count": 31,
+          "retweet_count": 3194
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sWqQOsdWgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1952,
+          "like_count": 72757,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 8125
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-21T13:57:05.000Z",
+        "description": "イラストレーター✎*。ご依頼受付中です！ AI学習禁止  FANBOX→https://t.co/w1DmSVmlUc リンク集→https://t.co/bgIbC7dbGp ご連絡はDMまたはrichard.chaccha@gmail.comまで✉️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "richaball.fanbox.cc",
+                "end": 59,
+                "expanded_url": "https://richaball.fanbox.cc/",
+                "start": 36,
+                "url": "https://t.co/w1DmSVmlUc"
+              },
+              {
+                "display_url": "lit.link/richaball",
+                "end": 88,
+                "expanded_url": "https://lit.link/richaball",
+                "start": 65,
+                "url": "https://t.co/bgIbC7dbGp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=24643674",
+                "start": 0,
+                "url": "https://t.co/C8917IqZbs"
+              }
+            ]
+          }
+        },
+        "id": "866291760326098944",
+        "location": "餅という概念がもう好き",
+        "name": "リチャード🍡",
+        "pinned_tweet_id": "1987474150848602540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780800420815966208/Vqund4Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74815,
+          "following_count": 919,
+          "like_count": 103726,
+          "listed_count": 460,
+          "media_count": 1375,
+          "tweet_count": 34291
+        },
+        "url": "https://t.co/C8917IqZbs",
+        "username": "richaball",
+        "verified": false
+      }
+    ]
+  }
+}

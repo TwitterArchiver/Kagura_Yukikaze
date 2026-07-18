@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971517538011127808"
+      ],
+      "media_source_tweet_id": [
+        "1971517544411611230"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971899806403666280",
+    "created_at": "2025-09-27T11:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971899806403666280"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ねこちゃん",
+          "probability": 0.7188,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "maimai"
+        },
+        {
+          "end": 58,
+          "start": 47,
+          "tag": "maimai_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912597427800137728",
+          "start": 3,
+          "username": "yayoko_1217"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILDVc3uhFr",
+          "end": 82,
+          "expanded_url": "https://x.com/yayoko_1217/status/1971517544411611230/photo/1",
+          "media_key": "3_1971517538011127808",
+          "start": 59,
+          "url": "https://t.co/ILDVc3uhFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971899806403666280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971517544411611230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yayoko_1217: ねこちゃんリレー(*´ω`)人(´ω`*)\n#maimai #maimai_art https://t.co/ILDVc3uhFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1971517538011127808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1w8wVmbIAAaHJS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971517538011127808"
+          ],
+          "media_source_tweet_id": [
+            "1971517544411611230"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971899806403666280",
+        "created_at": "2025-09-27T11:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971899806403666280"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ねこちゃん",
+              "probability": 0.7188,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "maimai"
+            },
+            {
+              "end": 58,
+              "start": 47,
+              "tag": "maimai_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912597427800137728",
+              "start": 3,
+              "username": "yayoko_1217"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILDVc3uhFr",
+              "end": 82,
+              "expanded_url": "https://x.com/yayoko_1217/status/1971517544411611230/photo/1",
+              "media_key": "3_1971517538011127808",
+              "start": 59,
+              "url": "https://t.co/ILDVc3uhFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971899806403666280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971517544411611230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yayoko_1217: ねこちゃんリレー(*´ω`)人(´ω`*)\n#maimai #maimai_art https://t.co/ILDVc3uhFr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971517538011127808"
+          ]
+        },
+        "author_id": "1912597427800137728",
+        "conversation_id": "1971517544411611230",
+        "created_at": "2025-09-26T10:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T11:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971517544411611230"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ねこちゃん",
+              "probability": 0.6583,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "maimai"
+            },
+            {
+              "end": 41,
+              "start": 30,
+              "tag": "maimai_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILDVc3uhFr",
+              "end": 65,
+              "expanded_url": "https://x.com/yayoko_1217/status/1971517544411611230/photo/1",
+              "media_key": "3_1971517538011127808",
+              "start": 42,
+              "url": "https://t.co/ILDVc3uhFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971517544411611230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 9285,
+          "like_count": 529,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "ねこちゃんリレー(*´ω`)人(´ω`*)\n#maimai #maimai_art https://t.co/ILDVc3uhFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 1215,
+          "like_count": 57177,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6390
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T20:02:59.000Z",
+        "description": "| Taiwan illustrator & cosplayer  | Hololive En | maimai | 音ゲー | Kiara 推し |\n🍗🧡 KFP 🧡🍗 |\nフォロー歓迎です꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/yayoko",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/yayoko",
+                "start": 0,
+                "url": "https://t.co/NyuTASxclS"
+              }
+            ]
+          }
+        },
+        "id": "1912597427800137728",
+        "location": "Taiwan",
+        "name": "八夜 ꕤ やよこ",
+        "pinned_tweet_id": "1956993804134928890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912597613846884352/3A-8v6EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 290,
+          "like_count": 1170,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/NyuTASxclS",
+        "username": "yayoko_1217",
+        "verified": false
+      }
+    ]
+  }
+}

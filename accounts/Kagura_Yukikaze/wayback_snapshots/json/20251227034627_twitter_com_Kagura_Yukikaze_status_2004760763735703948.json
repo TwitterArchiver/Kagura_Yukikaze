@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004622502849400832"
+      ],
+      "media_source_tweet_id": [
+        "2004622505131344180"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2004760763735703948",
+    "created_at": "2025-12-27T03:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004760763735703948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840181267913961472",
+          "start": 3,
+          "username": "Takitosoft"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vGu5jwoQi4",
+          "end": 43,
+          "expanded_url": "https://x.com/Takitosoft/status/2004622505131344180/photo/1",
+          "media_key": "3_2004622502849400832",
+          "start": 20,
+          "url": "https://t.co/vGu5jwoQi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004760763735703948",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004622505131344180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Takitosoft: •⩊• https://t.co/vGu5jwoQi4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2004622502849400832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HZi58X0AAWIjk.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004622502849400832"
+          ],
+          "media_source_tweet_id": [
+            "2004622505131344180"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2004760763735703948",
+        "created_at": "2025-12-27T03:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004760763735703948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1840181267913961472",
+              "start": 3,
+              "username": "Takitosoft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGu5jwoQi4",
+              "end": 43,
+              "expanded_url": "https://x.com/Takitosoft/status/2004622505131344180/photo/1",
+              "media_key": "3_2004622502849400832",
+              "start": 20,
+              "url": "https://t.co/vGu5jwoQi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004760763735703948",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004622505131344180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Takitosoft: •⩊• https://t.co/vGu5jwoQi4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004622502849400832"
+          ]
+        },
+        "author_id": "1840181267913961472",
+        "conversation_id": "2004622505131344180",
+        "created_at": "2025-12-26T18:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004622505131344180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGu5jwoQi4",
+              "end": 27,
+              "expanded_url": "https://x.com/Takitosoft/status/2004622505131344180/photo/1",
+              "media_key": "3_2004622502849400832",
+              "start": 4,
+              "url": "https://t.co/vGu5jwoQi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004622505131344180",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 770,
+          "impression_count": 55173,
+          "like_count": 7422,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "•⩊• https://t.co/vGu5jwoQi4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2004093206515142661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 2136,
+          "like_count": 78239,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 8911
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-29T00:06:36.000Z",
+        "description": "⊹₊˚꒰ა ∗ ໒꒱˚₊⊹\n19 | femboy |\nsubo memes y cosas random |\n amo los gatos \n  —   no minors",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/KBfGejmfTC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/KBfGejmfTC",
+                "start": 0,
+                "url": "https://t.co/O9rAuMJ10A"
+              }
+            ]
+          }
+        },
+        "id": "1840181267913961472",
+        "name": "Takito 🌺",
+        "pinned_tweet_id": "1976337529495486964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995557302049366016/Q39fBx_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9472,
+          "following_count": 781,
+          "like_count": 8175,
+          "listed_count": 12,
+          "media_count": 3869,
+          "tweet_count": 6732
+        },
+        "url": "https://t.co/O9rAuMJ10A",
+        "username": "Takitosoft",
+        "verified": false
+      }
+    ]
+  }
+}

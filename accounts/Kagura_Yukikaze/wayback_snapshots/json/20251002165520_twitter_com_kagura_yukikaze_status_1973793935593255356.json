@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973628330441318407"
+      ],
+      "media_source_tweet_id": [
+        "1973628340780355822"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1973793935593255356",
+    "created_at": "2025-10-02T16:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T17:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973793935593255356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r50GyNdcxJ",
+          "end": 40,
+          "expanded_url": "https://x.com/Cldeop/status/1973628340780355822/photo/1",
+          "media_key": "3_1973628330441318407",
+          "start": 17,
+          "url": "https://t.co/r50GyNdcxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973793935593255356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973628340780355822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 大学爱看 https://t.co/r50GyNdcxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_1973628330441318407",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2O8goKaIAcEo__.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973628330441318407"
+          ],
+          "media_source_tweet_id": [
+            "1973628340780355822"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1973793935593255356",
+        "created_at": "2025-10-02T16:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T17:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973793935593255356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r50GyNdcxJ",
+              "end": 40,
+              "expanded_url": "https://x.com/Cldeop/status/1973628340780355822/photo/1",
+              "media_key": "3_1973628330441318407",
+              "start": 17,
+              "url": "https://t.co/r50GyNdcxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973793935593255356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973628340780355822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 大学爱看 https://t.co/r50GyNdcxJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973628330441318407"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1973628340780355822",
+        "created_at": "2025-10-02T05:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T06:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973628340780355822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r50GyNdcxJ",
+              "end": 28,
+              "expanded_url": "https://x.com/Cldeop/status/1973628340780355822/photo/1",
+              "media_key": "3_1973628330441318407",
+              "start": 5,
+              "url": "https://t.co/r50GyNdcxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973628340780355822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 31440,
+          "like_count": 255,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大学爱看 https://t.co/r50GyNdcxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 1414,
+          "like_count": 59618,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 6677
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82093,
+          "following_count": 645,
+          "like_count": 30653,
+          "listed_count": 257,
+          "media_count": 12540,
+          "tweet_count": 17767
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

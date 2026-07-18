@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035673187342761984"
+      ],
+      "media_source_tweet_id": [
+        "2035673189544829188"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2035681518706626755",
+    "created_at": "2026-03-22T11:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T12:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035681518706626755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZYgJCSvQrQ",
+          "end": 112,
+          "expanded_url": "https://x.com/DXMDusk/status/2035673189544829188/photo/1",
+          "media_key": "3_2035673187342761984",
+          "start": 89,
+          "url": "https://t.co/ZYgJCSvQrQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035681518706626755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035673189544829188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 其实得了精神病没事，最要命的是被上报，这才是真的会毁一辈子的事\n所以一般抑郁症的人一般诊断书写“抑郁障碍”，双相的写“心境障碍”，精分的写“精神障碍” https://t.co/ZYgJCSvQrQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2035673187342761984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAp-npaQAAdIG4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035673187342761984"
+          ],
+          "media_source_tweet_id": [
+            "2035673189544829188"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2035681518706626755",
+        "created_at": "2026-03-22T11:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035681518706626755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYgJCSvQrQ",
+              "end": 112,
+              "expanded_url": "https://x.com/DXMDusk/status/2035673189544829188/photo/1",
+              "media_key": "3_2035673187342761984",
+              "start": 89,
+              "url": "https://t.co/ZYgJCSvQrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035681518706626755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035673189544829188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 其实得了精神病没事，最要命的是被上报，这才是真的会毁一辈子的事\n所以一般抑郁症的人一般诊断书写“抑郁障碍”，双相的写“心境障碍”，精分的写“精神障碍” https://t.co/ZYgJCSvQrQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035673187342761984"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2035673189544829188",
+        "created_at": "2026-03-22T11:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035673189544829188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYgJCSvQrQ",
+              "end": 99,
+              "expanded_url": "https://x.com/DXMDusk/status/2035673189544829188/photo/1",
+              "media_key": "3_2035673187342761984",
+              "start": 76,
+              "url": "https://t.co/ZYgJCSvQrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035673189544829188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实得了精神病没事，最要命的是被上报，这才是真的会毁一辈子的事\n所以一般抑郁症的人一般诊断书写“抑郁障碍”，双相的写“心境障碍”，精分的写“精神障碍” https://t.co/ZYgJCSvQrQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2733,
+          "following_count": 2654,
+          "like_count": 95457,
+          "listed_count": 2,
+          "media_count": 715,
+          "tweet_count": 11305
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 1043,
+          "like_count": 1834,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1675
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

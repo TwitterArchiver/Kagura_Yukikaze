@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024089804821176321",
+        "3_2024089804791795712"
+      ],
+      "media_source_tweet_id": [
+        "2024089816074469602",
+        "2024089816074469602"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024280341008245137",
+    "created_at": "2026-02-19T00:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024280341008245137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870108535268487169",
+          "start": 3,
+          "username": "MomoseReina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l1UMNaaP2S",
+          "end": 47,
+          "expanded_url": "https://x.com/MomoseReina/status/2024089816074469602/photo/1",
+          "media_key": "3_2024089804821176321",
+          "start": 24,
+          "url": "https://t.co/l1UMNaaP2S"
+        },
+        {
+          "display_url": "pic.x.com/l1UMNaaP2S",
+          "end": 47,
+          "expanded_url": "https://x.com/MomoseReina/status/2024089816074469602/photo/1",
+          "media_key": "3_2024089804791795712",
+          "start": 24,
+          "url": "https://t.co/l1UMNaaP2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024280341008245137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024089816074469602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MomoseReina: 吃卤肉饭喵😋 https://t.co/l1UMNaaP2S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2024089804821176321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcC9BHbIAEY10v.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2024089804791795712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcC9BAa0AA05aB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024089804821176321",
+            "3_2024089804791795712"
+          ],
+          "media_source_tweet_id": [
+            "2024089816074469602",
+            "2024089816074469602"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024280341008245137",
+        "created_at": "2026-02-19T00:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024280341008245137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870108535268487169",
+              "start": 3,
+              "username": "MomoseReina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1UMNaaP2S",
+              "end": 47,
+              "expanded_url": "https://x.com/MomoseReina/status/2024089816074469602/photo/1",
+              "media_key": "3_2024089804821176321",
+              "start": 24,
+              "url": "https://t.co/l1UMNaaP2S"
+            },
+            {
+              "display_url": "pic.x.com/l1UMNaaP2S",
+              "end": 47,
+              "expanded_url": "https://x.com/MomoseReina/status/2024089816074469602/photo/1",
+              "media_key": "3_2024089804791795712",
+              "start": 24,
+              "url": "https://t.co/l1UMNaaP2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024280341008245137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024089816074469602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MomoseReina: 吃卤肉饭喵😋 https://t.co/l1UMNaaP2S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024089804821176321",
+            "3_2024089804791795712"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024089816074469602",
+        "created_at": "2026-02-18T11:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024089816074469602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1UMNaaP2S",
+              "end": 30,
+              "expanded_url": "https://x.com/MomoseReina/status/2024089816074469602/photo/1",
+              "media_key": "3_2024089804821176321",
+              "start": 7,
+              "url": "https://t.co/l1UMNaaP2S"
+            },
+            {
+              "display_url": "pic.x.com/l1UMNaaP2S",
+              "end": 30,
+              "expanded_url": "https://x.com/MomoseReina/status/2024089816074469602/photo/1",
+              "media_key": "3_2024089804791795712",
+              "start": 7,
+              "url": "https://t.co/l1UMNaaP2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024089816074469602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吃卤肉饭喵😋 https://t.co/l1UMNaaP2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 2430,
+          "like_count": 87933,
+          "listed_count": 2,
+          "media_count": 650,
+          "tweet_count": 10327
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 316,
+          "like_count": 6168,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 4361
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

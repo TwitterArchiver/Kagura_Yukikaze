@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2014342046480552307",
+    "created_at": "2026-01-24T04:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T05:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014918161590837460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547947508592418816",
+          "start": 0,
+          "username": "ljh01271441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014918161590837460",
+    "in_reply_to_user_id": "1547947508592418816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014550589024383222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljh01271441 hyw啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2014342046480552307",
+        "created_at": "2026-01-24T04:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014918161590837460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547947508592418816",
+              "start": 0,
+              "username": "ljh01271441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014918161590837460",
+        "in_reply_to_user_id": "1547947508592418816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014550589024383222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljh01271441 hyw啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547947508592418816",
+        "conversation_id": "2014342046480552307",
+        "created_at": "2026-01-23T04:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014550589024383222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014550589024383222",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1015,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014342046480552307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 学唐吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 2277,
+          "like_count": 82660,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 9641
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T14:14:01.000Z",
+        "description": "web3小白入圈三年 习惯用#bitget  当bgb 持有者 bitget 邀请码bj6q 下载链接https://t.co/7Njgiz5pCk 合约50 ％ 现货50 ％ 可省下很多冤枉钱 做活动的话也比较少磨损 （好吧说实话我就是想回点血挣点佣金）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "partner.hdmune.cn/bg/Q1P7DY",
+                "end": 74,
+                "expanded_url": "https://partner.hdmune.cn/bg/Q1P7DY",
+                "start": 51,
+                "url": "https://t.co/7Njgiz5pCk"
+              }
+            ]
+          }
+        },
+        "id": "1547947508592418816",
+        "name": "加密大韭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644706638266519555/3mDcnsuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 400,
+          "like_count": 304,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 173
+        },
+        "username": "ljh01271441",
+        "verified": false
+      }
+    ]
+  }
+}

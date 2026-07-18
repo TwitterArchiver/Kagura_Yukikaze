@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970860868142510080"
+      ],
+      "media_source_tweet_id": [
+        "1970860876799549775"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971161768061030508",
+    "created_at": "2025-09-25T10:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T11:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971161768061030508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1596913744403378177",
+          "start": 3,
+          "username": "yaosiscom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c6t5nXiAE5",
+          "end": 69,
+          "expanded_url": "https://x.com/yaosiscom/status/1970860876799549775/photo/1",
+          "media_key": "3_1970860868142510080",
+          "start": 46,
+          "url": "https://t.co/c6t5nXiAE5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971161768061030508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970860876799549775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaosiscom: 用过telegram\n你就知道同样的消息量\n微信有多垃圾…… https://t.co/c6t5nXiAE5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_1970860868142510080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nnhHtaMAAdI3H.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970860868142510080"
+          ],
+          "media_source_tweet_id": [
+            "1970860876799549775"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971161768061030508",
+        "created_at": "2025-09-25T10:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971161768061030508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596913744403378177",
+              "start": 3,
+              "username": "yaosiscom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6t5nXiAE5",
+              "end": 69,
+              "expanded_url": "https://x.com/yaosiscom/status/1970860876799549775/photo/1",
+              "media_key": "3_1970860868142510080",
+              "start": 46,
+              "url": "https://t.co/c6t5nXiAE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971161768061030508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970860876799549775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaosiscom: 用过telegram\n你就知道同样的消息量\n微信有多垃圾…… https://t.co/c6t5nXiAE5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970860868142510080"
+          ]
+        },
+        "author_id": "1596913744403378177",
+        "conversation_id": "1970860876799549775",
+        "created_at": "2025-09-24T14:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T15:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970860876799549775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6t5nXiAE5",
+              "end": 54,
+              "expanded_url": "https://x.com/yaosiscom/status/1970860876799549775/photo/1",
+              "media_key": "3_1970860868142510080",
+              "start": 31,
+              "url": "https://t.co/c6t5nXiAE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970860876799549775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 511718,
+          "like_count": 1672,
+          "quote_count": 17,
+          "reply_count": 245,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "用过telegram\n你就知道同样的消息量\n微信有多垃圾…… https://t.co/c6t5nXiAE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1182,
+          "like_count": 56293,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 6303
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T17:08:22.000Z",
+        "description": "🌟 Retire by 35! One billion is enough! 💰✨\n🔗 Recommended AI Navigation Site: https://t.co/8WpyzDSdwM 🌐",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "navtoai.com",
+                "end": 99,
+                "expanded_url": "https://navtoai.com",
+                "start": 76,
+                "url": "https://t.co/8WpyzDSdwM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaosis.com",
+                "end": 23,
+                "expanded_url": "https://yaosis.com",
+                "start": 0,
+                "url": "https://t.co/qHoAcZjV62"
+              }
+            ]
+          }
+        },
+        "id": "1596913744403378177",
+        "location": "silicon valley",
+        "name": "Yaosis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871437115822944257/wETwEDQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7290,
+          "following_count": 974,
+          "like_count": 11405,
+          "listed_count": 55,
+          "media_count": 1744,
+          "tweet_count": 14381
+        },
+        "url": "https://t.co/qHoAcZjV62",
+        "username": "yaosiscom",
+        "verified": true
+      }
+    ]
+  }
+}

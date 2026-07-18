@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2062064770250108928"
+      ],
+      "media_source_tweet_id": [
+        "2062065587841565073"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2062133842732044516",
+    "created_at": "2026-06-03T11:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062133842732044516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1108658732295028737",
+          "start": 3,
+          "username": "hatachi0525"
+        },
+        {
+          "end": 36,
+          "id": "1519649212736049152",
+          "start": 23,
+          "username": "Mark67358226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EmRHExNIDj",
+          "end": 78,
+          "expanded_url": "https://x.com/hatachi0525/status/2062065587841565073/video/1",
+          "media_key": "7_2062064770250108928",
+          "start": 55,
+          "url": "https://t.co/EmRHExNIDj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062133842732044516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062065587841565073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hatachi0525: 來 上教學\n@Mark67358226 \n但我自己是切藥器派的，一拍就好了 https://t.co/EmRHExNIDj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16368,
+        "height": 960,
+        "media_key": "7_2062064770250108928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062064770250108928/pu/img/WqPwwnlitIWwdOA8.jpg",
+        "public_metrics": {
+          "view_count": 1035
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062064770250108928/pu/vid/avc1/320x426/aS-c_yZV1X4LLUn7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062064770250108928/pu/vid/avc1/480x640/gRaMkk3_umkB2wJT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062064770250108928/pu/vid/avc1/720x960/7jaVvnUSTvE06YLF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062064770250108928/pu/pl/YjA6fLXb2LfFLqFf.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062064770250108928"
+          ],
+          "media_source_tweet_id": [
+            "2062065587841565073"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2062133842732044516",
+        "created_at": "2026-06-03T11:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062133842732044516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1108658732295028737",
+              "start": 3,
+              "username": "hatachi0525"
+            },
+            {
+              "end": 36,
+              "id": "1519649212736049152",
+              "start": 23,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmRHExNIDj",
+              "end": 78,
+              "expanded_url": "https://x.com/hatachi0525/status/2062065587841565073/video/1",
+              "media_key": "7_2062064770250108928",
+              "start": 55,
+              "url": "https://t.co/EmRHExNIDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062133842732044516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062065587841565073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hatachi0525: 來 上教學\n@Mark67358226 \n但我自己是切藥器派的，一拍就好了 https://t.co/EmRHExNIDj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062064770250108928"
+          ]
+        },
+        "author_id": "1108658732295028737",
+        "conversation_id": "2062065587841565073",
+        "created_at": "2026-06-03T06:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:52:12.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062064793889198555",
+          "2062065308303790087",
+          "2062065587841565073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1519649212736049152",
+              "start": 6,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmRHExNIDj",
+              "end": 61,
+              "expanded_url": "https://x.com/hatachi0525/status/2062065587841565073/video/1",
+              "media_key": "7_2062064770250108928",
+              "start": 38,
+              "url": "https://t.co/EmRHExNIDj"
+            },
+            {
+              "display_url": "x.com/Mark67358226/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Mark67358226/status/2061780080725017036",
+              "start": 62,
+              "url": "https://t.co/C5KMgETNsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062065587841565073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3298,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061780080725017036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "來 上教學\n@Mark67358226 \n但我自己是切藥器派的，一拍就好了 https://t.co/EmRHExNIDj https://t.co/C5KMgETNsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3152,
+          "following_count": 3012,
+          "like_count": 110234,
+          "listed_count": 7,
+          "media_count": 799,
+          "tweet_count": 13423
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "171/47 1997.5.25出廠\n2016.12.19取證 含糖起始日不可考約早一年\n\n泛性戀？但是可以確定是個顏值控，母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私 因為自主fo我會看文章內容",
+        "id": "1108658732295028737",
+        "location": "台灣",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2059704438118613178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059730096697782272/UItS3II-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 87,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 421
+        },
+        "username": "hatachi0525",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 960,
+          "like_count": 13635,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 2968
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

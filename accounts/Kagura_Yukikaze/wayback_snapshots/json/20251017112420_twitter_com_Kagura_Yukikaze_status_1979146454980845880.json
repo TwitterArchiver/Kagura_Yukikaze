@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978993256693186560"
+      ],
+      "media_source_tweet_id": [
+        "1978993264230277448"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1979146454980845880",
+    "created_at": "2025-10-17T11:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T12:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979146454980845880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/14h3PUSiNA",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/1978993264230277448/photo/1",
+          "media_key": "3_1978993256693186560",
+          "start": 11,
+          "url": "https://t.co/14h3PUSiNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979146454980845880",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978993264230277448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/14h3PUSiNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_1978993256693186560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3bL4b4XQAAXhNo.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978993256693186560"
+          ],
+          "media_source_tweet_id": [
+            "1978993264230277448"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1979146454980845880",
+        "created_at": "2025-10-17T11:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979146454980845880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14h3PUSiNA",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/1978993264230277448/photo/1",
+              "media_key": "3_1978993256693186560",
+              "start": 11,
+              "url": "https://t.co/14h3PUSiNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979146454980845880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978993264230277448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/14h3PUSiNA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978993256693186560"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1978993264230277448",
+        "created_at": "2025-10-17T01:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T02:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978993264230277448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14h3PUSiNA",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1978993264230277448/photo/1",
+              "media_key": "3_1978993256693186560",
+              "start": 0,
+              "url": "https://t.co/14h3PUSiNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978993264230277448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 52899,
+          "like_count": 884,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/14h3PUSiNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is Kagura Yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 1535,
+          "like_count": 63510,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 7176
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1971459791269843266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91544,
+          "following_count": 2795,
+          "like_count": 43091,
+          "listed_count": 120,
+          "media_count": 2859,
+          "tweet_count": 7167
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

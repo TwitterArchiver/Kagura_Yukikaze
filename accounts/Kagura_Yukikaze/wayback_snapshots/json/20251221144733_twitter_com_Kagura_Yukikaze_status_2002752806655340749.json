@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2002697431985910114",
+    "created_at": "2025-12-21T14:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T15:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002752806655340749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786903427808829440",
+          "start": 0,
+          "username": "wing4120161014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002752806655340749",
+    "in_reply_to_user_id": "786903427808829440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002752679303586154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wing4120161014 可不止后台这么简单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2002697431985910114",
+        "created_at": "2025-12-21T14:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002752806655340749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786903427808829440",
+              "start": 0,
+              "username": "wing4120161014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002752806655340749",
+        "in_reply_to_user_id": "786903427808829440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002752679303586154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wing4120161014 可不止后台这么简单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786903427808829440",
+        "conversation_id": "2002697431985910114",
+        "created_at": "2025-12-21T14:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002752679303586154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002752679303586154",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002697431985910114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 文明社会有这种奇怪的学校，后台真的硬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 2104,
+          "like_count": 77439,
+          "listed_count": 2,
+          "media_count": 579,
+          "tweet_count": 8812
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-14T12:16:11.000Z",
+        "description": "",
+        "id": "786903427808829440",
+        "name": "wing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998753689071398915/hfIUBzV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 1167,
+          "like_count": 12625,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2560
+        },
+        "username": "wing4120161014",
+        "verified": false
+      }
+    ]
+  }
+}

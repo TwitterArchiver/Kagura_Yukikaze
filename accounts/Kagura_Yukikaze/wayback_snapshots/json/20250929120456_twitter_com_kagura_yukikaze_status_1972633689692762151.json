@@ -1,0 +1,663 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972505436474458112",
+        "3_1972505436478652416",
+        "3_1972505436470267904",
+        "3_1972505436491325440"
+      ],
+      "media_source_tweet_id": [
+        "1972505460768210980",
+        "1972505460768210980",
+        "1972505460768210980",
+        "1972505460768210980"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1972633689692762151",
+    "created_at": "2025-09-29T12:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T13:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972633689692762151"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Apple",
+          "probability": 0.5857,
+          "start": 18,
+          "type": "Organization"
+        },
+        {
+          "end": 40,
+          "normalized_text": "iPad Pro",
+          "probability": 0.7493,
+          "start": 33,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1471438230176382977",
+          "start": 3,
+          "username": "privatetalky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VKztDwaE50",
+          "end": 84,
+          "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+          "media_key": "3_1972505436474458112",
+          "start": 61,
+          "url": "https://t.co/VKztDwaE50"
+        },
+        {
+          "display_url": "pic.x.com/VKztDwaE50",
+          "end": 84,
+          "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+          "media_key": "3_1972505436478652416",
+          "start": 61,
+          "url": "https://t.co/VKztDwaE50"
+        },
+        {
+          "display_url": "pic.x.com/VKztDwaE50",
+          "end": 84,
+          "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+          "media_key": "3_1972505436470267904",
+          "start": 61,
+          "url": "https://t.co/VKztDwaE50"
+        },
+        {
+          "display_url": "pic.x.com/VKztDwaE50",
+          "end": 84,
+          "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+          "media_key": "3_1972505436491325440",
+          "start": 61,
+          "url": "https://t.co/VKztDwaE50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972633689692762151",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972505460768210980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @privatetalky: Apple in 2015: iPad Pro Thin. Light. Epic. https://t.co/VKztDwaE50"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1972505436474458112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-_PmKWQAA6dEs.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1972505436478652416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-_PmLWQAAwbk9.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1972505436470267904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-_PmJWUAAFQLQ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1972505436491325440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-_PmOXoAA6BAn.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972505436474458112",
+            "3_1972505436478652416",
+            "3_1972505436470267904",
+            "3_1972505436491325440"
+          ],
+          "media_source_tweet_id": [
+            "1972505460768210980",
+            "1972505460768210980",
+            "1972505460768210980",
+            "1972505460768210980"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1972633689692762151",
+        "created_at": "2025-09-29T12:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972633689692762151"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Apple",
+              "probability": 0.5857,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 40,
+              "normalized_text": "iPad Pro",
+              "probability": 0.7493,
+              "start": 33,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471438230176382977",
+              "start": 3,
+              "username": "privatetalky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKztDwaE50",
+              "end": 84,
+              "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+              "media_key": "3_1972505436474458112",
+              "start": 61,
+              "url": "https://t.co/VKztDwaE50"
+            },
+            {
+              "display_url": "pic.x.com/VKztDwaE50",
+              "end": 84,
+              "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+              "media_key": "3_1972505436478652416",
+              "start": 61,
+              "url": "https://t.co/VKztDwaE50"
+            },
+            {
+              "display_url": "pic.x.com/VKztDwaE50",
+              "end": 84,
+              "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+              "media_key": "3_1972505436470267904",
+              "start": 61,
+              "url": "https://t.co/VKztDwaE50"
+            },
+            {
+              "display_url": "pic.x.com/VKztDwaE50",
+              "end": 84,
+              "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+              "media_key": "3_1972505436491325440",
+              "start": 61,
+              "url": "https://t.co/VKztDwaE50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972633689692762151",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972505460768210980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @privatetalky: Apple in 2015: iPad Pro Thin. Light. Epic. https://t.co/VKztDwaE50"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972505436474458112",
+            "3_1972505436478652416",
+            "3_1972505436470267904",
+            "3_1972505436491325440"
+          ]
+        },
+        "author_id": "1471438230176382977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1972505460768210980",
+        "created_at": "2025-09-29T03:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972505460768210980"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Apple",
+              "probability": 0.6163,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 22,
+              "normalized_text": "iPad Pro",
+              "probability": 0.7975,
+              "start": 15,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKztDwaE50",
+              "end": 66,
+              "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+              "media_key": "3_1972505436474458112",
+              "start": 43,
+              "url": "https://t.co/VKztDwaE50"
+            },
+            {
+              "display_url": "pic.x.com/VKztDwaE50",
+              "end": 66,
+              "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+              "media_key": "3_1972505436478652416",
+              "start": 43,
+              "url": "https://t.co/VKztDwaE50"
+            },
+            {
+              "display_url": "pic.x.com/VKztDwaE50",
+              "end": 66,
+              "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+              "media_key": "3_1972505436470267904",
+              "start": 43,
+              "url": "https://t.co/VKztDwaE50"
+            },
+            {
+              "display_url": "pic.x.com/VKztDwaE50",
+              "end": 66,
+              "expanded_url": "https://x.com/privatetalky/status/1972505460768210980/photo/1",
+              "media_key": "3_1972505436491325440",
+              "start": 43,
+              "url": "https://t.co/VKztDwaE50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972505460768210980",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 34093,
+          "like_count": 675,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "Apple in 2015: iPad Pro Thin. Light. Epic. https://t.co/VKztDwaE50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 1283,
+          "like_count": 58110,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6502
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T11:13:21.000Z",
+        "description": "Designer Visual Artist  Content Creator & Your go-to wallpaper craftsman | Lead artist @radiance_app",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "radiance_app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "privatetalky.com",
+                "end": 23,
+                "expanded_url": "https://www.privatetalky.com",
+                "start": 0,
+                "url": "https://t.co/DAyMZU5PZX"
+              }
+            ]
+          }
+        },
+        "id": "1471438230176382977",
+        "name": "Private Talky",
+        "pinned_tweet_id": "1968969023112016074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777640029667385344/4v1BDNUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21567,
+          "following_count": 241,
+          "like_count": 46291,
+          "listed_count": 61,
+          "media_count": 2701,
+          "tweet_count": 9450
+        },
+        "url": "https://t.co/DAyMZU5PZX",
+        "username": "privatetalky",
+        "verified": true
+      }
+    ]
+  }
+}

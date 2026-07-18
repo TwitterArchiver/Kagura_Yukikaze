@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062965454331854848",
+        "3_2062965454268952576",
+        "3_2062965454474473472"
+      ],
+      "media_source_tweet_id": [
+        "2062965464108773865",
+        "2062965464108773865",
+        "2062965464108773865"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063209504372936844",
+    "created_at": "2026-06-06T10:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063209504372936844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2052797343154446337",
+          "start": 3,
+          "username": "MeTerminator666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iPQ0xwzC6t",
+          "end": 138,
+          "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+          "media_key": "3_2062965454331854848",
+          "start": 115,
+          "url": "https://t.co/iPQ0xwzC6t"
+        },
+        {
+          "display_url": "pic.x.com/iPQ0xwzC6t",
+          "end": 138,
+          "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+          "media_key": "3_2062965454268952576",
+          "start": 115,
+          "url": "https://t.co/iPQ0xwzC6t"
+        },
+        {
+          "display_url": "pic.x.com/iPQ0xwzC6t",
+          "end": 138,
+          "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+          "media_key": "3_2062965454474473472",
+          "start": 115,
+          "url": "https://t.co/iPQ0xwzC6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063209504372936844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062965464108773865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeTerminator666: 实在是忍受不了了，我必须要发出来。。。\n\n我的一个朋友，他爹没收了他的手机，解散了他的Apple家庭组，威胁微信和推特的好友不要再和他交往，并删除好友，头像和昵称被他爹修改。。。。。。… https://t.co/iPQ0xwzC6t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2062965454331854848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEgJpFaQAASvGW.jpg",
+        "width": 698
+      },
+      {
+        "height": 654,
+        "media_key": "3_2062965454268952576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEgJo2acAATfVl.jpg",
+        "width": 574
+      },
+      {
+        "height": 212,
+        "media_key": "3_2062965454474473472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEgJpnacAADY2y.jpg",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062965454331854848",
+            "3_2062965454268952576",
+            "3_2062965454474473472"
+          ],
+          "media_source_tweet_id": [
+            "2062965464108773865",
+            "2062965464108773865",
+            "2062965464108773865"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063209504372936844",
+        "created_at": "2026-06-06T10:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063209504372936844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2052797343154446337",
+              "start": 3,
+              "username": "MeTerminator666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPQ0xwzC6t",
+              "end": 138,
+              "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+              "media_key": "3_2062965454331854848",
+              "start": 115,
+              "url": "https://t.co/iPQ0xwzC6t"
+            },
+            {
+              "display_url": "pic.x.com/iPQ0xwzC6t",
+              "end": 138,
+              "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+              "media_key": "3_2062965454268952576",
+              "start": 115,
+              "url": "https://t.co/iPQ0xwzC6t"
+            },
+            {
+              "display_url": "pic.x.com/iPQ0xwzC6t",
+              "end": 138,
+              "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+              "media_key": "3_2062965454474473472",
+              "start": 115,
+              "url": "https://t.co/iPQ0xwzC6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063209504372936844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062965464108773865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeTerminator666: 实在是忍受不了了，我必须要发出来。。。\n\n我的一个朋友，他爹没收了他的手机，解散了他的Apple家庭组，威胁微信和推特的好友不要再和他交往，并删除好友，头像和昵称被他爹修改。。。。。。… https://t.co/iPQ0xwzC6t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062965454331854848",
+            "3_2062965454268952576",
+            "3_2062965454474473472"
+          ]
+        },
+        "author_id": "2052797343154446337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062965464108773865",
+        "created_at": "2026-06-05T18:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062965464108773865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPQ0xwzC6t",
+              "end": 116,
+              "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+              "media_key": "3_2062965454331854848",
+              "start": 93,
+              "url": "https://t.co/iPQ0xwzC6t"
+            },
+            {
+              "display_url": "pic.x.com/iPQ0xwzC6t",
+              "end": 116,
+              "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+              "media_key": "3_2062965454268952576",
+              "start": 93,
+              "url": "https://t.co/iPQ0xwzC6t"
+            },
+            {
+              "display_url": "pic.x.com/iPQ0xwzC6t",
+              "end": 116,
+              "expanded_url": "https://x.com/MeTerminator666/status/2062965464108773865/photo/1",
+              "media_key": "3_2062965454474473472",
+              "start": 93,
+              "url": "https://t.co/iPQ0xwzC6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062965464108773865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "实在是忍受不了了，我必须要发出来。。。\n\n我的一个朋友，他爹没收了他的手机，解散了他的Apple家庭组，威胁微信和推特的好友不要再和他交往，并删除好友，头像和昵称被他爹修改。。。。。。\n\n作为一个父亲，你有什么权利收回你孩子的社交账号？微信，推特都是他自己拿海外手机号注册的，你凭什么随意拿走，还这样肆意的破坏自己孩子的社交圈？\n\n“未成年的账户我收回了”\n“我是他父亲 谢谢”\n\n光是看着这些绝望的文字就感受到了强烈的控制欲和窒息感，你应该庆幸你孩子还能活到现在\n\n别的话我也不想多说了，祝他早日逃离原生家庭吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5366,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "实在是忍受不了了，我必须要发出来。。。\n\n我的一个朋友，他爹没收了他的手机，解散了他的Apple家庭组，威胁微信和推特的好友不要再和他交往，并删除好友，头像和昵称被他爹修改。。。。。。 https://t.co/iPQ0xwzC6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 3027,
+          "like_count": 110546,
+          "listed_count": 7,
+          "media_count": 801,
+          "tweet_count": 13480
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T17:07:27.000Z",
+        "description": "你好哇——这里是MeT，一只🐾福瑞🐾小猫猫，Developer & CTFer，喜欢玩很多游戏，无雷点，欢迎私信扩列owo",
+        "id": "2052797343154446337",
+        "name": "MeT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052797641218551808/EjoeNb1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 291,
+          "like_count": 1780,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 232
+        },
+        "username": "MeTerminator666",
+        "verified": true
+      }
+    ]
+  }
+}

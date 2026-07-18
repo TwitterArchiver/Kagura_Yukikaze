@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049531328673304576"
+      ],
+      "media_source_tweet_id": [
+        "2049531493652009053"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2050004777355133006",
+    "created_at": "2026-05-01T00:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T01:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050004777355133006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHdITO4cWF",
+          "end": 66,
+          "expanded_url": "https://x.com/smiroyama/status/2049531493652009053/photo/1",
+          "media_key": "3_2049531328673304576",
+          "start": 43,
+          "url": "https://t.co/XHdITO4cWF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050004777355133006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049531493652009053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 当时想了一个通宵，最终还是请教了 Gemini 老师😭 https://t.co/XHdITO4cWF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2049531328673304576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFl4nGbUAAKz2c.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049531328673304576"
+          ],
+          "media_source_tweet_id": [
+            "2049531493652009053"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2050004777355133006",
+        "created_at": "2026-05-01T00:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050004777355133006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHdITO4cWF",
+              "end": 66,
+              "expanded_url": "https://x.com/smiroyama/status/2049531493652009053/photo/1",
+              "media_key": "3_2049531328673304576",
+              "start": 43,
+              "url": "https://t.co/XHdITO4cWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050004777355133006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049531493652009053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 当时想了一个通宵，最终还是请教了 Gemini 老师😭 https://t.co/XHdITO4cWF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049531328673304576"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2049531493652009053",
+        "created_at": "2026-04-29T16:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049531493652009053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHdITO4cWF",
+              "end": 51,
+              "expanded_url": "https://x.com/smiroyama/status/2049531493652009053/photo/1",
+              "media_key": "3_2049531328673304576",
+              "start": 28,
+              "url": "https://t.co/XHdITO4cWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049531493652009053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 157824,
+          "like_count": 1738,
+          "quote_count": 5,
+          "reply_count": 103,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "当时想了一个通宵，最终还是请教了 Gemini 老师😭 https://t.co/XHdITO4cWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 2869,
+          "like_count": 103692,
+          "listed_count": 6,
+          "media_count": 771,
+          "tweet_count": 12603
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4140,
+          "following_count": 2098,
+          "like_count": 9498,
+          "listed_count": 11,
+          "media_count": 1423,
+          "tweet_count": 5772
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2037532689704869928",
+    "created_at": "2026-03-27T14:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037532689704869928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1713050867786526720",
+          "start": 3,
+          "username": "siuuuuneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037532689704869928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037497056806514710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siuuuuneo: 明天会被强制拉精卫\n才17....怎么办..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2037532689704869928",
+        "created_at": "2026-03-27T14:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037532689704869928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1713050867786526720",
+              "start": 3,
+              "username": "siuuuuneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037532689704869928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037497056806514710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siuuuuneo: 明天会被强制拉精卫\n才17....怎么办..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713050867786526720",
+        "conversation_id": "2037497056806514710",
+        "created_at": "2026-03-27T11:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037497056806514710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037497056806514710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "明天会被强制拉精卫\n才17....怎么办..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 2699,
+          "like_count": 96557,
+          "listed_count": 2,
+          "media_count": 725,
+          "tweet_count": 11497
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T04:35:39.000Z",
+        "description": "饿了可以吃小黄鱼w）一辈子的@6mhzph",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "6mhzph"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/siuuuuneo",
+                "end": 23,
+                "expanded_url": "http://t.me/siuuuuneo",
+                "start": 0,
+                "url": "https://t.co/iJ4mHEWlX9"
+              }
+            ]
+          }
+        },
+        "id": "1713050867786526720",
+        "location": "重庆",
+        "name": "小黄鱼a",
+        "pinned_tweet_id": "2031437440414789980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002637813850963968/jt2chCNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1303,
+          "like_count": 10415,
+          "listed_count": 1,
+          "media_count": 546,
+          "tweet_count": 3998
+        },
+        "url": "https://t.co/iJ4mHEWlX9",
+        "username": "siuuuuneo",
+        "verified": false
+      }
+    ]
+  }
+}

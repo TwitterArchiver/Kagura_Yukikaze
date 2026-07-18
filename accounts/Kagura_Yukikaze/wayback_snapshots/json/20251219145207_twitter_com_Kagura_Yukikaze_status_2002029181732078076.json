@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001945905709346816"
+      ],
+      "media_source_tweet_id": [
+        "2001945914668363979"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2002029181732078076",
+    "created_at": "2025-12-19T14:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T15:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002029181732078076"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "phigos",
+          "probability": 0.5734,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568630739662696448",
+          "start": 3,
+          "username": "trg_maimai"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtube.com/live/usL2scD2_…",
+          "end": 47,
+          "expanded_url": "https://www.youtube.com/live/usL2scD2_cw?si=Me3E64kbtdILw-wY",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2001945915335319552/iYVua3l_?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2001945915335319552/iYVua3l_?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "phigos maimai collab",
+          "unwound_url": "https://www.youtube.com/live/usL2scD2_cw?si=Me3E64kbtdILw-wY",
+          "url": "https://t.co/diQps3U9jO"
+        },
+        {
+          "display_url": "pic.x.com/m4YQov3Kt1",
+          "end": 71,
+          "expanded_url": "https://x.com/trg_maimai/status/2001945914668363979/photo/1",
+          "media_key": "3_2001945905709346816",
+          "start": 48,
+          "url": "https://t.co/m4YQov3Kt1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002029181732078076",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001945914668363979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trg_maimai: phigos\n\nhttps://t.co/diQps3U9jO https://t.co/m4YQov3Kt1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2001945905709346816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hXMclacAAqrIQ.jpg",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001945905709346816"
+          ],
+          "media_source_tweet_id": [
+            "2001945914668363979"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2002029181732078076",
+        "created_at": "2025-12-19T14:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002029181732078076"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "phigos",
+              "probability": 0.5734,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568630739662696448",
+              "start": 3,
+              "username": "trg_maimai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/live/usL2scD2_…",
+              "end": 47,
+              "expanded_url": "https://www.youtube.com/live/usL2scD2_cw?si=Me3E64kbtdILw-wY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2001945915335319552/iYVua3l_?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001945915335319552/iYVua3l_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "phigos maimai collab",
+              "unwound_url": "https://www.youtube.com/live/usL2scD2_cw?si=Me3E64kbtdILw-wY",
+              "url": "https://t.co/diQps3U9jO"
+            },
+            {
+              "display_url": "pic.x.com/m4YQov3Kt1",
+              "end": 71,
+              "expanded_url": "https://x.com/trg_maimai/status/2001945914668363979/photo/1",
+              "media_key": "3_2001945905709346816",
+              "start": 48,
+              "url": "https://t.co/m4YQov3Kt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002029181732078076",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001945914668363979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trg_maimai: phigos\n\nhttps://t.co/diQps3U9jO https://t.co/m4YQov3Kt1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001945905709346816"
+          ]
+        },
+        "author_id": "1568630739662696448",
+        "conversation_id": "2001945914668363979",
+        "created_at": "2025-12-19T09:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001945914668363979"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "phigos",
+              "probability": 0.4259,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/live/usL2scD2_…",
+              "end": 31,
+              "expanded_url": "https://www.youtube.com/live/usL2scD2_cw?si=Me3E64kbtdILw-wY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2001945915335319552/iYVua3l_?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001945915335319552/iYVua3l_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "phigos maimai collab",
+              "unwound_url": "https://www.youtube.com/live/usL2scD2_cw?si=Me3E64kbtdILw-wY",
+              "url": "https://t.co/diQps3U9jO"
+            },
+            {
+              "display_url": "pic.x.com/m4YQov3Kt1",
+              "end": 55,
+              "expanded_url": "https://x.com/trg_maimai/status/2001945914668363979/photo/1",
+              "media_key": "3_2001945905709346816",
+              "start": 32,
+              "url": "https://t.co/m4YQov3Kt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001945914668363979",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1584,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "phigos\n\nhttps://t.co/diQps3U9jO https://t.co/m4YQov3Kt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 2090,
+          "like_count": 77069,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 8745
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T16:01:37.000Z",
+        "description": "maimai player from Thailand 🇹🇭, KoP6th 1st runner up 🥈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trg_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@trg_maimai",
+                "start": 0,
+                "url": "https://t.co/LnN1vle8Rb"
+              }
+            ]
+          }
+        },
+        "id": "1568630739662696448",
+        "name": "TRG",
+        "pinned_tweet_id": "1993704774370570266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673207136757878785/Ll1Gic7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12800,
+          "following_count": 427,
+          "like_count": 4644,
+          "listed_count": 10,
+          "media_count": 603,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/LnN1vle8Rb",
+        "username": "trg_maimai",
+        "verified": true
+      }
+    ]
+  }
+}

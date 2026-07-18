@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014759982483267584"
+      ],
+      "media_source_tweet_id": [
+        "2014759985662853424"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2014807816117338457",
+    "created_at": "2026-01-23T21:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T22:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014807816117338457"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Emily",
+          "probability": 0.7323,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1914648489868525568",
+          "start": 3,
+          "username": "he_xuan33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eGGcg6f4Yp",
+          "end": 47,
+          "expanded_url": "https://x.com/he_xuan33/status/2014759985662853424/photo/1",
+          "media_key": "3_2014759982483267584",
+          "start": 24,
+          "url": "https://t.co/eGGcg6f4Yp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014807816117338457",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014759985662853424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @he_xuan33: Emily x3 https://t.co/eGGcg6f4Yp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014759982483267584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Xdh4eWYAA7h5y.jpg",
+        "width": 1795
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014759982483267584"
+          ],
+          "media_source_tweet_id": [
+            "2014759985662853424"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2014807816117338457",
+        "created_at": "2026-01-23T21:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T22:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014807816117338457"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Emily",
+              "probability": 0.7323,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1914648489868525568",
+              "start": 3,
+              "username": "he_xuan33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGGcg6f4Yp",
+              "end": 47,
+              "expanded_url": "https://x.com/he_xuan33/status/2014759985662853424/photo/1",
+              "media_key": "3_2014759982483267584",
+              "start": 24,
+              "url": "https://t.co/eGGcg6f4Yp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014807816117338457",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014759985662853424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @he_xuan33: Emily x3 https://t.co/eGGcg6f4Yp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014759982483267584"
+          ]
+        },
+        "author_id": "1914648489868525568",
+        "conversation_id": "2014759985662853424",
+        "created_at": "2026-01-23T17:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014759985662853424"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Emily",
+              "probability": 0.7482,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGGcg6f4Yp",
+              "end": 32,
+              "expanded_url": "https://x.com/he_xuan33/status/2014759985662853424/photo/1",
+              "media_key": "3_2014759982483267584",
+              "start": 9,
+              "url": "https://t.co/eGGcg6f4Yp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014759985662853424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 4120,
+          "like_count": 494,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "Emily x3 https://t.co/eGGcg6f4Yp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 2273,
+          "like_count": 82556,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 9618
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T11:53:19.000Z",
+        "description": "just a silly guy who loves drawing mentally ill characters | they/them",
+        "id": "1914648489868525568",
+        "name": "Shadow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914649571311210496/mwqDw5yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 143,
+          "like_count": 8146,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 553
+        },
+        "username": "he_xuan33",
+        "verified": false
+      }
+    ]
+  }
+}

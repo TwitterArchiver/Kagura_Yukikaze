@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2059924154527494297",
+    "created_at": "2026-05-28T09:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059924154527494297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059924154527494297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059519037655421280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 和朋友聊天，得到了很悲观的结论。目前符合亚洲审美并且出品相对稳定的srs来自于411的赵博和pai的布林。考虑到这两位都有过劳的职业病，如果他们还能在干三年，按照平均一天一例的数字也只剩两千个位置。对于一些手术要求高的跨女来说，如果赶不上，可能面…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2059924154527494297",
+        "created_at": "2026-05-28T09:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059924154527494297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059924154527494297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059519037655421280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 和朋友聊天，得到了很悲观的结论。目前符合亚洲审美并且出品相对稳定的srs来自于411的赵博和pai的布林。考虑到这两位都有过劳的职业病，如果他们还能在干三年，按照平均一天一例的数字也只剩两千个位置。对于一些手术要求高的跨女来说，如果赶不上，可能面…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2059519037655421280",
+        "created_at": "2026-05-27T06:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059519037655421280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059519037655421280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 26332,
+          "like_count": 166,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友聊天，得到了很悲观的结论。目前符合亚洲审美并且出品相对稳定的srs来自于411的赵博和pai的布林。考虑到这两位都有过劳的职业病，如果他们还能在干三年，按照平均一天一例的数字也只剩两千个位置。对于一些手术要求高的跨女来说，如果赶不上，可能面临6-8年无批可做的情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 2988,
+          "like_count": 108877,
+          "listed_count": 7,
+          "media_count": 795,
+          "tweet_count": 13279
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22973,
+          "following_count": 197,
+          "like_count": 720,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 23609
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

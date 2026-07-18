@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1989734571529969664"
+      ],
+      "media_source_tweet_id": [
+        "1989734600973979766"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990092615094813066",
+    "created_at": "2025-11-16T16:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T17:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990092615094813066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827756117025546240",
+          "start": 3,
+          "username": "rikkun_56562"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZllevRzWaA",
+          "end": 60,
+          "expanded_url": "https://x.com/rikkun_56562/status/1989734600973979766/video/1",
+          "media_key": "7_1989734571529969664",
+          "start": 37,
+          "url": "https://t.co/ZllevRzWaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990092615094813066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989734600973979766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rikkun_56562: 昔は触ると喋ってたと聞いてやってみた https://t.co/ZllevRzWaA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9173,
+        "height": 1280,
+        "media_key": "7_1989734571529969664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989734571529969664/pu/img/FcBaG7jNdQOb-b99.jpg",
+        "public_metrics": {
+          "view_count": 21361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989734571529969664/pu/vid/avc1/320x568/RbwF_nh7iJQCJSab.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989734571529969664/pu/vid/avc1/480x852/ThADI3JYDczAFVZh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989734571529969664/pu/vid/avc1/720x1280/FpbeYYmOVlQbZtTS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989734571529969664/pu/pl/yUZycxU0nIckYvQq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989734571529969664"
+          ],
+          "media_source_tweet_id": [
+            "1989734600973979766"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990092615094813066",
+        "created_at": "2025-11-16T16:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990092615094813066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827756117025546240",
+              "start": 3,
+              "username": "rikkun_56562"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZllevRzWaA",
+              "end": 60,
+              "expanded_url": "https://x.com/rikkun_56562/status/1989734600973979766/video/1",
+              "media_key": "7_1989734571529969664",
+              "start": 37,
+              "url": "https://t.co/ZllevRzWaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990092615094813066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989734600973979766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rikkun_56562: 昔は触ると喋ってたと聞いてやってみた https://t.co/ZllevRzWaA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989734571529969664"
+          ]
+        },
+        "author_id": "1827756117025546240",
+        "conversation_id": "1989734600973979766",
+        "created_at": "2025-11-15T16:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989734600973979766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZllevRzWaA",
+              "end": 42,
+              "expanded_url": "https://x.com/rikkun_56562/status/1989734600973979766/video/1",
+              "media_key": "7_1989734571529969664",
+              "start": 19,
+              "url": "https://t.co/ZllevRzWaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989734600973979766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 83397,
+          "like_count": 571,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "昔は触ると喋ってたと聞いてやってみた https://t.co/ZllevRzWaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 1850,
+          "like_count": 70613,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 7885
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T17:13:27.000Z",
+        "description": "社会人2年目 ¦ '23十段 ¦ maimai レート  16377 Team∑α/K∑/@ a 舞の弟子 @Ethi_opi4 ¦ ウニ 前17.05 現12.37 ゆずソフ党 僕より上手いウニの弟子 @matchatea_ice ¦ ろべりあ ¦ アイコン @aikami_game",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "Ethi_opi4"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "matchatea_ice"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "aikami_game"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@rikkun-56562",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@rikkun-56562",
+                "start": 0,
+                "url": "https://t.co/EAJF0HY0BS"
+              }
+            ]
+          }
+        },
+        "id": "1827756117025546240",
+        "location": "愛知",
+        "name": "りっくん",
+        "pinned_tweet_id": "1981781469954814353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981771298565947392/MNsp48pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 912,
+          "like_count": 5929,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/EAJF0HY0BS",
+        "username": "rikkun_56562",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050788127867097088"
+      ],
+      "media_source_tweet_id": [
+        "2050788142329000092"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2051082638589669700",
+    "created_at": "2026-05-03T23:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T00:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051082638589669700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OxogiFx1RR",
+          "end": 55,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2050788142329000092/photo/1",
+          "media_key": "3_2050788127867097088",
+          "start": 32,
+          "url": "https://t.co/OxogiFx1RR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051082638589669700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050788142329000092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 这下苹果的恩情真还不完了 https://t.co/OxogiFx1RR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2050788127867097088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXc788bUAApiCR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050788127867097088"
+          ],
+          "media_source_tweet_id": [
+            "2050788142329000092"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2051082638589669700",
+        "created_at": "2026-05-03T23:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051082638589669700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxogiFx1RR",
+              "end": 55,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2050788142329000092/photo/1",
+              "media_key": "3_2050788127867097088",
+              "start": 32,
+              "url": "https://t.co/OxogiFx1RR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051082638589669700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050788142329000092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 这下苹果的恩情真还不完了 https://t.co/OxogiFx1RR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050788127867097088"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2050788142329000092",
+        "created_at": "2026-05-03T04:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050788142329000092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxogiFx1RR",
+              "end": 36,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2050788142329000092/photo/1",
+              "media_key": "3_2050788127867097088",
+              "start": 13,
+              "url": "https://t.co/OxogiFx1RR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050788142329000092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3529,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这下苹果的恩情真还不完了 https://t.co/OxogiFx1RR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 2887,
+          "like_count": 104274,
+          "listed_count": 7,
+          "media_count": 778,
+          "tweet_count": 12689
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2050197049195594047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 675,
+          "like_count": 6538,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

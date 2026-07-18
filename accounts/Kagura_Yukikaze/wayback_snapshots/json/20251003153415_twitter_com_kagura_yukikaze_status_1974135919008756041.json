@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961686965620994048"
+      ],
+      "media_source_tweet_id": [
+        "1961686969056117239"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1974135919008756041",
+    "created_at": "2025-10-03T15:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974135919008756041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1071694005417766912",
+          "start": 3,
+          "username": "shallow_omado"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhTnyHpl4g",
+          "end": 107,
+          "expanded_url": "https://x.com/shallow_omado/status/1961686969056117239/photo/1",
+          "media_key": "3_1961686965620994048",
+          "start": 84,
+          "url": "https://t.co/rhTnyHpl4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974135919008756041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961686969056117239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shallow_omado: ここまで来ると400PXを1人で直しても焼け石に水すぎる(しかも市松模様で埋められてるから塗り替えすのにだいぶ手間かかる...) https://t.co/rhTnyHpl4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1961686965620994048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzlP5tpacAAsx1U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961686965620994048"
+          ],
+          "media_source_tweet_id": [
+            "1961686969056117239"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1974135919008756041",
+        "created_at": "2025-10-03T15:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974135919008756041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1071694005417766912",
+              "start": 3,
+              "username": "shallow_omado"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhTnyHpl4g",
+              "end": 107,
+              "expanded_url": "https://x.com/shallow_omado/status/1961686969056117239/photo/1",
+              "media_key": "3_1961686965620994048",
+              "start": 84,
+              "url": "https://t.co/rhTnyHpl4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974135919008756041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961686969056117239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shallow_omado: ここまで来ると400PXを1人で直しても焼け石に水すぎる(しかも市松模様で埋められてるから塗り替えすのにだいぶ手間かかる...) https://t.co/rhTnyHpl4g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961686965620994048"
+          ]
+        },
+        "author_id": "1071694005417766912",
+        "conversation_id": "1960398608727204316",
+        "created_at": "2025-08-30T07:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961686969056117239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhTnyHpl4g",
+              "end": 88,
+              "expanded_url": "https://x.com/shallow_omado/status/1961686969056117239/photo/1",
+              "media_key": "3_1961686965620994048",
+              "start": 65,
+              "url": "https://t.co/rhTnyHpl4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961686969056117239",
+        "in_reply_to_user_id": "1071694005417766912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961686738788917341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ここまで来ると400PXを1人で直しても焼け石に水すぎる(しかも市松模様で埋められてるから塗り替えすのにだいぶ手間かかる...) https://t.co/rhTnyHpl4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1430,
+          "like_count": 59956,
+          "listed_count": 3,
+          "media_count": 496,
+          "tweet_count": 6723
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-09T09:12:16.000Z",
+        "description": "若干のプログラムとかを書くフロント園児ニアです。チノちゃんが好きです。機械学習技術をそこそこ使用します。English OK / ツイはCC-NC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "krr-prd.star-api.com",
+                "end": 23,
+                "expanded_url": "https://krr-prd.star-api.com",
+                "start": 0,
+                "url": "https://t.co/PajtplZbQP"
+              }
+            ]
+          }
+        },
+        "id": "1071694005417766912",
+        "location": "Tokyo, JP",
+        "name": "お窓@園児ニア",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848734139736068099/-LO0Kq2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 339,
+          "like_count": 6311,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/PajtplZbQP",
+        "username": "shallow_omado",
+        "verified": false
+      }
+    ]
+  }
+}

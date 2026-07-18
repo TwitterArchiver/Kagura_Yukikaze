@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2041164455388885503",
+    "created_at": "2026-04-06T16:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041198380203016588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1594240329158463495",
+          "start": 0,
+          "username": "Y_77671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041198380203016588",
+    "in_reply_to_user_id": "1594240329158463495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041164455388885503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_77671 很久以前就戒了od\n可惜肠胃炎留到了现在"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041164437860892672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOsPd7bwAAk9hV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041164437856702464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOsPd6b0AA-wrP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2041164455388885503",
+        "created_at": "2026-04-06T16:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041198380203016588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1594240329158463495",
+              "start": 0,
+              "username": "Y_77671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041198380203016588",
+        "in_reply_to_user_id": "1594240329158463495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041164455388885503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_77671 很久以前就戒了od\n可惜肠胃炎留到了现在"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041164437860892672",
+            "3_2041164437856702464"
+          ]
+        },
+        "author_id": "1594240329158463495",
+        "conversation_id": "2041164455388885503",
+        "created_at": "2026-04-06T14:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041164455388885503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqBGWTZk4g",
+              "end": 32,
+              "expanded_url": "https://x.com/Y_77671/status/2041164455388885503/photo/1",
+              "media_key": "3_2041164437860892672",
+              "start": 9,
+              "url": "https://t.co/UqBGWTZk4g"
+            },
+            {
+              "display_url": "pic.x.com/UqBGWTZk4g",
+              "end": 32,
+              "expanded_url": "https://x.com/Y_77671/status/2041164455388885503/photo/1",
+              "media_key": "3_2041164437856702464",
+              "start": 9,
+              "url": "https://t.co/UqBGWTZk4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041164455388885503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od导致的肠胃炎 https://t.co/UqBGWTZk4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 2782,
+          "like_count": 99599,
+          "listed_count": 3,
+          "media_count": 747,
+          "tweet_count": 12006
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T08:05:04.000Z",
+        "description": "不接受任何药物咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y77671",
+                "end": 23,
+                "expanded_url": "https://t.me/Y77671",
+                "start": 0,
+                "url": "https://t.co/HO8g4XQY7A"
+              }
+            ]
+          }
+        },
+        "id": "1594240329158463495",
+        "location": "维寒迪",
+        "name": "zako⭐️（辽宁版）",
+        "pinned_tweet_id": "1901282084871905491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872512946783535104/cq9gZcdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6544,
+          "following_count": 1292,
+          "like_count": 17926,
+          "listed_count": 11,
+          "media_count": 1000,
+          "tweet_count": 5193
+        },
+        "url": "https://t.co/HO8g4XQY7A",
+        "username": "Y_77671",
+        "verified": false
+      }
+    ]
+  }
+}

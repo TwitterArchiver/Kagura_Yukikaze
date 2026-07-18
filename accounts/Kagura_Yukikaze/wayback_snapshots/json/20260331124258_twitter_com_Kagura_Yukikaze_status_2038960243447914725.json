@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038960237521321984"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2038960243447914725",
+    "created_at": "2026-03-31T12:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038960243447914725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QjRKdT9i3H",
+          "end": 31,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/2038960243447914725/photo/1",
+          "media_key": "3_2038960237521321984",
+          "start": 8,
+          "url": "https://t.co/QjRKdT9i3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038960243447914725",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "观看中.ing https://t.co/QjRKdT9i3H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038960237521321984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvXiHyawAABMXn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038960237521321984"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2038960243447914725",
+        "created_at": "2026-03-31T12:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038960243447914725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjRKdT9i3H",
+              "end": 31,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2038960243447914725/photo/1",
+              "media_key": "3_2038960237521321984",
+              "start": 8,
+              "url": "https://t.co/QjRKdT9i3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038960243447914725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "观看中.ing https://t.co/QjRKdT9i3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|http://en-jp-cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 2723,
+          "like_count": 97572,
+          "listed_count": 3,
+          "media_count": 730,
+          "tweet_count": 11670
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

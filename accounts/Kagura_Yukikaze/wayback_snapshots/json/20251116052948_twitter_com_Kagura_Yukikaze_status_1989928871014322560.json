@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989801676702654464"
+      ],
+      "media_source_tweet_id": [
+        "1989801682579197974"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1989928871014322560",
+    "created_at": "2025-11-16T05:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T06:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989928871014322560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1304953938320306176",
+          "start": 3,
+          "username": "hry_xsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U3hDFbs744",
+          "end": 58,
+          "expanded_url": "https://x.com/hry_xsu/status/1989801682579197974/photo/1",
+          "media_key": "3_1989801676702654464",
+          "start": 35,
+          "url": "https://t.co/U3hDFbs744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989928871014322560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989801682579197974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hry_xsu: 她甚至13号发了动态，我却没刷到……😭😭😭 https://t.co/U3hDFbs744"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_1989801676702654464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G50yFSFWoAA2KXP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989801676702654464"
+          ],
+          "media_source_tweet_id": [
+            "1989801682579197974"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1989928871014322560",
+        "created_at": "2025-11-16T05:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989928871014322560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1304953938320306176",
+              "start": 3,
+              "username": "hry_xsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3hDFbs744",
+              "end": 58,
+              "expanded_url": "https://x.com/hry_xsu/status/1989801682579197974/photo/1",
+              "media_key": "3_1989801676702654464",
+              "start": 35,
+              "url": "https://t.co/U3hDFbs744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989928871014322560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989801682579197974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hry_xsu: 她甚至13号发了动态，我却没刷到……😭😭😭 https://t.co/U3hDFbs744"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989801676702654464"
+          ]
+        },
+        "author_id": "1304953938320306176",
+        "conversation_id": "1989801682579197974",
+        "created_at": "2025-11-15T21:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T22:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989801682579197974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3hDFbs744",
+              "end": 45,
+              "expanded_url": "https://x.com/hry_xsu/status/1989801682579197974/photo/1",
+              "media_key": "3_1989801676702654464",
+              "start": 22,
+              "url": "https://t.co/U3hDFbs744"
+            },
+            {
+              "display_url": "x.com/hry_xsu/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/hry_xsu/status/1989687453889020000",
+              "start": 46,
+              "url": "https://t.co/cuZgQpbKBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989801682579197974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2712,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989687453889020000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她甚至13号发了动态，我却没刷到……😭😭😭 https://t.co/U3hDFbs744 https://t.co/cuZgQpbKBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 1847,
+          "like_count": 70465,
+          "listed_count": 2,
+          "media_count": 547,
+          "tweet_count": 7856
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry (not xsu!)\nen&zh | 💻笔电爱好者 | 不含糖 | 女装 | 精神地雷系\nrbq:@y2kstarrychan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "y2kstarrychan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mars.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.mars.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/8Lai8y8dCE"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Mars,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930993557583601664/LRhgXbng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 273,
+          "like_count": 46139,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/8Lai8y8dCE",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

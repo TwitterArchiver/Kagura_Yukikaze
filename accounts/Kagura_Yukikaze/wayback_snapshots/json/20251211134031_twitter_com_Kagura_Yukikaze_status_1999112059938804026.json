@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998937699160571904"
+      ],
+      "media_source_tweet_id": [
+        "1998937711026311539"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1999112059938804026",
+    "created_at": "2025-12-11T13:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T14:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999112059938804026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1359469931381870596",
+          "start": 3,
+          "username": "Mind_Essentials"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjqmQ04aaF",
+          "end": 44,
+          "expanded_url": "https://x.com/Mind_Essentials/status/1998937711026311539/photo/1",
+          "media_key": "3_1998937699160571904",
+          "start": 21,
+          "url": "https://t.co/kjqmQ04aaF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999112059938804026",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998937711026311539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mind_Essentials: https://t.co/kjqmQ04aaF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1998937699160571904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72nPx6aQAA7bYb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998937699160571904"
+          ],
+          "media_source_tweet_id": [
+            "1998937711026311539"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1999112059938804026",
+        "created_at": "2025-12-11T13:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999112059938804026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1359469931381870596",
+              "start": 3,
+              "username": "Mind_Essentials"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjqmQ04aaF",
+              "end": 44,
+              "expanded_url": "https://x.com/Mind_Essentials/status/1998937711026311539/photo/1",
+              "media_key": "3_1998937699160571904",
+              "start": 21,
+              "url": "https://t.co/kjqmQ04aaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999112059938804026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998937711026311539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mind_Essentials: https://t.co/kjqmQ04aaF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998937699160571904"
+          ]
+        },
+        "author_id": "1359469931381870596",
+        "conversation_id": "1998937711026311539",
+        "created_at": "2025-12-11T02:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998937711026311539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjqmQ04aaF",
+              "end": 23,
+              "expanded_url": "https://x.com/Mind_Essentials/status/1998937711026311539/photo/1",
+              "media_key": "3_1998937699160571904",
+              "start": 0,
+              "url": "https://t.co/kjqmQ04aaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998937711026311539",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1565,
+          "impression_count": 487005,
+          "like_count": 48094,
+          "quote_count": 200,
+          "reply_count": 79,
+          "retweet_count": 8325
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kjqmQ04aaF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 2069,
+          "like_count": 75705,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 8474
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-10T11:52:22.000Z",
+        "description": "Self-Discipline | Philosophy Thoughts | Psychology Hacks | Wealth & Wisdom | Acceptance | Awareness",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "strongvibesmedia.gumroad.com/l/222",
+                "end": 23,
+                "expanded_url": "http://strongvibesmedia.gumroad.com/l/222",
+                "start": 0,
+                "url": "https://t.co/ZFjNf9ZslS"
+              }
+            ]
+          }
+        },
+        "id": "1359469931381870596",
+        "name": "Mind Essentials",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904713471327166469/D_LK_A5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357441,
+          "following_count": 23,
+          "like_count": 530532,
+          "listed_count": 2434,
+          "media_count": 20243,
+          "tweet_count": 46600
+        },
+        "url": "https://t.co/ZFjNf9ZslS",
+        "username": "Mind_Essentials",
+        "verified": true
+      }
+    ]
+  }
+}

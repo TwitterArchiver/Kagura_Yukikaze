@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024256567697088512"
+      ],
+      "media_source_tweet_id": [
+        "2024257466754531803"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2024330224033517664",
+    "created_at": "2026-02-19T03:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024330224033517664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1887655334384136193",
+          "start": 3,
+          "username": "hanazawahina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bGyOelKmhP",
+          "end": 50,
+          "expanded_url": "https://x.com/hanazawahina/status/2024257466754531803/photo/1",
+          "media_key": "3_2024256567697088512",
+          "start": 27,
+          "url": "https://t.co/bGyOelKmhP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024330224033517664",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024257466754531803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanazawahina: cry baby https://t.co/bGyOelKmhP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_2024256567697088512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBean5PWIAAN1oK.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024256567697088512"
+          ],
+          "media_source_tweet_id": [
+            "2024257466754531803"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2024330224033517664",
+        "created_at": "2026-02-19T03:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024330224033517664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1887655334384136193",
+              "start": 3,
+              "username": "hanazawahina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGyOelKmhP",
+              "end": 50,
+              "expanded_url": "https://x.com/hanazawahina/status/2024257466754531803/photo/1",
+              "media_key": "3_2024256567697088512",
+              "start": 27,
+              "url": "https://t.co/bGyOelKmhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024330224033517664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024257466754531803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanazawahina: cry baby https://t.co/bGyOelKmhP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024256567697088512"
+          ]
+        },
+        "author_id": "1887655334384136193",
+        "conversation_id": "2024257466754531803",
+        "created_at": "2026-02-18T22:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024257466754531803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bGyOelKmhP",
+              "end": 32,
+              "expanded_url": "https://x.com/hanazawahina/status/2024257466754531803/photo/1",
+              "media_key": "3_2024256567697088512",
+              "start": 9,
+              "url": "https://t.co/bGyOelKmhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024257466754531803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 7796,
+          "like_count": 1106,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "cry baby https://t.co/bGyOelKmhP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 2429,
+          "like_count": 87942,
+          "listed_count": 2,
+          "media_count": 650,
+          "tweet_count": 10328
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T00:11:24.000Z",
+        "description": "ʚ( ៸៸ ´ `) ♪ ghost girl ✦ learning illustration commission me https://t.co/RiQcnZJMz4 ✦ icon: @muuma_melo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "muuma_melo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/hinya",
+                "end": 85,
+                "expanded_url": "https://ko-fi.com/hinya",
+                "start": 62,
+                "url": "https://t.co/RiQcnZJMz4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/hinya",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/hinya",
+                "start": 0,
+                "url": "https://t.co/2YhP9eip02"
+              }
+            ]
+          }
+        },
+        "id": "1887655334384136193",
+        "location": "yam ♡ ",
+        "name": "hinya 🐰🔪",
+        "pinned_tweet_id": "2021224748932378713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023263081665880064/YNgodyoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 464,
+          "like_count": 9077,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/2YhP9eip02",
+        "username": "hanazawahina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971074954448994309"
+      ],
+      "media_source_tweet_id": [
+        "1971075061680676965"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971160743186923954",
+    "created_at": "2025-09-25T10:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T11:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971160743186923954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926459207613599745",
+          "start": 3,
+          "username": "k0ns10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IgxRRtS48E",
+          "end": 69,
+          "expanded_url": "https://x.com/k0ns10/status/1971075061680676965/photo/1",
+          "media_key": "3_1971074954448994309",
+          "start": 46,
+          "url": "https://t.co/IgxRRtS48E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971160743186923954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971075061680676965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k0ns10: Debianインストーラー(意味深)\nの画像がzhihuに落ちてた https://t.co/IgxRRtS48E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1971074954448994309",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1qqOlWaAAUf_DP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971074954448994309"
+          ],
+          "media_source_tweet_id": [
+            "1971075061680676965"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971160743186923954",
+        "created_at": "2025-09-25T10:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971160743186923954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926459207613599745",
+              "start": 3,
+              "username": "k0ns10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgxRRtS48E",
+              "end": 69,
+              "expanded_url": "https://x.com/k0ns10/status/1971075061680676965/photo/1",
+              "media_key": "3_1971074954448994309",
+              "start": 46,
+              "url": "https://t.co/IgxRRtS48E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971160743186923954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971075061680676965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k0ns10: Debianインストーラー(意味深)\nの画像がzhihuに落ちてた https://t.co/IgxRRtS48E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971074954448994309"
+          ]
+        },
+        "author_id": "1926459207613599745",
+        "conversation_id": "1971075061680676965",
+        "created_at": "2025-09-25T04:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T05:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971075061680676965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgxRRtS48E",
+              "end": 57,
+              "expanded_url": "https://x.com/k0ns10/status/1971075061680676965/photo/1",
+              "media_key": "3_1971074954448994309",
+              "start": 34,
+              "url": "https://t.co/IgxRRtS48E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971075061680676965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Debianインストーラー(意味深)\nの画像がzhihuに落ちてた https://t.co/IgxRRtS48E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1182,
+          "like_count": 56266,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 6300
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T02:04:18.000Z",
+        "description": "🏳️‍⚧️MtF(ホルまだ)|MtF(不含糖)\n🌐OSS翻訳者|OSS翻译\n🎮VRChat&Minecraft\n👋フォロバ💯|💯回关\n🩵うじりす|推 @SoujiyaKurina\n我中文完全不行啊～不过要是能好好传达给你的话，我会超开心的～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "SoujiyaKurina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kons10.github.io",
+                "end": 23,
+                "expanded_url": "https://kons10.github.io",
+                "start": 0,
+                "url": "https://t.co/KDfMcCyH49"
+              }
+            ]
+          }
+        },
+        "id": "1926459207613599745",
+        "location": "栃木県 小山市",
+        "name": "こんせんと♻🦋(@k0ns10)",
+        "pinned_tweet_id": "1970991894630105382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960860563338354689/banhi0Gw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 1041,
+          "like_count": 8142,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/KDfMcCyH49",
+        "username": "k0ns10",
+        "verified": false
+      }
+    ]
+  }
+}

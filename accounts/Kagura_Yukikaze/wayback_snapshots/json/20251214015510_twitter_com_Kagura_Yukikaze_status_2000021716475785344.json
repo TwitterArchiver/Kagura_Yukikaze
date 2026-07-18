@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999732881531322369"
+      ],
+      "media_source_tweet_id": [
+        "1999732897939435574"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2000021716475785344",
+    "created_at": "2025-12-14T01:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T02:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000021716475785344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1680851986697146369",
+          "start": 3,
+          "username": "Adachi_Rei_zero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6QkBlqf7nb",
+          "end": 44,
+          "expanded_url": "https://x.com/Adachi_Rei_zero/status/1999732897939435574/photo/1",
+          "media_key": "3_1999732881531322369",
+          "start": 21,
+          "url": "https://t.co/6QkBlqf7nb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000021716475785344",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999732897939435574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Adachi_Rei_zero: https://t.co/6QkBlqf7nb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_1999732881531322369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8B6dfFXwAEP7xQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999732881531322369"
+          ],
+          "media_source_tweet_id": [
+            "1999732897939435574"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2000021716475785344",
+        "created_at": "2025-12-14T01:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T02:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000021716475785344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1680851986697146369",
+              "start": 3,
+              "username": "Adachi_Rei_zero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QkBlqf7nb",
+              "end": 44,
+              "expanded_url": "https://x.com/Adachi_Rei_zero/status/1999732897939435574/photo/1",
+              "media_key": "3_1999732881531322369",
+              "start": 21,
+              "url": "https://t.co/6QkBlqf7nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000021716475785344",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999732897939435574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Adachi_Rei_zero: https://t.co/6QkBlqf7nb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999732881531322369"
+          ]
+        },
+        "author_id": "1680851986697146369",
+        "conversation_id": "1999732897939435574",
+        "created_at": "2025-12-13T06:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999732897939435574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QkBlqf7nb",
+              "end": 23,
+              "expanded_url": "https://x.com/Adachi_Rei_zero/status/1999732897939435574/photo/1",
+              "media_key": "3_1999732881531322369",
+              "start": 0,
+              "url": "https://t.co/6QkBlqf7nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999732897939435574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 514,
+          "impression_count": 40210,
+          "like_count": 4749,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6QkBlqf7nb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 2072,
+          "like_count": 76173,
+          "listed_count": 2,
+          "media_count": 573,
+          "tweet_count": 8559
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-17T08:08:46.000Z",
+        "description": "18↓ Sorry, I dislike arts that sexualize Adachi Rei Adachi Rei❌🔞I don't like it....",
+        "id": "1680851986697146369",
+        "location": "足立レイ",
+        "name": "Dilllllllllllllllllllllllllllllllllllll",
+        "pinned_tweet_id": "1976271708479947223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985992856956174336/i3lcJ9X6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 31,
+          "like_count": 1832,
+          "listed_count": 24,
+          "media_count": 57,
+          "tweet_count": 674
+        },
+        "username": "Adachi_Rei_zero",
+        "verified": false
+      }
+    ]
+  }
+}

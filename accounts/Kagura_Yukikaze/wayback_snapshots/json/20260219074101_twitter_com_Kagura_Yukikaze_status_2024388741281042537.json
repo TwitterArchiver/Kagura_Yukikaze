@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024003266078797826"
+      ],
+      "media_source_tweet_id": [
+        "2024003337486516510"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+          "id": "1840858535829057537",
+          "name": "CBS News 2024 Vice Presidential Debate"
+        }
+      }
+    ],
+    "conversation_id": "2024388741281042537",
+    "created_at": "2026-02-19T07:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024388741281042537"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "SOV",
+          "probability": 0.5058,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "USA",
+          "probability": 0.9515,
+          "start": 53,
+          "type": "Place"
+        },
+        {
+          "end": 88,
+          "normalized_text": "CNSA",
+          "probability": 0.7419,
+          "start": 85,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820338567887093760",
+          "start": 3,
+          "username": "ynchnhorn196202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J3UtypMgo1",
+          "end": 129,
+          "expanded_url": "https://x.com/ynchnhorn196202/status/2024003337486516510/photo/1",
+          "media_key": "3_2024003266078797826",
+          "start": 106,
+          "url": "https://t.co/J3UtypMgo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024388741281042537",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024003337486516510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynchnhorn196202: SOV:The space race is the best！\nUSA:Kitchen debate is the best!\nCNSA:Space kitchen?! https://t.co/J3UtypMgo1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_2024003266078797826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBa0PzLbcAId2S6.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024003266078797826"
+          ],
+          "media_source_tweet_id": [
+            "2024003337486516510"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "2024388741281042537",
+        "created_at": "2026-02-19T07:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024388741281042537"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "SOV",
+              "probability": 0.5058,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "USA",
+              "probability": 0.9515,
+              "start": 53,
+              "type": "Place"
+            },
+            {
+              "end": 88,
+              "normalized_text": "CNSA",
+              "probability": 0.7419,
+              "start": 85,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1820338567887093760",
+              "start": 3,
+              "username": "ynchnhorn196202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3UtypMgo1",
+              "end": 129,
+              "expanded_url": "https://x.com/ynchnhorn196202/status/2024003337486516510/photo/1",
+              "media_key": "3_2024003266078797826",
+              "start": 106,
+              "url": "https://t.co/J3UtypMgo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024388741281042537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024003337486516510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynchnhorn196202: SOV:The space race is the best！\nUSA:Kitchen debate is the best!\nCNSA:Space kitchen?! https://t.co/J3UtypMgo1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024003266078797826"
+          ]
+        },
+        "author_id": "1820338567887093760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "2024003337486516510",
+        "created_at": "2026-02-18T06:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024003337486516510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "USA",
+              "probability": 0.9481,
+              "start": 32,
+              "type": "Place"
+            },
+            {
+              "end": 67,
+              "normalized_text": "CNSA",
+              "probability": 0.7924,
+              "start": 64,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3UtypMgo1",
+              "end": 108,
+              "expanded_url": "https://x.com/ynchnhorn196202/status/2024003337486516510/photo/1",
+              "media_key": "3_2024003266078797826",
+              "start": 85,
+              "url": "https://t.co/J3UtypMgo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024003337486516510",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 91724,
+          "like_count": 1530,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "SOV:The space race is the best！\nUSA:Kitchen debate is the best!\nCNSA:Space kitchen?! https://t.co/J3UtypMgo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 2430,
+          "like_count": 88046,
+          "listed_count": 3,
+          "media_count": 651,
+          "tweet_count": 10335
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T05:58:43.000Z",
+        "description": "A Kerbal Space Program player\n/Dislike discussing politics\n/Space aesthetics enthusiast\n/Try to make things I like with KSP\n——🇨🇳",
+        "id": "1820338567887093760",
+        "name": "NorthernWanderer",
+        "pinned_tweet_id": "1916917202927948279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976728084352319490/eYQDeiJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 83,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 212
+        },
+        "username": "ynchnhorn196202",
+        "verified": false
+      }
+    ]
+  }
+}

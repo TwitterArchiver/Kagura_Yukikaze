@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2040089636790509703",
+    "created_at": "2026-04-03T15:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040089636790509703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaohuihuih/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/xiaohuihuih/status/2040088236496711823",
+          "start": 10,
+          "url": "https://t.co/yeeYGuSRm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040089636790509703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040088236496711823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会好好保存的…. https://t.co/yeeYGuSRm8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2040089636790509703",
+        "created_at": "2026-04-03T15:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040089636790509703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaohuihuih/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/xiaohuihuih/status/2040088236496711823",
+              "start": 10,
+              "url": "https://t.co/yeeYGuSRm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040089636790509703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040088236496711823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会好好保存的…. https://t.co/yeeYGuSRm8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2040088236496711823",
+        "created_at": "2026-04-03T15:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040088236496711823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040088236496711823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 271,
+                "id": "705777407794352129",
+                "start": 258,
+                "username": "ServalCandle"
+              },
+              {
+                "end": 283,
+                "id": "1070694634098065410",
+                "start": 273,
+                "username": "BootJenna"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kdrive.infomaniak.com/app/share/2789…",
+                "end": 456,
+                "expanded_url": "https://kdrive.infomaniak.com/app/share/2789156/977f2495-be0d-4507-8d00-bc908a143fa3",
+                "start": 433,
+                "url": "https://t.co/VRo7m3V2xO"
+              }
+            ]
+          },
+          "text": "关于咴咴推文内容存档公告\n\n大家好，我是ServalCandle.\n\n为了珍藏大家与咴咴共同拥有的珍贵回忆，应广大推友的要求，我们已向Twitter（现为X）申请了咴咴生前所有公开推文的完整存档。目前，该存档已由我上载至位于日内瓦的 Infomaniak 云端空间。\n\n基于隐私保护原则，部分涉及私人通讯或敏感内容将不予公开。\n\n关于存档获取方式说明如下：\n\n• 公开下载阶段：在帐号正式注销前，存档连结将维持公开，供大家下载留念。\n\n•长期获取管道：待帐号注销或lockdown后，若需获取存档，请随时私讯联系我（@ServalCandle）或@BootJenna。\n\n因云端空间伺服器位于瑞士，所有存档数据将受到FADP & GDPR保护\n\n我和娜姐始终坚信，数位遗产是一个人生命的延续。咴咴为跨性别社群所做的贡献及其生命轨迹，不应随时间流逝而消逝。娜姐会尽全力与其父母沟通，维护其全网社群帐号的完整性。\n\n再次对咴咴的离去表示深切哀悼。\n\n🔗连结网址如下：\n\nhttps://t.co/VRo7m3V2xO\n\nBootJenna & ServalCandle\n安大略省多伦多市\nApril 2026"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 61,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "关于咴咴推文内容存档公告\n\n大家好，我是ServalCandle.\n\n为了珍藏大家与咴咴共同拥有的珍贵回忆，应广大推友的要求，我们已向Twitter（现为X）申请了咴咴生前所有公开推文的完整存档。目前，该存档已由我上载至位于日内瓦的 Infomaniak 云端空间。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|http://en-jp-cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 2754,
+          "like_count": 98638,
+          "listed_count": 3,
+          "media_count": 737,
+          "tweet_count": 11845
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/嘈嘈风流往事…/🩷💜/？？岁/单身了/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "2039094400928661552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12497,
+          "following_count": 1382,
+          "like_count": 159826,
+          "listed_count": 35,
+          "media_count": 5083,
+          "tweet_count": 67824
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1992554133166162359",
+    "created_at": "2025-11-23T11:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992554133166162359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922333766628081665",
+          "start": 3,
+          "username": "xiaoiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992554133166162359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992445330420629552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoiQAQ: 当别人说我是男生时，旁边的闺蜜总会帮他们纠正我是女孩子喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1992554133166162359",
+        "created_at": "2025-11-23T11:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992554133166162359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1922333766628081665",
+              "start": 3,
+              "username": "xiaoiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992554133166162359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992445330420629552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoiQAQ: 当别人说我是男生时，旁边的闺蜜总会帮他们纠正我是女孩子喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922333766628081665",
+        "conversation_id": "1992445330420629552",
+        "created_at": "2025-11-23T04:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992445330420629552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992445330420629552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1823,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "当别人说我是男生时，旁边的闺蜜总会帮他们纠正我是女孩子喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 1900,
+          "like_count": 71689,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 8005
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T16:51:10.000Z",
+        "description": "是咲苡呀，大号被封这是小号喵！09年mtf已经吃糖两百多天啦，162cm体重未知",
+        "id": "1922333766628081665",
+        "location": "济宁",
+        "name": "咲苡洛🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991128107563294720/ZJKgkuDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 63,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "username": "xiaoiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971987952587751424",
+        "3_1971987952675778560"
+      ],
+      "media_source_tweet_id": [
+        "1971988037229072550",
+        "1971988037229072550"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      }
+    ],
+    "conversation_id": "1972247429333631111",
+    "created_at": "2025-09-28T10:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T11:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972247429333631111"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "sanrio",
+          "probability": 0.6092,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1951248610424922113",
+          "start": 3,
+          "username": "sxilm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eE8IOvRREY",
+          "end": 66,
+          "expanded_url": "https://x.com/sxilm/status/1971988037229072550/photo/1",
+          "media_key": "3_1971987952587751424",
+          "start": 43,
+          "url": "https://t.co/eE8IOvRREY"
+        },
+        {
+          "display_url": "pic.x.com/eE8IOvRREY",
+          "end": 66,
+          "expanded_url": "https://x.com/sxilm/status/1971988037229072550/photo/1",
+          "media_key": "3_1971987952675778560",
+          "start": 43,
+          "url": "https://t.co/eE8IOvRREY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972247429333631111",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971988037229072550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sxilm: let’s match sanrio razors twin! https://t.co/eE8IOvRREY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971987952587751424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13omEdXwAA6sge.jpg",
+        "width": 2048
+      },
+      {
+        "height": 281,
+        "media_key": "3_1971987952675778560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13omEyW8AAe_Z9.jpg",
+        "width": 281
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971987952587751424",
+            "3_1971987952675778560"
+          ],
+          "media_source_tweet_id": [
+            "1971988037229072550",
+            "1971988037229072550"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          }
+        ],
+        "conversation_id": "1972247429333631111",
+        "created_at": "2025-09-28T10:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972247429333631111"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "sanrio",
+              "probability": 0.6092,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1951248610424922113",
+              "start": 3,
+              "username": "sxilm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eE8IOvRREY",
+              "end": 66,
+              "expanded_url": "https://x.com/sxilm/status/1971988037229072550/photo/1",
+              "media_key": "3_1971987952587751424",
+              "start": 43,
+              "url": "https://t.co/eE8IOvRREY"
+            },
+            {
+              "display_url": "pic.x.com/eE8IOvRREY",
+              "end": 66,
+              "expanded_url": "https://x.com/sxilm/status/1971988037229072550/photo/1",
+              "media_key": "3_1971987952675778560",
+              "start": 43,
+              "url": "https://t.co/eE8IOvRREY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972247429333631111",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971988037229072550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sxilm: let’s match sanrio razors twin! https://t.co/eE8IOvRREY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971987952587751424",
+            "3_1971987952675778560"
+          ]
+        },
+        "author_id": "1951248610424922113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          }
+        ],
+        "conversation_id": "1971988037229072550",
+        "created_at": "2025-09-27T17:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971988037229072550"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "sanrio",
+              "probability": 0.5682,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eE8IOvRREY",
+              "end": 55,
+              "expanded_url": "https://x.com/sxilm/status/1971988037229072550/photo/1",
+              "media_key": "3_1971987952587751424",
+              "start": 32,
+              "url": "https://t.co/eE8IOvRREY"
+            },
+            {
+              "display_url": "pic.x.com/eE8IOvRREY",
+              "end": 55,
+              "expanded_url": "https://x.com/sxilm/status/1971988037229072550/photo/1",
+              "media_key": "3_1971987952675778560",
+              "start": 32,
+              "url": "https://t.co/eE8IOvRREY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971988037229072550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 17888,
+          "like_count": 1832,
+          "quote_count": 24,
+          "reply_count": 28,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "let’s match sanrio razors twin! https://t.co/eE8IOvRREY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 1231,
+          "like_count": 57606,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6451
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T11:48:35.000Z",
+        "description": "#地雷系 ✦ #梦女 ✦ ns 海森 Riako ✦ 08 • 22 ✦ 精神錯亂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "地雷系"
+              },
+              {
+                "end": 10,
+                "start": 7,
+                "tag": "梦女"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sxilm.straw.page",
+                "end": 23,
+                "expanded_url": "https://sxilm.straw.page",
+                "start": 0,
+                "url": "https://t.co/ngd7iAP1JO"
+              }
+            ]
+          }
+        },
+        "id": "1951248610424922113",
+        "location": "Eng/中/粵/07/she her ",
+        "name": "Mei ✦ Haitham’s",
+        "pinned_tweet_id": "1966524974295851468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958289283279683584/-jdvWFW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 466,
+          "like_count": 9756,
+          "listed_count": 15,
+          "media_count": 564,
+          "tweet_count": 5127
+        },
+        "url": "https://t.co/ngd7iAP1JO",
+        "username": "sxilm",
+        "verified": false
+      }
+    ]
+  }
+}

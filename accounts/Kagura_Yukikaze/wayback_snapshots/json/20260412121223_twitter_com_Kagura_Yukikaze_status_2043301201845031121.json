@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042951670909538307"
+      ],
+      "media_source_tweet_id": [
+        "2042951676953555220"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043301201845031121",
+    "created_at": "2026-04-12T12:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043301201845031121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1946982675417538560",
+          "start": 3,
+          "username": "fukui_p26"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqHJZnm9Fe",
+          "end": 50,
+          "expanded_url": "https://x.com/fukui_p26/status/2042951676953555220/photo/1",
+          "media_key": "3_2042951670909538307",
+          "start": 27,
+          "url": "https://t.co/YqHJZnm9Fe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043301201845031121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042951676953555220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fukui_p26: 广东 珍珠港 澳大利亚 https://t.co/YqHJZnm9Fe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1257,
+        "media_key": "3_2042951670909538307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoFuH3akAM_8gT.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042951670909538307"
+          ],
+          "media_source_tweet_id": [
+            "2042951676953555220"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043301201845031121",
+        "created_at": "2026-04-12T12:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043301201845031121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1946982675417538560",
+              "start": 3,
+              "username": "fukui_p26"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqHJZnm9Fe",
+              "end": 50,
+              "expanded_url": "https://x.com/fukui_p26/status/2042951676953555220/photo/1",
+              "media_key": "3_2042951670909538307",
+              "start": 27,
+              "url": "https://t.co/YqHJZnm9Fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043301201845031121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042951676953555220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fukui_p26: 广东 珍珠港 澳大利亚 https://t.co/YqHJZnm9Fe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042951670909538307"
+          ]
+        },
+        "author_id": "1946982675417538560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042951676953555220",
+        "created_at": "2026-04-11T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042951676953555220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqHJZnm9Fe",
+              "end": 35,
+              "expanded_url": "https://x.com/fukui_p26/status/2042951676953555220/photo/1",
+              "media_key": "3_2042951670909538307",
+              "start": 12,
+              "url": "https://t.co/YqHJZnm9Fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042951676953555220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2450,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "广东 珍珠港 澳大利亚 https://t.co/YqHJZnm9Fe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2897,
+          "following_count": 2790,
+          "like_count": 100851,
+          "listed_count": 4,
+          "media_count": 753,
+          "tweet_count": 12183
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T17:17:21.000Z",
+        "description": "🏳️‍⚧️ 🐱 | INFJ | Undergraduate | Developer | Minecraft/PJSK | Friend: @smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ResetPower26",
+                "end": 23,
+                "expanded_url": "https://github.com/ResetPower26",
+                "start": 0,
+                "url": "https://t.co/NY3SbjGFcB"
+              }
+            ]
+          }
+        },
+        "id": "1946982675417538560",
+        "location": "Shenzhen",
+        "name": "复位的电源🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953516538507800577/MFIF5rPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 92,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/NY3SbjGFcB",
+        "username": "fukui_p26",
+        "verified": false
+      }
+    ]
+  }
+}

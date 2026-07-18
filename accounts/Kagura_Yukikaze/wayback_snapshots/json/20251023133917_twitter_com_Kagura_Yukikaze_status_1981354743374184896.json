@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1981209962954022912"
+      ],
+      "media_source_tweet_id": [
+        "1981210058299232425"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981354743374184896",
+    "created_at": "2025-10-23T13:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T14:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981354743374184896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300084881913909249",
+          "start": 3,
+          "username": "Misaka_14376"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZjxNcW6M8U",
+          "end": 48,
+          "expanded_url": "https://x.com/Misaka_14376/status/1981210058299232425/video/1",
+          "media_key": "7_1981209962954022912",
+          "start": 25,
+          "url": "https://t.co/ZjxNcW6M8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981354743374184896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981210058299232425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misaka_14376: 一键起跳功能 https://t.co/ZjxNcW6M8U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4885,
+        "height": 720,
+        "media_key": "7_1981209962954022912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981209962954022912/pu/img/EbfiCvOuPsPkPGB4.jpg",
+        "public_metrics": {
+          "view_count": 39358
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981209962954022912/pu/vid/avc1/480x270/vrYnCR7mJ9NluB8l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981209962954022912/pu/vid/avc1/640x360/zRY9_nMcd9XAgq7V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981209962954022912/pu/vid/avc1/1280x720/96OyUBxUZbFUU0wH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981209962954022912/pu/pl/YunwG5rblJusc1HZ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981209962954022912"
+          ],
+          "media_source_tweet_id": [
+            "1981210058299232425"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981354743374184896",
+        "created_at": "2025-10-23T13:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981354743374184896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300084881913909249",
+              "start": 3,
+              "username": "Misaka_14376"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjxNcW6M8U",
+              "end": 48,
+              "expanded_url": "https://x.com/Misaka_14376/status/1981210058299232425/video/1",
+              "media_key": "7_1981209962954022912",
+              "start": 25,
+              "url": "https://t.co/ZjxNcW6M8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981354743374184896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981210058299232425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misaka_14376: 一键起跳功能 https://t.co/ZjxNcW6M8U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981209962954022912"
+          ]
+        },
+        "author_id": "1300084881913909249",
+        "conversation_id": "1981210058299232425",
+        "created_at": "2025-10-23T04:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981210058299232425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjxNcW6M8U",
+              "end": 30,
+              "expanded_url": "https://x.com/Misaka_14376/status/1981210058299232425/video/1",
+              "media_key": "7_1981209962954022912",
+              "start": 7,
+              "url": "https://t.co/ZjxNcW6M8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981210058299232425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 78241,
+          "like_count": 916,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "一键起跳功能 https://t.co/ZjxNcW6M8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 1629,
+          "like_count": 65388,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7390
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-30T14:57:48.000Z",
+        "description": "学地理吗\n新手kiger/刻晴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/C0jajqtiNC"
+              }
+            ]
+          }
+        },
+        "id": "1300084881913909249",
+        "location": "可观测宇宙的中心",
+        "name": "丹霞",
+        "pinned_tweet_id": "1979518956944932907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907809621819166720/TwawBhpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 801,
+          "like_count": 25943,
+          "listed_count": 17,
+          "media_count": 2192,
+          "tweet_count": 20260
+        },
+        "url": "https://t.co/C0jajqtiNC",
+        "username": "Misaka_14376",
+        "verified": false
+      }
+    ]
+  }
+}

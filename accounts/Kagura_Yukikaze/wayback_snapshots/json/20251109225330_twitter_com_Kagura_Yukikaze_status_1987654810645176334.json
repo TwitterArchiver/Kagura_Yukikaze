@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1987509967319093548",
+    "created_at": "2025-11-09T22:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T23:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987654810645176334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1180509370833989632",
+          "start": 0,
+          "username": "NeKosora0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987654810645176334",
+    "in_reply_to_user_id": "1180509370833989632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987509967319093548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeKosora0228 姐姐晚安哦…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1987509967319093548",
+        "created_at": "2025-11-09T22:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T23:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987654810645176334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1180509370833989632",
+              "start": 0,
+              "username": "NeKosora0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987654810645176334",
+        "in_reply_to_user_id": "1180509370833989632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987509967319093548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeKosora0228 姐姐晚安哦…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180509370833989632",
+        "conversation_id": "1987509967319093548",
+        "created_at": "2025-11-09T13:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T14:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987509967319093548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1180509370833989632",
+              "start": 6,
+              "username": "NeKosora0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987509967319093548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 161908,
+          "like_count": 136,
+          "quote_count": 3,
+          "reply_count": 65,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n号主 @NeKosora0228 于2025.11.07 去世\n本条消息由竹蜻蜓授权代发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1822,
+          "like_count": 69479,
+          "listed_count": 2,
+          "media_count": 544,
+          "tweet_count": 7758
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-05T15:45:51.000Z",
+        "description": "｜Mtx👉友跨顺男｜INFJ｜ADHD重度患者｜可以互fo噢～（没回关到可以私信我）",
+        "id": "1180509370833989632",
+        "location": "根據相關法律法規和政策，該位置末予顯示",
+        "name": "Ocean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922527463264976896/G9ub6TzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 542,
+          "like_count": 6724,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 816
+        },
+        "username": "NeKosora0228",
+        "verified": false
+      }
+    ]
+  }
+}

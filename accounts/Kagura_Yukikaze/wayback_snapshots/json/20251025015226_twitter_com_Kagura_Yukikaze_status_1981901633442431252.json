@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981876700024619008"
+      ],
+      "media_source_tweet_id": [
+        "1981876768245182498"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1981901633442431252",
+    "created_at": "2025-10-25T01:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T02:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981901633442431252"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "xyn"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "mtf"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "药攻"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1606690184564985856",
+          "start": 3,
+          "username": "hgsbtin_nisaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DLJ3Eye4UY",
+          "end": 80,
+          "expanded_url": "https://x.com/hgsbtin_nisaki/status/1981876768245182498/video/1",
+          "media_key": "13_1981876700024619008",
+          "start": 57,
+          "url": "https://t.co/DLJ3Eye4UY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981901633442431252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981876768245182498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgsbtin_nisaki: 就你睡了无数xyn是吧？没想到被药攻草了喵？\n#xyn #mtf #药攻 https://t.co/DLJ3Eye4UY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5316,
+        "height": 1280,
+        "media_key": "13_1981876700024619008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981876700024619008/img/y-U7zwLDAZ_AFc9D.jpg",
+        "public_metrics": {
+          "view_count": 62
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981876700024619008/vid/avc1/320x568/A6JeYllBjZF7CzjP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981876700024619008/vid/avc1/480x852/tvBv5y-3c8NHCDcC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981876700024619008/vid/avc1/720x1280/d8yMVLKx44q2IFLN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981876700024619008/pl/66UwwmVqESOm209k.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981876700024619008"
+          ],
+          "media_source_tweet_id": [
+            "1981876768245182498"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1981901633442431252",
+        "created_at": "2025-10-25T01:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T02:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981901633442431252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "xyn"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "mtf"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "药攻"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1606690184564985856",
+              "start": 3,
+              "username": "hgsbtin_nisaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLJ3Eye4UY",
+              "end": 80,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1981876768245182498/video/1",
+              "media_key": "13_1981876700024619008",
+              "start": 57,
+              "url": "https://t.co/DLJ3Eye4UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981901633442431252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981876768245182498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgsbtin_nisaki: 就你睡了无数xyn是吧？没想到被药攻草了喵？\n#xyn #mtf #药攻 https://t.co/DLJ3Eye4UY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981876700024619008"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "conversation_id": "1981876768245182498",
+        "created_at": "2025-10-25T00:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T01:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981876768245182498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "xyn"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "mtf"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "药攻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLJ3Eye4UY",
+              "end": 60,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1981876768245182498/video/1",
+              "media_key": "13_1981876700024619008",
+              "start": 37,
+              "url": "https://t.co/DLJ3Eye4UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981876768245182498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "就你睡了无数xyn是吧？没想到被药攻草了喵？\n#xyn #mtf #药攻 https://t.co/DLJ3Eye4UY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1645,
+          "like_count": 65943,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 7448
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 50｜xyn｜HRT 2025/2/17｜微天赋党｜ 药攻｜N1考取中｜同类互fo🏳️‍⚧️｜造t｜@WangPu90983 ｜妈妈@BloodCatOvO｜妹妹 @Littlecat111007 ｜@SAIONJIayase 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "BloodCatOvO"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "SAIONJIayase"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqMt6n"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 620,
+          "like_count": 12442,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/N9KjiqMt6n",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

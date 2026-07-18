@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002378945098854400"
+      ],
+      "media_source_tweet_id": [
+        "2002393804897223021"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2002573786118566131",
+    "created_at": "2025-12-21T02:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002573786118566131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482356237115310084",
+          "start": 3,
+          "username": "LocalBateman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cLdQylPk0D",
+          "end": 41,
+          "expanded_url": "https://x.com/LocalBateman/status/2002393804897223021/video/1",
+          "media_key": "13_2002378945098854400",
+          "start": 18,
+          "url": "https://t.co/cLdQylPk0D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002573786118566131",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 888
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002393804897223021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LocalBateman: https://t.co/cLdQylPk0D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11000,
+        "height": 354,
+        "media_key": "13_2002378945098854400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002378945098854400/img/bx7x7BKIsiA9LY0z.jpg",
+        "public_metrics": {
+          "view_count": 406117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002378945098854400/vid/avc1/274x270/lBChZF_Q5AMYa7dU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002378945098854400/vid/avc1/360x354/hEFtQyrfTkkzl7u5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002378945098854400/pl/ey7f8FGhYZBPrT8S.m3u8?v=88f"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002378945098854400"
+          ],
+          "media_source_tweet_id": [
+            "2002393804897223021"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2002573786118566131",
+        "created_at": "2025-12-21T02:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002573786118566131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482356237115310084",
+              "start": 3,
+              "username": "LocalBateman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLdQylPk0D",
+              "end": 41,
+              "expanded_url": "https://x.com/LocalBateman/status/2002393804897223021/video/1",
+              "media_key": "13_2002378945098854400",
+              "start": 18,
+              "url": "https://t.co/cLdQylPk0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002573786118566131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 888
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002393804897223021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LocalBateman: https://t.co/cLdQylPk0D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002378945098854400"
+          ]
+        },
+        "author_id": "1482356237115310084",
+        "conversation_id": "2002393804897223021",
+        "created_at": "2025-12-20T15:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002393804897223021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLdQylPk0D",
+              "end": 23,
+              "expanded_url": "https://x.com/LocalBateman/status/2002393804897223021/video/1",
+              "media_key": "13_2002378945098854400",
+              "start": 0,
+              "url": "https://t.co/cLdQylPk0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002393804897223021",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1476,
+          "impression_count": 809651,
+          "like_count": 16985,
+          "quote_count": 16,
+          "reply_count": 34,
+          "retweet_count": 888
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cLdQylPk0D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 2101,
+          "like_count": 77354,
+          "listed_count": 2,
+          "media_count": 578,
+          "tweet_count": 8793
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-15T14:18:01.000Z",
+        "description": "If you want to ignite the fire just ignite yourself. alt @LocalBateman_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "LocalBateman_"
+              }
+            ]
+          }
+        },
+        "id": "1482356237115310084",
+        "location": "Dm for credit or removal ",
+        "name": "Your Typical Local Man",
+        "pinned_tweet_id": "1535610044779315202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664391317688836097/UPd8ZDNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796329,
+          "following_count": 190,
+          "like_count": 83256,
+          "listed_count": 1462,
+          "media_count": 23341,
+          "tweet_count": 26827
+        },
+        "username": "LocalBateman",
+        "verified": true
+      }
+    ]
+  }
+}

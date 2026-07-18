@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1980627336119861518",
+    "created_at": "2025-10-21T13:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980627336119861518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3184828508",
+          "start": 3,
+          "username": "astraorsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980627336119861518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980524303134433528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astraorsa: 今天查资料才发现，Pixel 10 系列从 200 次电池循环开始，就会分阶段强制限制手机的充电速度和续航\n估计 Google 是被之前 Pixel A 系列几次电池事故弄怕了，但还是觉得很离谱...这种策略就应该让用户自己决定啊\nhttps://…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1980627336119861518",
+        "created_at": "2025-10-21T13:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980627336119861518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3184828508",
+              "start": 3,
+              "username": "astraorsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980627336119861518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980524303134433528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @astraorsa: 今天查资料才发现，Pixel 10 系列从 200 次电池循环开始，就会分阶段强制限制手机的充电速度和续航\n估计 Google 是被之前 Pixel A 系列几次电池事故弄怕了，但还是觉得很离谱...这种策略就应该让用户自己决定啊\nhttps://…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3184828508",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1980524303134433528",
+        "created_at": "2025-10-21T06:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980524303134433528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Google has confirmed that it will reduce the Pixel 10 line's battery life and charging speed over time to 'stabilize' battery performance.",
+              "display_url": "androidauthority.com/google-pixel-1…",
+              "end": 139,
+              "expanded_url": "https://www.androidauthority.com/google-pixel-10-battery-health-assistance-3585863/",
+              "images": [
+                {
+                  "height": 687,
+                  "url": "https://pbs.twimg.com/news_img/1980524305302843398/E16xMc7Y?format=jpg&name=orig",
+                  "width": 1222
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1980524305302843398/E16xMc7Y?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "Google will throttle your Pixel 10's battery, and there's nothing you can do about it",
+              "unwound_url": "https://www.androidauthority.com/google-pixel-10-battery-health-assistance-3585863/",
+              "url": "https://t.co/TE5lry7nLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980524303134433528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 960,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天查资料才发现，Pixel 10 系列从 200 次电池循环开始，就会分阶段强制限制手机的充电速度和续航\n估计 Google 是被之前 Pixel A 系列几次电池事故弄怕了，但还是觉得很离谱...这种策略就应该让用户自己决定啊\nhttps://t.co/TE5lry7nLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1599,
+          "like_count": 64461,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7305
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-04T05:39:44.000Z",
+        "description": "矮纸斜行闲作草，晴窗细乳戏分茶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cynosura.one",
+                "end": 23,
+                "expanded_url": "https://cynosura.one",
+                "start": 0,
+                "url": "https://t.co/REjBdANDVR"
+              }
+            ]
+          }
+        },
+        "id": "3184828508",
+        "location": "TON 618",
+        "name": "千草茶",
+        "pinned_tweet_id": "1000179685228097537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934303328961531904/sYql61L6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8750,
+          "following_count": 1206,
+          "like_count": 53967,
+          "listed_count": 45,
+          "media_count": 8267,
+          "tweet_count": 49461
+        },
+        "url": "https://t.co/REjBdANDVR",
+        "username": "astraorsa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1970702594520784919",
+    "created_at": "2025-09-24T07:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T08:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970751579390386361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860614956263354370",
+          "start": 0,
+          "username": "LIN20061220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970751579390386361",
+    "in_reply_to_user_id": "1860614956263354370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970702594520784919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LIN20061220 揉揉你🥺\n戴上降噪耳机应该会好点吧🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1970702594520784919",
+        "created_at": "2025-09-24T07:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970751579390386361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860614956263354370",
+              "start": 0,
+              "username": "LIN20061220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970751579390386361",
+        "in_reply_to_user_id": "1860614956263354370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970702594520784919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LIN20061220 揉揉你🥺\n戴上降噪耳机应该会好点吧🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860614956263354370",
+        "conversation_id": "1970702594520784919",
+        "created_at": "2025-09-24T04:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T05:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970702594520784919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970702594520784919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想我舍友杀了，吵死了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1173,
+          "like_count": 55833,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 6240
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T09:22:53.000Z",
+        "description": "好累",
+        "id": "1860614956263354370",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "lin lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944373293458329600/oXPKhx_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 30,
+          "like_count": 300,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 453
+        },
+        "username": "LIN20061220",
+        "verified": false
+      }
+    ]
+  }
+}

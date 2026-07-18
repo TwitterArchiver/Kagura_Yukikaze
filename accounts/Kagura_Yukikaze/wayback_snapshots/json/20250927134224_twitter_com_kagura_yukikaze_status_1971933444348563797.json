@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1971657019061915648"
+      ],
+      "media_source_tweet_id": [
+        "1971657063525675320"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971933444348563797",
+    "created_at": "2025-09-27T13:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T14:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971933444348563797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2538322138",
+          "start": 3,
+          "username": "PicturesFoIder"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WKFEJOBq89",
+          "end": 60,
+          "expanded_url": "https://x.com/PicturesFoIder/status/1971657063525675320/video/1",
+          "media_key": "7_1971657019061915648",
+          "start": 37,
+          "url": "https://t.co/WKFEJOBq89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971933444348563797",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 562
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971657063525675320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PicturesFoIder: bra saved a life https://t.co/WKFEJOBq89"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50014,
+        "height": 720,
+        "media_key": "7_1971657019061915648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1971657019061915648/pu/img/zk0tsJGkr7k5X4Ub.jpg",
+        "public_metrics": {
+          "view_count": 157032
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971657019061915648/pu/vid/avc1/320x320/2T_bswboDQqSpNYC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971657019061915648/pu/vid/avc1/540x540/-CNpneITUwAyhcig.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971657019061915648/pu/vid/avc1/720x720/dtijiymuBJoaU5Ta.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1971657019061915648/pu/pl/1elA_Op0MlzMDeDV.m3u8?tag=12&v=a55"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971657019061915648"
+          ],
+          "media_source_tweet_id": [
+            "1971657063525675320"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971933444348563797",
+        "created_at": "2025-09-27T13:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971933444348563797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2538322138",
+              "start": 3,
+              "username": "PicturesFoIder"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKFEJOBq89",
+              "end": 60,
+              "expanded_url": "https://x.com/PicturesFoIder/status/1971657063525675320/video/1",
+              "media_key": "7_1971657019061915648",
+              "start": 37,
+              "url": "https://t.co/WKFEJOBq89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971933444348563797",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 562
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971657063525675320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PicturesFoIder: bra saved a life https://t.co/WKFEJOBq89"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971657019061915648"
+          ]
+        },
+        "author_id": "2538322138",
+        "conversation_id": "1971657063525675320",
+        "created_at": "2025-09-26T19:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T20:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971657063525675320"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "bra",
+              "probability": 0.6692,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKFEJOBq89",
+              "end": 40,
+              "expanded_url": "https://x.com/PicturesFoIder/status/1971657063525675320/video/1",
+              "media_key": "7_1971657019061915648",
+              "start": 17,
+              "url": "https://t.co/WKFEJOBq89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971657063525675320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 369482,
+          "like_count": 9409,
+          "quote_count": 29,
+          "reply_count": 112,
+          "retweet_count": 562
+        },
+        "reply_settings": "everyone",
+        "text": "bra saved a life https://t.co/WKFEJOBq89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 1217,
+          "like_count": 57250,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6398
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-10T04:08:46.000Z",
+        "description": "viral media from around the world",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pictures.foider",
+                "end": 23,
+                "expanded_url": "https://instagram.com/pictures.foider",
+                "start": 0,
+                "url": "https://t.co/jVFPw29ezi"
+              }
+            ]
+          }
+        },
+        "id": "2538322138",
+        "name": "non aesthetic things",
+        "pinned_tweet_id": "1958558854846828863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019286,
+          "following_count": 576,
+          "like_count": 4704,
+          "listed_count": 8823,
+          "media_count": 20457,
+          "tweet_count": 22534
+        },
+        "url": "https://t.co/jVFPw29ezi",
+        "username": "PicturesFoIder",
+        "verified": true
+      }
+    ]
+  }
+}

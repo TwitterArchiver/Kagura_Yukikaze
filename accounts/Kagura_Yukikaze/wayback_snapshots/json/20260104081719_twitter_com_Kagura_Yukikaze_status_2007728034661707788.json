@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007478965552984065"
+      ],
+      "media_source_tweet_id": [
+        "2007478969700962800"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2007728034661707788",
+    "created_at": "2026-01-04T08:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007728034661707788"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1440988078177280006",
+          "start": 3,
+          "username": "2525_tkn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gRJTFtrtiL",
+          "end": 43,
+          "expanded_url": "https://x.com/2525_tkn/status/2007478969700962800/photo/1",
+          "media_key": "3_2007478965552984065",
+          "start": 20,
+          "url": "https://t.co/gRJTFtrtiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007728034661707788",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 849
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007478969700962800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2525_tkn: #重音テト https://t.co/gRJTFtrtiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2007478965552984065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9v_e6vasAEoezo.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007478965552984065"
+          ],
+          "media_source_tweet_id": [
+            "2007478969700962800"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2007728034661707788",
+        "created_at": "2026-01-04T08:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007728034661707788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1440988078177280006",
+              "start": 3,
+              "username": "2525_tkn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRJTFtrtiL",
+              "end": 43,
+              "expanded_url": "https://x.com/2525_tkn/status/2007478969700962800/photo/1",
+              "media_key": "3_2007478965552984065",
+              "start": 20,
+              "url": "https://t.co/gRJTFtrtiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007728034661707788",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 849
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007478969700962800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2525_tkn: #重音テト https://t.co/gRJTFtrtiL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007478965552984065"
+          ]
+        },
+        "author_id": "1440988078177280006",
+        "conversation_id": "2007478969700962800",
+        "created_at": "2026-01-03T15:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007478969700962800"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRJTFtrtiL",
+              "end": 29,
+              "expanded_url": "https://x.com/2525_tkn/status/2007478969700962800/photo/1",
+              "media_key": "3_2007478965552984065",
+              "start": 6,
+              "url": "https://t.co/gRJTFtrtiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007478969700962800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 564,
+          "impression_count": 121287,
+          "like_count": 13589,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 849
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/gRJTFtrtiL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 2163,
+          "like_count": 79606,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 9107
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T10:35:24.000Z",
+        "description": "ﾀｶﾉのリンクまとめ→https://t.co/1GhWYZZRrj /趣味のこと沢山呟くのでうるさいと思います",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/takano",
+                "end": 34,
+                "expanded_url": "https://lit.link/takano",
+                "start": 11,
+                "url": "https://t.co/1GhWYZZRrj"
+              }
+            ]
+          }
+        },
+        "id": "1440988078177280006",
+        "name": "ﾀｶﾉ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461110673619169280/SfMx1uIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 329,
+          "like_count": 106459,
+          "listed_count": 7,
+          "media_count": 778,
+          "tweet_count": 4826
+        },
+        "username": "2525_tkn",
+        "verified": false
+      }
+    ]
+  }
+}

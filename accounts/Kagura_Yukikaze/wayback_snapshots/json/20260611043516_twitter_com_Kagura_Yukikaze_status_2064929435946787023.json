@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2064929435946787023",
+    "created_at": "2026-06-11T04:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064929435946787023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891722301584048128",
+          "start": 3,
+          "username": "8964shrimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064929435946787023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064927243311476822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @8964shrimp: 我本来应该是可爱的女孩子，为什么会变成这样😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2064929435946787023",
+        "created_at": "2026-06-11T04:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064929435946787023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891722301584048128",
+              "start": 3,
+              "username": "8964shrimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064929435946787023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064927243311476822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @8964shrimp: 我本来应该是可爱的女孩子，为什么会变成这样😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891722301584048128",
+        "conversation_id": "2064927243311476822",
+        "created_at": "2026-06-11T04:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064927243311476822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inline_int/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/inline_int/status/2064682296997773556",
+              "start": 23,
+              "url": "https://t.co/Pcmzd1B0h1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064927243311476822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064682296997773556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我本来应该是可爱的女孩子，为什么会变成这样😭 https://t.co/Pcmzd1B0h1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 3032,
+          "like_count": 110845,
+          "listed_count": 7,
+          "media_count": 805,
+          "tweet_count": 13522
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "mtf（x？｜🍥：2025.3.12｜單車佬｜邊緣人｜躁鬱",
+        "id": "1891722301584048128",
+        "location": "月球",
+        "name": "蝦蝦醬🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062537785681362944/QpoDPa-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 592,
+          "like_count": 10935,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1363
+        },
+        "username": "8964shrimp",
+        "verified": false
+      }
+    ]
+  }
+}

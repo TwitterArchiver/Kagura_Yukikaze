@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1989653853030256661",
+    "created_at": "2025-11-15T11:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T12:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989653853030256661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1198880466322903041",
+          "start": 3,
+          "username": "MaNameBin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989653853030256661",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "1529751999008321536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaNameBin: Here it is! My full model! Pls don't stare at me menacingly ;-; and yes I'm 5'4 so what T.T Also debut will be in another 2…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1529751484514021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FTrE3sUVsAAmTxC.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1989653853030256661",
+        "created_at": "2025-11-15T11:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989653853030256661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1198880466322903041",
+              "start": 3,
+              "username": "MaNameBin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989653853030256661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "1529751999008321536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaNameBin: Here it is! My full model! Pls don't stare at me menacingly ;-; and yes I'm 5'4 so what T.T Also debut will be in another 2…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1529751484514021376"
+          ]
+        },
+        "author_id": "1198880466322903041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1529751999008321536",
+        "created_at": "2022-05-26T09:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2022-05-26T09:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1529751999008321536"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 190,
+              "normalized_text": "VTuberUprising",
+              "probability": 0.8639,
+              "start": 177,
+              "type": "Organization"
+            },
+            {
+              "end": 200,
+              "normalized_text": "VTuberEN",
+              "probability": 0.9446,
+              "start": 193,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 191,
+              "start": 176,
+              "tag": "VTuberUprising"
+            },
+            {
+              "end": 201,
+              "start": 192,
+              "tag": "VTuberEN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 171,
+              "id": "1322452190665998336",
+              "start": 161,
+              "username": "reicchiru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4mjnAPXjD",
+              "end": 225,
+              "expanded_url": "https://x.com/MaNameBin/status/1529751999008321536/photo/1",
+              "media_key": "3_1529751484514021376",
+              "start": 202,
+              "url": "https://t.co/d4mjnAPXjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1529751999008321536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 0,
+          "like_count": 2347,
+          "quote_count": 11,
+          "reply_count": 200,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "Here it is! My full model! Pls don't stare at me menacingly ;-; and yes I'm 5'4 so what T.T Also debut will be in another 2 days AHHHHHHHHHHHHHHHHHH\n\nModel art: @reicchiru 💙💙\n\n#VTuberUprising #VTuberEN https://t.co/d4mjnAPXjD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1842,
+          "like_count": 70360,
+          "listed_count": 2,
+          "media_count": 547,
+          "tweet_count": 7839
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-25T08:25:58.000Z",
+        "description": "MEOW | Mama: @reicchiru | Papa: @_shinnrin | Pfp: @yveaine | Art Tag: #BinnArt | General tag: #BinnLive",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "BinnArt"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "tag": "BinnLive"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "reicchiru"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "_shinnrin"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "yveaine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/manamebin",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/manamebin",
+                "start": 0,
+                "url": "https://t.co/yE1KJqka5h"
+              }
+            ]
+          }
+        },
+        "id": "1198880466322903041",
+        "location": "ur mum's bed",
+        "name": "MaNameBin 💙",
+        "pinned_tweet_id": "1529751999008321536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957531454830952448/XeaYEg7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35302,
+          "following_count": 1443,
+          "like_count": 91960,
+          "listed_count": 86,
+          "media_count": 1790,
+          "tweet_count": 28626
+        },
+        "url": "https://t.co/yE1KJqka5h",
+        "username": "MaNameBin",
+        "verified": true
+      }
+    ]
+  }
+}

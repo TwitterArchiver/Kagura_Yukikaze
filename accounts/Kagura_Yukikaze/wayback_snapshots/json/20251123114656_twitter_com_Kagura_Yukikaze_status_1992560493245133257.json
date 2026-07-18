@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992160104251371520"
+      ],
+      "media_source_tweet_id": [
+        "1992160110152745368"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1992560493245133257",
+    "created_at": "2025-11-23T11:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992560493245133257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657233521084334086",
+          "start": 3,
+          "username": "slnx_01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VVgQq2d1Kg",
+          "end": 36,
+          "expanded_url": "https://x.com/slnx_01/status/1992160110152745368/photo/1",
+          "media_key": "3_1992160104251371520",
+          "start": 13,
+          "url": "https://t.co/VVgQq2d1Kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992560493245133257",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992160110152745368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @slnx_01: https://t.co/VVgQq2d1Kg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_1992160104251371520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WTD1WbsAAw3ak.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992160104251371520"
+          ],
+          "media_source_tweet_id": [
+            "1992160110152745368"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1992560493245133257",
+        "created_at": "2025-11-23T11:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992560493245133257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657233521084334086",
+              "start": 3,
+              "username": "slnx_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVgQq2d1Kg",
+              "end": 36,
+              "expanded_url": "https://x.com/slnx_01/status/1992160110152745368/photo/1",
+              "media_key": "3_1992160104251371520",
+              "start": 13,
+              "url": "https://t.co/VVgQq2d1Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992560493245133257",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992160110152745368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @slnx_01: https://t.co/VVgQq2d1Kg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992160104251371520"
+          ]
+        },
+        "author_id": "1657233521084334086",
+        "conversation_id": "1992160110152745368",
+        "created_at": "2025-11-22T09:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992160110152745368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVgQq2d1Kg",
+              "end": 23,
+              "expanded_url": "https://x.com/slnx_01/status/1992160110152745368/photo/1",
+              "media_key": "3_1992160104251371520",
+              "start": 0,
+              "url": "https://t.co/VVgQq2d1Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992160110152745368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 17354,
+          "like_count": 1804,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VVgQq2d1Kg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1900,
+          "like_count": 71728,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 8012
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T03:57:27.000Z",
+        "description": "病棟研究部(同人サークル)で絵や文章をかいていますhttps://t.co/tfSapHZQW2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/slnx02",
+                "end": 48,
+                "expanded_url": "https://note.com/slnx02",
+                "start": 25,
+                "url": "https://t.co/tfSapHZQW2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCs9B1…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCs9B1jcBeG40GjvN1B_SIHQ?si=HlNR8O-DcSWsTJFR",
+                "start": 0,
+                "url": "https://t.co/0mU4KmCgdb"
+              }
+            ]
+          }
+        },
+        "id": "1657233521084334086",
+        "name": "流されて精神科",
+        "pinned_tweet_id": "1990371585510044023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990402109674795008/4Mh85ebR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10688,
+          "following_count": 5,
+          "like_count": 583,
+          "listed_count": 49,
+          "media_count": 129,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/0mU4KmCgdb",
+        "username": "slnx_01",
+        "verified": false
+      }
+    ]
+  }
+}

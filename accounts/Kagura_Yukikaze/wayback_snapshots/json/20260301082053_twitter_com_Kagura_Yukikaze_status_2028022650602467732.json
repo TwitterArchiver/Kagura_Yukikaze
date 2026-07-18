@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027650968381227008"
+      ],
+      "media_source_tweet_id": [
+        "2027650978854355221"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2028022650602467732",
+    "created_at": "2026-03-01T08:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T09:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028022650602467732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1313827203679948800",
+          "start": 3,
+          "username": "Gacha_Zone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ykSZ0IrUc",
+          "end": 39,
+          "expanded_url": "https://x.com/Gacha_Zone/status/2027650978854355221/photo/1",
+          "media_key": "3_2027650968381227008",
+          "start": 16,
+          "url": "https://t.co/0ykSZ0IrUc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028022650602467732",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2607
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027650978854355221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gacha_Zone: https://t.co/0ykSZ0IrUc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2027650968381227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOp0BLXAAAFkaf.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027650968381227008"
+          ],
+          "media_source_tweet_id": [
+            "2027650978854355221"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2028022650602467732",
+        "created_at": "2026-03-01T08:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028022650602467732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1313827203679948800",
+              "start": 3,
+              "username": "Gacha_Zone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ykSZ0IrUc",
+              "end": 39,
+              "expanded_url": "https://x.com/Gacha_Zone/status/2027650978854355221/photo/1",
+              "media_key": "3_2027650968381227008",
+              "start": 16,
+              "url": "https://t.co/0ykSZ0IrUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028022650602467732",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2607
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027650978854355221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gacha_Zone: https://t.co/0ykSZ0IrUc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027650968381227008"
+          ]
+        },
+        "author_id": "1313827203679948800",
+        "conversation_id": "2027650978854355221",
+        "created_at": "2026-02-28T07:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T08:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027650978854355221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ykSZ0IrUc",
+              "end": 23,
+              "expanded_url": "https://x.com/Gacha_Zone/status/2027650978854355221/photo/1",
+              "media_key": "3_2027650968381227008",
+              "start": 0,
+              "url": "https://t.co/0ykSZ0IrUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027650978854355221",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3630,
+          "impression_count": 846536,
+          "like_count": 64693,
+          "quote_count": 157,
+          "reply_count": 179,
+          "retweet_count": 2607
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0ykSZ0IrUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 2547,
+          "like_count": 90801,
+          "listed_count": 2,
+          "media_count": 671,
+          "tweet_count": 10655
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T13:03:19.000Z",
+        "description": "Life is a Gacha\nEmail: Genshinmem@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/gacha_memees",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/gacha_memees",
+                "start": 0,
+                "url": "https://t.co/lC4SlDU6NH"
+              }
+            ]
+          }
+        },
+        "id": "1313827203679948800",
+        "name": "Gacha Zone",
+        "pinned_tweet_id": "2027801732214931546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869195786619105280/0rMTRq63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272455,
+          "following_count": 844,
+          "like_count": 14253,
+          "listed_count": 1832,
+          "media_count": 10850,
+          "tweet_count": 11595
+        },
+        "url": "https://t.co/lC4SlDU6NH",
+        "username": "Gacha_Zone",
+        "verified": true
+      }
+    ]
+  }
+}

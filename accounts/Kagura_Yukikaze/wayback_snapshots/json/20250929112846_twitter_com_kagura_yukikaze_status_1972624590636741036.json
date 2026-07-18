@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953252967777484802"
+      ],
+      "media_source_tweet_id": [
+        "1953252977319526816"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1972624590636741036",
+    "created_at": "2025-09-29T11:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T12:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972624590636741036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752528596718211072",
+          "start": 3,
+          "username": "Gotousugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/08xszkO4Cz",
+          "end": 42,
+          "expanded_url": "https://x.com/Gotousugi/status/1953252977319526816/photo/1",
+          "media_key": "3_1953252967777484802",
+          "start": 19,
+          "url": "https://t.co/08xszkO4Cz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972624590636741036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953252977319526816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gotousugi: 第一次 https://t.co/08xszkO4Cz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1953252967777484802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxtZObTawAIwcmr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953252967777484802"
+          ],
+          "media_source_tweet_id": [
+            "1953252977319526816"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1972624590636741036",
+        "created_at": "2025-09-29T11:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972624590636741036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752528596718211072",
+              "start": 3,
+              "username": "Gotousugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/08xszkO4Cz",
+              "end": 42,
+              "expanded_url": "https://x.com/Gotousugi/status/1953252977319526816/photo/1",
+              "media_key": "3_1953252967777484802",
+              "start": 19,
+              "url": "https://t.co/08xszkO4Cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972624590636741036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953252977319526816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gotousugi: 第一次 https://t.co/08xszkO4Cz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953252967777484802"
+          ]
+        },
+        "author_id": "1752528596718211072",
+        "conversation_id": "1953252977319526816",
+        "created_at": "2025-08-07T00:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T01:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953252977319526816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08xszkO4Cz",
+              "end": 27,
+              "expanded_url": "https://x.com/Gotousugi/status/1953252977319526816/photo/1",
+              "media_key": "3_1953252967777484802",
+              "start": 4,
+              "url": "https://t.co/08xszkO4Cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953252977319526816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6877,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "第一次 https://t.co/08xszkO4Cz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 1278,
+          "like_count": 57962,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6490
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "09年/准高一/友跨🏳️‍⚧️/MtF倾向🍥（hrt2025.7.15，斷糖中）/期待srs/坐标上海/小号@CharmingFirefly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kcna.kp/kp",
+                "end": 23,
+                "expanded_url": "http://www.kcna.kp/kp",
+                "start": 0,
+                "url": "https://t.co/3zRMUL1t7b"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "⛩️後藤 스기🍥🏳️‍⚧️🧊",
+        "pinned_tweet_id": "1953252977319526816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 2579,
+          "like_count": 38155,
+          "listed_count": 5,
+          "media_count": 1104,
+          "tweet_count": 20037
+        },
+        "url": "https://t.co/3zRMUL1t7b",
+        "username": "Gotousugi",
+        "verified": false
+      }
+    ]
+  }
+}

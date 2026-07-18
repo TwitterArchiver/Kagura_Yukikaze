@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2053332442539536691",
+    "created_at": "2026-05-10T04:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053332442539536691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1705630684117610498",
+          "start": 3,
+          "username": "LemonTreeandSea"
+        },
+        {
+          "end": 36,
+          "id": "1902217890738401281",
+          "start": 26,
+          "username": "Sylvviiae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053332442539536691",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053196676488188009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LemonTreeandSea: 不准死😭\n@Sylvviiae\n大家快救救她😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2053332442539536691",
+        "created_at": "2026-05-10T04:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053332442539536691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1705630684117610498",
+              "start": 3,
+              "username": "LemonTreeandSea"
+            },
+            {
+              "end": 36,
+              "id": "1902217890738401281",
+              "start": 26,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053332442539536691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053196676488188009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LemonTreeandSea: 不准死😭\n@Sylvviiae\n大家快救救她😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705630684117610498",
+        "conversation_id": "2053196676488188009",
+        "created_at": "2026-05-09T19:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053196676488188009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902217890738401281",
+              "start": 5,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053196676488188009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 656,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不准死😭\n@Sylvviiae\n大家快救救她😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 2928,
+          "like_count": 105870,
+          "listed_count": 8,
+          "media_count": 782,
+          "tweet_count": 12856
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T17:10:27.000Z",
+        "description": "是学生喵♥️一个向往幸福生活的孩子😋在爱尔兰上学，希望能在世界上交到更多的朋友～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ban-gfw.com",
+                "end": 23,
+                "expanded_url": "https://ban-gfw.com/",
+                "start": 0,
+                "url": "https://t.co/VORKWLZa19"
+              }
+            ]
+          }
+        },
+        "id": "1705630684117610498",
+        "location": "Dublin City, Ireland",
+        "name": "派大星派小萌～🇮🇪",
+        "pinned_tweet_id": "1863293275202842775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873912756128153600/b7Q3bgbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 657,
+          "like_count": 22420,
+          "listed_count": 24,
+          "media_count": 559,
+          "tweet_count": 11642
+        },
+        "url": "https://t.co/VORKWLZa19",
+        "username": "LemonTreeandSea",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 485,
+          "like_count": 244,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1190
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

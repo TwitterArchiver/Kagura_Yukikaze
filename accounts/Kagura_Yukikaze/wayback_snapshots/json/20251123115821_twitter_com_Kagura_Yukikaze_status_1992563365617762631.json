@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992248041307291648"
+      ],
+      "media_source_tweet_id": [
+        "1992248044440731747"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1992563365617762631",
+    "created_at": "2025-11-23T11:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992563365617762631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492309312345153542",
+          "start": 3,
+          "username": "astralbaes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n5XIQCvUUE",
+          "end": 39,
+          "expanded_url": "https://x.com/astralbaes/status/1992248044440731747/photo/1",
+          "media_key": "3_1992248041307291648",
+          "start": 16,
+          "url": "https://t.co/n5XIQCvUUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992563365617762631",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4217
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992248044440731747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astralbaes: https://t.co/n5XIQCvUUE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1992248041307291648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XjCcaWwAAFcTl.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992248041307291648"
+          ],
+          "media_source_tweet_id": [
+            "1992248044440731747"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1992563365617762631",
+        "created_at": "2025-11-23T11:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992563365617762631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492309312345153542",
+              "start": 3,
+              "username": "astralbaes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5XIQCvUUE",
+              "end": 39,
+              "expanded_url": "https://x.com/astralbaes/status/1992248044440731747/photo/1",
+              "media_key": "3_1992248041307291648",
+              "start": 16,
+              "url": "https://t.co/n5XIQCvUUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992563365617762631",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4217
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992248044440731747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @astralbaes: https://t.co/n5XIQCvUUE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992248041307291648"
+          ]
+        },
+        "author_id": "1492309312345153542",
+        "conversation_id": "1992248044440731747",
+        "created_at": "2025-11-22T15:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992248044440731747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5XIQCvUUE",
+              "end": 23,
+              "expanded_url": "https://x.com/astralbaes/status/1992248044440731747/photo/1",
+              "media_key": "3_1992248041307291648",
+              "start": 0,
+              "url": "https://t.co/n5XIQCvUUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992248044440731747",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 480,
+          "impression_count": 218433,
+          "like_count": 22530,
+          "quote_count": 42,
+          "reply_count": 15,
+          "retweet_count": 4217
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/n5XIQCvUUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1899,
+          "like_count": 71748,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 8017
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T01:27:28.000Z",
+        "description": "222 ༻✧",
+        "id": "1492309312345153542",
+        "location": "she/her",
+        "name": "♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631832561797218304/x0BfxNvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258065,
+          "following_count": 14922,
+          "like_count": 10072,
+          "listed_count": 568,
+          "media_count": 4944,
+          "tweet_count": 9538
+        },
+        "username": "astralbaes",
+        "verified": true
+      }
+    ]
+  }
+}

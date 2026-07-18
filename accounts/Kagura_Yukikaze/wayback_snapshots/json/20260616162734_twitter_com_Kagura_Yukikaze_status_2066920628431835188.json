@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2066912504845041779",
+    "created_at": "2026-06-16T16:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066920628431835188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953528457339834368",
+          "start": 0,
+          "username": "redraft2000"
+        },
+        {
+          "end": 25,
+          "id": "1860552199585300482",
+          "start": 13,
+          "username": "Seven_Eraya"
+        },
+        {
+          "end": 38,
+          "id": "1585145286598483968",
+          "start": 26,
+          "username": "lianyiganyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066920628431835188",
+    "in_reply_to_user_id": "1953528457339834368",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066912504845041779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redraft2000 @Seven_Eraya @lianyiganyu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2066912492811685888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8l9hPbkAAOKwd.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2066912504845041779",
+        "created_at": "2026-06-16T16:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066920628431835188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            },
+            {
+              "end": 25,
+              "id": "1860552199585300482",
+              "start": 13,
+              "username": "Seven_Eraya"
+            },
+            {
+              "end": 38,
+              "id": "1585145286598483968",
+              "start": 26,
+              "username": "lianyiganyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066920628431835188",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066912504845041779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 @Seven_Eraya @lianyiganyu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066912492811685888"
+          ]
+        },
+        "author_id": "1953528457339834368",
+        "conversation_id": "2066912504845041779",
+        "created_at": "2026-06-16T15:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066912504845041779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 61,
+              "id": "1860552199585300482",
+              "start": 49,
+              "username": "Seven_Eraya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zf9DnEFJ1A",
+              "end": 85,
+              "expanded_url": "https://x.com/redraft2000/status/2066912504845041779/photo/1",
+              "media_key": "3_2066912492811685888",
+              "start": 62,
+              "url": "https://t.co/Zf9DnEFJ1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066912504845041779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Eraya有自杀冲动，她持有大量亚硝酸钠和1,4-丁二醇，我不知道怎样才能阻止她，请求大家帮助!\n@Seven_Eraya https://t.co/Zf9DnEFJ1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 3044,
+          "like_count": 111472,
+          "listed_count": 7,
+          "media_count": 808,
+          "tweet_count": 13582
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 118,
+          "like_count": 5817,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 2296
+        },
+        "username": "redraft2000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "疑似有证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|重度焦虑|性别烦躁|超强易敏体质|疑似有证26.5.25|已拥盐26.4.8|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2065890411256914308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 265,
+          "like_count": 749,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 505
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3761,
+          "following_count": 6,
+          "like_count": 53,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993900722489049088"
+      ],
+      "media_source_tweet_id": [
+        "1993900743733203449"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1994020987034345869",
+    "created_at": "2025-11-27T12:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994020987034345869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1271652280438308864",
+          "start": 3,
+          "username": "Jaciezyt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQ2C0PcppW",
+          "end": 48,
+          "expanded_url": "https://x.com/Jaciezyt/status/1993900743733203449/photo/1",
+          "media_key": "3_1993900722489049088",
+          "start": 25,
+          "url": "https://t.co/PQ2C0PcppW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994020987034345869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993900743733203449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jaciezyt: 当你的手很冷.jpg https://t.co/PQ2C0PcppW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1993900722489049088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vCJJlawAArzLC.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993900722489049088"
+          ],
+          "media_source_tweet_id": [
+            "1993900743733203449"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1994020987034345869",
+        "created_at": "2025-11-27T12:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994020987034345869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1271652280438308864",
+              "start": 3,
+              "username": "Jaciezyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQ2C0PcppW",
+              "end": 48,
+              "expanded_url": "https://x.com/Jaciezyt/status/1993900743733203449/photo/1",
+              "media_key": "3_1993900722489049088",
+              "start": 25,
+              "url": "https://t.co/PQ2C0PcppW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994020987034345869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993900743733203449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jaciezyt: 当你的手很冷.jpg https://t.co/PQ2C0PcppW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993900722489049088"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "1993900743733203449",
+        "created_at": "2025-11-27T04:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993900743733203449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQ2C0PcppW",
+              "end": 34,
+              "expanded_url": "https://x.com/Jaciezyt/status/1993900743733203449/photo/1",
+              "media_key": "3_1993900722489049088",
+              "start": 11,
+              "url": "https://t.co/PQ2C0PcppW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993900743733203449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 7041,
+          "like_count": 256,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "当你的手很冷.jpg https://t.co/PQ2C0PcppW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1938,
+          "like_count": 72466,
+          "listed_count": 2,
+          "media_count": 556,
+          "tweet_count": 8094
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Radio DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 以自己想要的方式生活 ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 107,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "🐱ZYT🏳️⭐️ w (๑╹◡╹๑) w",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3000,
+          "following_count": 749,
+          "like_count": 51254,
+          "listed_count": 7,
+          "media_count": 1041,
+          "tweet_count": 12770
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

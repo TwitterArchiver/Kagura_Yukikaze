@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016190865329500160"
+      ],
+      "media_source_tweet_id": [
+        "2016190868580126966"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2016196818720420233",
+    "created_at": "2026-01-27T17:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016196818720420233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944397601354465280",
+          "start": 3,
+          "username": "AzusaBA0713"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ousNnEkI6s",
+          "end": 90,
+          "expanded_url": "https://x.com/AzusaBA0713/status/2016190868580126966/photo/1",
+          "media_key": "3_2016190865329500160",
+          "start": 67,
+          "url": "https://t.co/ousNnEkI6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016196818720420233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016190868580126966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AzusaBA0713: 冷知识:遇到同类贴贴时千万不要说她的那里小，否则你会突然看到她那里变大了，你也会走不掉！\n喵喵喵~ https://t.co/ousNnEkI6s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016190865329500160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ry6OdaMAAMkJk.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016190865329500160"
+          ],
+          "media_source_tweet_id": [
+            "2016190868580126966"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2016196818720420233",
+        "created_at": "2026-01-27T17:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016196818720420233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944397601354465280",
+              "start": 3,
+              "username": "AzusaBA0713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ousNnEkI6s",
+              "end": 90,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2016190868580126966/photo/1",
+              "media_key": "3_2016190865329500160",
+              "start": 67,
+              "url": "https://t.co/ousNnEkI6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016196818720420233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016190868580126966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AzusaBA0713: 冷知识:遇到同类贴贴时千万不要说她的那里小，否则你会突然看到她那里变大了，你也会走不掉！\n喵喵喵~ https://t.co/ousNnEkI6s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016190865329500160"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2016190868580126966",
+        "created_at": "2026-01-27T16:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016190868580126966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ousNnEkI6s",
+              "end": 73,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2016190868580126966/photo/1",
+              "media_key": "3_2016190865329500160",
+              "start": 50,
+              "url": "https://t.co/ousNnEkI6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016190868580126966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识:遇到同类贴贴时千万不要说她的那里小，否则你会突然看到她那里变大了，你也会走不掉！\n喵喵喵~ https://t.co/ousNnEkI6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 2305,
+          "like_count": 83684,
+          "listed_count": 2,
+          "media_count": 616,
+          "tweet_count": 9806
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "瓦达西只是一个喜欢吃🍥糖糖🍥的小孩纸˃ ˄ ˂̥̥/已炸柜/家长不管/INFP-T/生产日期2010/7/13/1.65m/mtf/xyn/hrt/2025/4/28/中度抑郁/陪伴需求量超大/厌学/向往自由💫/是只现实和网络都是烧0的乖孩子哦~/🚪26+v+企鹅(过门先私信)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQWVq1"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2005854666995696006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966995836837269504/yObOvbeA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 1222,
+          "like_count": 577,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/bbrOTQWVq1",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

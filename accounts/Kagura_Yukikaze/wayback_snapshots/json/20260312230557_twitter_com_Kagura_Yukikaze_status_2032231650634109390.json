@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2032192703061246343",
+    "created_at": "2026-03-12T23:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T00:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032231650634109390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1514729960971603969",
+          "start": 0,
+          "username": "MaimaiNZCharts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032231650634109390",
+    "in_reply_to_user_id": "1514729960971603969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032192703061246343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaimaiNZCharts 生日快乐哦～🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032192697159798784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPMfbVaUAAI2G7.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2032192703061246343",
+        "created_at": "2026-03-12T23:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T00:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032231650634109390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1514729960971603969",
+              "start": 0,
+              "username": "MaimaiNZCharts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032231650634109390",
+        "in_reply_to_user_id": "1514729960971603969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032192703061246343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaimaiNZCharts 生日快乐哦～🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032192697159798784"
+          ]
+        },
+        "author_id": "1514729960971603969",
+        "conversation_id": "2032192703061246343",
+        "created_at": "2026-03-12T20:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032192703061246343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAlP9NyRAL",
+              "end": 46,
+              "expanded_url": "https://x.com/MaimaiNZCharts/status/2032192703061246343/photo/1",
+              "media_key": "3_2032192697159798784",
+              "start": 23,
+              "url": "https://t.co/tAlP9NyRAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032192703061246343",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Its my BIRTHDAY now!!! https://t.co/tAlP9NyRAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風（喵呜",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 2583,
+          "like_count": 93113,
+          "listed_count": 2,
+          "media_count": 683,
+          "tweet_count": 10948
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T22:19:12.000Z",
+        "description": "🟩🟨🟥🟪⬜️ 16 / she/her / maimai SSS player / straight / DoB: 03/13/2009 (Official English account for #舞萌DX) / 2nd: @MaimaiNZ_Art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 99,
+                "tag": "舞萌DX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 126,
+                "start": 113,
+                "username": "MaimaiNZ_Art"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@maimainz_char…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@maimainz_charts?si=MYokdEiDo3BSnxFk",
+                "start": 0,
+                "url": "https://t.co/EsZ7Ym4jWj"
+              }
+            ]
+          }
+        },
+        "id": "1514729960971603969",
+        "location": "Wahlap",
+        "name": "Maimai NZ / 舞萌DX EN",
+        "pinned_tweet_id": "2014870265696813558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888107548676698113/IFhMNwav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 195,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 532,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/EsZ7Ym4jWj",
+        "username": "MaimaiNZCharts",
+        "verified": true
+      }
+    ]
+  }
+}

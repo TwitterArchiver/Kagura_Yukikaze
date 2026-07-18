@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989774683265536000"
+      ],
+      "media_source_tweet_id": [
+        "1989774691876438136"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1989932198791971197",
+    "created_at": "2025-11-16T05:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T06:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989932198791971197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1646389920561500162",
+          "start": 3,
+          "username": "kaitenta1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x6vKKOOh9m",
+          "end": 38,
+          "expanded_url": "https://x.com/kaitenta1/status/1989774691876438136/photo/1",
+          "media_key": "3_1989774683265536000",
+          "start": 15,
+          "url": "https://t.co/x6vKKOOh9m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989932198791971197",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989774691876438136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kaitenta1: https://t.co/x6vKKOOh9m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1989774683265536000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G50ZiDsbkAAfrOY.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989774683265536000"
+          ],
+          "media_source_tweet_id": [
+            "1989774691876438136"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1989932198791971197",
+        "created_at": "2025-11-16T05:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989932198791971197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1646389920561500162",
+              "start": 3,
+              "username": "kaitenta1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6vKKOOh9m",
+              "end": 38,
+              "expanded_url": "https://x.com/kaitenta1/status/1989774691876438136/photo/1",
+              "media_key": "3_1989774683265536000",
+              "start": 15,
+              "url": "https://t.co/x6vKKOOh9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989932198791971197",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989774691876438136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @kaitenta1: https://t.co/x6vKKOOh9m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989774683265536000"
+          ]
+        },
+        "author_id": "1646389920561500162",
+        "conversation_id": "1989774691876438136",
+        "created_at": "2025-11-15T19:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T20:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989774691876438136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6vKKOOh9m",
+              "end": 23,
+              "expanded_url": "https://x.com/kaitenta1/status/1989774691876438136/photo/1",
+              "media_key": "3_1989774683265536000",
+              "start": 0,
+              "url": "https://t.co/x6vKKOOh9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989774691876438136",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 7186,
+          "like_count": 973,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/x6vKKOOh9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 1848,
+          "like_count": 70504,
+          "listed_count": 2,
+          "media_count": 547,
+          "tweet_count": 7868
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T05:48:57.000Z",
+        "description": "commission→https://t.co/ZXSyJjhYAo\nskima→https://t.co/DR3NulTwEP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kaitenta1",
+                "end": 34,
+                "expanded_url": "https://skeb.jp/@kaitenta1",
+                "start": 11,
+                "url": "https://t.co/ZXSyJjhYAo"
+              },
+              {
+                "display_url": "skima.jp/profile?id=343…",
+                "end": 64,
+                "expanded_url": "https://skima.jp/profile?id=343373",
+                "start": 41,
+                "url": "https://t.co/DR3NulTwEP"
+              }
+            ]
+          }
+        },
+        "id": "1646389920561500162",
+        "name": "回転体",
+        "pinned_tweet_id": "1989464743950905750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946899878115676160/vjEAl10X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 4,
+          "like_count": 2379,
+          "listed_count": 27,
+          "media_count": 1576,
+          "tweet_count": 2320
+        },
+        "username": "kaitenta1",
+        "verified": false
+      }
+    ]
+  }
+}

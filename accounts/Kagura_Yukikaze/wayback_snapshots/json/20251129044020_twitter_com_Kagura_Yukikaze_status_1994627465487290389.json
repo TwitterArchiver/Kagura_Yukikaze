@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1994627465487290389",
+    "created_at": "2025-11-29T04:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994627465487290389"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 104,
+          "normalized_text": "DuckWarriorLily",
+          "probability": 0.9352,
+          "start": 90,
+          "type": "Other"
+        },
+        {
+          "end": 137,
+          "normalized_text": "vtuber",
+          "probability": 0.8752,
+          "start": 132,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "906053735339655169",
+          "start": 3,
+          "username": "DuckWarriorLily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994627465487290389",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994535108221833535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DuckWarriorLily: Hi hi everyone new!💕\n\nHere are some things about myself:\n-my name is DuckWarriorLily!\n-I'm a magical librarian vtuber!…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_1994528807978766343",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G639YiXbkAcvsSZ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1994627465487290389",
+        "created_at": "2025-11-29T04:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994627465487290389"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 104,
+              "normalized_text": "DuckWarriorLily",
+              "probability": 0.9352,
+              "start": 90,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "vtuber",
+              "probability": 0.8752,
+              "start": 132,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "906053735339655169",
+              "start": 3,
+              "username": "DuckWarriorLily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994627465487290389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994535108221833535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DuckWarriorLily: Hi hi everyone new!💕\n\nHere are some things about myself:\n-my name is DuckWarriorLily!\n-I'm a magical librarian vtuber!…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994528807978766343"
+          ]
+        },
+        "author_id": "906053735339655169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1994535108221833535",
+        "created_at": "2025-11-28T22:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T23:13:39.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994530150386471122",
+          "1994534869658210407",
+          "1994535108221833535"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "DuckWarriorLily",
+              "probability": 0.961,
+              "start": 69,
+              "type": "Other"
+            },
+            {
+              "end": 116,
+              "normalized_text": "vtuber",
+              "probability": 0.8065,
+              "start": 111,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVdufzlA6u",
+              "end": 210,
+              "expanded_url": "https://x.com/DuckWarriorLily/status/1994535108221833535/photo/1",
+              "media_key": "3_1994528807978766343",
+              "start": 187,
+              "url": "https://t.co/IVdufzlA6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994535108221833535",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 5613,
+          "like_count": 587,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Hi hi everyone new!💕\n\nHere are some things about myself:\n-my name is DuckWarriorLily!\n-I'm a magical librarian vtuber!\n-I like to build cozy fun gaming vibes\n-I am also sometimes a duck! https://t.co/IVdufzlA6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1952,
+          "like_count": 72755,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 8123
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-08T07:16:58.000Z",
+        "description": "Magical Librarian VTuber 💖✨️ Cute & Sussy 📚 Cozy, Wholesome & Gremlin vibes 🔴  LIVE 24/7 🌸✨️ 32 🏳️‍⚧️  \nModel : Live2dの仓库\n@qiyufng1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 122,
+                "username": "qiyufng1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/duckwarriorlily",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/duckwarriorlily",
+                "start": 0,
+                "url": "https://t.co/YCkkiUv354"
+              }
+            ]
+          }
+        },
+        "id": "906053735339655169",
+        "location": "Library Pocket Dimension",
+        "name": "𝔻𝕦𝕔𝕜𝒲𝒶𝓇𝓇𝒾𝑜𝓇𝙻𝚒𝚕𝚢 🌸🩵",
+        "pinned_tweet_id": "1982223462295838755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951270312542089217/sQGRyI1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 947,
+          "like_count": 15779,
+          "listed_count": 0,
+          "media_count": 2298,
+          "tweet_count": 8539
+        },
+        "url": "https://t.co/YCkkiUv354",
+        "username": "DuckWarriorLily",
+        "verified": true
+      }
+    ]
+  }
+}

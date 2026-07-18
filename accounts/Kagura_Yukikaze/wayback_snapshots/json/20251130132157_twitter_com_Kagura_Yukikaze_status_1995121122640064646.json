@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994762382355435522"
+      ],
+      "media_source_tweet_id": [
+        "1994762387577303203"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1527725622948077568",
+          "name": "Starlink"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SpaceX",
+          "id": "872801738394279936",
+          "name": "SpaceX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1527725622948077568",
+          "name": "Starlink"
+        }
+      }
+    ],
+    "conversation_id": "1995121122640064646",
+    "created_at": "2025-11-30T13:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T14:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995121122640064646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "814468925689692160",
+          "start": 3,
+          "username": "denpakun333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ejkkmC0slT",
+          "end": 64,
+          "expanded_url": "https://x.com/denpakun333/status/1994762387577303203/photo/1",
+          "media_key": "3_1994762382355435522",
+          "start": 41,
+          "url": "https://t.co/ejkkmC0slT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995121122640064646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994762387577303203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @denpakun333: はじめてのau Starlink Direct https://t.co/ejkkmC0slT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_1994762382355435522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67R0WubkAIovEH.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994762382355435522"
+          ],
+          "media_source_tweet_id": [
+            "1994762387577303203"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          }
+        ],
+        "conversation_id": "1995121122640064646",
+        "created_at": "2025-11-30T13:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995121122640064646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "814468925689692160",
+              "start": 3,
+              "username": "denpakun333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejkkmC0slT",
+              "end": 64,
+              "expanded_url": "https://x.com/denpakun333/status/1994762387577303203/photo/1",
+              "media_key": "3_1994762382355435522",
+              "start": 41,
+              "url": "https://t.co/ejkkmC0slT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995121122640064646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994762387577303203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @denpakun333: はじめてのau Starlink Direct https://t.co/ejkkmC0slT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994762382355435522"
+          ]
+        },
+        "author_id": "814468925689692160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SpaceX",
+              "id": "872801738394279936",
+              "name": "SpaceX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1527725622948077568",
+              "name": "Starlink"
+            }
+          }
+        ],
+        "conversation_id": "1994762387577303203",
+        "created_at": "2025-11-29T13:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994762387577303203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejkkmC0slT",
+              "end": 47,
+              "expanded_url": "https://x.com/denpakun333/status/1994762387577303203/photo/1",
+              "media_key": "3_1994762382355435522",
+              "start": 24,
+              "url": "https://t.co/ejkkmC0slT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994762387577303203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 78608,
+          "like_count": 1263,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 52
+        },
+        "reply_settings": "following",
+        "text": "はじめてのau Starlink Direct https://t.co/ejkkmC0slT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 1965,
+          "like_count": 73132,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 8170
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-29T13:51:38.000Z",
+        "description": "03   | 移動体通信 | キャッシュレス | プリウスPHV→Model 3 | なにふぁむ | DTV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/denpakun333",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/denpakun333",
+                "start": 0,
+                "url": "https://t.co/PhG9OHb4t4"
+              }
+            ]
+          }
+        },
+        "id": "814468925689692160",
+        "location": "日本 宮城",
+        "name": "でんぱくん",
+        "pinned_tweet_id": "1924096193409478865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534909808943722499/YpUyODfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 978,
+          "like_count": 52703,
+          "listed_count": 27,
+          "media_count": 13105,
+          "tweet_count": 32768
+        },
+        "url": "https://t.co/PhG9OHb4t4",
+        "username": "denpakun333",
+        "verified": true
+      }
+    ]
+  }
+}

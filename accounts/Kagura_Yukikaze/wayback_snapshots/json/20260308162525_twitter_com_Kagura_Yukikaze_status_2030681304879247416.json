@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030583117652824064",
+        "3_2030583117657063424"
+      ],
+      "media_source_tweet_id": [
+        "2030583126448304247",
+        "2030583126448304247"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030681304879247416",
+    "created_at": "2026-03-08T16:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030681304879247416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799009511333830656",
+          "start": 3,
+          "username": "Canmi21"
+        },
+        {
+          "end": 23,
+          "id": "1557653726047109121",
+          "start": 13,
+          "username": "_cosine_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uT57UX7yqq",
+          "end": 47,
+          "expanded_url": "https://x.com/Canmi21/status/2030583126448304247/photo/1",
+          "media_key": "3_2030583117652824064",
+          "start": 24,
+          "url": "https://t.co/uT57UX7yqq"
+        },
+        {
+          "display_url": "pic.x.com/uT57UX7yqq",
+          "end": 47,
+          "expanded_url": "https://x.com/Canmi21/status/2030583126448304247/photo/1",
+          "media_key": "3_2030583117657063424",
+          "start": 24,
+          "url": "https://t.co/uT57UX7yqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030681304879247416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030583126448304247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Canmi21: @_cosine_x https://t.co/uT57UX7yqq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2030583117652824064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4UlkaaEAA_XUn.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2030583117657063424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4UlkbawAAlY-9.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030583117652824064",
+            "3_2030583117657063424"
+          ],
+          "media_source_tweet_id": [
+            "2030583126448304247",
+            "2030583126448304247"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030681304879247416",
+        "created_at": "2026-03-08T16:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030681304879247416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799009511333830656",
+              "start": 3,
+              "username": "Canmi21"
+            },
+            {
+              "end": 23,
+              "id": "1557653726047109121",
+              "start": 13,
+              "username": "_cosine_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uT57UX7yqq",
+              "end": 47,
+              "expanded_url": "https://x.com/Canmi21/status/2030583126448304247/photo/1",
+              "media_key": "3_2030583117652824064",
+              "start": 24,
+              "url": "https://t.co/uT57UX7yqq"
+            },
+            {
+              "display_url": "pic.x.com/uT57UX7yqq",
+              "end": 47,
+              "expanded_url": "https://x.com/Canmi21/status/2030583126448304247/photo/1",
+              "media_key": "3_2030583117657063424",
+              "start": 24,
+              "url": "https://t.co/uT57UX7yqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030681304879247416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030583126448304247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Canmi21: @_cosine_x https://t.co/uT57UX7yqq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030583117652824064",
+            "3_2030583117657063424"
+          ]
+        },
+        "author_id": "1799009511333830656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030568984282821110",
+        "created_at": "2026-03-08T09:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030583126448304247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557653726047109121",
+              "start": 0,
+              "username": "_cosine_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uT57UX7yqq",
+              "end": 34,
+              "expanded_url": "https://x.com/Canmi21/status/2030583126448304247/photo/1",
+              "media_key": "3_2030583117652824064",
+              "start": 11,
+              "url": "https://t.co/uT57UX7yqq"
+            },
+            {
+              "display_url": "pic.x.com/uT57UX7yqq",
+              "end": 34,
+              "expanded_url": "https://x.com/Canmi21/status/2030583126448304247/photo/1",
+              "media_key": "3_2030583117657063424",
+              "start": 11,
+              "url": "https://t.co/uT57UX7yqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030583126448304247",
+        "in_reply_to_user_id": "1557653726047109121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3482,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030568984282821110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_cosine_x https://t.co/uT57UX7yqq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風（喵？",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 2595,
+          "like_count": 92429,
+          "listed_count": 2,
+          "media_count": 674,
+          "tweet_count": 10855
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T09:24:43.000Z",
+        "description": "正在接受不完美的世界 | ENTP(INFJ?) | CN/EN/JP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/canmi21",
+                "end": 23,
+                "expanded_url": "https://github.com/canmi21",
+                "start": 0,
+                "url": "https://t.co/T8jDsQAxmt"
+              }
+            ]
+          }
+        },
+        "id": "1799009511333830656",
+        "location": "Lost in code",
+        "name": "Canmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025283475520323586/Zbhxllol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 140,
+          "like_count": 10644,
+          "listed_count": 12,
+          "media_count": 487,
+          "tweet_count": 3443
+        },
+        "url": "https://t.co/T8jDsQAxmt",
+        "username": "Canmi21",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T09:02:54.000Z",
+        "description": "FE / ACG / 手工 / 深色模式强迫症 / INTP /\n兴趣广泛养两只猫的老宅女 / remote / 热爱生活\n前端频道：https://t.co/PEiLLQKZUO\n博客：https://t.co/pE7NncQAMR\n周刊：https://t.co/XaLFNL65ZT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/cosine_front_e…",
+                "end": 90,
+                "expanded_url": "http://t.me/cosine_front_end",
+                "start": 67,
+                "url": "https://t.co/PEiLLQKZUO"
+              },
+              {
+                "display_url": "blog.cosine.ren/about",
+                "end": 117,
+                "expanded_url": "http://blog.cosine.ren/about",
+                "start": 94,
+                "url": "https://t.co/pE7NncQAMR"
+              },
+              {
+                "display_url": "blog.cosine.ren/weekly",
+                "end": 144,
+                "expanded_url": "http://blog.cosine.ren/weekly",
+                "start": 121,
+                "url": "https://t.co/XaLFNL65ZT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cosine.ren/about",
+                "end": 23,
+                "expanded_url": "http://blog.cosine.ren/about",
+                "start": 0,
+                "url": "https://t.co/pE7NncQAMR"
+              }
+            ]
+          }
+        },
+        "id": "1557653726047109121",
+        "name": "cosine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007856377977544705/T7uBrUZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 2073,
+          "like_count": 19096,
+          "listed_count": 16,
+          "media_count": 413,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/pE7NncQAMR",
+        "username": "_cosine_x",
+        "verified": false
+      }
+    ]
+  }
+}

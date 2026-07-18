@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1980297640115101806",
+    "created_at": "2025-10-29T13:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983525517673533762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757031119894257664",
+          "start": 0,
+          "username": "wozijibzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983525517673533762",
+    "in_reply_to_user_id": "1757031119894257664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980297640115101806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wozijibzd 抱抱qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1980297640115101806",
+        "created_at": "2025-10-29T13:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983525517673533762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757031119894257664",
+              "start": 0,
+              "username": "wozijibzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983525517673533762",
+        "in_reply_to_user_id": "1757031119894257664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980297640115101806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wozijibzd 抱抱qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757031119894257664",
+        "conversation_id": "1980297640115101806",
+        "created_at": "2025-10-20T15:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980297640115101806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980297640115101806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "情绪要炸了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983188124747587585/zIni_VCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 1714,
+          "like_count": 67241,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7574
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T13:17:33.000Z",
+        "description": "",
+        "id": "1757031119894257664",
+        "location": "地球🌍",
+        "name": "叙叙IM",
+        "pinned_tweet_id": "1942188616656224394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974501685587578880/Np93vLbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 567,
+          "like_count": 3989,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1834
+        },
+        "username": "wozijibzd",
+        "verified": false
+      }
+    ]
+  }
+}

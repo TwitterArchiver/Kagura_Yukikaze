@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970913328714178560"
+      ],
+      "media_source_tweet_id": [
+        "1971361574775365803"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971513656350478563",
+    "created_at": "2025-09-26T09:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T10:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971513656350478563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1474091860025122817",
+          "start": 3,
+          "username": "ShitpostGate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ADyMcPxevk",
+          "end": 41,
+          "expanded_url": "https://x.com/ShitpostGate/status/1971361574775365803/photo/1",
+          "media_key": "3_1970913328714178560",
+          "start": 18,
+          "url": "https://t.co/ADyMcPxevk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971513656350478563",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971361574775365803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShitpostGate: https://t.co/ADyMcPxevk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1970913328714178560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1oXOukXYAAHX5m.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970913328714178560"
+          ],
+          "media_source_tweet_id": [
+            "1971361574775365803"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971513656350478563",
+        "created_at": "2025-09-26T09:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T10:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971513656350478563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1474091860025122817",
+              "start": 3,
+              "username": "ShitpostGate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADyMcPxevk",
+              "end": 41,
+              "expanded_url": "https://x.com/ShitpostGate/status/1971361574775365803/photo/1",
+              "media_key": "3_1970913328714178560",
+              "start": 18,
+              "url": "https://t.co/ADyMcPxevk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971513656350478563",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971361574775365803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShitpostGate: https://t.co/ADyMcPxevk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970913328714178560"
+          ]
+        },
+        "author_id": "1474091860025122817",
+        "conversation_id": "1971361574775365803",
+        "created_at": "2025-09-25T23:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T00:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971361574775365803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADyMcPxevk",
+              "end": 23,
+              "expanded_url": "https://x.com/ShitpostGate/status/1971361574775365803/photo/1",
+              "media_key": "3_1970913328714178560",
+              "start": 0,
+              "url": "https://t.co/ADyMcPxevk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971361574775365803",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 37166,
+          "like_count": 3378,
+          "quote_count": 12,
+          "reply_count": 14,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ADyMcPxevk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 1186,
+          "like_count": 56571,
+          "listed_count": 3,
+          "media_count": 481,
+          "tweet_count": 6331
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love $hitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 16,
+                "start": 5,
+                "tag": "hitposting"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "METAPCS"
+              }
+            ]
+          }
+        },
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567383,
+          "following_count": 2337,
+          "like_count": 3096,
+          "listed_count": 3156,
+          "media_count": 34029,
+          "tweet_count": 48680
+        },
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

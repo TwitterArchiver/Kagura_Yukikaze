@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971735156131352576"
+      ],
+      "media_source_tweet_id": [
+        "1971735158199144567"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971750057742684201",
+    "created_at": "2025-09-27T01:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T02:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971750057742684201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "973300554981040129",
+          "start": 3,
+          "username": "fewlse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sgl43n6rOn",
+          "end": 41,
+          "expanded_url": "https://x.com/fewlse/status/1971735158199144567/photo/1",
+          "media_key": "3_1971735156131352576",
+          "start": 18,
+          "url": "https://t.co/Sgl43n6rOn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971750057742684201",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971735158199144567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fewlse: comfy https://t.co/Sgl43n6rOn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1971735156131352576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10CrYRb0AAnTu6.jpg",
+        "width": 1434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971735156131352576"
+          ],
+          "media_source_tweet_id": [
+            "1971735158199144567"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971750057742684201",
+        "created_at": "2025-09-27T01:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T02:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971750057742684201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "973300554981040129",
+              "start": 3,
+              "username": "fewlse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sgl43n6rOn",
+              "end": 41,
+              "expanded_url": "https://x.com/fewlse/status/1971735158199144567/photo/1",
+              "media_key": "3_1971735156131352576",
+              "start": 18,
+              "url": "https://t.co/Sgl43n6rOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971750057742684201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971735158199144567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fewlse: comfy https://t.co/Sgl43n6rOn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971735156131352576"
+          ]
+        },
+        "author_id": "973300554981040129",
+        "conversation_id": "1971735158199144567",
+        "created_at": "2025-09-27T00:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T01:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971735158199144567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sgl43n6rOn",
+              "end": 29,
+              "expanded_url": "https://x.com/fewlse/status/1971735158199144567/photo/1",
+              "media_key": "3_1971735156131352576",
+              "start": 6,
+              "url": "https://t.co/Sgl43n6rOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971735158199144567",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 2752,
+          "like_count": 393,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "comfy https://t.co/Sgl43n6rOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 1201,
+          "like_count": 56927,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6366
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-12T20:51:50.000Z",
+        "description": "23 | any/all | part-time kittycat 🐾\nhttps://t.co/uBZRBnD7fT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/foolse",
+                "end": 59,
+                "expanded_url": "https://linktr.ee/foolse",
+                "start": 36,
+                "url": "https://t.co/uBZRBnD7fT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fans.ly/foolse",
+                "end": 23,
+                "expanded_url": "https://fans.ly/foolse",
+                "start": 0,
+                "url": "https://t.co/1cm8OzL2HK"
+              }
+            ]
+          }
+        },
+        "id": "973300554981040129",
+        "location": "USA",
+        "name": "foolse 🐾",
+        "pinned_tweet_id": "1959961979621429655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944833184799092737/c4oGyuq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38320,
+          "following_count": 271,
+          "like_count": 12344,
+          "listed_count": 48,
+          "media_count": 288,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/1cm8OzL2HK",
+        "username": "fewlse",
+        "verified": true
+      }
+    ]
+  }
+}

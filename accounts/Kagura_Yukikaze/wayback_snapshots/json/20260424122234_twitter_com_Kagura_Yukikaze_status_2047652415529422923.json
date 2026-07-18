@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047636835434901504"
+      ],
+      "media_source_tweet_id": [
+        "2047636848672174333"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2047652415529422923",
+    "created_at": "2026-04-24T12:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047652415529422923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807617161889992705",
+          "start": 3,
+          "username": "fumi_min_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CcUWPUUE17",
+          "end": 38,
+          "expanded_url": "https://x.com/fumi_min_/status/2047636848672174333/photo/1",
+          "media_key": "3_2047636835434901504",
+          "start": 15,
+          "url": "https://t.co/CcUWPUUE17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047652415529422923",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047636848672174333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fumi_min_: https://t.co/CcUWPUUE17"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2047636835434901504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqq2l0aMAA5rtV.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047636835434901504"
+          ],
+          "media_source_tweet_id": [
+            "2047636848672174333"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2047652415529422923",
+        "created_at": "2026-04-24T12:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047652415529422923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807617161889992705",
+              "start": 3,
+              "username": "fumi_min_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcUWPUUE17",
+              "end": 38,
+              "expanded_url": "https://x.com/fumi_min_/status/2047636848672174333/photo/1",
+              "media_key": "3_2047636835434901504",
+              "start": 15,
+              "url": "https://t.co/CcUWPUUE17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047652415529422923",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047636848672174333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fumi_min_: https://t.co/CcUWPUUE17"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047636835434901504"
+          ]
+        },
+        "author_id": "1807617161889992705",
+        "conversation_id": "2047636848672174333",
+        "created_at": "2026-04-24T11:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047636848672174333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcUWPUUE17",
+              "end": 23,
+              "expanded_url": "https://x.com/fumi_min_/status/2047636848672174333/photo/1",
+              "media_key": "3_2047636835434901504",
+              "start": 0,
+              "url": "https://t.co/CcUWPUUE17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047636848672174333",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 2673,
+          "like_count": 323,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CcUWPUUE17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 2839,
+          "like_count": 102837,
+          "listed_count": 6,
+          "media_count": 762,
+          "tweet_count": 12487
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T03:28:31.000Z",
+        "description": "",
+        "id": "1807617161889992705",
+        "name": "ふみにゃみん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946397625495793664/XIqdkBmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6524,
+          "following_count": 31,
+          "like_count": 3143,
+          "listed_count": 27,
+          "media_count": 365,
+          "tweet_count": 736
+        },
+        "username": "fumi_min_",
+        "verified": false
+      }
+    ]
+  }
+}

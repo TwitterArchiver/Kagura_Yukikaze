@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971846549018960046",
+    "created_at": "2025-09-27T14:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T15:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971952870565294304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1449417312520392705",
+          "start": 0,
+          "username": "123nhh_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971952870565294304",
+    "in_reply_to_user_id": "1449417312520392705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971846549018960046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123nhh_awa 抱抱你qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971846549018960046",
+        "created_at": "2025-09-27T14:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971952870565294304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1449417312520392705",
+              "start": 0,
+              "username": "123nhh_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971952870565294304",
+        "in_reply_to_user_id": "1449417312520392705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971846549018960046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123nhh_awa 抱抱你qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449417312520392705",
+        "conversation_id": "1971846549018960046",
+        "created_at": "2025-09-27T07:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T08:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971846549018960046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971846549018960046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果哪一天我离去（生理上的或者虚拟上的）了，还请你们不要忘记曾经有个叫123nhh的人存在过\n:)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 1220,
+          "like_count": 57385,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6426
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T16:50:02.000Z",
+        "description": "原名123nhh，回fo私信，精神状态差，目前应该不会去死，可以长时间赛博看乐子",
+        "id": "1449417312520392705",
+        "name": "星回",
+        "pinned_tweet_id": "1870520569227272445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822094492738236416/8waaV6Cg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 1121,
+          "like_count": 3820,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 155
+        },
+        "username": "123nhh_awa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995774821595316224",
+        "3_1995774833075040256"
+      ],
+      "media_source_tweet_id": [
+        "1995775248416080160",
+        "1995775248416080160"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1995891771054981404",
+    "created_at": "2025-12-02T16:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T17:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995891771054981404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1200396304360206337",
+          "start": 3,
+          "username": "amanekanatach"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvST9dWCrR",
+          "end": 116,
+          "expanded_url": "https://x.com/amanekanatach/status/1995775248416080160/photo/1",
+          "media_key": "3_1995774821595316224",
+          "start": 93,
+          "url": "https://t.co/lvST9dWCrR"
+        },
+        {
+          "display_url": "pic.x.com/lvST9dWCrR",
+          "end": 116,
+          "expanded_url": "https://x.com/amanekanatach/status/1995775248416080160/photo/1",
+          "media_key": "3_1995774833075040256",
+          "start": 93,
+          "url": "https://t.co/lvST9dWCrR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995891771054981404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71247
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995775248416080160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amanekanatach: 卒業についてのお知らせ\n\n天音かなた6周年となる2025年12月27日をもちまして、\nホロライブを卒業します。\nぜひ読んでいただけたら嬉しいです。 https://t.co/lvST9dWCrR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_1995774821595316224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JqoEzbgAAcE2X.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1460,
+        "media_key": "3_1995774833075040256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JqovkaMAAes0m.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995774821595316224",
+            "3_1995774833075040256"
+          ],
+          "media_source_tweet_id": [
+            "1995775248416080160",
+            "1995775248416080160"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1995891771054981404",
+        "created_at": "2025-12-02T16:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T17:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995891771054981404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1200396304360206337",
+              "start": 3,
+              "username": "amanekanatach"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvST9dWCrR",
+              "end": 116,
+              "expanded_url": "https://x.com/amanekanatach/status/1995775248416080160/photo/1",
+              "media_key": "3_1995774821595316224",
+              "start": 93,
+              "url": "https://t.co/lvST9dWCrR"
+            },
+            {
+              "display_url": "pic.x.com/lvST9dWCrR",
+              "end": 116,
+              "expanded_url": "https://x.com/amanekanatach/status/1995775248416080160/photo/1",
+              "media_key": "3_1995774833075040256",
+              "start": 93,
+              "url": "https://t.co/lvST9dWCrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995891771054981404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71247
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995775248416080160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amanekanatach: 卒業についてのお知らせ\n\n天音かなた6周年となる2025年12月27日をもちまして、\nホロライブを卒業します。\nぜひ読んでいただけたら嬉しいです。 https://t.co/lvST9dWCrR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995774821595316224",
+            "3_1995774833075040256"
+          ]
+        },
+        "author_id": "1200396304360206337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1995775248416080160",
+        "created_at": "2025-12-02T08:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995775248416080160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvST9dWCrR",
+              "end": 97,
+              "expanded_url": "https://x.com/amanekanatach/status/1995775248416080160/photo/1",
+              "media_key": "3_1995774821595316224",
+              "start": 74,
+              "url": "https://t.co/lvST9dWCrR"
+            },
+            {
+              "display_url": "pic.x.com/lvST9dWCrR",
+              "end": 97,
+              "expanded_url": "https://x.com/amanekanatach/status/1995775248416080160/photo/1",
+              "media_key": "3_1995774833075040256",
+              "start": 74,
+              "url": "https://t.co/lvST9dWCrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995775248416080160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15240,
+          "impression_count": 17226035,
+          "like_count": 228993,
+          "quote_count": 9051,
+          "reply_count": 6524,
+          "retweet_count": 71247
+        },
+        "reply_settings": "everyone",
+        "text": "卒業についてのお知らせ\n\n天音かなた6周年となる2025年12月27日をもちまして、\nホロライブを卒業します。\nぜひ読んでいただけたら嬉しいです。 https://t.co/lvST9dWCrR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 2006,
+          "like_count": 73872,
+          "listed_count": 2,
+          "media_count": 562,
+          "tweet_count": 8252
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-29T12:49:24.000Z",
+        "description": "ホロライブ所属VTuber、天音かなたです💫\n最新情報はハイライト欄と #たそじゅーる \nサブアカ @subtasochan\n\n💙おしおママ(@oshioshio_info) \n🖼#かなたーと 💬#天界学園放送部 📌他タグ ( https://t.co/S13fr6bdqD ) \n💫ファンネーム へい民",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 36,
+                "tag": "たそじゅーる"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "tag": "かなたーと"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "天界学園放送部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "subtasochan"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "oshioshio_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/kC1Cv",
+                "end": 137,
+                "expanded_url": "https://x.gd/kC1Cv",
+                "start": 114,
+                "url": "https://t.co/S13fr6bdqD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCZlDX…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/8qdbODzqwP"
+              }
+            ]
+          }
+        },
+        "id": "1200396304360206337",
+        "location": "いつかさいたまスーパーアリーナでライブがしたい！",
+        "name": "天音かなた💫ホロライブ",
+        "pinned_tweet_id": "1995775248416080160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958047007869923329/bS2-Yv2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523083,
+          "following_count": 1025,
+          "like_count": 1761,
+          "listed_count": 13437,
+          "media_count": 7255,
+          "tweet_count": 23870
+        },
+        "url": "https://t.co/8qdbODzqwP",
+        "username": "amanekanatach",
+        "verified": true
+      }
+    ]
+  }
+}

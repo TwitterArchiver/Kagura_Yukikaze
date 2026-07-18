@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2022708286076997790",
+    "created_at": "2026-02-14T16:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022708286076997790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1599053272341680129",
+          "start": 3,
+          "username": "ffffff6refeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022708286076997790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022653335426482236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffffff6refeng: 滨寿司和寿司郎哪个更权威（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2022708286076997790",
+        "created_at": "2026-02-14T16:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022708286076997790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1599053272341680129",
+              "start": 3,
+              "username": "ffffff6refeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022708286076997790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022653335426482236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffffff6refeng: 滨寿司和寿司郎哪个更权威（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599053272341680129",
+        "conversation_id": "2022653335426482236",
+        "created_at": "2026-02-14T12:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022653335426482236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022653335426482236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滨寿司和寿司郎哪个更权威（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 2402,
+          "like_count": 87123,
+          "listed_count": 2,
+          "media_count": 642,
+          "tweet_count": 10223
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T14:49:56.000Z",
+        "description": "they/them｜enby｜pansexual｜宝可梦玩家",
+        "id": "1599053272341680129",
+        "location": "Takamatsu-shi, Kagawa",
+        "name": "Mirage🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1968651506581643619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959645491911860224/uN-Q27eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 110,
+          "like_count": 10869,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1229
+        },
+        "username": "ffffff6refeng",
+        "verified": false
+      }
+    ]
+  }
+}

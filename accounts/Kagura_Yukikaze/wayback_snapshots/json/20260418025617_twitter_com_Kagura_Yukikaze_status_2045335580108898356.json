@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044905553714089984"
+      ],
+      "media_source_tweet_id": [
+        "2044906234898522469"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2045335580108898356",
+    "created_at": "2026-04-18T02:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045335580108898356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963779825304477696",
+          "start": 3,
+          "username": "n_jyaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e7ypBwo6w3",
+          "end": 37,
+          "expanded_url": "https://x.com/n_jyaa/status/2044906234898522469/video/1",
+          "media_key": "13_2044905553714089984",
+          "start": 14,
+          "url": "https://t.co/e7ypBwo6w3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045335580108898356",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1651
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044906234898522469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n_jyaa: 🐚 https://t.co/e7ypBwo6w3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 720,
+        "media_key": "13_2044905553714089984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044905553714089984/img/2ou7BhR5LrbohTL7.jpg",
+        "public_metrics": {
+          "view_count": 17932
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044905553714089984/vid/avc1/480x270/QzFJIyaaWR5tCeqQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044905553714089984/vid/avc1/640x360/goTz8nA_UtNv2Ovf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044905553714089984/vid/avc1/1280x720/aP9CiWXuhAaT4YTA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044905553714089984/pl/20ESHg6ksDP6528x.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044905553714089984"
+          ],
+          "media_source_tweet_id": [
+            "2044906234898522469"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2045335580108898356",
+        "created_at": "2026-04-18T02:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045335580108898356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963779825304477696",
+              "start": 3,
+              "username": "n_jyaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7ypBwo6w3",
+              "end": 37,
+              "expanded_url": "https://x.com/n_jyaa/status/2044906234898522469/video/1",
+              "media_key": "13_2044905553714089984",
+              "start": 14,
+              "url": "https://t.co/e7ypBwo6w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045335580108898356",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1651
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044906234898522469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n_jyaa: 🐚 https://t.co/e7ypBwo6w3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044905553714089984"
+          ]
+        },
+        "author_id": "1963779825304477696",
+        "conversation_id": "2044906234898522469",
+        "created_at": "2026-04-16T22:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044906234898522469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7ypBwo6w3",
+              "end": 25,
+              "expanded_url": "https://x.com/n_jyaa/status/2044906234898522469/video/1",
+              "media_key": "13_2044905553714089984",
+              "start": 2,
+              "url": "https://t.co/e7ypBwo6w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044906234898522469",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 547,
+          "impression_count": 74851,
+          "like_count": 7336,
+          "quote_count": 35,
+          "reply_count": 19,
+          "retweet_count": 1651
+        },
+        "reply_settings": "everyone",
+        "text": "🐚 https://t.co/e7ypBwo6w3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2914,
+          "following_count": 2815,
+          "like_count": 101733,
+          "listed_count": 5,
+          "media_count": 759,
+          "tweet_count": 12347
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T01:43:01.000Z",
+        "description": "日本語|英語|フィリピン語ok",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/n_jyaa",
+                "end": 23,
+                "expanded_url": "http://throne.com/n_jyaa",
+                "start": 0,
+                "url": "https://t.co/u9tP1HHQM2"
+              }
+            ]
+          }
+        },
+        "id": "1963779825304477696",
+        "location": "pfp by me",
+        "name": "ّّ",
+        "pinned_tweet_id": "2044183911769747943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044201206676066304/DRv41Qrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 196,
+          "like_count": 4696,
+          "listed_count": 5,
+          "media_count": 48,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/u9tP1HHQM2",
+        "username": "n_jyaa",
+        "verified": false
+      }
+    ]
+  }
+}

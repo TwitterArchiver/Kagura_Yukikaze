@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997643052513681408"
+      ],
+      "media_source_tweet_id": [
+        "1997643055298396470"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pizza",
+          "id": "825048935626469376",
+          "name": "Pizza"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400493319017222145",
+          "name": "Chain restaurants"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407432451467538432",
+          "name": "Family restaurants"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407775051349299200",
+          "name": "Saizeriya"
+        }
+      }
+    ],
+    "conversation_id": "1998053483875102831",
+    "created_at": "2025-12-08T15:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998053483875102831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929717230465699840",
+          "start": 3,
+          "username": "QZwarabi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OdFpwo4HSK",
+          "end": 51,
+          "expanded_url": "https://x.com/QZwarabi/status/1997643055298396470/photo/1",
+          "media_key": "3_1997643052513681408",
+          "start": 28,
+          "url": "https://t.co/OdFpwo4HSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998053483875102831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997643055298396470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QZwarabi: raputaピザすぎるだろ https://t.co/OdFpwo4HSK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_1997643052513681408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kNxbUa4AA3cKL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997643052513681408"
+          ],
+          "media_source_tweet_id": [
+            "1997643055298396470"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pizza",
+              "id": "825048935626469376",
+              "name": "Pizza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407775051349299200",
+              "name": "Saizeriya"
+            }
+          }
+        ],
+        "conversation_id": "1998053483875102831",
+        "created_at": "2025-12-08T15:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998053483875102831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929717230465699840",
+              "start": 3,
+              "username": "QZwarabi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdFpwo4HSK",
+              "end": 51,
+              "expanded_url": "https://x.com/QZwarabi/status/1997643055298396470/photo/1",
+              "media_key": "3_1997643052513681408",
+              "start": 28,
+              "url": "https://t.co/OdFpwo4HSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998053483875102831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997643055298396470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QZwarabi: raputaピザすぎるだろ https://t.co/OdFpwo4HSK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997643052513681408"
+          ]
+        },
+        "author_id": "1929717230465699840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pizza",
+              "id": "825048935626469376",
+              "name": "Pizza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407775051349299200",
+              "name": "Saizeriya"
+            }
+          }
+        ],
+        "conversation_id": "1997643055298396470",
+        "created_at": "2025-12-07T12:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997643055298396470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdFpwo4HSK",
+              "end": 37,
+              "expanded_url": "https://x.com/QZwarabi/status/1997643055298396470/photo/1",
+              "media_key": "3_1997643052513681408",
+              "start": 14,
+              "url": "https://t.co/OdFpwo4HSK"
+            },
+            {
+              "display_url": "x.com/ckchiki3/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/ckchiki3/status/1997578516335058979",
+              "start": 38,
+              "url": "https://t.co/1QcAHQ1RsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997643055298396470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 47455,
+          "like_count": 771,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997578516335058979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "raputaピザすぎるだろ https://t.co/OdFpwo4HSK https://t.co/1QcAHQ1RsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 2052,
+          "like_count": 74969,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 8393
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T01:50:26.000Z",
+        "description": "真名:葛餠。底辺虹レmai勢\n　　　　　　　　　　　　　　　　　　　ㅤㅤㅤㅤㅤㅤㅤㅤ\nArのやかましい人。@αの常識人枠。\n@QZKSmochi←避難所\n@ogyamochi←おぎゃ垢\n@QZKSOGYAKEY←鍵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "QZKSmochi"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "ogyamochi"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "QZKSOGYAKEY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n8dm6kz8l97lp87",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n8dm6kz8l97lp87",
+                "start": 0,
+                "url": "https://t.co/LOs0F3YCWM"
+              }
+            ]
+          }
+        },
+        "id": "1929717230465699840",
+        "name": "≠干支幼女∅百合咲壊田島リズ子宮回帰♡ぽ@人辞エペ隠子！人類アシッ子♡囚人SFリズ弄イ゛濃射精♡",
+        "pinned_tweet_id": "1952402456945504445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957446528848773120/UZlbo9RQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1726,
+          "like_count": 32124,
+          "listed_count": 2,
+          "media_count": 1122,
+          "tweet_count": 15222
+        },
+        "url": "https://t.co/LOs0F3YCWM",
+        "username": "QZwarabi",
+        "verified": false
+      }
+    ]
+  }
+}

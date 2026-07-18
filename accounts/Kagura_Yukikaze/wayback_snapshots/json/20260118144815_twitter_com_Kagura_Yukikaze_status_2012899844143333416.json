@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012404758615912448"
+      ],
+      "media_source_tweet_id": [
+        "2012404764743774449"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2012899844143333416",
+    "created_at": "2026-01-18T14:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012899844143333416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739141125448077312",
+          "start": 3,
+          "username": "baburori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r3oNLRFp7g",
+          "end": 37,
+          "expanded_url": "https://x.com/baburori/status/2012404764743774449/photo/1",
+          "media_key": "3_2012404758615912448",
+          "start": 14,
+          "url": "https://t.co/r3oNLRFp7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012899844143333416",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 648
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012404764743774449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @baburori: https://t.co/r3oNLRFp7g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012404758615912448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1_dz2bcAA8TVT.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012404758615912448"
+          ],
+          "media_source_tweet_id": [
+            "2012404764743774449"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2012899844143333416",
+        "created_at": "2026-01-18T14:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012899844143333416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739141125448077312",
+              "start": 3,
+              "username": "baburori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3oNLRFp7g",
+              "end": 37,
+              "expanded_url": "https://x.com/baburori/status/2012404764743774449/photo/1",
+              "media_key": "3_2012404758615912448",
+              "start": 14,
+              "url": "https://t.co/r3oNLRFp7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012899844143333416",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 648
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012404764743774449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @baburori: https://t.co/r3oNLRFp7g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012404758615912448"
+          ]
+        },
+        "author_id": "1739141125448077312",
+        "conversation_id": "2012404764743774449",
+        "created_at": "2026-01-17T06:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012404764743774449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3oNLRFp7g",
+              "end": 23,
+              "expanded_url": "https://x.com/baburori/status/2012404764743774449/photo/1",
+              "media_key": "3_2012404758615912448",
+              "start": 0,
+              "url": "https://t.co/r3oNLRFp7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012404764743774449",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 31368,
+          "like_count": 4660,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 648
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/r3oNLRFp7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 2236,
+          "like_count": 81534,
+          "listed_count": 2,
+          "media_count": 600,
+          "tweet_count": 9417
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T04:29:53.000Z",
+        "description": "ばぶみろりこです🎀たくさん絵を描きます🐰スケブ➡️https://t.co/5kcuEFcOjo ご依頼について➡️ https://t.co/l6FL7DdYtQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@baburori",
+                "end": 48,
+                "expanded_url": "https://skeb.jp/@baburori",
+                "start": 25,
+                "url": "https://t.co/5kcuEFcOjo"
+              },
+              {
+                "display_url": "lit.link/baburori",
+                "end": 82,
+                "expanded_url": "https://lit.link/baburori",
+                "start": 59,
+                "url": "https://t.co/l6FL7DdYtQ"
+              }
+            ]
+          }
+        },
+        "id": "1739141125448077312",
+        "name": "ばぶみろりこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009624536539709440/UxQK71OJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 47,
+          "like_count": 1183,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 59
+        },
+        "username": "baburori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063503536080789504"
+      ],
+      "media_source_tweet_id": [
+        "2063503549074669663"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2063564196470718869",
+    "created_at": "2026-06-07T10:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063564196470718869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1218028959109210113",
+          "start": 3,
+          "username": "RizumuA3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hRfQ4DG6sG",
+          "end": 44,
+          "expanded_url": "https://x.com/RizumuA3/status/2063503549074669663/photo/1",
+          "media_key": "3_2063503536080789504",
+          "start": 21,
+          "url": "https://t.co/hRfQ4DG6sG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063564196470718869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063503549074669663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RizumuA3: 顺利完成了！ https://t.co/hRfQ4DG6sG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063503536080789504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMJiHzboAAseiR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063503536080789504"
+          ],
+          "media_source_tweet_id": [
+            "2063503549074669663"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2063564196470718869",
+        "created_at": "2026-06-07T10:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063564196470718869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1218028959109210113",
+              "start": 3,
+              "username": "RizumuA3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRfQ4DG6sG",
+              "end": 44,
+              "expanded_url": "https://x.com/RizumuA3/status/2063503549074669663/photo/1",
+              "media_key": "3_2063503536080789504",
+              "start": 21,
+              "url": "https://t.co/hRfQ4DG6sG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063564196470718869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063503549074669663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RizumuA3: 顺利完成了！ https://t.co/hRfQ4DG6sG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063503536080789504"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "conversation_id": "2063485181684760628",
+        "created_at": "2026-06-07T06:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063503549074669663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRfQ4DG6sG",
+              "end": 30,
+              "expanded_url": "https://x.com/RizumuA3/status/2063503549074669663/photo/1",
+              "media_key": "3_2063503536080789504",
+              "start": 7,
+              "url": "https://t.co/hRfQ4DG6sG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063503549074669663",
+        "in_reply_to_user_id": "1218028959109210113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 787,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063493453552693466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺利完成了！ https://t.co/hRfQ4DG6sG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 3030,
+          "like_count": 110413,
+          "listed_count": 7,
+          "media_count": 803,
+          "tweet_count": 13488
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11887,
+          "following_count": 1559,
+          "like_count": 45198,
+          "listed_count": 58,
+          "media_count": 1922,
+          "tweet_count": 14437
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

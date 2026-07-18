@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2072622982502224202",
+    "created_at": "2026-07-02T10:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072622982502224202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "957544663275028481",
+          "start": 3,
+          "username": "SuBanXia1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072622982502224202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070977130721374424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @SuBanXia1120: 还有“教”很多女孩子怎么自爱，很有必要\n确实需要教…因为从来没人教怎么做女孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2072622982502224202",
+        "created_at": "2026-07-02T10:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072622982502224202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "957544663275028481",
+              "start": 3,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072622982502224202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070977130721374424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @SuBanXia1120: 还有“教”很多女孩子怎么自爱，很有必要\n确实需要教…因为从来没人教怎么做女孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957544663275028481",
+        "conversation_id": "2070977130721374424",
+        "created_at": "2026-06-27T21:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070977130721374424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ted_yeet/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/ted_yeet/status/2070946169405227261",
+              "start": 40,
+              "url": "https://t.co/A88FMo8GEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070977130721374424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4637,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070946169405227261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "还有“教”很多女孩子怎么自爱，很有必要\n确实需要教…因为从来没人教怎么做女孩子 https://t.co/A88FMo8GEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2070462188402413624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 3066,
+          "like_count": 113725,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 13808
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。接PAI —Charee中介的陪同，SRS手术陪同日记https://t.co/HLSHXOnt8E。陪同请直接联系tg@subanxia1120。聊天门槛🚪50",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 75,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 52,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐（接PAI陪同）",
+        "pinned_tweet_id": "1924371810130518218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17957,
+          "following_count": 907,
+          "like_count": 6240,
+          "listed_count": 55,
+          "media_count": 744,
+          "tweet_count": 4769
+        },
+        "url": "",
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

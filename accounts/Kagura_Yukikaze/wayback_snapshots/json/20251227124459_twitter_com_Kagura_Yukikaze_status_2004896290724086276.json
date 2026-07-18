@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004862234829492224",
+        "3_2004862234829410304"
+      ],
+      "media_source_tweet_id": [
+        "2004862327670370692",
+        "2004862327670370692"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004896290724086276",
+    "created_at": "2025-12-27T12:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T13:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004896290724086276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "776096283802996737",
+          "start": 3,
+          "username": "yottan20001202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZPYGLMSTu",
+          "end": 107,
+          "expanded_url": "https://x.com/yottan20001202/status/2004862327670370692/photo/1",
+          "media_key": "3_2004862234829492224",
+          "start": 84,
+          "url": "https://t.co/qZPYGLMSTu"
+        },
+        {
+          "display_url": "pic.x.com/qZPYGLMSTu",
+          "end": 107,
+          "expanded_url": "https://x.com/yottan20001202/status/2004862327670370692/photo/1",
+          "media_key": "3_2004862234829410304",
+          "start": 84,
+          "url": "https://t.co/qZPYGLMSTu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004896290724086276",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004862327670370692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yottan20001202: wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww https://t.co/qZPYGLMSTu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2004862234829492224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KzlJKbkAAWgR-.jpg",
+        "width": 4029
+      },
+      {
+        "height": 1352,
+        "media_key": "3_2004862234829410304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KzlJKaUAA0fZp.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004862234829492224",
+            "3_2004862234829410304"
+          ],
+          "media_source_tweet_id": [
+            "2004862327670370692",
+            "2004862327670370692"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004896290724086276",
+        "created_at": "2025-12-27T12:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004896290724086276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "776096283802996737",
+              "start": 3,
+              "username": "yottan20001202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZPYGLMSTu",
+              "end": 107,
+              "expanded_url": "https://x.com/yottan20001202/status/2004862327670370692/photo/1",
+              "media_key": "3_2004862234829492224",
+              "start": 84,
+              "url": "https://t.co/qZPYGLMSTu"
+            },
+            {
+              "display_url": "pic.x.com/qZPYGLMSTu",
+              "end": 107,
+              "expanded_url": "https://x.com/yottan20001202/status/2004862327670370692/photo/1",
+              "media_key": "3_2004862234829410304",
+              "start": 84,
+              "url": "https://t.co/qZPYGLMSTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004896290724086276",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004862327670370692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yottan20001202: wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww https://t.co/qZPYGLMSTu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004862234829492224",
+            "3_2004862234829410304"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004862327670370692",
+        "created_at": "2025-12-27T10:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004862327670370692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZPYGLMSTu",
+              "end": 87,
+              "expanded_url": "https://x.com/yottan20001202/status/2004862327670370692/photo/1",
+              "media_key": "3_2004862234829492224",
+              "start": 64,
+              "url": "https://t.co/qZPYGLMSTu"
+            },
+            {
+              "display_url": "pic.x.com/qZPYGLMSTu",
+              "end": 87,
+              "expanded_url": "https://x.com/yottan20001202/status/2004862327670370692/photo/1",
+              "media_key": "3_2004862234829410304",
+              "start": 64,
+              "url": "https://t.co/qZPYGLMSTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004862327670370692",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 13964,
+          "like_count": 594,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww https://t.co/qZPYGLMSTu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2004093206515142661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 2136,
+          "like_count": 78333,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 8922
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／🏆全国大会7回優勝(5連覇中！)🏆／KoP4th.5thスコアアタック1位(4th単独303%)／フジテレビ2時間生放送出演+大会優勝／地上波テレビ出演／公式生放送出演／ST紫全曲理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50886,
+          "following_count": 800,
+          "like_count": 24751,
+          "listed_count": 93,
+          "media_count": 13523,
+          "tweet_count": 64767
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true
+      }
+    ]
+  }
+}

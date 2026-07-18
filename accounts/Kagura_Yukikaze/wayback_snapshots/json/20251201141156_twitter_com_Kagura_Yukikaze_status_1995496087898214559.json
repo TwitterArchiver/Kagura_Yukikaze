@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995197421584781312"
+      ],
+      "media_source_tweet_id": [
+        "1995197425892700437"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1995496087898214559",
+    "created_at": "2025-12-01T14:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995496087898214559"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "westoid",
+          "probability": 0.6928,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929015109579345920",
+          "start": 3,
+          "username": "Qwarz_Atarz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PdjpEArHai",
+          "end": 67,
+          "expanded_url": "https://x.com/Qwarz_Atarz/status/1995197425892700437/photo/1",
+          "media_key": "3_1995197421584781312",
+          "start": 44,
+          "url": "https://t.co/PdjpEArHai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995496087898214559",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 411
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995197425892700437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qwarz_Atarz: westoid transgirls be like https://t.co/PdjpEArHai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 793,
+        "media_key": "3_1995197421584781312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Bde-JWEAAtij1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995197421584781312"
+          ],
+          "media_source_tweet_id": [
+            "1995197425892700437"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1995496087898214559",
+        "created_at": "2025-12-01T14:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995496087898214559"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "westoid",
+              "probability": 0.6928,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929015109579345920",
+              "start": 3,
+              "username": "Qwarz_Atarz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PdjpEArHai",
+              "end": 67,
+              "expanded_url": "https://x.com/Qwarz_Atarz/status/1995197425892700437/photo/1",
+              "media_key": "3_1995197421584781312",
+              "start": 44,
+              "url": "https://t.co/PdjpEArHai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995496087898214559",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995197425892700437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qwarz_Atarz: westoid transgirls be like https://t.co/PdjpEArHai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995197421584781312"
+          ]
+        },
+        "author_id": "1929015109579345920",
+        "conversation_id": "1995197425892700437",
+        "created_at": "2025-11-30T18:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T19:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995197425892700437"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "westoid",
+              "probability": 0.7003,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PdjpEArHai",
+              "end": 50,
+              "expanded_url": "https://x.com/Qwarz_Atarz/status/1995197425892700437/photo/1",
+              "media_key": "3_1995197421584781312",
+              "start": 27,
+              "url": "https://t.co/PdjpEArHai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995197425892700437",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1252,
+          "impression_count": 120989,
+          "like_count": 6677,
+          "quote_count": 64,
+          "reply_count": 733,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "westoid transgirls be like https://t.co/PdjpEArHai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 1978,
+          "like_count": 73370,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 8200
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T03:20:51.000Z",
+        "description": "#1 ILLEGAL TRANSGENDER ALIEN \n🏳️‍⚧️👽🏳️‍⚧️ #DarkWoke 🩷🩵🤍 \n\nsupport meeeee :33333 https://t.co/UGCg3Pz0pt\n\n☆ Your Favourite Russian Femboy ☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "DarkWoke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/QwarzAtarz",
+                "end": 103,
+                "expanded_url": "http://patreon.com/QwarzAtarz",
+                "start": 80,
+                "url": "https://t.co/UGCg3Pz0pt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@qwarzatarz7440",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@qwarzatarz7440",
+                "start": 0,
+                "url": "https://t.co/LPgW7VGq0p"
+              }
+            ]
+          }
+        },
+        "id": "1929015109579345920",
+        "name": "Qwarzu🏳️‍⚧️👽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943984352087425024/XbEOTqmZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4739,
+          "following_count": 50,
+          "like_count": 27157,
+          "listed_count": 41,
+          "media_count": 113,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/LPgW7VGq0p",
+        "username": "Qwarz_Atarz",
+        "verified": false
+      }
+    ]
+  }
+}

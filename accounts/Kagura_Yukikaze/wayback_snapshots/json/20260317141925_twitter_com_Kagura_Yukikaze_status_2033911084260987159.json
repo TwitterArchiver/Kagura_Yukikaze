@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2033911084260987159",
+    "created_at": "2026-03-17T14:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T15:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033911084260987159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1789184782825615360",
+          "start": 3,
+          "username": "nonsweetsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033911084260987159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033883886066012540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonsweetsuger: j4sib3r的爱人使用亚硝酸盐自杀，尽管经过抢救侥幸捡回一命，但在重症监护室依然生命垂危。\n但是一天的住院费用对于她来说是天文数字，希望各位好心人能帮忙转发或解囊以解燃眉之急。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2033911084260987159",
+        "created_at": "2026-03-17T14:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033911084260987159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1789184782825615360",
+              "start": 3,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033911084260987159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033883886066012540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonsweetsuger: j4sib3r的爱人使用亚硝酸盐自杀，尽管经过抢救侥幸捡回一命，但在重症监护室依然生命垂危。\n但是一天的住院费用对于她来说是天文数字，希望各位好心人能帮忙转发或解囊以解燃眉之急。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "2033883886066012540",
+        "created_at": "2026-03-17T12:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033883886066012540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kukudejiaxibei…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/kukudejiaxibei/status/2033858594781974531",
+              "start": 90,
+              "url": "https://t.co/1lrJrfxZz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033883886066012540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033858594781974531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "j4sib3r的爱人使用亚硝酸盐自杀，尽管经过抢救侥幸捡回一命，但在重症监护室依然生命垂危。\n但是一天的住院费用对于她来说是天文数字，希望各位好心人能帮忙转发或解囊以解燃眉之急。 https://t.co/1lrJrfxZz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 2611,
+          "like_count": 94244,
+          "listed_count": 2,
+          "media_count": 703,
+          "tweet_count": 11112
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 753,
+          "like_count": 22960,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 10521
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

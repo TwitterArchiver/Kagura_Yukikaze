@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2014319617095979129",
+    "created_at": "2026-01-22T12:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T13:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014319617095979129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoya_toboso_01…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/aoya_toboso_01/status/2014238221274906782",
+          "start": 139,
+          "url": "https://t.co/b9jt2o1zVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014319617095979129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014238221274906782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真搞不懂很多人说的诱导变性是怎么搞的？性别认同有这么容易改变吗？\n我倒是有被诱导不变性的经历，劝我的人估计有10来个了吧，而且其中还有不少根本不是我的亲戚，只不过是认识而已。他们会站在各种角度诱导我不变性，比如在健康方面说什么活不到30岁，又或者说在社会方面说这样子融入不了 https://t.co/b9jt2o1zVm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2014319617095979129",
+        "created_at": "2026-01-22T12:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014319617095979129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoya_toboso_01…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/aoya_toboso_01/status/2014238221274906782",
+              "start": 139,
+              "url": "https://t.co/b9jt2o1zVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014319617095979129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014238221274906782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真搞不懂很多人说的诱导变性是怎么搞的？性别认同有这么容易改变吗？\n我倒是有被诱导不变性的经历，劝我的人估计有10来个了吧，而且其中还有不少根本不是我的亲戚，只不过是认识而已。他们会站在各种角度诱导我不变性，比如在健康方面说什么活不到30岁，又或者说在社会方面说这样子融入不了 https://t.co/b9jt2o1zVm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902297181157257218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2014238221274906782",
+        "created_at": "2026-01-22T07:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014238221274906782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014238221274906782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2256,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我真搞不懂很多人说的诱导变性是怎么搞的？性别认同有这么容易改变吗？\n我倒是有被诱导不变性的经历，劝我的人估计有10来个了吧，而且其中还有不少根本不是我的亲戚，只不过是认识而已。他们会站在各种角度诱导我不变性，比如在健康方面说什么活不到30岁，又或者说在社会方面说这样子融入不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 2253,
+          "like_count": 82195,
+          "listed_count": 2,
+          "media_count": 603,
+          "tweet_count": 9545
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "PEACE AND LOVE",
+        "id": "1902297181157257218",
+        "location": "enby💛🤍💜🖤aro+ace",
+        "name": "阳刚健全皇汉三胎宝爸(已自宫)🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1983554091793182792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 151,
+          "like_count": 8747,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 772
+        },
+        "username": "aoya_toboso_01",
+        "verified": false
+      }
+    ]
+  }
+}

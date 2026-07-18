@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2017372802102575362",
+    "created_at": "2026-01-30T23:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T00:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017372802102575362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1784636606659383296",
+          "start": 3,
+          "username": "momoya051115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017372802102575362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017162748065464510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoya051115: 初高中MTF隐藏身份渡劫全攻略"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2017372802102575362",
+        "created_at": "2026-01-30T23:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T00:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017372802102575362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1784636606659383296",
+              "start": 3,
+              "username": "momoya051115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017372802102575362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017162748065464510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoya051115: 初高中MTF隐藏身份渡劫全攻略"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784636606659383296",
+        "conversation_id": "2017162748065464510",
+        "created_at": "2026-01-30T09:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T10:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017162748065464510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yekasesuiso202…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yekasesuiso2022/status/2016865330094854625",
+              "start": 16,
+              "url": "https://t.co/6emd4ajJnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017162748065464510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1915,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016865330094854625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初高中MTF隐藏身份渡劫全攻略 https://t.co/6emd4ajJnW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 2319,
+          "like_count": 83778,
+          "listed_count": 2,
+          "media_count": 620,
+          "tweet_count": 9875
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T17:31:46.000Z",
+        "description": "这里是沫沫 2005/11/15  是一个尽力为MTF提供帮助的妹妹",
+        "id": "1784636606659383296",
+        "location": "沫沫的快乐空间",
+        "name": "沫沫酱 winika",
+        "pinned_tweet_id": "2016091815460458588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807084896474836992/7pHwpbgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12057,
+          "following_count": 363,
+          "like_count": 2130,
+          "listed_count": 37,
+          "media_count": 408,
+          "tweet_count": 3139
+        },
+        "username": "momoya051115",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002254526653607941"
+      ],
+      "media_source_tweet_id": [
+        "2002254788797280666"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002424942215012534",
+    "created_at": "2025-12-20T17:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002424942215012534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4612943954",
+          "start": 3,
+          "username": "xuexuan_sh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gM3E96dzf",
+          "end": 39,
+          "expanded_url": "https://x.com/xuexuan_sh/status/2002254788797280666/photo/1",
+          "media_key": "3_2002254526653607941",
+          "start": 16,
+          "url": "https://t.co/9gM3E96dzf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002424942215012534",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1387
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002254788797280666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuexuan_sh: https://t.co/9gM3E96dzf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2002254526653607941",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lv4jMbMAUuc0u.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002254526653607941"
+          ],
+          "media_source_tweet_id": [
+            "2002254788797280666"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002424942215012534",
+        "created_at": "2025-12-20T17:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002424942215012534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4612943954",
+              "start": 3,
+              "username": "xuexuan_sh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gM3E96dzf",
+              "end": 39,
+              "expanded_url": "https://x.com/xuexuan_sh/status/2002254788797280666/photo/1",
+              "media_key": "3_2002254526653607941",
+              "start": 16,
+              "url": "https://t.co/9gM3E96dzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002424942215012534",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1387
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002254788797280666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuexuan_sh: https://t.co/9gM3E96dzf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002254526653607941"
+          ]
+        },
+        "author_id": "4612943954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002254788797280666",
+        "created_at": "2025-12-20T05:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T06:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002254788797280666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gM3E96dzf",
+              "end": 23,
+              "expanded_url": "https://x.com/xuexuan_sh/status/2002254788797280666/photo/1",
+              "media_key": "3_2002254526653607941",
+              "start": 0,
+              "url": "https://t.co/9gM3E96dzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002254788797280666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1609,
+          "impression_count": 433834,
+          "like_count": 18705,
+          "quote_count": 102,
+          "reply_count": 172,
+          "retweet_count": 1387
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9gM3E96dzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 2094,
+          "like_count": 77329,
+          "listed_count": 2,
+          "media_count": 578,
+          "tweet_count": 8787
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-20T14:03:51.000Z",
+        "description": "",
+        "id": "4612943954",
+        "name": "雪萱",
+        "pinned_tweet_id": "914457399993315328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961829348929081344/yHD4ftAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6253,
+          "following_count": 129,
+          "like_count": 6285,
+          "listed_count": 74,
+          "media_count": 2055,
+          "tweet_count": 4196
+        },
+        "username": "xuexuan_sh",
+        "verified": false
+      }
+    ]
+  }
+}

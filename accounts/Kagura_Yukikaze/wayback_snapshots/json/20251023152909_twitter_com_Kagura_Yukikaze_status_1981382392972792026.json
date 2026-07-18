@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1981382392972792026",
+    "created_at": "2025-10-23T15:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T16:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981382392972792026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1942926706517659648",
+          "start": 3,
+          "username": "jbreaking53448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981382392972792026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965011126506410198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jbreaking53448: 有人知道这个姐妹怎么样了吗？现在还好吗😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1981382392972792026",
+        "created_at": "2025-10-23T15:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981382392972792026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1942926706517659648",
+              "start": 3,
+              "username": "jbreaking53448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981382392972792026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965011126506410198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jbreaking53448: 有人知道这个姐妹怎么样了吗？现在还好吗😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942926706517659648",
+        "conversation_id": "1965011126506410198",
+        "created_at": "2025-09-08T11:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T12:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965011126506410198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diaolingshan42…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/diaolingshan428/status/1964921318513787384",
+              "start": 21,
+              "url": "https://t.co/C8s02GIcBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965011126506410198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1123,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964921318513787384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人知道这个姐妹怎么样了吗？现在还好吗😨 https://t.co/C8s02GIcBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 1629,
+          "like_count": 65457,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7399
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T12:40:07.000Z",
+        "description": "一个普通人而已，是les🏳️‍🌈/焦虑+强迫☹️友跨🏳️‍⚧️顺女",
+        "id": "1942926706517659648",
+        "location": "Hell",
+        "name": "清野♰",
+        "pinned_tweet_id": "1975893878504145316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975896883496378368/UfFLW_qN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 528,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 200
+        },
+        "username": "jbreaking53448",
+        "verified": true
+      }
+    ]
+  }
+}

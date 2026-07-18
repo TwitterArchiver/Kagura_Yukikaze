@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1988943442278510971",
+    "created_at": "2025-11-13T22:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T23:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989103943247642708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725486340542775296",
+          "start": 0,
+          "username": "myaukarova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989103943247642708",
+    "in_reply_to_user_id": "1725486340542775296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988943442278510971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myaukarova 恭喜哦\n（好羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1988943442278510971",
+        "created_at": "2025-11-13T22:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T23:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989103943247642708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725486340542775296",
+              "start": 0,
+              "username": "myaukarova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989103943247642708",
+        "in_reply_to_user_id": "1725486340542775296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988943442278510971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myaukarova 恭喜哦\n（好羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725486340542775296",
+        "conversation_id": "1988943442278510971",
+        "created_at": "2025-11-13T12:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988943442278510971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988943442278510971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2085,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来手术室不是睡觉的吗，怎么就变性了😇麻药打血管里还挺疼。索性睡着了，还有点睡不够，缺觉说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 1838,
+          "like_count": 70165,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 7815
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "关注喵卡酱喵，关注喵卡洛娃谢谢喵",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "喵卡酱（已自宫）🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964898609469739008/PORyHOjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 189,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2480
+        },
+        "username": "myaukarova",
+        "verified": false
+      }
+    ]
+  }
+}

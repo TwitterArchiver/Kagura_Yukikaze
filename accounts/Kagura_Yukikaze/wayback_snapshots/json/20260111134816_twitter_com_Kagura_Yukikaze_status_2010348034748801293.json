@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010182473888518144"
+      ],
+      "media_source_tweet_id": [
+        "2010182478133350844"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2010348034748801293",
+    "created_at": "2026-01-11T13:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010348034748801293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zh03QKw4Xm",
+          "end": 40,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2010182478133350844/photo/1",
+          "media_key": "3_2010182473888518144",
+          "start": 17,
+          "url": "https://t.co/zh03QKw4Xm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010348034748801293",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010182478133350844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: https://t.co/zh03QKw4Xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2010182473888518144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WaT0HXUAAVmy0.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010182473888518144"
+          ],
+          "media_source_tweet_id": [
+            "2010182478133350844"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2010348034748801293",
+        "created_at": "2026-01-11T13:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010348034748801293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zh03QKw4Xm",
+              "end": 40,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2010182478133350844/photo/1",
+              "media_key": "3_2010182473888518144",
+              "start": 17,
+              "url": "https://t.co/zh03QKw4Xm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010348034748801293",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010182478133350844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: https://t.co/zh03QKw4Xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010182473888518144"
+          ]
+        },
+        "author_id": "205565258",
+        "conversation_id": "2010182478133350844",
+        "created_at": "2026-01-11T02:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T03:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010182478133350844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zh03QKw4Xm",
+              "end": 23,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2010182478133350844/photo/1",
+              "media_key": "3_2010182473888518144",
+              "start": 0,
+              "url": "https://t.co/zh03QKw4Xm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010182478133350844",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 16148,
+          "like_count": 2082,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zh03QKw4Xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 2198,
+          "like_count": 80583,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 9264
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "CV01: Digital DIVA ³⁹  ♡ ♬ ~ (Fan Account)",
+        "id": "205565258",
+        "location": "WiFi / 日本",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524481966967599104/gmAz54Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425803,
+          "following_count": 0,
+          "like_count": 3085,
+          "listed_count": 142,
+          "media_count": 967,
+          "tweet_count": 999
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

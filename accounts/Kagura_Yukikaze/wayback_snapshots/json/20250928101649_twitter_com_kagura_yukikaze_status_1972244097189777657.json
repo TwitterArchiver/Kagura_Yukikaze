@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972100897791410177"
+      ],
+      "media_source_tweet_id": [
+        "1972100902434791755"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1972244097189777657",
+    "created_at": "2025-09-28T10:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T11:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972244097189777657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "48897816",
+          "start": 3,
+          "username": "caiziboshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3l51Hky73X",
+          "end": 57,
+          "expanded_url": "https://x.com/caiziboshi/status/1972100902434791755/photo/1",
+          "media_key": "3_1972100897791410177",
+          "start": 34,
+          "url": "https://t.co/3l51Hky73X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972244097189777657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972100902434791755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caiziboshi: 因为户晨风，武汉多了个网红打卡地！ https://t.co/3l51Hky73X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972100897791410177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G15PUWIWAAE8G4O.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972100897791410177"
+          ],
+          "media_source_tweet_id": [
+            "1972100902434791755"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1972244097189777657",
+        "created_at": "2025-09-28T10:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972244097189777657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "48897816",
+              "start": 3,
+              "username": "caiziboshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3l51Hky73X",
+              "end": 57,
+              "expanded_url": "https://x.com/caiziboshi/status/1972100902434791755/photo/1",
+              "media_key": "3_1972100897791410177",
+              "start": 34,
+              "url": "https://t.co/3l51Hky73X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972244097189777657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972100902434791755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caiziboshi: 因为户晨风，武汉多了个网红打卡地！ https://t.co/3l51Hky73X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972100897791410177"
+          ]
+        },
+        "author_id": "48897816",
+        "conversation_id": "1972100902434791755",
+        "created_at": "2025-09-28T00:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T01:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972100902434791755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3l51Hky73X",
+              "end": 41,
+              "expanded_url": "https://x.com/caiziboshi/status/1972100902434791755/photo/1",
+              "media_key": "3_1972100897791410177",
+              "start": 18,
+              "url": "https://t.co/3l51Hky73X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972100902434791755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 132208,
+          "like_count": 695,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "因为户晨风，武汉多了个网红打卡地！ https://t.co/3l51Hky73X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 1227,
+          "like_count": 57559,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6446
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-20T02:05:51.000Z",
+        "description": "土木工程博士；国内自媒体全网粉丝超百万；主要讲美国文化教育新闻和政治！#蔡子说美国",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "蔡子说美国"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC1dMe…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC1dMeKA8tryhB-YhVTTAy4Q",
+                "start": 0,
+                "url": "https://t.co/T8dIF9tjRO"
+              }
+            ]
+          }
+        },
+        "id": "48897816",
+        "location": "Dallas, TX",
+        "name": "蔡子博士Chris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1276378987888029696/991V7_Ui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73163,
+          "following_count": 1168,
+          "like_count": 5774,
+          "listed_count": 375,
+          "media_count": 11093,
+          "tweet_count": 14037
+        },
+        "url": "https://t.co/T8dIF9tjRO",
+        "username": "caiziboshi",
+        "verified": true
+      }
+    ]
+  }
+}

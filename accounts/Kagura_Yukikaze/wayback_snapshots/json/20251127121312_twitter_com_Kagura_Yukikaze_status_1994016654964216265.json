@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994001546309455875"
+      ],
+      "media_source_tweet_id": [
+        "1994001559055978990"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+          "id": "1310591085282910210",
+          "name": "Thanksgiving Day "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+          "id": "1310591085282910210",
+          "name": "Thanksgiving Day "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+          "id": "1310591085282910210",
+          "name": "Thanksgiving Day "
+        }
+      }
+    ],
+    "conversation_id": "1994016654964216265",
+    "created_at": "2025-11-27T12:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994016654964216265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1031743711737040897",
+          "start": 3,
+          "username": "LittleQiKitty"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7qzy48v5S",
+          "end": 78,
+          "expanded_url": "https://x.com/LittleQiKitty/status/1994001559055978990/photo/1",
+          "media_key": "3_1994001546309455875",
+          "start": 55,
+          "url": "https://t.co/z7qzy48v5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994016654964216265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994001559055978990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LittleQiKitty: 彩蛋：点赞这条帖子会出现 Thanksgiving 小火鸡！试试看吧！ https://t.co/z7qzy48v5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_1994001546309455875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wd13la0AMrFIy.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994001546309455875"
+          ],
+          "media_source_tweet_id": [
+            "1994001559055978990"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+              "id": "1310591085282910210",
+              "name": "Thanksgiving Day "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+              "id": "1310591085282910210",
+              "name": "Thanksgiving Day "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+              "id": "1310591085282910210",
+              "name": "Thanksgiving Day "
+            }
+          }
+        ],
+        "conversation_id": "1994016654964216265",
+        "created_at": "2025-11-27T12:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994016654964216265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1031743711737040897",
+              "start": 3,
+              "username": "LittleQiKitty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7qzy48v5S",
+              "end": 78,
+              "expanded_url": "https://x.com/LittleQiKitty/status/1994001559055978990/photo/1",
+              "media_key": "3_1994001546309455875",
+              "start": 55,
+              "url": "https://t.co/z7qzy48v5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994016654964216265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994001559055978990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LittleQiKitty: 彩蛋：点赞这条帖子会出现 Thanksgiving 小火鸡！试试看吧！ https://t.co/z7qzy48v5S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994001546309455875"
+          ]
+        },
+        "author_id": "1031743711737040897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+              "id": "1310591085282910210",
+              "name": "Thanksgiving Day "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+              "id": "1310591085282910210",
+              "name": "Thanksgiving Day "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for Thanksgiving Day ",
+              "id": "1310591085282910210",
+              "name": "Thanksgiving Day "
+            }
+          }
+        ],
+        "conversation_id": "1994001559055978990",
+        "created_at": "2025-11-27T11:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994001559055978990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7qzy48v5S",
+              "end": 59,
+              "expanded_url": "https://x.com/LittleQiKitty/status/1994001559055978990/photo/1",
+              "media_key": "3_1994001546309455875",
+              "start": 36,
+              "url": "https://t.co/z7qzy48v5S"
+            },
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/Cldeop/status/1993964812968317304",
+              "start": 60,
+              "url": "https://t.co/8jADL7wQY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994001559055978990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993964812968317304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "彩蛋：点赞这条帖子会出现 Thanksgiving 小火鸡！试试看吧！ https://t.co/z7qzy48v5S https://t.co/8jADL7wQY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1935,
+          "like_count": 72388,
+          "listed_count": 2,
+          "media_count": 556,
+          "tweet_count": 8085
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "互fo 无糖 随时翻车 可以找我聊天 ｜可叫我：祈 / Qee / Kiara ｜唔…主人好厉害…所以是你嘛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2lZzGualXH40N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2lZzGualXH40NDQ9",
+                "start": 0,
+                "url": "https://t.co/6DDlaD4LnQ"
+              }
+            ]
+          }
+        },
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "Qee Cat",
+        "pinned_tweet_id": "1990805741188624633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980420086692208640/EVNlcOqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 501,
+          "like_count": 467,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/6DDlaD4LnQ",
+        "username": "LittleQiKitty",
+        "verified": false
+      }
+    ]
+  }
+}

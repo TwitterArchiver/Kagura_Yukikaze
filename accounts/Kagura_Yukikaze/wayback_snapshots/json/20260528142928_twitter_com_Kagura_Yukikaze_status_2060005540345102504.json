@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2059975687801380864"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2060005540345102504",
+    "created_at": "2026-05-28T14:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060005540345102504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1870336533342932992",
+          "start": 3,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060005540345102504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059975689709723716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsahinaShikure: 好奇大家的年齡都是多少？\nI wonder how old everyone is?"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-05-29T12:30:51.000Z",
+        "id": "2059975687801380864",
+        "options": [
+          {
+            "label": "12歲以下/Under 12 years old",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "12～15歲/12 to 15 years old",
+            "position": 2,
+            "votes": 3
+          },
+          {
+            "label": "15～18歲/15 to 18 years old",
+            "position": 3,
+            "votes": 4
+          },
+          {
+            "label": "18歲以上/Over 18 years old",
+            "position": 4,
+            "votes": 7
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2059975687801380864"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2060005540345102504",
+        "created_at": "2026-05-28T14:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060005540345102504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1870336533342932992",
+              "start": 3,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060005540345102504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059975689709723716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsahinaShikure: 好奇大家的年齡都是多少？\nI wonder how old everyone is?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2059975687801380864"
+          ]
+        },
+        "author_id": "1870336533342932992",
+        "conversation_id": "2059975689709723716",
+        "created_at": "2026-05-28T12:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059975689709723716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059975689709723716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 651,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好奇大家的年齡都是多少？\nI wonder how old everyone is?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3129,
+          "following_count": 2995,
+          "like_count": 109007,
+          "listed_count": 7,
+          "media_count": 795,
+          "tweet_count": 13287
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "Singaporean🇸🇬/Junior High Sec 3 student/Age 14/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai/Langs:🇺🇸🇹🇼🇯🇵🇫🇷/President of Union Republic of Griffin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2055944120376447137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057840599999639552/7hAGSJcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 658,
+          "like_count": 2832,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

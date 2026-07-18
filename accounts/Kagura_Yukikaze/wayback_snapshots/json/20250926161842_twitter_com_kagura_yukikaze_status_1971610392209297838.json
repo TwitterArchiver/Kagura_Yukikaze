@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971610392209297838",
+    "created_at": "2025-09-26T16:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T17:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971610392209297838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1887467599287754755",
+          "start": 3,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971610392209297838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969413479703724073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @with_WhiT3Rose: 有的人就像炮友一样 畅聊几天后就冷漠的像从没认识过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971610392209297838",
+        "created_at": "2025-09-26T16:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971610392209297838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1887467599287754755",
+              "start": 3,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971610392209297838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969413479703724073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @with_WhiT3Rose: 有的人就像炮友一样 畅聊几天后就冷漠的像从没认识过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887467599287754755",
+        "conversation_id": "1969413479703724073",
+        "created_at": "2025-09-20T14:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969413479703724073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969413479703724073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 113503,
+          "like_count": 991,
+          "quote_count": 16,
+          "reply_count": 75,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "有的人就像炮友一样 畅聊几天后就冷漠的像从没认识过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1200,
+          "like_count": 56874,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6361
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "一万个冬天后是一万个春天/开学淡推",
+        "id": "1887467599287754755",
+        "name": "StOr3",
+        "pinned_tweet_id": "1947644176482636066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966532104277090304/7HKgQkTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 628,
+          "like_count": 29206,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 3538
+        },
+        "username": "with_WhiT3Rose",
+        "verified": false
+      }
+    ]
+  }
+}

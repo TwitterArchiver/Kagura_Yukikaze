@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2033195162193539072"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2033201332371460433",
+    "created_at": "2026-03-15T15:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033201332371460433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1453575590729162758",
+          "start": 3,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033201332371460433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033195164093538417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @obe_ZX: 如果完全不考虑资金等问题的话，大家会想要做什么术式呢"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-03-22T14:54:36.000Z",
+        "id": "2033195162193539072",
+        "options": [
+          {
+            "label": "皮瓣",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "结肠",
+            "position": 2,
+            "votes": 1
+          },
+          {
+            "label": "腹膜",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "不想手术/零深度/看结果/其他术式",
+            "position": 4,
+            "votes": 1
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2033195162193539072"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2033201332371460433",
+        "created_at": "2026-03-15T15:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033201332371460433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1453575590729162758",
+              "start": 3,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033201332371460433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033195164093538417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @obe_ZX: 如果完全不考虑资金等问题的话，大家会想要做什么术式呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2033195162193539072"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2033195164093538417",
+        "created_at": "2026-03-15T14:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033195164093538417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033195164093538417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果完全不考虑资金等问题的话，大家会想要做什么术式呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 2595,
+          "like_count": 93800,
+          "listed_count": 2,
+          "media_count": 695,
+          "tweet_count": 11052
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans F | 持证但是DIY HRTing | 175/53.4kg | 尝试增肥ing | 半家长党（妈妈）+半家长不管党（生父） | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968682872530944001/nLXyaJYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 520,
+          "like_count": 17745,
+          "listed_count": 4,
+          "media_count": 299,
+          "tweet_count": 1799
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

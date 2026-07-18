@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1998036776016109823",
+    "created_at": "2025-12-08T14:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T15:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998036776016109823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1193562732605231104",
+          "start": 3,
+          "username": "IvanicFurry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998036776016109823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997687406993289616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IvanicFurry: 周六晚上，我帮朋友们拍毛照，有两个路人走过来，看起来挺好奇的，还特别礼貌地问能不能合一张影。我觉得没什么，就同意了。结果他们拍完照就把照片发到网上，配上这种文案，评论区也是恶意满满。\n本来只是想简简单单拍个照、好好过日子，这种串子到处拉低路人缘…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997687398441103360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7k2GsxbMAAD63r.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997687398449442816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7k2GszacAA3j7_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1998036776016109823",
+        "created_at": "2025-12-08T14:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998036776016109823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1193562732605231104",
+              "start": 3,
+              "username": "IvanicFurry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998036776016109823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997687406993289616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IvanicFurry: 周六晚上，我帮朋友们拍毛照，有两个路人走过来，看起来挺好奇的，还特别礼貌地问能不能合一张影。我觉得没什么，就同意了。结果他们拍完照就把照片发到网上，配上这种文案，评论区也是恶意满满。\n本来只是想简简单单拍个照、好好过日子，这种串子到处拉低路人缘…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997687398441103360",
+            "3_1997687398449442816"
+          ]
+        },
+        "author_id": "1193562732605231104",
+        "conversation_id": "1997687406993289616",
+        "created_at": "2025-12-07T15:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997687406993289616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cT40XfweWu",
+              "end": 155,
+              "expanded_url": "https://x.com/IvanicFurry/status/1997687406993289616/photo/1",
+              "media_key": "3_1997687398441103360",
+              "start": 132,
+              "url": "https://t.co/cT40XfweWu"
+            },
+            {
+              "display_url": "pic.x.com/cT40XfweWu",
+              "end": 155,
+              "expanded_url": "https://x.com/IvanicFurry/status/1997687406993289616/photo/1",
+              "media_key": "3_1997687398449442816",
+              "start": 132,
+              "url": "https://t.co/cT40XfweWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997687406993289616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 39713,
+          "like_count": 177,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "周六晚上，我帮朋友们拍毛照，有两个路人走过来，看起来挺好奇的，还特别礼貌地问能不能合一张影。我觉得没什么，就同意了。结果他们拍完照就把照片发到网上，配上这种文案，评论区也是恶意满满。\n本来只是想简简单单拍个照、好好过日子，这种串子到处拉低路人缘，真的让人很无力。 https://t.co/cT40XfweWu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 2052,
+          "like_count": 74914,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 8381
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-10T16:15:16.000Z",
+        "description": "毛茸茸🐾suki！四轮小铁盒/两轮小摩托驾驶中，喜欢火车🚂/汽车🚗/飞机✈️/摩托🏍️/摄影📷，有很爱我的老公❤️@Mavic40082482",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Mavic40082482"
+              }
+            ]
+          }
+        },
+        "id": "1193562732605231104",
+        "location": "窝里",
+        "name": "Ivanic",
+        "pinned_tweet_id": "1896370803580752349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989898568837337090/qabtDP9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 308,
+          "like_count": 3303,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 967
+        },
+        "username": "IvanicFurry",
+        "verified": false
+      }
+    ]
+  }
+}

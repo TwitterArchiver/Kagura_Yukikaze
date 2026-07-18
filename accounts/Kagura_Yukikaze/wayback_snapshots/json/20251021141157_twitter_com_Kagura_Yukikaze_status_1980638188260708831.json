@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980367684694077444"
+      ],
+      "media_source_tweet_id": [
+        "1980367703769772287"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1980638188260708831",
+    "created_at": "2025-10-21T14:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T15:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980638188260708831"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Apple",
+          "probability": 0.8574,
+          "start": 22,
+          "type": "Organization"
+        },
+        {
+          "end": 57,
+          "normalized_text": "Liquid Glass",
+          "probability": 0.6237,
+          "start": 46,
+          "type": "Other"
+        },
+        {
+          "end": 92,
+          "normalized_text": "Slider",
+          "probability": 0.5155,
+          "start": 87,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1279370446261981184",
+          "start": 3,
+          "username": "minimalnerd1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LiYbvwNosl",
+          "end": 127,
+          "expanded_url": "https://x.com/minimalnerd1/status/1980367703769772287/video/1",
+          "media_key": "13_1980367684694077444",
+          "start": 104,
+          "url": "https://t.co/LiYbvwNosl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980638188260708831",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980367703769772287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minimalnerd1: Hey Apple, thanks for the 2 Liquid Glass options, now can we get the Slider please ?! https://t.co/LiYbvwNosl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 1000,
+        "media_key": "13_1980367684694077444",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980367684694077444/img/0nyyXsR_TYAKZFSY.jpg",
+        "public_metrics": {
+          "view_count": 19755
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980367684694077444/vid/avc1/324x270/o236c1tJ6Lc8C67p.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980367684694077444/vid/avc1/432x360/zRYX_Pd9avJBwT-j.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980367684694077444/vid/avc1/864x720/-Ir9EU4O9tNn32gR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980367684694077444/pl/O-0MwzU03l8BxmP6.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980367684694077444"
+          ],
+          "media_source_tweet_id": [
+            "1980367703769772287"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1980638188260708831",
+        "created_at": "2025-10-21T14:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980638188260708831"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Apple",
+              "probability": 0.8574,
+              "start": 22,
+              "type": "Organization"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Liquid Glass",
+              "probability": 0.6237,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Slider",
+              "probability": 0.5155,
+              "start": 87,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1279370446261981184",
+              "start": 3,
+              "username": "minimalnerd1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiYbvwNosl",
+              "end": 127,
+              "expanded_url": "https://x.com/minimalnerd1/status/1980367703769772287/video/1",
+              "media_key": "13_1980367684694077444",
+              "start": 104,
+              "url": "https://t.co/LiYbvwNosl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980638188260708831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980367703769772287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minimalnerd1: Hey Apple, thanks for the 2 Liquid Glass options, now can we get the Slider please ?! https://t.co/LiYbvwNosl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980367684694077444"
+          ]
+        },
+        "author_id": "1279370446261981184",
+        "conversation_id": "1980367703769772287",
+        "created_at": "2025-10-20T20:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T21:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980367703769772287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Apple",
+              "probability": 0.8932,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Liquid Glass",
+              "probability": 0.5996,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "Slider",
+              "probability": 0.5206,
+              "start": 69,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiYbvwNosl",
+              "end": 109,
+              "expanded_url": "https://x.com/minimalnerd1/status/1980367703769772287/video/1",
+              "media_key": "13_1980367684694077444",
+              "start": 86,
+              "url": "https://t.co/LiYbvwNosl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980367703769772287",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 70688,
+          "like_count": 1113,
+          "quote_count": 11,
+          "reply_count": 50,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "Hey Apple, thanks for the 2 Liquid Glass options, now can we get the Slider please ?! https://t.co/LiYbvwNosl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1600,
+          "like_count": 64563,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7314
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T11:04:52.000Z",
+        "description": "Designer × Tech Creator | Viral  concepts | 30M views/m | Featured by Industry | Tips, Icons & Wallpapers.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/minimalnerd",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/minimalnerd",
+                "start": 0,
+                "url": "https://t.co/vcA7kEqIDC"
+              }
+            ]
+          }
+        },
+        "id": "1279370446261981184",
+        "name": "Minimal Nerd",
+        "pinned_tweet_id": "1938291369661063571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936412878648524800/Qp96lpJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7755,
+          "following_count": 476,
+          "like_count": 13535,
+          "listed_count": 47,
+          "media_count": 2892,
+          "tweet_count": 5603
+        },
+        "url": "https://t.co/vcA7kEqIDC",
+        "username": "minimalnerd1",
+        "verified": false
+      }
+    ]
+  }
+}

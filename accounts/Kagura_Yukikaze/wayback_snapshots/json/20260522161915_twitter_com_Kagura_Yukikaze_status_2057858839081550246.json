@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2057858839081550246",
+    "created_at": "2026-05-22T16:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057858839081550246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808555652299771904",
+          "start": 3,
+          "username": "Tsukino_630_"
+        },
+        {
+          "end": 34,
+          "id": "1843201902550634496",
+          "start": 18,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057858839081550246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057793579914031182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsukino_630_: @LwrDHYyuxR22499 救命被关在湖州三院了 11-13号床肖无忧 求求你们来救我，我已经被关两次特殊学校一次精神病院，被家人打到骨折15岁强迫我进工厂打工，找过晶哥也被一笑了之，拼劲全力拿到10分钟手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2057858839081550246",
+        "created_at": "2026-05-22T16:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057858839081550246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808555652299771904",
+              "start": 3,
+              "username": "Tsukino_630_"
+            },
+            {
+              "end": 34,
+              "id": "1843201902550634496",
+              "start": 18,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057858839081550246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057793579914031182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsukino_630_: @LwrDHYyuxR22499 救命被关在湖州三院了 11-13号床肖无忧 求求你们来救我，我已经被关两次特殊学校一次精神病院，被家人打到骨折15岁强迫我进工厂打工，找过晶哥也被一笑了之，拼劲全力拿到10分钟手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808555652299771904",
+        "conversation_id": "2057437762937340225",
+        "created_at": "2026-05-22T11:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057793579914031182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057793579914031182",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8820,
+          "like_count": 115,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057437762937340225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 救命被关在湖州三院了 11-13号床肖无忧 求求你们来救我，我已经被关两次特殊学校一次精神病院，被家人打到骨折15岁强迫我进工厂打工，找过晶哥也被一笑了之，拼劲全力拿到10分钟手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 2938,
+          "like_count": 107331,
+          "listed_count": 8,
+          "media_count": 791,
+          "tweet_count": 13100
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T17:37:51.000Z",
+        "description": "od/sh/ed",
+        "id": "1808555652299771904",
+        "name": "メジコン",
+        "pinned_tweet_id": "1999724391475871892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951141155615256576/miinBnXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 24,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 35
+        },
+        "username": "Tsukino_630_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 2925,
+          "like_count": 2891,
+          "listed_count": 19,
+          "media_count": 420,
+          "tweet_count": 2834
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

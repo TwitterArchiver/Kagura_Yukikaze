@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1991132355487277287",
+    "created_at": "2025-11-19T13:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T14:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991132355487277287"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "KING of Performai The 7th",
+          "probability": 0.8971,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 78,
+          "normalized_text": "渋谷ヒカリエホールA",
+          "probability": 0.3675,
+          "start": 69,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1173945883391455233",
+          "start": 3,
+          "username": "kop_sega"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991132355487277287",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 259
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989591697676779978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kop_sega: ✨『KING of Performai The 7th』現地観戦チケット詳細発表！✨\n\n2026/3/1(日)渋谷ヒカリエホールAにて、\n全国決勝大会を生観戦しよう！\nチケットは豪華４大特典付き🎁\n\nオフィシャル先行受付は12/15(月)まで！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1989591596669816832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xzBA-bUAAoHqt.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1991132355487277287",
+        "created_at": "2025-11-19T13:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991132355487277287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "KING of Performai The 7th",
+              "probability": 0.8971,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "渋谷ヒカリエホールA",
+              "probability": 0.3675,
+              "start": 69,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1173945883391455233",
+              "start": 3,
+              "username": "kop_sega"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991132355487277287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 259
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989591697676779978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kop_sega: ✨『KING of Performai The 7th』現地観戦チケット詳細発表！✨\n\n2026/3/1(日)渋谷ヒカリエホールAにて、\n全国決勝大会を生観戦しよう！\nチケットは豪華４大特典付き🎁\n\nオフィシャル先行受付は12/15(月)まで！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989591596669816832"
+          ]
+        },
+        "author_id": "1173945883391455233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989591697676779978",
+        "created_at": "2025-11-15T07:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989591697676779978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "KING of Performai The 7th",
+              "probability": 0.9253,
+              "start": 2,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "渋谷ヒカリエホールA",
+              "probability": 0.3575,
+              "start": 55,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "セガ音ゲー公式全国大会「KING of Performai The 7th」2025年10月30日よりオンライン予選、2026年3月1日決勝大会予定！",
+              "display_url": "maimai.sega.jp/kop7th/ticket/",
+              "end": 157,
+              "expanded_url": "https://maimai.sega.jp/kop7th/ticket/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1989591713032159232/NNWSttEF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989591713032159232/NNWSttEF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "KING of Performai The 7th【KOP7th】-オンゲキ・CHUNITHM・maimai でらっくす-｜セガ音ゲー公式全国大会",
+              "unwound_url": "https://maimai.sega.jp/kop7th/ticket/",
+              "url": "https://t.co/b1gqq77fdB"
+            },
+            {
+              "display_url": "pic.x.com/fG5hhkrdw9",
+              "end": 181,
+              "expanded_url": "https://x.com/kop_sega/status/1989591697676779978/photo/1",
+              "media_key": "3_1989591596669816832",
+              "start": 158,
+              "url": "https://t.co/fG5hhkrdw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989591697676779978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 144999,
+          "like_count": 950,
+          "quote_count": 132,
+          "reply_count": 6,
+          "retweet_count": 259
+        },
+        "reply_settings": "everyone",
+        "text": "✨『KING of Performai The 7th』現地観戦チケット詳細発表！✨\n\n2026/3/1(日)渋谷ヒカリエホールAにて、\n全国決勝大会を生観戦しよう！\nチケットは豪華４大特典付き🎁\n\nオフィシャル先行受付は12/15(月)まで！\n\n⬇️詳細はこちら！\nhttps://t.co/b1gqq77fdB https://t.co/fG5hhkrdw9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 1882,
+          "like_count": 71198,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 7933
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-17T13:05:04.000Z",
+        "description": "SEGA音ゲー公式全国大会「KING of Performai（KOP）」公式アカウントです。本アカウントから大会情報を発信していきます。ゲキ！チュウマイ@performai maimai公式 @maimai_official CHUNITHM公式@chunithm オンゲキ公式@ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "performai"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "maimai_official"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "chunithm"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp/kop7th/",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/kop7th/",
+                "start": 0,
+                "url": "https://t.co/3kVElVmuM5"
+              }
+            ]
+          }
+        },
+        "id": "1173945883391455233",
+        "name": "KING of Performai 公式",
+        "pinned_tweet_id": "1983730589040832861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968510483469864960/CkswNeir_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27936,
+          "following_count": 5,
+          "like_count": 100,
+          "listed_count": 113,
+          "media_count": 407,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/3kVElVmuM5",
+        "username": "kop_sega",
+        "verified": false
+      }
+    ]
+  }
+}

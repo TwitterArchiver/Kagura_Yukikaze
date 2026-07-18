@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974725854069723136"
+      ],
+      "media_source_tweet_id": [
+        "1974725868108054933"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1974884884603863077",
+    "created_at": "2025-10-05T17:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T18:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974884884603863077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831391841985744896",
+          "start": 3,
+          "username": "as4_S2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aTW1AjfjQY",
+          "end": 35,
+          "expanded_url": "https://x.com/as4_S2/status/1974725868108054933/photo/1",
+          "media_key": "3_1974725854069723136",
+          "start": 12,
+          "url": "https://t.co/aTW1AjfjQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974884884603863077",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1024
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974725868108054933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @as4_S2: https://t.co/aTW1AjfjQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1974725854069723136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eis6SbEAAYygY.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974725854069723136"
+          ],
+          "media_source_tweet_id": [
+            "1974725868108054933"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1974884884603863077",
+        "created_at": "2025-10-05T17:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T18:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974884884603863077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831391841985744896",
+              "start": 3,
+              "username": "as4_S2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTW1AjfjQY",
+              "end": 35,
+              "expanded_url": "https://x.com/as4_S2/status/1974725868108054933/photo/1",
+              "media_key": "3_1974725854069723136",
+              "start": 12,
+              "url": "https://t.co/aTW1AjfjQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974884884603863077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1024
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974725868108054933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @as4_S2: https://t.co/aTW1AjfjQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974725854069723136"
+          ]
+        },
+        "author_id": "1831391841985744896",
+        "conversation_id": "1974725868108054933",
+        "created_at": "2025-10-05T06:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974725868108054933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTW1AjfjQY",
+              "end": 23,
+              "expanded_url": "https://x.com/as4_S2/status/1974725868108054933/photo/1",
+              "media_key": "3_1974725854069723136",
+              "start": 0,
+              "url": "https://t.co/aTW1AjfjQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974725868108054933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1869,
+          "impression_count": 168845,
+          "like_count": 11366,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 1024
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/aTW1AjfjQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 1449,
+          "like_count": 60914,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 6846
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T18:00:38.000Z",
+        "description": "AI ❌ asucream0404@gmail.com",
+        "id": "1831391841985744896",
+        "name": "アス",
+        "pinned_tweet_id": "1864995703975780448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967316071041400832/9EbDInMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32860,
+          "following_count": 50,
+          "like_count": 1138,
+          "listed_count": 208,
+          "media_count": 27,
+          "tweet_count": 92
+        },
+        "username": "as4_S2",
+        "verified": false
+      }
+    ]
+  }
+}

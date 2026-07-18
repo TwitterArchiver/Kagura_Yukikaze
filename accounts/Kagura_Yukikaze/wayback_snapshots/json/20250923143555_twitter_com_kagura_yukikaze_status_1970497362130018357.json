@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970177417206497280"
+      ],
+      "media_source_tweet_id": [
+        "1970177424689131859"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1970497362130018357",
+    "created_at": "2025-09-23T14:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T15:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970497362130018357"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "Hoodie",
+          "probability": 0.5517,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1019879945231896576",
+          "start": 3,
+          "username": "DrewwFB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gMC7fbfRJM",
+          "end": 48,
+          "expanded_url": "https://x.com/DrewwFB/status/1970177424689131859/photo/1",
+          "media_key": "3_1970177417206497280",
+          "start": 25,
+          "url": "https://t.co/gMC7fbfRJM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970497362130018357",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970177424689131859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrewwFB: Hoodie time https://t.co/gMC7fbfRJM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970177417206497280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1d57CkXAAAIDYw.jpg",
+        "width": 1772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970177417206497280"
+          ],
+          "media_source_tweet_id": [
+            "1970177424689131859"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1970497362130018357",
+        "created_at": "2025-09-23T14:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970497362130018357"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Hoodie",
+              "probability": 0.5517,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1019879945231896576",
+              "start": 3,
+              "username": "DrewwFB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMC7fbfRJM",
+              "end": 48,
+              "expanded_url": "https://x.com/DrewwFB/status/1970177424689131859/photo/1",
+              "media_key": "3_1970177417206497280",
+              "start": 25,
+              "url": "https://t.co/gMC7fbfRJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970497362130018357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970177424689131859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrewwFB: Hoodie time https://t.co/gMC7fbfRJM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970177417206497280"
+          ]
+        },
+        "author_id": "1019879945231896576",
+        "conversation_id": "1970177424689131859",
+        "created_at": "2025-09-22T17:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970177424689131859"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Hoodie",
+              "probability": 0.6433,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gMC7fbfRJM",
+              "end": 35,
+              "expanded_url": "https://x.com/DrewwFB/status/1970177424689131859/photo/1",
+              "media_key": "3_1970177417206497280",
+              "start": 12,
+              "url": "https://t.co/gMC7fbfRJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970177424689131859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 12022,
+          "like_count": 1296,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Hoodie time https://t.co/gMC7fbfRJM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1169,
+          "like_count": 55629,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 6219
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-19T09:41:42.000Z",
+        "description": "Haiiiii | 🇱🇹 Sillyposting catboy | 24 yrs | SFW | Meow meow (^･ω･^) 🖤",
+        "id": "1019879945231896576",
+        "location": "Lithuania",
+        "name": "Drew :3",
+        "pinned_tweet_id": "1896928261776798047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956846700569522176/fVvysMkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29749,
+          "following_count": 252,
+          "like_count": 34846,
+          "listed_count": 62,
+          "media_count": 523,
+          "tweet_count": 5268
+        },
+        "username": "DrewwFB",
+        "verified": false
+      }
+    ]
+  }
+}

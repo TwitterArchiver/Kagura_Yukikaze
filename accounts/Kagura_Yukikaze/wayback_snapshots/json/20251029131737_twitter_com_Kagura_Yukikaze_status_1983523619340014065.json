@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983172547551338496"
+      ],
+      "media_source_tweet_id": [
+        "1983172577234448385"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1983523619340014065",
+    "created_at": "2025-10-29T13:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983523619340014065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1505958704427921410",
+          "start": 3,
+          "username": "hitodeden"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j5jktUgany",
+          "end": 46,
+          "expanded_url": "https://x.com/hitodeden/status/1983172577234448385/photo/1",
+          "media_key": "3_1983172547551338496",
+          "start": 23,
+          "url": "https://t.co/j5jktUgany"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983523619340014065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 380
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983172577234448385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitodeden: 昼夜（で）逆転 https://t.co/j5jktUgany"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_1983172547551338496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Wk7LkaoAAUCh5.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983172547551338496"
+          ],
+          "media_source_tweet_id": [
+            "1983172577234448385"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1983523619340014065",
+        "created_at": "2025-10-29T13:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983523619340014065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505958704427921410",
+              "start": 3,
+              "username": "hitodeden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5jktUgany",
+              "end": 46,
+              "expanded_url": "https://x.com/hitodeden/status/1983172577234448385/photo/1",
+              "media_key": "3_1983172547551338496",
+              "start": 23,
+              "url": "https://t.co/j5jktUgany"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983523619340014065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983172577234448385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hitodeden: 昼夜（で）逆転 https://t.co/j5jktUgany"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983172547551338496"
+          ]
+        },
+        "author_id": "1505958704427921410",
+        "conversation_id": "1983172577234448385",
+        "created_at": "2025-10-28T14:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983172577234448385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5jktUgany",
+              "end": 31,
+              "expanded_url": "https://x.com/hitodeden/status/1983172577234448385/photo/1",
+              "media_key": "3_1983172547551338496",
+              "start": 8,
+              "url": "https://t.co/j5jktUgany"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983172577234448385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 501,
+          "impression_count": 99021,
+          "like_count": 6627,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 380
+        },
+        "reply_settings": "everyone",
+        "text": "昼夜（で）逆転 https://t.co/j5jktUgany"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983188124747587585/zIni_VCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 1714,
+          "like_count": 67225,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7571
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T17:25:23.000Z",
+        "description": "漫画。\n日常等。",
+        "id": "1505958704427921410",
+        "location": "おふとん",
+        "name": "☆",
+        "pinned_tweet_id": "1974440279123038379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841540689064341504/CrrWeQVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28842,
+          "following_count": 1,
+          "like_count": 87306,
+          "listed_count": 199,
+          "media_count": 121,
+          "tweet_count": 18017
+        },
+        "username": "hitodeden",
+        "verified": false
+      }
+    ]
+  }
+}

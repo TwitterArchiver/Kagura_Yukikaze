@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990794940775899136"
+      ],
+      "media_source_tweet_id": [
+        "1990794945020768551"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1991103655609802803",
+    "created_at": "2025-11-19T11:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T12:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991103655609802803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1779788260824215553",
+          "start": 3,
+          "username": "hydralauncher"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2dIYJkGGXs",
+          "end": 42,
+          "expanded_url": "https://x.com/hydralauncher/status/1990794945020768551/photo/1",
+          "media_key": "3_1990794940775899136",
+          "start": 19,
+          "url": "https://t.co/2dIYJkGGXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991103655609802803",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12532
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990794945020768551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hydralauncher: https://t.co/2dIYJkGGXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 599,
+        "media_key": "3_1990794940775899136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6C5c3GXoAA-IPS.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990794940775899136"
+          ],
+          "media_source_tweet_id": [
+            "1990794945020768551"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1991103655609802803",
+        "created_at": "2025-11-19T11:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991103655609802803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1779788260824215553",
+              "start": 3,
+              "username": "hydralauncher"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dIYJkGGXs",
+              "end": 42,
+              "expanded_url": "https://x.com/hydralauncher/status/1990794945020768551/photo/1",
+              "media_key": "3_1990794940775899136",
+              "start": 19,
+              "url": "https://t.co/2dIYJkGGXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991103655609802803",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12532
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990794945020768551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hydralauncher: https://t.co/2dIYJkGGXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990794940775899136"
+          ]
+        },
+        "author_id": "1779788260824215553",
+        "conversation_id": "1990794945020768551",
+        "created_at": "2025-11-18T14:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990794945020768551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dIYJkGGXs",
+              "end": 23,
+              "expanded_url": "https://x.com/hydralauncher/status/1990794945020768551/photo/1",
+              "media_key": "3_1990794940775899136",
+              "start": 0,
+              "url": "https://t.co/2dIYJkGGXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990794945020768551",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4260,
+          "impression_count": 1905143,
+          "like_count": 133899,
+          "quote_count": 293,
+          "reply_count": 134,
+          "retweet_count": 12532
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2dIYJkGGXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 1881,
+          "like_count": 71133,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 7923
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T08:28:28.000Z",
+        "description": "Hydra is the game launcher for the 21st century.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hydralauncher.gg",
+                "end": 23,
+                "expanded_url": "https://hydralauncher.gg",
+                "start": 0,
+                "url": "https://t.co/bFGkDDNDUS"
+              }
+            ]
+          }
+        },
+        "id": "1779788260824215553",
+        "name": "Hydra Launcher",
+        "pinned_tweet_id": "1902428323440992422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867934908066254848/k5fzlyVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24992,
+          "following_count": 0,
+          "like_count": 70,
+          "listed_count": 13,
+          "media_count": 35,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/bFGkDDNDUS",
+        "username": "hydralauncher",
+        "verified": false
+      }
+    ]
+  }
+}

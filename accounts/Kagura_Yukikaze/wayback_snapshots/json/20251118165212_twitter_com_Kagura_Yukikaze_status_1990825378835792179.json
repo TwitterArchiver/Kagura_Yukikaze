@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1990726154542825472"
+      ],
+      "media_source_tweet_id": [
+        "1990726167897251944"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1990825378835792179",
+    "created_at": "2025-11-18T16:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T17:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990825378835792179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "794921943342272512",
+          "start": 3,
+          "username": "hyouenn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dtvhfDYOZ3",
+          "end": 48,
+          "expanded_url": "https://x.com/hyouenn/status/1990726167897251944/video/1",
+          "media_key": "7_1990726154542825472",
+          "start": 25,
+          "url": "https://t.co/dtvhfDYOZ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990825378835792179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990726167897251944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyouenn: 加上了音频更可爱了🌸🐶 https://t.co/dtvhfDYOZ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6875,
+        "height": 720,
+        "media_key": "7_1990726154542825472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990726154542825472/pu/img/t_ysE2W6FyPrEXe1.jpg",
+        "public_metrics": {
+          "view_count": 1775
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990726154542825472/pu/vid/avc1/280x270/LcjuB_cFS1lceL94.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990726154542825472/pu/vid/avc1/374x360/wFN_KLv3fEh9rXrt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990726154542825472/pu/vid/avc1/750x720/JefhJZ6wv5ntr56H.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990726154542825472/pu/pl/GKy2Ow2krO3jEfNa.m3u8?tag=12"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990726154542825472"
+          ],
+          "media_source_tweet_id": [
+            "1990726167897251944"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1990825378835792179",
+        "created_at": "2025-11-18T16:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T17:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990825378835792179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "794921943342272512",
+              "start": 3,
+              "username": "hyouenn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtvhfDYOZ3",
+              "end": 48,
+              "expanded_url": "https://x.com/hyouenn/status/1990726167897251944/video/1",
+              "media_key": "7_1990726154542825472",
+              "start": 25,
+              "url": "https://t.co/dtvhfDYOZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990825378835792179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990726167897251944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyouenn: 加上了音频更可爱了🌸🐶 https://t.co/dtvhfDYOZ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990726154542825472"
+          ]
+        },
+        "author_id": "794921943342272512",
+        "conversation_id": "1990726167897251944",
+        "created_at": "2025-11-18T10:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990726167897251944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dtvhfDYOZ3",
+              "end": 35,
+              "expanded_url": "https://x.com/hyouenn/status/1990726167897251944/video/1",
+              "media_key": "7_1990726154542825472",
+              "start": 12,
+              "url": "https://t.co/dtvhfDYOZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990726167897251944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 4992,
+          "like_count": 507,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "加上了音频更可爱了🌸🐶 https://t.co/dtvhfDYOZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1882,
+          "like_count": 71073,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 7915
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-05T15:18:55.000Z",
+        "description": "zzz💤\n\nまのさば/maimai/ボカロ\n\nサブ垢：@hyouenn_z\n\n❌❌AI❌❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "hyouenn_z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ogm0i6lg8112ul…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ogm0i6lg8112ulf?t=O1Cez7&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/oDUvzlvgKt"
+              }
+            ]
+          }
+        },
+        "id": "794921943342272512",
+        "location": "转载/AI学习/商用🚫禁止！ 🚫请不要转到任何平台！🚫",
+        "name": "冰焰⭐ひょうえん_💤💤",
+        "pinned_tweet_id": "1975624703126675664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972369540152733696/PuoB2E0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3813,
+          "following_count": 274,
+          "like_count": 8005,
+          "listed_count": 26,
+          "media_count": 575,
+          "tweet_count": 4118
+        },
+        "url": "https://t.co/oDUvzlvgKt",
+        "username": "hyouenn",
+        "verified": false
+      }
+    ]
+  }
+}

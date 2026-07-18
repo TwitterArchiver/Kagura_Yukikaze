@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "＼これこれ！！困ってた！／\nお客様の声から、フェリシモが女性のお悩みを解決する商品を企画・販売するプロジェクトがスタート！集まったお悩みはこちら↓\n\n商品制作を応援しよう！→https://www.felissimo.co.jp/",
+          "id": "1975765363422883840",
+          "name": "フェリシモに関するみんなの声📣（これこれ！）"
+        }
+      }
+    ],
+    "conversation_id": "2040781118543442087",
+    "created_at": "2026-04-05T13:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040781118543442087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974619368920322048",
+          "start": 3,
+          "username": "reinainusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040781118543442087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038926781411917864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reinainusa: 【切実】女装さんが一番困ってることトップ5\n①ヒゲ・青ヒゲの鉄壁な隠し方\n② サイズの合う可愛い服・靴がない\n③女声への高いハードル\n④誰にも見つからない保管場所\n⑤外出への勇気とトイレ・着替え \nどの悩みも尊い努力の証\n\n📷詳しくは画像をチェッ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2038901260016128000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuh5LdbkAAMExD.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "＼これこれ！！困ってた！／\nお客様の声から、フェリシモが女性のお悩みを解決する商品を企画・販売するプロジェクトがスタート！集まったお悩みはこちら↓\n\n商品制作を応援しよう！→https://www.felissimo.co.jp/",
+              "id": "1975765363422883840",
+              "name": "フェリシモに関するみんなの声📣（これこれ！）"
+            }
+          }
+        ],
+        "conversation_id": "2040781118543442087",
+        "created_at": "2026-04-05T13:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040781118543442087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974619368920322048",
+              "start": 3,
+              "username": "reinainusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040781118543442087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038926781411917864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reinainusa: 【切実】女装さんが一番困ってることトップ5\n①ヒゲ・青ヒゲの鉄壁な隠し方\n② サイズの合う可愛い服・靴がない\n③女声への高いハードル\n④誰にも見つからない保管場所\n⑤外出への勇気とトイレ・着替え \nどの悩みも尊い努力の証\n\n📷詳しくは画像をチェッ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038901260016128000"
+          ]
+        },
+        "author_id": "1974619368920322048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "＼これこれ！！困ってた！／\nお客様の声から、フェリシモが女性のお悩みを解決する商品を企画・販売するプロジェクトがスタート！集まったお悩みはこちら↓\n\n商品制作を応援しよう！→https://www.felissimo.co.jp/",
+              "id": "1975765363422883840",
+              "name": "フェリシモに関するみんなの声📣（これこれ！）"
+            }
+          }
+        ],
+        "conversation_id": "2038926781411917864",
+        "created_at": "2026-03-31T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038926781411917864"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "女装"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "女装子"
+            },
+            {
+              "end": 149,
+              "start": 138,
+              "tag": "女装さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGGrXxlxe6",
+              "end": 173,
+              "expanded_url": "https://x.com/reinainusa/status/2038926781411917864/photo/1",
+              "media_key": "3_2038901260016128000",
+              "start": 150,
+              "url": "https://t.co/OGGrXxlxe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038926781411917864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 90404,
+          "like_count": 1249,
+          "quote_count": 24,
+          "reply_count": 22,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "【切実】女装さんが一番困ってることトップ5\n①ヒゲ・青ヒゲの鉄壁な隠し方\n② サイズの合う可愛い服・靴がない\n③女声への高いハードル\n④誰にも見つからない保管場所\n⑤外出への勇気とトイレ・着替え \nどの悩みも尊い努力の証\n\n📷詳しくは画像をチェックしてね\n #女装 #女装子 #女装さんと繋がりたい https://t.co/OGGrXxlxe6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2875,
+          "following_count": 2770,
+          "like_count": 99356,
+          "listed_count": 3,
+          "media_count": 744,
+          "tweet_count": 11974
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T23:35:33.000Z",
+        "description": "甘いものに目がない。 通訳 アメリカ育ち 旅行大好き 本垢半年で800万インプの真央のプラベート情報　アクセスアップの裏技も紹介するかも",
+        "id": "1974619368920322048",
+        "name": "斎藤真央　私生活垢",
+        "pinned_tweet_id": "2027931419457294717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026130883099652097/JPEBcRPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 17,
+          "like_count": 1037,
+          "listed_count": 11,
+          "media_count": 122,
+          "tweet_count": 600
+        },
+        "username": "reinainusa",
+        "verified": false
+      }
+    ]
+  }
+}

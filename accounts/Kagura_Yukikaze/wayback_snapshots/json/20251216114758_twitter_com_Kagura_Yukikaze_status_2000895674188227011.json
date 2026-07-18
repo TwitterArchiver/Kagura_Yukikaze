@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000565409830064129"
+      ],
+      "media_source_tweet_id": [
+        "2000566120617841020"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000895674188227011",
+    "created_at": "2025-12-16T11:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T12:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000895674188227011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "461085711",
+          "start": 3,
+          "username": "yoshimo_mon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CovXKYyFlG",
+          "end": 94,
+          "expanded_url": "https://x.com/yoshimo_mon/status/2000566120617841020/video/1",
+          "media_key": "13_2000565409830064129",
+          "start": 71,
+          "url": "https://t.co/CovXKYyFlG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000895674188227011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000566120617841020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoshimo_mon: スマートバッジ、3秒だけ動画流せるから\nXaleid◆scopiXのラストの部分だけループ再生できてワロタ https://t.co/CovXKYyFlG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10243,
+        "height": 1080,
+        "media_key": "13_2000565409830064129",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000565409830064129/img/-WY9E8KdARpp4f9c.jpg",
+        "public_metrics": {
+          "view_count": 11578
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000565409830064129/vid/avc1/320x320/T0l8PeTiJNL1e5xI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000565409830064129/vid/avc1/540x540/BsO5VQ5Quc1QHrbN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000565409830064129/vid/avc1/720x720/xRnYLm3gaPC4F5y2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000565409830064129/pl/_Gozx64RDsGgGE7e.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000565409830064129"
+          ],
+          "media_source_tweet_id": [
+            "2000566120617841020"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000895674188227011",
+        "created_at": "2025-12-16T11:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000895674188227011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "461085711",
+              "start": 3,
+              "username": "yoshimo_mon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CovXKYyFlG",
+              "end": 94,
+              "expanded_url": "https://x.com/yoshimo_mon/status/2000566120617841020/video/1",
+              "media_key": "13_2000565409830064129",
+              "start": 71,
+              "url": "https://t.co/CovXKYyFlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000895674188227011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000566120617841020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoshimo_mon: スマートバッジ、3秒だけ動画流せるから\nXaleid◆scopiXのラストの部分だけループ再生できてワロタ https://t.co/CovXKYyFlG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000565409830064129"
+          ]
+        },
+        "author_id": "461085711",
+        "conversation_id": "2000566120617841020",
+        "created_at": "2025-12-15T13:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000566120617841020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CovXKYyFlG",
+              "end": 77,
+              "expanded_url": "https://x.com/yoshimo_mon/status/2000566120617841020/video/1",
+              "media_key": "13_2000565409830064129",
+              "start": 54,
+              "url": "https://t.co/CovXKYyFlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000566120617841020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 24222,
+          "like_count": 457,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "スマートバッジ、3秒だけ動画流せるから\nXaleid◆scopiXのラストの部分だけループ再生できてワロタ https://t.co/CovXKYyFlG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 2082,
+          "like_count": 76523,
+          "listed_count": 2,
+          "media_count": 576,
+          "tweet_count": 8653
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-11T12:42:32.000Z",
+        "description": "映像ディレクター会社員 | 3DCG,映像,デザイン | 作った：Destr0yer,PUPA,LatentKingdom,QUATTUORUX,MYTH Re：LEASE,Xaleid◆scopiX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/playlist?list=PLUg-pD-o2LK8ZBm8YGymLFzzhngrm4CYF",
+                "start": 0,
+                "url": "https://t.co/NlmXXROj4r"
+              }
+            ]
+          }
+        },
+        "id": "461085711",
+        "location": "くじらの見る夢 主宰",
+        "name": "yoshimo",
+        "pinned_tweet_id": "2000542712324608492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849090495227863040/UHxwsIWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9125,
+          "following_count": 1213,
+          "like_count": 19528,
+          "listed_count": 80,
+          "media_count": 1041,
+          "tweet_count": 13338
+        },
+        "url": "https://t.co/NlmXXROj4r",
+        "username": "yoshimo_mon",
+        "verified": false
+      }
+    ]
+  }
+}

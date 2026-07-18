@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971757129288544256",
+        "3_1971757117531881472"
+      ],
+      "media_source_tweet_id": [
+        "1971757133764218894",
+        "1971757133764218894"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971902457602244677",
+    "created_at": "2025-09-27T11:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971902457602244677"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "男娘"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "男の娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1420330125116149762",
+          "start": 3,
+          "username": "greens141"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JH53qtS8jk",
+          "end": 61,
+          "expanded_url": "https://x.com/greens141/status/1971757133764218894/photo/1",
+          "media_key": "3_1971757129288544256",
+          "start": 38,
+          "url": "https://t.co/JH53qtS8jk"
+        },
+        {
+          "display_url": "pic.x.com/JH53qtS8jk",
+          "end": 61,
+          "expanded_url": "https://x.com/greens141/status/1971757133764218894/photo/1",
+          "media_key": "3_1971757117531881472",
+          "start": 38,
+          "url": "https://t.co/JH53qtS8jk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971902457602244677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971757133764218894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @greens141: 出门把刀和梳子别在袜子间😃\n#男娘 #男の娘 https://t.co/JH53qtS8jk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1971757129288544256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10WqYqWcAAn742.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971757117531881472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10Wps3WAAAkA1L.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971757129288544256",
+            "3_1971757117531881472"
+          ],
+          "media_source_tweet_id": [
+            "1971757133764218894",
+            "1971757133764218894"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971902457602244677",
+        "created_at": "2025-09-27T11:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971902457602244677"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "男の娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1420330125116149762",
+              "start": 3,
+              "username": "greens141"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JH53qtS8jk",
+              "end": 61,
+              "expanded_url": "https://x.com/greens141/status/1971757133764218894/photo/1",
+              "media_key": "3_1971757129288544256",
+              "start": 38,
+              "url": "https://t.co/JH53qtS8jk"
+            },
+            {
+              "display_url": "pic.x.com/JH53qtS8jk",
+              "end": 61,
+              "expanded_url": "https://x.com/greens141/status/1971757133764218894/photo/1",
+              "media_key": "3_1971757117531881472",
+              "start": 38,
+              "url": "https://t.co/JH53qtS8jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971902457602244677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971757133764218894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @greens141: 出门把刀和梳子别在袜子间😃\n#男娘 #男の娘 https://t.co/JH53qtS8jk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971757129288544256",
+            "3_1971757117531881472"
+          ]
+        },
+        "author_id": "1420330125116149762",
+        "conversation_id": "1971757133764218894",
+        "created_at": "2025-09-27T02:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T03:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971757133764218894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JH53qtS8jk",
+              "end": 46,
+              "expanded_url": "https://x.com/greens141/status/1971757133764218894/photo/1",
+              "media_key": "3_1971757129288544256",
+              "start": 23,
+              "url": "https://t.co/JH53qtS8jk"
+            },
+            {
+              "display_url": "pic.x.com/JH53qtS8jk",
+              "end": 46,
+              "expanded_url": "https://x.com/greens141/status/1971757133764218894/photo/1",
+              "media_key": "3_1971757117531881472",
+              "start": 23,
+              "url": "https://t.co/JH53qtS8jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971757133764218894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "出门把刀和梳子别在袜子间😃\n#男娘 #男の娘 https://t.co/JH53qtS8jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 1215,
+          "like_count": 57202,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6394
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T10:27:55.000Z",
+        "description": "睡不着，睡不醒｜无证糖\n（一般可能不经常看推，所以消息可能轮回）",
+        "id": "1420330125116149762",
+        "name": "🏳️‍⚧️雫雫.Shizuki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946576713116241920/8gpsO3iZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 247,
+          "like_count": 1447,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 37
+        },
+        "username": "greens141",
+        "verified": false
+      }
+    ]
+  }
+}

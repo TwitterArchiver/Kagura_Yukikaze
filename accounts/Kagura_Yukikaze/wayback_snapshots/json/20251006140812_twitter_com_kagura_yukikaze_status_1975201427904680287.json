@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975131539668365312"
+      ],
+      "media_source_tweet_id": [
+        "1975131655070437624"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1975201427904680287",
+    "created_at": "2025-10-06T14:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975201427904680287"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "上海CPSP 壹K12",
+          "probability": 0.1589,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1746469344325021697",
+          "start": 3,
+          "username": "suzumiyasuzume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFkLEZM4LR",
+          "end": 62,
+          "expanded_url": "https://x.com/suzumiyasuzume/status/1975131655070437624/photo/1",
+          "media_key": "3_1975131539668365312",
+          "start": 39,
+          "url": "https://t.co/zFkLEZM4LR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975201427904680287",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975131655070437624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suzumiyasuzume: 上海CPSP 壹K12 10.7-8 https://t.co/zFkLEZM4LR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1975131539668365312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kTq66acAAmbcU.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975131539668365312"
+          ],
+          "media_source_tweet_id": [
+            "1975131655070437624"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1975201427904680287",
+        "created_at": "2025-10-06T14:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975201427904680287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "上海CPSP 壹K12",
+              "probability": 0.1589,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1746469344325021697",
+              "start": 3,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFkLEZM4LR",
+              "end": 62,
+              "expanded_url": "https://x.com/suzumiyasuzume/status/1975131655070437624/photo/1",
+              "media_key": "3_1975131539668365312",
+              "start": 39,
+              "url": "https://t.co/zFkLEZM4LR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975201427904680287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975131655070437624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suzumiyasuzume: 上海CPSP 壹K12 10.7-8 https://t.co/zFkLEZM4LR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975131539668365312"
+          ]
+        },
+        "author_id": "1746469344325021697",
+        "conversation_id": "1975131655070437624",
+        "created_at": "2025-10-06T09:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975131655070437624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFkLEZM4LR",
+              "end": 42,
+              "expanded_url": "https://x.com/suzumiyasuzume/status/1975131655070437624/photo/1",
+              "media_key": "3_1975131539668365312",
+              "start": 19,
+              "url": "https://t.co/zFkLEZM4LR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975131655070437624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4539,
+          "like_count": 307,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "上海CPSP 壹K12 10.7-8 https://t.co/zFkLEZM4LR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 1462,
+          "like_count": 61092,
+          "listed_count": 3,
+          "media_count": 511,
+          "tweet_count": 6867
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "中国からのvtb\n绿色山葵猫【？】\n精神不稳定\n头像，头图画师：@kitsuneOAO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "kitsuneOAO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮すずめ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746470091049607168/_M8f4iiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10714,
+          "following_count": 662,
+          "like_count": 502,
+          "listed_count": 16,
+          "media_count": 67,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": false
+      }
+    ]
+  }
+}

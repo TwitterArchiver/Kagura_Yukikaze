@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2037470482472312896",
+    "created_at": "2026-03-27T10:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037470482472312896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1972329558792974336",
+          "start": 3,
+          "username": "pxm8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037470482472312896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037459873684926624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pxm8964: 我愛你們"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2037470482472312896",
+        "created_at": "2026-03-27T10:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037470482472312896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972329558792974336",
+              "start": 3,
+              "username": "pxm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037470482472312896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037459873684926624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pxm8964: 我愛你們"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972329558792974336",
+        "conversation_id": "2037459873684926624",
+        "created_at": "2026-03-27T09:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037459873684926624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037459873684926624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我愛你們"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 2694,
+          "like_count": 96526,
+          "listed_count": 2,
+          "media_count": 725,
+          "tweet_count": 11492
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T15:56:32.000Z",
+        "description": "2007年6月生｜🏳️‍⚧️🏳️‍🌈逃生舱@pxm2007 （临时标签暂时停用避难）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "pxm2007"
+              }
+            ]
+          }
+        },
+        "id": "1972329558792974336",
+        "location": "北京 昌平",
+        "name": "昌年南娘子",
+        "pinned_tweet_id": "2037459873684926624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973583295377276928/1V-UI8ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 549,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1087
+        },
+        "username": "pxm8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039642821813272786",
+    "created_at": "2026-04-02T09:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039642821813272786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1001107099",
+          "start": 3,
+          "username": "maimai_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039642821813272786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1715
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039357288318894536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maimai_official: 【4/1(水)「都市伝説解体センターちほー」登場！】\n4/1(水)より、ゲーム内で特別な条件を満たすことで\n「都市伝説解体センターちほー」がオープン！\n楽曲「奇々解体」がプレイできるほか、キャラクターたちもゲットできます！\n\nちほー解禁…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2039356974794780672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1AXRTbsAAhTC_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039642821813272786",
+        "created_at": "2026-04-02T09:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039642821813272786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1001107099",
+              "start": 3,
+              "username": "maimai_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039642821813272786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1715
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039357288318894536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maimai_official: 【4/1(水)「都市伝説解体センターちほー」登場！】\n4/1(水)より、ゲーム内で特別な条件を満たすことで\n「都市伝説解体センターちほー」がオープン！\n楽曲「奇々解体」がプレイできるほか、キャラクターたちもゲットできます！\n\nちほー解禁…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039356974794780672"
+          ]
+        },
+        "author_id": "1001107099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039357288318894536",
+        "created_at": "2026-04-01T15:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039357288318894536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "4/1(水)「都市伝説解体センターちほー」オープン！",
+              "display_url": "info-maimai.sega.jp/9047/",
+              "end": 159,
+              "expanded_url": "https://info-maimai.sega.jp/9047/",
+              "images": [
+                {
+                  "height": 281,
+                  "url": "https://pbs.twimg.com/news_img/2039357297307316224/j5vGs-L5?format=png&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039357297307316224/j5vGs-L5?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 136,
+              "status": 200,
+              "title": "4/1(水)「都市伝説解体センターちほー」オープン！",
+              "unwound_url": "https://info-maimai.sega.jp/9047/",
+              "url": "https://t.co/Fyi4jO4Gih"
+            },
+            {
+              "display_url": "pic.x.com/zZYyImV0kX",
+              "end": 183,
+              "expanded_url": "https://x.com/maimai_official/status/2039357288318894536/photo/1",
+              "media_key": "3_2039356974794780672",
+              "start": 160,
+              "url": "https://t.co/zZYyImV0kX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039357288318894536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 543,
+          "impression_count": 595396,
+          "like_count": 4856,
+          "quote_count": 208,
+          "reply_count": 9,
+          "retweet_count": 1715
+        },
+        "reply_settings": "everyone",
+        "text": "【4/1(水)「都市伝説解体センターちほー」登場！】\n4/1(水)より、ゲーム内で特別な条件を満たすことで\n「都市伝説解体センターちほー」がオープン！\n楽曲「奇々解体」がプレイできるほか、キャラクターたちもゲットできます！\n\nちほー解禁の条件については、記事をチェック！\nhttps://t.co/Fyi4jO4Gih https://t.co/zZYyImV0kX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|http://en-jp-cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 2736,
+          "like_count": 98114,
+          "listed_count": 3,
+          "media_count": 733,
+          "tweet_count": 11759
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-10T06:53:46.000Z",
+        "description": "洗濯機みたいなSEGA音楽ゲーム「maimai」公式アカウントです。\n▼SEGA音ゲーまとめ→ @performai ▼公式全国大会→ @kop_sega ▼言ノ葉Project→ @kotonoha_PJ ▼CHUNITHM公式→ @chunithm ▼オンゲキ公式→ @ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "performai"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "kop_sega"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "chunithm"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/LI9j5dkDL6"
+              }
+            ]
+          }
+        },
+        "id": "1001107099",
+        "location": "セガ",
+        "name": "maimai でらっくす公式",
+        "pinned_tweet_id": "2039357288318894536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270188881581756419/7hrfPNnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181763,
+          "following_count": 27,
+          "like_count": 163,
+          "listed_count": 1355,
+          "media_count": 1362,
+          "tweet_count": 3072
+        },
+        "url": "https://t.co/LI9j5dkDL6",
+        "username": "maimai_official",
+        "verified": true
+      }
+    ]
+  }
+}

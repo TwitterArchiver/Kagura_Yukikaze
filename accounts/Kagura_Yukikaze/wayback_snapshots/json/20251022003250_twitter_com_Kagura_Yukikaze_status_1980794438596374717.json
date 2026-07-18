@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980356683302940672"
+      ],
+      "media_source_tweet_id": [
+        "1980356688374034526"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1980794438596374717",
+    "created_at": "2025-10-22T00:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T01:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980794438596374717"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "ivan",
+          "probability": 0.5595,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 49,
+          "normalized_text": "ivantill",
+          "probability": 0.5788,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "ivantill"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "ivti"
+        },
+        {
+          "end": 63,
+          "start": 57,
+          "tag": "alnst"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1151766919046782976",
+          "start": 3,
+          "username": "chufuaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f3fbuR79ZG",
+          "end": 87,
+          "expanded_url": "https://x.com/chufuaa/status/1980356688374034526/photo/1",
+          "media_key": "3_1980356683302940672",
+          "start": 64,
+          "url": "https://t.co/f3fbuR79ZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980794438596374717",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1655
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980356688374034526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chufuaa: 10/10 ivan would recommend\n\n#ivantill #ivti #alnst https://t.co/f3fbuR79ZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980356683302940672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3uj6TzXsAAzu3x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980356683302940672"
+          ],
+          "media_source_tweet_id": [
+            "1980356688374034526"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1980794438596374717",
+        "created_at": "2025-10-22T00:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T01:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980794438596374717"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "ivan",
+              "probability": 0.5595,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "ivantill",
+              "probability": 0.5788,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "ivantill"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "ivti"
+            },
+            {
+              "end": 63,
+              "start": 57,
+              "tag": "alnst"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1151766919046782976",
+              "start": 3,
+              "username": "chufuaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3fbuR79ZG",
+              "end": 87,
+              "expanded_url": "https://x.com/chufuaa/status/1980356688374034526/photo/1",
+              "media_key": "3_1980356683302940672",
+              "start": 64,
+              "url": "https://t.co/f3fbuR79ZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980794438596374717",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1655
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980356688374034526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chufuaa: 10/10 ivan would recommend\n\n#ivantill #ivti #alnst https://t.co/f3fbuR79ZG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980356683302940672"
+          ]
+        },
+        "author_id": "1151766919046782976",
+        "conversation_id": "1980356688374034526",
+        "created_at": "2025-10-20T19:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T20:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980356688374034526"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "ivan",
+              "probability": 0.6077,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "ivantill",
+              "probability": 0.5825,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "alnst",
+              "probability": 0.4174,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "ivantill"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "ivti"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "alnst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3fbuR79ZG",
+              "end": 74,
+              "expanded_url": "https://x.com/chufuaa/status/1980356688374034526/photo/1",
+              "media_key": "3_1980356683302940672",
+              "start": 51,
+              "url": "https://t.co/f3fbuR79ZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980356688374034526",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2814,
+          "impression_count": 185404,
+          "like_count": 24381,
+          "quote_count": 49,
+          "reply_count": 18,
+          "retweet_count": 1655
+        },
+        "reply_settings": "everyone",
+        "text": "10/10 ivan would recommend\n\n#ivantill #ivti #alnst https://t.co/f3fbuR79ZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1607,
+          "like_count": 64781,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7337
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T08:13:27.000Z",
+        "description": "20+ | hobbyist | repost ok with credit!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhfua.straw.page",
+                "end": 23,
+                "expanded_url": "https://zhfua.straw.page",
+                "start": 0,
+                "url": "https://t.co/IvT39GzApi"
+              }
+            ]
+          }
+        },
+        "id": "1151766919046782976",
+        "location": "IVANTILL NO SWITCH ❌🔄 ",
+        "name": "茱傅",
+        "pinned_tweet_id": "1979965890449051653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979082753124564992/B3Cuy_pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 38,
+          "like_count": 3208,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/IvT39GzApi",
+        "username": "chufuaa",
+        "verified": false
+      }
+    ]
+  }
+}

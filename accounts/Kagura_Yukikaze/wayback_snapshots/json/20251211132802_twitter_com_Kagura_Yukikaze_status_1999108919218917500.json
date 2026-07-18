@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998639190045765632"
+      ],
+      "media_source_tweet_id": [
+        "1998639584910127113"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1999108919218917500",
+    "created_at": "2025-12-11T13:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T14:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999108919218917500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1346799420709294081",
+          "start": 3,
+          "username": "erchenlu1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DuwqspISAE",
+          "end": 88,
+          "expanded_url": "https://x.com/erchenlu1/status/1998639584910127113/photo/1",
+          "media_key": "3_1998639190045765632",
+          "start": 65,
+          "url": "https://t.co/DuwqspISAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999108919218917500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998639584910127113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @erchenlu1: 现代儿童被剥夺了大量户外自主探索与自由玩耍的机会，这正是导致抑郁症在儿童群体中高发的重要根源之一。 https://t.co/DuwqspISAE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_1998639190045765632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7yXwQzaMAA_9rE.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998639190045765632"
+          ],
+          "media_source_tweet_id": [
+            "1998639584910127113"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1999108919218917500",
+        "created_at": "2025-12-11T13:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999108919218917500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1346799420709294081",
+              "start": 3,
+              "username": "erchenlu1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DuwqspISAE",
+              "end": 88,
+              "expanded_url": "https://x.com/erchenlu1/status/1998639584910127113/photo/1",
+              "media_key": "3_1998639190045765632",
+              "start": 65,
+              "url": "https://t.co/DuwqspISAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999108919218917500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998639584910127113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @erchenlu1: 现代儿童被剥夺了大量户外自主探索与自由玩耍的机会，这正是导致抑郁症在儿童群体中高发的重要根源之一。 https://t.co/DuwqspISAE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998639190045765632"
+          ]
+        },
+        "author_id": "1346799420709294081",
+        "conversation_id": "1998639584910127113",
+        "created_at": "2025-12-10T06:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T07:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998639584910127113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DuwqspISAE",
+              "end": 73,
+              "expanded_url": "https://x.com/erchenlu1/status/1998639584910127113/photo/1",
+              "media_key": "3_1998639190045765632",
+              "start": 50,
+              "url": "https://t.co/DuwqspISAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998639584910127113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 117487,
+          "like_count": 1076,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "现代儿童被剥夺了大量户外自主探索与自由玩耍的机会，这正是导致抑郁症在儿童群体中高发的重要根源之一。 https://t.co/DuwqspISAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 2069,
+          "like_count": 75689,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 8470
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-06T12:43:41.000Z",
+        "description": "跨学科思考者｜长期主义投资人/Long-termist investor｜公众号：卢尔辰 ｜文章合集：https://t.co/XSlRlvTieY| tg https://t.co/edG3gW471Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/46dvtzb6",
+                "end": 74,
+                "expanded_url": "https://tinyurl.com/46dvtzb6",
+                "start": 51,
+                "url": "https://t.co/XSlRlvTieY"
+              },
+              {
+                "display_url": "t.me/erchenlu",
+                "end": 102,
+                "expanded_url": "https://t.me/erchenlu",
+                "start": 79,
+                "url": "https://t.co/edG3gW471Z"
+              }
+            ]
+          }
+        },
+        "id": "1346799420709294081",
+        "name": "卢尔辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983310633366892544/-7DDQZ0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43878,
+          "following_count": 2033,
+          "like_count": 4580,
+          "listed_count": 398,
+          "media_count": 1031,
+          "tweet_count": 7244
+        },
+        "username": "erchenlu1",
+        "verified": true
+      }
+    ]
+  }
+}

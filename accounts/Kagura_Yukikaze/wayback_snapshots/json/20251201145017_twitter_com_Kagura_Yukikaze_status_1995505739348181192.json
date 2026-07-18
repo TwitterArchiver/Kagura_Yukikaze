@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995304659339153408"
+      ],
+      "media_source_tweet_id": [
+        "1995304668461670870"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1995505739348181192",
+    "created_at": "2025-12-01T14:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995505739348181192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1427384347963928576",
+          "start": 3,
+          "username": "gatinarios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q3Py55uvDj",
+          "end": 44,
+          "expanded_url": "https://x.com/gatinarios/status/1995304668461670870/photo/1",
+          "media_key": "3_1995304659339153408",
+          "start": 21,
+          "url": "https://t.co/q3Py55uvDj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995505739348181192",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3927
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995304668461670870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gatinarios: REAL https://t.co/q3Py55uvDj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 609,
+        "media_key": "3_1995304659339153408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7C_BB6XkAAaRXK.jpg",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995304659339153408"
+          ],
+          "media_source_tweet_id": [
+            "1995304668461670870"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1995505739348181192",
+        "created_at": "2025-12-01T14:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995505739348181192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427384347963928576",
+              "start": 3,
+              "username": "gatinarios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3Py55uvDj",
+              "end": 44,
+              "expanded_url": "https://x.com/gatinarios/status/1995304668461670870/photo/1",
+              "media_key": "3_1995304659339153408",
+              "start": 21,
+              "url": "https://t.co/q3Py55uvDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995505739348181192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3927
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995304668461670870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gatinarios: REAL https://t.co/q3Py55uvDj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995304659339153408"
+          ]
+        },
+        "author_id": "1427384347963928576",
+        "conversation_id": "1995304668461670870",
+        "created_at": "2025-12-01T01:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995304668461670870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3Py55uvDj",
+              "end": 28,
+              "expanded_url": "https://x.com/gatinarios/status/1995304668461670870/photo/1",
+              "media_key": "3_1995304659339153408",
+              "start": 5,
+              "url": "https://t.co/q3Py55uvDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995304668461670870",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 697,
+          "impression_count": 363133,
+          "like_count": 27644,
+          "quote_count": 116,
+          "reply_count": 62,
+          "retweet_count": 3927
+        },
+        "reply_settings": "everyone",
+        "text": "REAL https://t.co/q3Py55uvDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 1978,
+          "like_count": 73405,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 8204
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-16T21:38:55.000Z",
+        "description": "gatos que acho por aí… não são minhas imagens! 🐈‍⬛ manda miau nos comentários pra créditos/remoção 🐈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gatinarios",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/gatinarios",
+                "start": 0,
+                "url": "https://t.co/jJZoT58hCJ"
+              }
+            ]
+          }
+        },
+        "id": "1427384347963928576",
+        "location": "Brasil",
+        "name": "gatos fazendo gatices",
+        "pinned_tweet_id": "1994937265777512674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911285752526229504/M7vBupxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835017,
+          "following_count": 63,
+          "like_count": 1169,
+          "listed_count": 1569,
+          "media_count": 2733,
+          "tweet_count": 3963
+        },
+        "url": "https://t.co/jJZoT58hCJ",
+        "username": "gatinarios",
+        "verified": true
+      }
+    ]
+  }
+}

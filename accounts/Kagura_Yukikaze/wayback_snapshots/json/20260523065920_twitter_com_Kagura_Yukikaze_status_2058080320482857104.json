@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057992416087736320",
+        "3_2057992417211740160"
+      ],
+      "media_source_tweet_id": [
+        "2057992419782901882",
+        "2057992419782901882"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2058080320482857104",
+    "created_at": "2026-05-23T06:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058080320482857104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRrx4jpCjS",
+          "end": 102,
+          "expanded_url": "https://x.com/gdioiui/status/2057992419782901882/photo/1",
+          "media_key": "3_2057992416087736320",
+          "start": 79,
+          "url": "https://t.co/cRrx4jpCjS"
+        },
+        {
+          "display_url": "pic.x.com/cRrx4jpCjS",
+          "end": 102,
+          "expanded_url": "https://x.com/gdioiui/status/2057992419782901882/photo/1",
+          "media_key": "3_2057992417211740160",
+          "start": 79,
+          "url": "https://t.co/cRrx4jpCjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058080320482857104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057992419782901882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: 家长们 我们正在受到KB级DDoS攻击！\n累计受到了数10w次攻击\n是被爆头了10w次吗？ 怎么做到预警kb级攻击的😨\n不愧是预警 https://t.co/cRrx4jpCjS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057992416087736320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI91Mt9bgAAtjf3.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057992417211740160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI91MyJacAAXXb1.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057992416087736320",
+            "3_2057992417211740160"
+          ],
+          "media_source_tweet_id": [
+            "2057992419782901882",
+            "2057992419782901882"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2058080320482857104",
+        "created_at": "2026-05-23T06:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058080320482857104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRrx4jpCjS",
+              "end": 102,
+              "expanded_url": "https://x.com/gdioiui/status/2057992419782901882/photo/1",
+              "media_key": "3_2057992416087736320",
+              "start": 79,
+              "url": "https://t.co/cRrx4jpCjS"
+            },
+            {
+              "display_url": "pic.x.com/cRrx4jpCjS",
+              "end": 102,
+              "expanded_url": "https://x.com/gdioiui/status/2057992419782901882/photo/1",
+              "media_key": "3_2057992417211740160",
+              "start": 79,
+              "url": "https://t.co/cRrx4jpCjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058080320482857104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057992419782901882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: 家长们 我们正在受到KB级DDoS攻击！\n累计受到了数10w次攻击\n是被爆头了10w次吗？ 怎么做到预警kb级攻击的😨\n不愧是预警 https://t.co/cRrx4jpCjS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057992416087736320",
+            "3_2057992417211740160"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057992419782901882",
+        "created_at": "2026-05-23T01:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057992419782901882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRrx4jpCjS",
+              "end": 89,
+              "expanded_url": "https://x.com/gdioiui/status/2057992419782901882/photo/1",
+              "media_key": "3_2057992416087736320",
+              "start": 66,
+              "url": "https://t.co/cRrx4jpCjS"
+            },
+            {
+              "display_url": "pic.x.com/cRrx4jpCjS",
+              "end": 89,
+              "expanded_url": "https://x.com/gdioiui/status/2057992419782901882/photo/1",
+              "media_key": "3_2057992417211740160",
+              "start": 66,
+              "url": "https://t.co/cRrx4jpCjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057992419782901882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1696,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家长们 我们正在受到KB级DDoS攻击！\n累计受到了数10w次攻击\n是被爆头了10w次吗？ 怎么做到预警kb级攻击的😨\n不愧是预警 https://t.co/cRrx4jpCjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 2943,
+          "like_count": 107473,
+          "listed_count": 8,
+          "media_count": 792,
+          "tweet_count": 13109
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 465,
+          "like_count": 3855,
+          "listed_count": 3,
+          "media_count": 1272,
+          "tweet_count": 6870
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

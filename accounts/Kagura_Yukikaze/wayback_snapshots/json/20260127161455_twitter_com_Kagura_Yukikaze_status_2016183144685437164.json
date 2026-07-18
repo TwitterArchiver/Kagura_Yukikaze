@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001603516121649156"
+      ],
+      "media_source_tweet_id": [
+        "2001603518743089376"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2016183144685437164",
+    "created_at": "2026-01-27T16:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T17:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016183144685437164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1964621451048484864",
+          "start": 3,
+          "username": "hasuhasu114514"
+        },
+        {
+          "end": 45,
+          "id": "1867244970853466112",
+          "start": 38,
+          "username": "hyc945"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZPGMkvPMN",
+          "end": 69,
+          "expanded_url": "https://x.com/hasuhasu114514/status/2001603518743089376/photo/1",
+          "media_key": "3_2001603516121649156",
+          "start": 46,
+          "url": "https://t.co/XZPGMkvPMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016183144685437164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001603518743089376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasuhasu114514: 凝胶收到了哦 感谢花花抽奖送的凝胶喵@hyc945 https://t.co/XZPGMkvPMN"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hyc945].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hyc945",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hyc945"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001603516121649156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8cfyv-akAQ5glO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001603516121649156"
+          ],
+          "media_source_tweet_id": [
+            "2001603518743089376"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2016183144685437164",
+        "created_at": "2026-01-27T16:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016183144685437164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1964621451048484864",
+              "start": 3,
+              "username": "hasuhasu114514"
+            },
+            {
+              "end": 45,
+              "id": "1867244970853466112",
+              "start": 38,
+              "username": "hyc945"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZPGMkvPMN",
+              "end": 69,
+              "expanded_url": "https://x.com/hasuhasu114514/status/2001603518743089376/photo/1",
+              "media_key": "3_2001603516121649156",
+              "start": 46,
+              "url": "https://t.co/XZPGMkvPMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016183144685437164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001603518743089376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasuhasu114514: 凝胶收到了哦 感谢花花抽奖送的凝胶喵@hyc945 https://t.co/XZPGMkvPMN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001603516121649156"
+          ]
+        },
+        "author_id": "1964621451048484864",
+        "conversation_id": "2001603518743089376",
+        "created_at": "2025-12-18T10:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001603518743089376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1867244970853466112",
+              "start": 18,
+              "username": "hyc945"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZPGMkvPMN",
+              "end": 49,
+              "expanded_url": "https://x.com/hasuhasu114514/status/2001603518743089376/photo/1",
+              "media_key": "3_2001603516121649156",
+              "start": 26,
+              "url": "https://t.co/XZPGMkvPMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001603518743089376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2151,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "凝胶收到了哦 感谢花花抽奖送的凝胶喵@hyc945 https://t.co/XZPGMkvPMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 2305,
+          "like_count": 83654,
+          "listed_count": 2,
+          "media_count": 615,
+          "tweet_count": 9798
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T09:27:17.000Z",
+        "description": "丨06MTF丨月计人丨喜欢二次元涩涩（）丨170-42丨",
+        "id": "1964621451048484864",
+        "name": "蓮蓮🇨🇳🇯🇵🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964656312350072832/dj4u1zlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 247,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 594
+        },
+        "username": "hasuhasu114514",
+        "verified": false
+      }
+    ]
+  }
+}

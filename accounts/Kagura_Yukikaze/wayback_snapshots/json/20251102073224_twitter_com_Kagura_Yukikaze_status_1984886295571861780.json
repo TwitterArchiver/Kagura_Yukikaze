@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1984886295571861780",
+    "created_at": "2025-11-02T07:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984886295571861780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984886295571861780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984809634113470841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 当你参加算法大赛，而你的对手是\n\n名字里带🍥,头像里带蓝粉白,穿着JK的长发学长(姐)\n\n看上去像个直男但是头像是福瑞,名字里带🌈的学长\n\n虽然有苹果,但是身上依然可以见到各种3d打印的玩具、一台root并且刷了类原生并且自己手搓内核的一加、会修手…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1984886295571861780",
+        "created_at": "2025-11-02T07:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984886295571861780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984886295571861780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984809634113470841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 当你参加算法大赛，而你的对手是\n\n名字里带🍥,头像里带蓝粉白,穿着JK的长发学长(姐)\n\n看上去像个直男但是头像是福瑞,名字里带🌈的学长\n\n虽然有苹果,但是身上依然可以见到各种3d打印的玩具、一台root并且刷了类原生并且自己手搓内核的一加、会修手…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1984809634113470841",
+        "created_at": "2025-11-02T02:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T03:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984809634113470841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984809634113470841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 788,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你参加算法大赛，而你的对手是\n\n名字里带🍥,头像里带蓝粉白,穿着JK的长发学长(姐)\n\n看上去像个直男但是头像是福瑞,名字里带🌈的学长\n\n虽然有苹果,但是身上依然可以见到各种3d打印的玩具、一台root并且刷了类原生并且自己手搓内核的一加、会修手机电脑还参加过机器人大赛还是车万厨的资深垃圾佬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1767,
+          "like_count": 68635,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 7676
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "我有乳头悲伤综合症，不要80我😭\n\n自用机场(可免费体验100G)https://t.co/mjn9beg1Yw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nodetele.com/#/register?cod…",
+                "end": 56,
+                "expanded_url": "https://nodetele.com/#/register?code=ffyNPohz",
+                "start": 33,
+                "url": "https://t.co/mjn9beg1Yw"
+              }
+            ]
+          }
+        },
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒芙兰",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977384975751335936/hdJMHO3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12486,
+          "following_count": 467,
+          "like_count": 29348,
+          "listed_count": 21,
+          "media_count": 3072,
+          "tweet_count": 10421
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

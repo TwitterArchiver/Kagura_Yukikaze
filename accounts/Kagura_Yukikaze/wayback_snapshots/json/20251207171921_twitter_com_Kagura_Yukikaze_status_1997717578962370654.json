@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1997717578962370654",
+    "created_at": "2025-12-07T17:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T18:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997717578962370654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460429454719676416",
+          "start": 3,
+          "username": "oOoOo0o0oOoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997717578962370654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997368647162253805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oOoOo0o0oOoO: 感觉你是那种明明已经过了凌晨12点了，但还是把今天说成是明天的那种人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1997717578962370654",
+        "created_at": "2025-12-07T17:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997717578962370654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460429454719676416",
+              "start": 3,
+              "username": "oOoOo0o0oOoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997717578962370654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997368647162253805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oOoOo0o0oOoO: 感觉你是那种明明已经过了凌晨12点了，但还是把今天说成是明天的那种人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460429454719676416",
+        "conversation_id": "1997368647162253805",
+        "created_at": "2025-12-06T18:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997368647162253805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997368647162253805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 56728,
+          "like_count": 784,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你是那种明明已经过了凌晨12点了，但还是把今天说成是明天的那种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 2044,
+          "like_count": 74786,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 8365
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-16T02:08:22.000Z",
+        "description": "",
+        "id": "1460429454719676416",
+        "name": "小骨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997337141869948928/P22nCvmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 55,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 456
+        },
+        "username": "oOoOo0o0oOoO",
+        "verified": false
+      }
+    ]
+  }
+}

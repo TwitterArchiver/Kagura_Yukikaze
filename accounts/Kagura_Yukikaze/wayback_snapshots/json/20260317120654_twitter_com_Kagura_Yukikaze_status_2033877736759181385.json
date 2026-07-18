@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2033877736759181385",
+    "created_at": "2026-03-17T12:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T13:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033877736759181385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sunset__3000/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/sunset__3000/status/2033834757193404563",
+          "start": 30,
+          "url": "https://t.co/2r3EieGbHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033877736759181385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033834757193404563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "亚硝酸钠+碳酸钡+26楼石砖地，是不是必死了🤔（只是想想） https://t.co/2r3EieGbHq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2033877736759181385",
+        "created_at": "2026-03-17T12:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033877736759181385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sunset__3000/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/sunset__3000/status/2033834757193404563",
+              "start": 30,
+              "url": "https://t.co/2r3EieGbHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033877736759181385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033834757193404563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "亚硝酸钠+碳酸钡+26楼石砖地，是不是必死了🤔（只是想想） https://t.co/2r3EieGbHq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2033834757193404563",
+        "created_at": "2026-03-17T09:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033834757193404563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033834757193404563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠+200t苯海拉明+割断多处静脉+20楼水泥地，是不是必死了🤔（只是想想）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 2610,
+          "like_count": 94145,
+          "listed_count": 2,
+          "media_count": 702,
+          "tweet_count": 11101
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | ODP党员🤓 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹| 对象@inks_chain可以找他买部分策划药",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "inks_chain"
+              }
+            ]
+          }
+        },
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次",
+        "pinned_tweet_id": "2027079822229623001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471926700851200/tjj6_fyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 221,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 296
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971250088778530816"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971250095065911522",
+    "created_at": "2025-09-25T16:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T17:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971250095065911522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nJA7HrKjLk",
+          "end": 30,
+          "expanded_url": "https://x.com/kagura_yukikaze/status/1971250095065911522/photo/1",
+          "media_key": "3_1971250088778530816",
+          "start": 7,
+          "url": "https://t.co/nJA7HrKjLk"
+        },
+        {
+          "display_url": "x.com/mtnyan123/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/mtnyan123/status/1971172820735713401",
+          "start": 31,
+          "url": "https://t.co/OXGOvE2jRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971250095065911522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971172820735713401",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "舞萌怎么打🤔 https://t.co/nJA7HrKjLk https://t.co/OXGOvE2jRW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971250088778530816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tJgvkaAAAOlw1.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971250088778530816"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971250095065911522",
+        "created_at": "2025-09-25T16:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T17:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971250095065911522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJA7HrKjLk",
+              "end": 30,
+              "expanded_url": "https://x.com/kagura_yukikaze/status/1971250095065911522/photo/1",
+              "media_key": "3_1971250088778530816",
+              "start": 7,
+              "url": "https://t.co/nJA7HrKjLk"
+            },
+            {
+              "display_url": "x.com/mtnyan123/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/mtnyan123/status/1971172820735713401",
+              "start": 31,
+              "url": "https://t.co/OXGOvE2jRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971250095065911522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971172820735713401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "舞萌怎么打🤔 https://t.co/nJA7HrKjLk https://t.co/OXGOvE2jRW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963118330707050496",
+        "conversation_id": "1971172820735713401",
+        "created_at": "2025-09-25T11:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T12:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971172820735713401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971172820735713401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌怎么打🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 1182,
+          "like_count": 56342,
+          "listed_count": 3,
+          "media_count": 481,
+          "tweet_count": 6314
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T05:54:31.000Z",
+        "description": "MtX🍥 / 无证含糖｜泛性恋 / 社恐 / 主页背景图是本猫｜世界是由意大利面构成的",
+        "id": "1963118330707050496",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱（大号被盗",
+        "pinned_tweet_id": "1969665078409773144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968449968529920000/tt2tmkg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 134,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 175
+        },
+        "username": "mtnyan123",
+        "verified": false
+      }
+    ]
+  }
+}

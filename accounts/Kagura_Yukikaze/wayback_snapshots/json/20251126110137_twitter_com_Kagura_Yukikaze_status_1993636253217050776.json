@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "New York City",
+          "id": "907978531350519809",
+          "name": "New York City"
+        }
+      }
+    ],
+    "conversation_id": "1993636253217050776",
+    "created_at": "2025-11-26T11:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T12:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993636253217050776"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "� New York Ci",
+          "probability": 0.9623,
+          "start": -1,
+          "type": "Place"
+        },
+        {
+          "end": 78,
+          "normalized_text": "t Zohran Mamda",
+          "probability": 0.8535,
+          "start": 65,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1449140157903482882",
+          "start": 3,
+          "username": "BRICSinfo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/KeV",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/KeV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993636253217050776",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 510
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993493959914799338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BRICSinfo: JUST IN: 🇺🇸🏳️‍⚧️ New York City's Muslim Mayor-elect Zohran Mamdani says he will \"protect\" transgender kids. https://t.co/KeV…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1323,
+        "media_key": "3_1993493956454158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pQMQBWkAAXEvz.jpg",
+        "width": 1350
+      },
+      {
+        "height": 600,
+        "media_key": "3_1993493956458336256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pQMQCWUAAxPOM.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "1993636253217050776",
+        "created_at": "2025-11-26T11:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993636253217050776"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "� New York Ci",
+              "probability": 0.9623,
+              "start": -1,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "t Zohran Mamda",
+              "probability": 0.8535,
+              "start": 65,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1449140157903482882",
+              "start": 3,
+              "username": "BRICSinfo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/KeV",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/KeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993636253217050776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 510
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993493959914799338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BRICSinfo: JUST IN: 🇺🇸🏳️‍⚧️ New York City's Muslim Mayor-elect Zohran Mamdani says he will \"protect\" transgender kids. https://t.co/KeV…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993493956454158336",
+            "3_1993493956458336256"
+          ]
+        },
+        "author_id": "1449140157903482882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "1993493959914799338",
+        "created_at": "2025-11-26T01:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993493959914799338"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "� New York Ci",
+              "probability": 0.961,
+              "start": -1,
+              "type": "Place"
+            },
+            {
+              "end": 63,
+              "normalized_text": "t Zohran Mamda",
+              "probability": 0.8916,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeVBrkvfdu",
+              "end": 131,
+              "expanded_url": "https://x.com/BRICSinfo/status/1993493959914799338/photo/1",
+              "media_key": "3_1993493956454158336",
+              "start": 108,
+              "url": "https://t.co/KeVBrkvfdu"
+            },
+            {
+              "display_url": "pic.x.com/KeVBrkvfdu",
+              "end": 131,
+              "expanded_url": "https://x.com/BRICSinfo/status/1993493959914799338/photo/1",
+              "media_key": "3_1993493956458336256",
+              "start": 108,
+              "url": "https://t.co/KeVBrkvfdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993493959914799338",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 212588,
+          "like_count": 6733,
+          "quote_count": 188,
+          "reply_count": 618,
+          "retweet_count": 510
+        },
+        "reply_settings": "everyone",
+        "text": "JUST IN: 🇺🇸🏳️‍⚧️ New York City's Muslim Mayor-elect Zohran Mamdani says he will \"protect\" transgender kids. https://t.co/KeVBrkvfdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 1930,
+          "like_count": 72200,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 8071
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T22:28:38.000Z",
+        "description": "We are an independent media company bringing you unparalleled coverage of all-things geo-politics & BRICS News in real-time. Not an official government account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BRICSNews",
+                "end": 23,
+                "expanded_url": "https://t.me/BRICSNews",
+                "start": 0,
+                "url": "https://t.co/G99cDVuINb"
+              }
+            ]
+          }
+        },
+        "id": "1449140157903482882",
+        "location": "BRICS",
+        "name": "BRICS News",
+        "pinned_tweet_id": "1786515428916842643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926359090973818880/Fp80oxwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703906,
+          "following_count": 3,
+          "like_count": 2141,
+          "listed_count": 4659,
+          "media_count": 6453,
+          "tweet_count": 7797
+        },
+        "url": "https://t.co/G99cDVuINb",
+        "username": "BRICSinfo",
+        "verified": true
+      }
+    ]
+  }
+}

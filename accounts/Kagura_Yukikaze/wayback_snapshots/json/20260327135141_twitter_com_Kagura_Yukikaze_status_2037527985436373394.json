@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2037527985436373394",
+    "created_at": "2026-03-27T13:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037527985436373394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1692168065650462720",
+          "start": 3,
+          "username": "EveningCity"
+        },
+        {
+          "end": 35,
+          "id": "1693873810469199872",
+          "start": 26,
+          "username": "eve_city"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037527985436373394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037492746257322133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EveningCity: 很抱歉地通知大家，@eve_city（雨城EveCity）被无故封禁了。警钟长鸣，请各位一定要注意自己的账户安全😭\n在焦虑之中，我又想起了这个里推。我于是打算以后就拿这个账号来刷推罢…不知道能看到这条帖子的人又有多少喵…（碎碎念）\n无所谓啦…就…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [eve_city].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "eve_city",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "eve_city"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037492737122172929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEag2WybAAEoemB.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2037527985436373394",
+        "created_at": "2026-03-27T13:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037527985436373394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1692168065650462720",
+              "start": 3,
+              "username": "EveningCity"
+            },
+            {
+              "end": 35,
+              "id": "1693873810469199872",
+              "start": 26,
+              "username": "eve_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037527985436373394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037492746257322133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EveningCity: 很抱歉地通知大家，@eve_city（雨城EveCity）被无故封禁了。警钟长鸣，请各位一定要注意自己的账户安全😭\n在焦虑之中，我又想起了这个里推。我于是打算以后就拿这个账号来刷推罢…不知道能看到这条帖子的人又有多少喵…（碎碎念）\n无所谓啦…就…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037492737122172929"
+          ]
+        },
+        "author_id": "1692168065650462720",
+        "conversation_id": "2037492746257322133",
+        "created_at": "2026-03-27T11:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037492746257322133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1693873810469199872",
+              "start": 9,
+              "username": "eve_city"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/45mKhNIM9r",
+              "end": 170,
+              "expanded_url": "https://x.com/EveningCity/status/2037492746257322133/photo/1",
+              "media_key": "3_2037492737122172929",
+              "start": 147,
+              "url": "https://t.co/45mKhNIM9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037492746257322133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1659,
+          "like_count": 69,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "很抱歉地通知大家，@eve_city（雨城EveCity）被无故封禁了。警钟长鸣，请各位一定要注意自己的账户安全😭\n在焦虑之中，我又想起了这个里推。我于是打算以后就拿这个账号来刷推罢…不知道能看到这条帖子的人又有多少喵…（碎碎念）\n无所谓啦…就当作是重新开始吧…\n欢迎曾经的推友姐妹来互fo🥺 https://t.co/45mKhNIM9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 2699,
+          "like_count": 96553,
+          "listed_count": 2,
+          "media_count": 725,
+          "tweet_count": 11493
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T13:34:52.000Z",
+        "description": "07年 高二在读📖丨HRT 2024.3.7🌸丨永远怀念 @eve_city 😭丨寻回互fo中🕊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "eve_city"
+              }
+            ]
+          }
+        },
+        "id": "1692168065650462720",
+        "location": "Earth",
+        "name": "重生版の雨城EveCity🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037490742701256704/18qowIcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 60,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "EveningCity",
+        "verified": false
+      }
+    ]
+  }
+}

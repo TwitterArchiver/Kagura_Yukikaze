@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037093933214511104"
+      ],
+      "media_source_tweet_id": [
+        "2037093989237903597"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2037201706011000911",
+    "created_at": "2026-03-26T16:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T17:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037201706011000911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001598933169315840",
+          "start": 3,
+          "username": "XldscX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OOmFliWgfQ",
+          "end": 42,
+          "expanded_url": "https://x.com/XldscX/status/2037093989237903597/photo/1",
+          "media_key": "3_2037093933214511104",
+          "start": 19,
+          "url": "https://t.co/OOmFliWgfQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037201706011000911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037093989237903597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @XldscX: 推友们好好学 https://t.co/OOmFliWgfQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2037093933214511104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU2I6dasAAd4mJ.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037093933214511104"
+          ],
+          "media_source_tweet_id": [
+            "2037093989237903597"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2037201706011000911",
+        "created_at": "2026-03-26T16:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037201706011000911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001598933169315840",
+              "start": 3,
+              "username": "XldscX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOmFliWgfQ",
+              "end": 42,
+              "expanded_url": "https://x.com/XldscX/status/2037093989237903597/photo/1",
+              "media_key": "3_2037093933214511104",
+              "start": 19,
+              "url": "https://t.co/OOmFliWgfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037201706011000911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037093989237903597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @XldscX: 推友们好好学 https://t.co/OOmFliWgfQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037093933214511104"
+          ]
+        },
+        "author_id": "2001598933169315840",
+        "conversation_id": "2037093989237903597",
+        "created_at": "2026-03-26T09:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037093989237903597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOmFliWgfQ",
+              "end": 30,
+              "expanded_url": "https://x.com/XldscX/status/2037093989237903597/photo/1",
+              "media_key": "3_2037093933214511104",
+              "start": 7,
+              "url": "https://t.co/OOmFliWgfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037093989237903597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13916,
+          "like_count": 237,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "other",
+        "text": "推友们好好学 https://t.co/OOmFliWgfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2736,
+          "following_count": 2689,
+          "like_count": 96372,
+          "listed_count": 2,
+          "media_count": 725,
+          "tweet_count": 11463
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./xy/友跨顺男/梦想成为肉感男娘/hrt24.4.20/181cm 59kg/平淡而没有任何特长/喜欢Apex,CS,mai&Arcaea和睡觉\n\n可以叫我翎。\n可以蹭蓝标互关，蓝标小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n对象♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "username": "letana358121"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llenium1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/llenium1",
+                "start": 0,
+                "url": "https://t.co/mE8Cawnpdp"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "YukaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031653162483085312/moL7xILD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 434,
+          "like_count": 12129,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 4464
+        },
+        "url": "https://t.co/mE8Cawnpdp",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

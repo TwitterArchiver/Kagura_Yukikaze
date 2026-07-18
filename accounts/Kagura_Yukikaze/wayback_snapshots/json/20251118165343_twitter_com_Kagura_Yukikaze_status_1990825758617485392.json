@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990731286940692480"
+      ],
+      "media_source_tweet_id": [
+        "1990731292799840372"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1990825758617485392",
+    "created_at": "2025-11-18T16:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T17:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990825758617485392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733825066990010368",
+          "start": 3,
+          "username": "xr__y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nADjj2sbg7",
+          "end": 34,
+          "expanded_url": "https://x.com/xr__y/status/1990731292799840372/photo/1",
+          "media_key": "3_1990731286940692480",
+          "start": 11,
+          "url": "https://t.co/nADjj2sbg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990825758617485392",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990731292799840372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xr__y: https://t.co/nADjj2sbg7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990731286940692480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B_juFbMAAoSzy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990731286940692480"
+          ],
+          "media_source_tweet_id": [
+            "1990731292799840372"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1990825758617485392",
+        "created_at": "2025-11-18T16:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T17:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990825758617485392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733825066990010368",
+              "start": 3,
+              "username": "xr__y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nADjj2sbg7",
+              "end": 34,
+              "expanded_url": "https://x.com/xr__y/status/1990731292799840372/photo/1",
+              "media_key": "3_1990731286940692480",
+              "start": 11,
+              "url": "https://t.co/nADjj2sbg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990825758617485392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990731292799840372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xr__y: https://t.co/nADjj2sbg7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990731286940692480"
+          ]
+        },
+        "author_id": "1733825066990010368",
+        "conversation_id": "1990731292799840372",
+        "created_at": "2025-11-18T10:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990731292799840372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nADjj2sbg7",
+              "end": 23,
+              "expanded_url": "https://x.com/xr__y/status/1990731292799840372/photo/1",
+              "media_key": "3_1990731286940692480",
+              "start": 0,
+              "url": "https://t.co/nADjj2sbg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990731292799840372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 5742,
+          "like_count": 832,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nADjj2sbg7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1882,
+          "like_count": 71077,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 7916
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T12:25:26.000Z",
+        "description": "",
+        "id": "1733825066990010368",
+        "name": "無能",
+        "pinned_tweet_id": "1901544270278148117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907770309119455232/nhNQsuQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9174,
+          "following_count": 10,
+          "like_count": 8464,
+          "listed_count": 33,
+          "media_count": 92,
+          "tweet_count": 208
+        },
+        "username": "xr__y",
+        "verified": false
+      }
+    ]
+  }
+}

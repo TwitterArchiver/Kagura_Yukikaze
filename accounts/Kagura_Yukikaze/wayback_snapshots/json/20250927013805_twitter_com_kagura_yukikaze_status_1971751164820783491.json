@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971385155467227136"
+      ],
+      "media_source_tweet_id": [
+        "1971385159191777683"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971751164820783491",
+    "created_at": "2025-09-27T01:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T02:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971751164820783491"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "pchan",
+          "probability": 0.5015,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843883126126456838",
+          "start": 3,
+          "username": "kanaparfaits"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/757CR47iIE",
+          "end": 65,
+          "expanded_url": "https://x.com/kanaparfaits/status/1971385159191777683/photo/1",
+          "media_key": "3_1971385155467227136",
+          "start": 42,
+          "url": "https://t.co/757CR47iIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971751164820783491",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 543
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971385159191777683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanaparfaits: i think she likes pchan https://t.co/757CR47iIE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_1971385155467227136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1vEWqMaMAAMhiW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971385155467227136"
+          ],
+          "media_source_tweet_id": [
+            "1971385159191777683"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971751164820783491",
+        "created_at": "2025-09-27T01:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T02:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971751164820783491"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "pchan",
+              "probability": 0.5015,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843883126126456838",
+              "start": 3,
+              "username": "kanaparfaits"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/757CR47iIE",
+              "end": 65,
+              "expanded_url": "https://x.com/kanaparfaits/status/1971385159191777683/photo/1",
+              "media_key": "3_1971385155467227136",
+              "start": 42,
+              "url": "https://t.co/757CR47iIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971751164820783491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 543
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971385159191777683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanaparfaits: i think she likes pchan https://t.co/757CR47iIE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971385155467227136"
+          ]
+        },
+        "author_id": "1843883126126456838",
+        "conversation_id": "1971385159191777683",
+        "created_at": "2025-09-26T01:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T02:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971385159191777683"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "pchan",
+              "probability": 0.4671,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/757CR47iIE",
+              "end": 47,
+              "expanded_url": "https://x.com/kanaparfaits/status/1971385159191777683/photo/1",
+              "media_key": "3_1971385155467227136",
+              "start": 24,
+              "url": "https://t.co/757CR47iIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971385159191777683",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 20306,
+          "like_count": 2869,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 543
+        },
+        "reply_settings": "everyone",
+        "text": "i think she likes pchan https://t.co/757CR47iIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 1203,
+          "like_count": 56940,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6370
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T05:16:20.000Z",
+        "description": "#宵崎奏 ♡ 夜叶めあ ꒰ @__xx7qz ꒱ 🎼🪽地雷系少女 𝜗𝜚⸝⸝ 𓊆 my♥︎ : @inluvwithleon 𓊇",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "宵崎奏"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "__xx7qz"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "inluvwithleon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sweetkanade.straw.page",
+                "end": 23,
+                "expanded_url": "http://sweetkanade.straw.page",
+                "start": 0,
+                "url": "https://t.co/OI8SQonW3G"
+              }
+            ]
+          }
+        },
+        "id": "1843883126126456838",
+        "location": "9.10.22 ♡ sharing🆖",
+        "name": "riri♡",
+        "pinned_tweet_id": "1969564300781240640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969217772426313729/XI4qPYkc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 1555,
+          "like_count": 59782,
+          "listed_count": 13,
+          "media_count": 519,
+          "tweet_count": 3642
+        },
+        "url": "https://t.co/OI8SQonW3G",
+        "username": "kanaparfaits",
+        "verified": false
+      }
+    ]
+  }
+}

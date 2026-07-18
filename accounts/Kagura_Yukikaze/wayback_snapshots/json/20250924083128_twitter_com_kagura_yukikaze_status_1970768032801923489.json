@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970538291809394688"
+      ],
+      "media_source_tweet_id": [
+        "1970538300583944504"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1970768032801923489",
+    "created_at": "2025-09-24T08:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970768032801923489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865831426303897600",
+          "start": 3,
+          "username": "dreamlandsym"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SnC62ex0tM",
+          "end": 41,
+          "expanded_url": "https://x.com/dreamlandsym/status/1970538300583944504/photo/1",
+          "media_key": "3_1970538291809394688",
+          "start": 18,
+          "url": "https://t.co/SnC62ex0tM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970768032801923489",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970538300583944504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dreamlandsym: https://t.co/SnC62ex0tM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1970538291809394688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jCItOaoAAgEpE.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970538291809394688"
+          ],
+          "media_source_tweet_id": [
+            "1970538300583944504"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1970768032801923489",
+        "created_at": "2025-09-24T08:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970768032801923489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865831426303897600",
+              "start": 3,
+              "username": "dreamlandsym"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SnC62ex0tM",
+              "end": 41,
+              "expanded_url": "https://x.com/dreamlandsym/status/1970538300583944504/photo/1",
+              "media_key": "3_1970538291809394688",
+              "start": 18,
+              "url": "https://t.co/SnC62ex0tM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970768032801923489",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970538300583944504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dreamlandsym: https://t.co/SnC62ex0tM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970538291809394688"
+          ]
+        },
+        "author_id": "1865831426303897600",
+        "conversation_id": "1970538300583944504",
+        "created_at": "2025-09-23T17:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T18:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970538300583944504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SnC62ex0tM",
+              "end": 23,
+              "expanded_url": "https://x.com/dreamlandsym/status/1970538300583944504/photo/1",
+              "media_key": "3_1970538291809394688",
+              "start": 0,
+              "url": "https://t.co/SnC62ex0tM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970538300583944504",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 174,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SnC62ex0tM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 1173,
+          "like_count": 55884,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 6253
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "你们好！我们是dreamland system，目前可奈回来了，前台计划由零酱和可奈交替\n/无证hrt2025.1.10\n/里推（触发警告🎈）：@DreamlandSysSub\n/Lover：@calsym456 @AsdQWD358224 @Caroline_9870",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "DreamlandSysSub"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "calsym456"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Caroline_9870"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ2ANC"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之彼岸 dreamland",
+        "name": "北雁梦 - ドリームランド システム",
+        "pinned_tweet_id": "1940194691842285589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940127451700416512/Uey-rF84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 849,
+          "like_count": 10411,
+          "listed_count": 9,
+          "media_count": 363,
+          "tweet_count": 6173
+        },
+        "url": "https://t.co/ZxXMCZ2ANC",
+        "username": "dreamlandsym",
+        "verified": false
+      }
+    ]
+  }
+}

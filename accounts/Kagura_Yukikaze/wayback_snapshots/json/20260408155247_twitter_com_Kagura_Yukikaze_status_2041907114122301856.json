@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041849828251201536"
+      ],
+      "media_source_tweet_id": [
+        "2041849836094550157"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2041907114122301856",
+    "created_at": "2026-04-08T15:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041907114122301856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935420089186336768",
+          "start": 3,
+          "username": "ASplendour15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TaghNI9teG",
+          "end": 63,
+          "expanded_url": "https://x.com/ASplendour15/status/2041849836094550157/photo/1",
+          "media_key": "3_2041849828251201536",
+          "start": 40,
+          "url": "https://t.co/TaghNI9teG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041907114122301856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041849836094550157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ASplendour15: 「那你为何如饥似渴地咽下」\n\n结局系列重发 https://t.co/TaghNI9teG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2041849828251201536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYbmcGa8AAWYlc.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041849828251201536"
+          ],
+          "media_source_tweet_id": [
+            "2041849836094550157"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2041907114122301856",
+        "created_at": "2026-04-08T15:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041907114122301856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935420089186336768",
+              "start": 3,
+              "username": "ASplendour15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaghNI9teG",
+              "end": 63,
+              "expanded_url": "https://x.com/ASplendour15/status/2041849836094550157/photo/1",
+              "media_key": "3_2041849828251201536",
+              "start": 40,
+              "url": "https://t.co/TaghNI9teG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041907114122301856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041849836094550157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ASplendour15: 「那你为何如饥似渴地咽下」\n\n结局系列重发 https://t.co/TaghNI9teG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041849828251201536"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "conversation_id": "2041849836094550157",
+        "created_at": "2026-04-08T12:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041849836094550157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaghNI9teG",
+              "end": 45,
+              "expanded_url": "https://x.com/ASplendour15/status/2041849836094550157/photo/1",
+              "media_key": "3_2041849828251201536",
+              "start": 22,
+              "url": "https://t.co/TaghNI9teG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041849836094550157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1803,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "「那你为何如饥似渴地咽下」\n\n结局系列重发 https://t.co/TaghNI9teG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥（清水推.ing",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 2787,
+          "like_count": 100021,
+          "listed_count": 3,
+          "media_count": 750,
+          "tweet_count": 12074
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 103,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 115
+        },
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

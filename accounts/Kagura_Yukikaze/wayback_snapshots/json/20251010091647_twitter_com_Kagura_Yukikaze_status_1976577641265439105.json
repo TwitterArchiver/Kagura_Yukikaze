@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1976577641265439105",
+    "created_at": "2025-10-10T09:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T10:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976577641265439105"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "KING of Performai The 7th",
+          "probability": 0.8196,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1173945883391455233",
+          "start": 3,
+          "username": "kop_sega"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976577641265439105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1473
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976483641875443780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kop_sega: 『KING of Performai The 7th』\nmaimai でらっくすのオンライン予選課題曲はコチラ！\nかめりあさん作曲の新曲は、期間中に他課題曲をプレイすることで解禁！\n\nオンライン予選開催期間：10/30(木)～11/26(水) 23:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1976483601241001984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23hXQxa0AAklHw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1976577641265439105",
+        "created_at": "2025-10-10T09:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T10:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976577641265439105"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "KING of Performai The 7th",
+              "probability": 0.8196,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1173945883391455233",
+              "start": 3,
+              "username": "kop_sega"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976577641265439105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1473
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976483641875443780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kop_sega: 『KING of Performai The 7th』\nmaimai でらっくすのオンライン予選課題曲はコチラ！\nかめりあさん作曲の新曲は、期間中に他課題曲をプレイすることで解禁！\n\nオンライン予選開催期間：10/30(木)～11/26(水) 23:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976483601241001984"
+          ]
+        },
+        "author_id": "1173945883391455233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976483641875443780",
+        "created_at": "2025-10-10T03:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976483641875443780"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "KING of Performai The 7th",
+              "probability": 0.8411,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "セガ音ゲー公式全国大会「KING of Performai The 7th」2025年10月30日よりオンライン予選、2026年3月1日決勝大会予定！",
+              "display_url": "maimai.sega.jp/kop7th/maimai/",
+              "end": 171,
+              "expanded_url": "https://maimai.sega.jp/kop7th/maimai/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1976483649072873472/BGz-jRCN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1976483649072873472/BGz-jRCN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 148,
+              "status": 200,
+              "title": "maimai でらっくす-オンライン予選｜KING of Performai The 7th【KOP7th】-オンゲキ・CHUNITHM・maimai でらっくす-｜セガ音ゲー公式全国大会",
+              "unwound_url": "https://maimai.sega.jp/kop7th/maimai/",
+              "url": "https://t.co/FATvMa8vvQ"
+            },
+            {
+              "display_url": "pic.x.com/Y8EliZQm6D",
+              "end": 195,
+              "expanded_url": "https://x.com/kop_sega/status/1976483641875443780/photo/1",
+              "media_key": "3_1976483601241001984",
+              "start": 172,
+              "url": "https://t.co/Y8EliZQm6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976483641875443780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 568149,
+          "like_count": 2599,
+          "quote_count": 704,
+          "reply_count": 19,
+          "retweet_count": 1473
+        },
+        "reply_settings": "everyone",
+        "text": "『KING of Performai The 7th』\nmaimai でらっくすのオンライン予選課題曲はコチラ！\nかめりあさん作曲の新曲は、期間中に他課題曲をプレイすることで解禁！\n\nオンライン予選開催期間：10/30(木)～11/26(水) 23:59\n\n詳しくは公式サイトをご確認ください！\nhttps://t.co/FATvMa8vvQ https://t.co/Y8EliZQm6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is Kagura Yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 1480,
+          "like_count": 62082,
+          "listed_count": 3,
+          "media_count": 521,
+          "tweet_count": 7007
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-17T13:05:04.000Z",
+        "description": "SEGA音ゲー公式全国大会「KING of Performai（KOP）」公式アカウントです。本アカウントから大会情報を発信していきます。ゲキ！チュウマイ@performai maimai公式 @maimai_official CHUNITHM公式@chunithm オンゲキ公式@ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "performai"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "maimai_official"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "chunithm"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp/kop7th/",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/kop7th/",
+                "start": 0,
+                "url": "https://t.co/3kVElVmuM5"
+              }
+            ]
+          }
+        },
+        "id": "1173945883391455233",
+        "name": "KING of Performai 公式",
+        "pinned_tweet_id": "1976482860849824227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968510483469864960/CkswNeir_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27191,
+          "following_count": 5,
+          "like_count": 97,
+          "listed_count": 111,
+          "media_count": 406,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/3kVElVmuM5",
+        "username": "kop_sega",
+        "verified": false
+      }
+    ]
+  }
+}

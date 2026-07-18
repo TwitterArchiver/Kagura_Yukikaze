@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014568605795454976"
+      ],
+      "media_source_tweet_id": [
+        "2014568624480977143"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2014683060458160567",
+    "created_at": "2026-01-23T12:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T13:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014683060458160567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1347338765778432007",
+          "start": 3,
+          "username": "ekzrei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Q8llhq0Rq",
+          "end": 35,
+          "expanded_url": "https://x.com/ekzrei/status/2014568624480977143/photo/1",
+          "media_key": "3_2014568605795454976",
+          "start": 12,
+          "url": "https://t.co/6Q8llhq0Rq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014683060458160567",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014568624480977143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ekzrei: https://t.co/6Q8llhq0Rq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2014568605795454976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_UveSwXkAAKDhS.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014568605795454976"
+          ],
+          "media_source_tweet_id": [
+            "2014568624480977143"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2014683060458160567",
+        "created_at": "2026-01-23T12:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014683060458160567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1347338765778432007",
+              "start": 3,
+              "username": "ekzrei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Q8llhq0Rq",
+              "end": 35,
+              "expanded_url": "https://x.com/ekzrei/status/2014568624480977143/photo/1",
+              "media_key": "3_2014568605795454976",
+              "start": 12,
+              "url": "https://t.co/6Q8llhq0Rq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014683060458160567",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014568624480977143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ekzrei: https://t.co/6Q8llhq0Rq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014568605795454976"
+          ]
+        },
+        "author_id": "1347338765778432007",
+        "conversation_id": "2014568624480977143",
+        "created_at": "2026-01-23T05:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014568624480977143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Q8llhq0Rq",
+              "end": 23,
+              "expanded_url": "https://x.com/ekzrei/status/2014568624480977143/photo/1",
+              "media_key": "3_2014568605795454976",
+              "start": 0,
+              "url": "https://t.co/6Q8llhq0Rq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014568624480977143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4105,
+          "like_count": 335,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6Q8llhq0Rq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 2272,
+          "like_count": 82518,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 9611
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T00:26:19.000Z",
+        "description": "20 year old famous osu! celebrity\ni love @p1ness00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "p1ness00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ekzrei",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ekzrei",
+                "start": 0,
+                "url": "https://t.co/HVurxxD32C"
+              }
+            ]
+          }
+        },
+        "id": "1347338765778432007",
+        "location": "The Pinnacle",
+        "name": "ekzrei",
+        "pinned_tweet_id": "2006589205263323427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953352469716647936/Br-CZQwy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4978,
+          "following_count": 2361,
+          "like_count": 5126,
+          "listed_count": 2,
+          "media_count": 1196,
+          "tweet_count": 5771
+        },
+        "url": "https://t.co/HVurxxD32C",
+        "username": "ekzrei",
+        "verified": true
+      }
+    ]
+  }
+}

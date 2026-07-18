@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2005077580811305360",
+    "created_at": "2026-02-07T07:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T08:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020038871409652060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1919963459279888384",
+          "start": 0,
+          "username": "sinhrkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020038871409652060",
+    "in_reply_to_user_id": "1919963459279888384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005077580811305360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinhrkP 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2005077580811305360",
+        "created_at": "2026-02-07T07:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020038871409652060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1919963459279888384",
+              "start": 0,
+              "username": "sinhrkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020038871409652060",
+        "in_reply_to_user_id": "1919963459279888384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005077580811305360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinhrkP 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919963459279888384",
+        "conversation_id": "2005077580811305360",
+        "created_at": "2025-12-28T00:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T01:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005077580811305360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005077580811305360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2011,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "48t愈美片\n醒了 \n全身的肌肉都在抽动 浑身发麻 \n头特别晕\n完全没办法活动\n我感觉我要死了\n该选择意外 跳楼 还是氰化物呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 2376,
+          "like_count": 85449,
+          "listed_count": 2,
+          "media_count": 629,
+          "tweet_count": 10054
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:52:33.000Z",
+        "description": "燥然と輝く街の灯り 対照的な僕を見下ろす｜可以叫咱小遥｜mtf｜hrt25.8.19｜#prsk  #ADHD  #双極性障害",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "prsk"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "ADHD"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "双極性障害"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sinhrk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sinhrk",
+                "start": 0,
+                "url": "https://t.co/cPqMPK9OsO"
+              }
+            ]
+          }
+        },
+        "id": "1919963459279888384",
+        "name": "🎀超绝最可爱haruka酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012033444151521280/g8iXZ5WS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1901,
+          "like_count": 5219,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 843
+        },
+        "url": "https://t.co/cPqMPK9OsO",
+        "username": "sinhrkP",
+        "verified": false
+      }
+    ]
+  }
+}

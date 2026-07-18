@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018292105278558208"
+      ],
+      "media_source_tweet_id": [
+        "2018293554540687590"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2018567878044426634",
+    "created_at": "2026-02-03T06:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T07:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018567878044426634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "911515604913340416",
+          "start": 3,
+          "username": "oicolatcho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ddkOqfxPzq",
+          "end": 42,
+          "expanded_url": "https://x.com/oicolatcho/status/2018293554540687590/video/1",
+          "media_key": "13_2018292105278558208",
+          "start": 19,
+          "url": "https://t.co/ddkOqfxPzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018567878044426634",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 256
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018293554540687590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oicolatcho: ！？ https://t.co/ddkOqfxPzq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14846,
+        "height": 1920,
+        "media_key": "13_2018292105278558208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018292105278558208/img/Uew41DdnmRJ1FBLV.jpg",
+        "public_metrics": {
+          "view_count": 22391
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018292105278558208/vid/avc1/480x852/4AjRm7fZmpTbtO--.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018292105278558208/vid/avc1/1080x1920/h81Xpi_n8V-_tl6R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018292105278558208/vid/avc1/720x1280/xJsCZJ635JtXHHLl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018292105278558208/pl/JnrlUsr3TIKv2mvu.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018292105278558208/vid/avc1/320x568/e8f1xK6LJkLGl-mJ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018292105278558208"
+          ],
+          "media_source_tweet_id": [
+            "2018293554540687590"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2018567878044426634",
+        "created_at": "2026-02-03T06:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018567878044426634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "911515604913340416",
+              "start": 3,
+              "username": "oicolatcho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddkOqfxPzq",
+              "end": 42,
+              "expanded_url": "https://x.com/oicolatcho/status/2018293554540687590/video/1",
+              "media_key": "13_2018292105278558208",
+              "start": 19,
+              "url": "https://t.co/ddkOqfxPzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018567878044426634",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018293554540687590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oicolatcho: ！？ https://t.co/ddkOqfxPzq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018292105278558208"
+          ]
+        },
+        "author_id": "911515604913340416",
+        "conversation_id": "2018293554540687590",
+        "created_at": "2026-02-02T12:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018293554540687590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddkOqfxPzq",
+              "end": 26,
+              "expanded_url": "https://x.com/oicolatcho/status/2018293554540687590/video/1",
+              "media_key": "13_2018292105278558208",
+              "start": 3,
+              "url": "https://t.co/ddkOqfxPzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018293554540687590",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 387,
+          "impression_count": 55933,
+          "like_count": 2646,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "！？ https://t.co/ddkOqfxPzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 2358,
+          "like_count": 84542,
+          "listed_count": 2,
+          "media_count": 623,
+          "tweet_count": 9944
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-23T09:00:30.000Z",
+        "description": "こころのえいようざい。もちもち。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@oicolatcho",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@oicolatcho",
+                "start": 0,
+                "url": "https://t.co/inRAiymlHQ"
+              }
+            ]
+          }
+        },
+        "id": "911515604913340416",
+        "location": "やさしいせかい",
+        "name": "おいこらしょ",
+        "pinned_tweet_id": "1363757302222708736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528996343385321472/NdkFppG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112682,
+          "following_count": 984,
+          "like_count": 24653,
+          "listed_count": 528,
+          "media_count": 2919,
+          "tweet_count": 13696
+        },
+        "url": "https://t.co/inRAiymlHQ",
+        "username": "oicolatcho",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987889213594091520"
+      ],
+      "media_source_tweet_id": [
+        "1987889224209899721"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1988587475963724002",
+    "created_at": "2025-11-12T12:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988587475963724002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1386539491054088198",
+          "start": 3,
+          "username": "yoooyoyooy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fHuPOjv5NQ",
+          "end": 47,
+          "expanded_url": "https://x.com/yoooyoyooy/status/1987889224209899721/photo/1",
+          "media_key": "3_1987889213594091520",
+          "start": 24,
+          "url": "https://t.co/fHuPOjv5NQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988587475963724002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987889224209899721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoooyoyooy: 已严肃品鉴（？ https://t.co/fHuPOjv5NQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1987889213594091520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZmtR0bQAA7ULk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987889213594091520"
+          ],
+          "media_source_tweet_id": [
+            "1987889224209899721"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1988587475963724002",
+        "created_at": "2025-11-12T12:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988587475963724002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1386539491054088198",
+              "start": 3,
+              "username": "yoooyoyooy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHuPOjv5NQ",
+              "end": 47,
+              "expanded_url": "https://x.com/yoooyoyooy/status/1987889224209899721/photo/1",
+              "media_key": "3_1987889213594091520",
+              "start": 24,
+              "url": "https://t.co/fHuPOjv5NQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988587475963724002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987889224209899721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoooyoyooy: 已严肃品鉴（？ https://t.co/fHuPOjv5NQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987889213594091520"
+          ]
+        },
+        "author_id": "1386539491054088198",
+        "conversation_id": "1987889224209899721",
+        "created_at": "2025-11-10T14:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987889224209899721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHuPOjv5NQ",
+              "end": 31,
+              "expanded_url": "https://x.com/yoooyoyooy/status/1987889224209899721/photo/1",
+              "media_key": "3_1987889213594091520",
+              "start": 8,
+              "url": "https://t.co/fHuPOjv5NQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987889224209899721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17302,
+          "like_count": 375,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃品鉴（？ https://t.co/fHuPOjv5NQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1832,
+          "like_count": 69901,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 7796
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜请在置顶查看自我介绍 / Please check self intro in pinned tweet / 固定されたツイートで自我紹介を見てください",
+        "id": "1386539491054088198",
+        "name": "佑",
+        "pinned_tweet_id": "1985683100014428393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985681893262835713/gIUOHAB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 712,
+          "like_count": 198952,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 3485
+        },
+        "username": "yoooyoyooy",
+        "verified": false
+      }
+    ]
+  }
+}

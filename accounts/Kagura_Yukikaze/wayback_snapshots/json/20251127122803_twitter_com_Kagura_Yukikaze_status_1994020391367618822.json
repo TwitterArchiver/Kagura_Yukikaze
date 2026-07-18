@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993539199782600704"
+      ],
+      "media_source_tweet_id": [
+        "1993539205423833367"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1994020391367618822",
+    "created_at": "2025-11-27T12:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994020391367618822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1873349390082965504",
+          "start": 3,
+          "username": "diietpet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hrw6mb8Zr1",
+          "end": 49,
+          "expanded_url": "https://x.com/diietpet/status/1993539205423833367/photo/1",
+          "media_key": "3_1993539199782600704",
+          "start": 26,
+          "url": "https://t.co/hrw6mb8Zr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994020391367618822",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 526
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993539205423833367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @diietpet: take care 🐾 https://t.co/hrw6mb8Zr1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1993539199782600704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6p5VwjbwAATvvl.jpg",
+        "width": 1576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993539199782600704"
+          ],
+          "media_source_tweet_id": [
+            "1993539205423833367"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1994020391367618822",
+        "created_at": "2025-11-27T12:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994020391367618822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1873349390082965504",
+              "start": 3,
+              "username": "diietpet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrw6mb8Zr1",
+              "end": 49,
+              "expanded_url": "https://x.com/diietpet/status/1993539205423833367/photo/1",
+              "media_key": "3_1993539199782600704",
+              "start": 26,
+              "url": "https://t.co/hrw6mb8Zr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994020391367618822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993539205423833367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @diietpet: take care 🐾 https://t.co/hrw6mb8Zr1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993539199782600704"
+          ]
+        },
+        "author_id": "1873349390082965504",
+        "conversation_id": "1993539205423833367",
+        "created_at": "2025-11-26T04:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993539205423833367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrw6mb8Zr1",
+              "end": 35,
+              "expanded_url": "https://x.com/diietpet/status/1993539205423833367/photo/1",
+              "media_key": "3_1993539199782600704",
+              "start": 12,
+              "url": "https://t.co/hrw6mb8Zr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993539205423833367",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 25830,
+          "like_count": 4822,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 526
+        },
+        "reply_settings": "everyone",
+        "text": "take care 🐾 https://t.co/hrw6mb8Zr1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1937,
+          "like_count": 72448,
+          "listed_count": 2,
+          "media_count": 556,
+          "tweet_count": 8093
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T12:44:54.000Z",
+        "description": "tw everything 🍥 i have like 8 mental illnesses",
+        "id": "1873349390082965504",
+        "location": "୨୧ ₊˚ʚ ᗢ lw bmi13 35kgs/77lbs ",
+        "name": "kunikuzushi of shedtwt 𐂯 (2/18)",
+        "pinned_tweet_id": "1989783824675553404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989809384420249603/O9cLqpF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 229,
+          "like_count": 14497,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 963
+        },
+        "username": "diietpet",
+        "verified": false
+      }
+    ]
+  }
+}

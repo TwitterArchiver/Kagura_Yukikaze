@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055893067950120960",
+        "3_2055893068243714048"
+      ],
+      "media_source_tweet_id": [
+        "2055893076061859854",
+        "2055893076061859854"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2055895837704949893",
+    "created_at": "2026-05-17T06:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055895837704949893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qcrrEDAYmy",
+          "end": 98,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+          "media_key": "3_2055893067950120960",
+          "start": 75,
+          "url": "https://t.co/qcrrEDAYmy"
+        },
+        {
+          "display_url": "pic.x.com/qcrrEDAYmy",
+          "end": 98,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+          "media_key": "3_2055893068243714048",
+          "start": 75,
+          "url": "https://t.co/qcrrEDAYmy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055895837704949893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055893076061859854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 补充一下更为重要的两条信息，这两条才是明确规定：禁止任何组织还有个人以任何方式、名义开展不良行为矫正活动。 https://t.co/qcrrEDAYmy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2055893067950120960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf_2kta4AAP2mo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1324,
+        "media_key": "3_2055893068243714048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf_2lzawAAWTld.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055893067950120960",
+            "3_2055893068243714048"
+          ],
+          "media_source_tweet_id": [
+            "2055893076061859854",
+            "2055893076061859854"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2055895837704949893",
+        "created_at": "2026-05-17T06:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055895837704949893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcrrEDAYmy",
+              "end": 98,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+              "media_key": "3_2055893067950120960",
+              "start": 75,
+              "url": "https://t.co/qcrrEDAYmy"
+            },
+            {
+              "display_url": "pic.x.com/qcrrEDAYmy",
+              "end": 98,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+              "media_key": "3_2055893068243714048",
+              "start": 75,
+              "url": "https://t.co/qcrrEDAYmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055895837704949893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055893076061859854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 补充一下更为重要的两条信息，这两条才是明确规定：禁止任何组织还有个人以任何方式、名义开展不良行为矫正活动。 https://t.co/qcrrEDAYmy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055893067950120960",
+            "3_2055893068243714048"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2055893076061859854",
+        "created_at": "2026-05-17T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055893076061859854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcrrEDAYmy",
+              "end": 77,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+              "media_key": "3_2055893067950120960",
+              "start": 54,
+              "url": "https://t.co/qcrrEDAYmy"
+            },
+            {
+              "display_url": "pic.x.com/qcrrEDAYmy",
+              "end": 77,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2055893076061859854/photo/1",
+              "media_key": "3_2055893068243714048",
+              "start": 54,
+              "url": "https://t.co/qcrrEDAYmy"
+            },
+            {
+              "display_url": "x.com/HFRin_CN/statu…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/HFRin_CN/status/2055851717158449605",
+              "start": 78,
+              "url": "https://t.co/rqCoDvGoWK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055893076061859854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055851717158449605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一下更为重要的两条信息，这两条才是明确规定：禁止任何组织还有个人以任何方式、名义开展不良行为矫正活动。 https://t.co/qcrrEDAYmy https://t.co/rqCoDvGoWK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 2937,
+          "like_count": 106581,
+          "listed_count": 8,
+          "media_count": 788,
+          "tweet_count": 12979
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5108,
+          "following_count": 2821,
+          "like_count": 2809,
+          "listed_count": 19,
+          "media_count": 416,
+          "tweet_count": 2770
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

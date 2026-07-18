@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2033174918037393831",
+    "created_at": "2026-03-15T15:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033203272857911779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720066409919922177",
+          "start": 0,
+          "username": "yzxll233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033203272857911779",
+    "in_reply_to_user_id": "1720066409919922177",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033174918037393831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzxll233 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2033174918037393831",
+        "created_at": "2026-03-15T15:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033203272857911779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720066409919922177",
+              "start": 0,
+              "username": "yzxll233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033203272857911779",
+        "in_reply_to_user_id": "1720066409919922177",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033174918037393831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzxll233 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720066409919922177",
+        "conversation_id": "2033174918037393831",
+        "created_at": "2026-03-15T13:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033174918037393831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033174918037393831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会再使用推特勿念谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 2595,
+          "like_count": 93804,
+          "listed_count": 2,
+          "media_count": 697,
+          "tweet_count": 11057
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T13:13:00.000Z",
+        "description": "不会再使用推特勿念谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yzxll.top",
+                "end": 23,
+                "expanded_url": "http://yzxll.top",
+                "start": 0,
+                "url": "https://t.co/UQt7BEzNbY"
+              }
+            ]
+          }
+        },
+        "id": "1720066409919922177",
+        "location": "距离你0.1m",
+        "name": "不会再使用推特勿念谢谢",
+        "pinned_tweet_id": "1884304670061162681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738181879923396608/p-7bDwDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 655,
+          "like_count": 3907,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/UQt7BEzNbY",
+        "username": "yzxll233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028483127564500992",
+        "3_2028483127556046848"
+      ],
+      "media_source_tweet_id": [
+        "2028483135277851105",
+        "2028483135277851105"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2028530750098956699",
+    "created_at": "2026-03-02T17:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028530750098956699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804849792121499648",
+          "start": 3,
+          "username": "OnlyLenKagamine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/smW3FRFNgN",
+          "end": 100,
+          "expanded_url": "https://x.com/OnlyLenKagamine/status/2028483135277851105/photo/1",
+          "media_key": "3_2028483127564500992",
+          "start": 77,
+          "url": "https://t.co/smW3FRFNgN"
+        },
+        {
+          "display_url": "pic.x.com/smW3FRFNgN",
+          "end": 100,
+          "expanded_url": "https://x.com/OnlyLenKagamine/status/2028483135277851105/photo/1",
+          "media_key": "3_2028483127556046848",
+          "start": 77,
+          "url": "https://t.co/smW3FRFNgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028530750098956699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028483135277851105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OnlyLenKagamine: 据中国疾控中心艾防中心副主任刘玉芬介绍，我国98%以上的艾滋病患者是经性途径传播的。其中，异性传播约占70%。 https://t.co/smW3FRFNgN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_2028483127564500992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaeqDtbAAAkrKe.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1643,
+        "media_key": "3_2028483127556046848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaeqDraAAAiSg3.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028483127564500992",
+            "3_2028483127556046848"
+          ],
+          "media_source_tweet_id": [
+            "2028483135277851105",
+            "2028483135277851105"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2028530750098956699",
+        "created_at": "2026-03-02T17:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028530750098956699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1804849792121499648",
+              "start": 3,
+              "username": "OnlyLenKagamine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/smW3FRFNgN",
+              "end": 100,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2028483135277851105/photo/1",
+              "media_key": "3_2028483127564500992",
+              "start": 77,
+              "url": "https://t.co/smW3FRFNgN"
+            },
+            {
+              "display_url": "pic.x.com/smW3FRFNgN",
+              "end": 100,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2028483135277851105/photo/1",
+              "media_key": "3_2028483127556046848",
+              "start": 77,
+              "url": "https://t.co/smW3FRFNgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028530750098956699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028483135277851105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OnlyLenKagamine: 据中国疾控中心艾防中心副主任刘玉芬介绍，我国98%以上的艾滋病患者是经性途径传播的。其中，异性传播约占70%。 https://t.co/smW3FRFNgN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028483127564500992",
+            "3_2028483127556046848"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "conversation_id": "2028483135277851105",
+        "created_at": "2026-03-02T14:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028483135277851105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smW3FRFNgN",
+              "end": 79,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2028483135277851105/photo/1",
+              "media_key": "3_2028483127564500992",
+              "start": 56,
+              "url": "https://t.co/smW3FRFNgN"
+            },
+            {
+              "display_url": "pic.x.com/smW3FRFNgN",
+              "end": 79,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/2028483135277851105/photo/1",
+              "media_key": "3_2028483127556046848",
+              "start": 56,
+              "url": "https://t.co/smW3FRFNgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028483135277851105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5765,
+          "like_count": 79,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "据中国疾控中心艾防中心副主任刘玉芬介绍，我国98%以上的艾滋病患者是经性途径传播的。其中，异性传播约占70%。 https://t.co/smW3FRFNgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風（喵？",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 2554,
+          "like_count": 91074,
+          "listed_count": 2,
+          "media_count": 671,
+          "tweet_count": 10689
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "平权 평균 equal ｜只愛鏡音レン、棘刺❤️｜KU｜ 不喜欢我推R18",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2007.11.14",
+        "name": "阿莫要平权Amoris🇹🇼🇰🇷🏳️‍🌈🇨🇳평균Equal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4322,
+          "following_count": 384,
+          "like_count": 28045,
+          "listed_count": 6,
+          "media_count": 64,
+          "tweet_count": 3593
+        },
+        "username": "OnlyLenKagamine",
+        "verified": true
+      }
+    ]
+  }
+}

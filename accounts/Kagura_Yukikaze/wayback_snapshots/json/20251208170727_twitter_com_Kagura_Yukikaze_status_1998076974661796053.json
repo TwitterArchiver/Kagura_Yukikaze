@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997584341640306688"
+      ],
+      "media_source_tweet_id": [
+        "1997584415837589742"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1998076974661796053",
+    "created_at": "2025-12-08T17:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T18:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998076974661796053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1200370282256461824",
+          "start": 3,
+          "username": "VrcGun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sq4vw3mplH",
+          "end": 35,
+          "expanded_url": "https://x.com/VrcGun/status/1997584415837589742/photo/1",
+          "media_key": "3_1997584341640306688",
+          "start": 12,
+          "url": "https://t.co/sq4vw3mplH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998076974661796053",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 490
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997584415837589742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VrcGun: https://t.co/sq4vw3mplH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1997584341640306688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7jYYARaYAA9dMI.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997584341640306688"
+          ],
+          "media_source_tweet_id": [
+            "1997584415837589742"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1998076974661796053",
+        "created_at": "2025-12-08T17:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998076974661796053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1200370282256461824",
+              "start": 3,
+              "username": "VrcGun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sq4vw3mplH",
+              "end": 35,
+              "expanded_url": "https://x.com/VrcGun/status/1997584415837589742/photo/1",
+              "media_key": "3_1997584341640306688",
+              "start": 12,
+              "url": "https://t.co/sq4vw3mplH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998076974661796053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 490
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997584415837589742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VrcGun: https://t.co/sq4vw3mplH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997584341640306688"
+          ]
+        },
+        "author_id": "1200370282256461824",
+        "conversation_id": "1997584415837589742",
+        "created_at": "2025-12-07T08:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T09:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997584415837589742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sq4vw3mplH",
+              "end": 23,
+              "expanded_url": "https://x.com/VrcGun/status/1997584415837589742/photo/1",
+              "media_key": "3_1997584341640306688",
+              "start": 0,
+              "url": "https://t.co/sq4vw3mplH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997584415837589742",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1084,
+          "impression_count": 80343,
+          "like_count": 7642,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 490
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sq4vw3mplH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 2054,
+          "like_count": 75021,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 8399
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-29T11:05:57.000Z",
+        "description": "Commission : https://t.co/ef9ZRuBPJn (Open)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "posty.pe/9tqfby",
+                "end": 36,
+                "expanded_url": "https://posty.pe/9tqfby",
+                "start": 13,
+                "url": "https://t.co/ef9ZRuBPJn"
+              }
+            ]
+          }
+        },
+        "id": "1200370282256461824",
+        "name": "Gun",
+        "pinned_tweet_id": "1942145123560870049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990406530110521344/we692q-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7806,
+          "following_count": 819,
+          "like_count": 8141,
+          "listed_count": 50,
+          "media_count": 213,
+          "tweet_count": 3224
+        },
+        "username": "VrcGun",
+        "verified": true
+      }
+    ]
+  }
+}

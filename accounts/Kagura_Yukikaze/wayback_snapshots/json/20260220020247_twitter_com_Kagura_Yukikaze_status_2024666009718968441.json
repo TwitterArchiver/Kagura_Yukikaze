@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024408910107684864"
+      ],
+      "media_source_tweet_id": [
+        "2024408917149962728"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2024666009718968441",
+    "created_at": "2026-02-20T02:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024666009718968441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1395031782014205953",
+          "start": 3,
+          "username": "komacyan_zZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1w6XfhZAIG",
+          "end": 40,
+          "expanded_url": "https://x.com/komacyan_zZ/status/2024408917149962728/photo/1",
+          "media_key": "3_2024408910107684864",
+          "start": 17,
+          "url": "https://t.co/1w6XfhZAIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024666009718968441",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024408917149962728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @komacyan_zZ: https://t.co/1w6XfhZAIG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_2024408910107684864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBglLY8asAAlBjX.jpg",
+        "width": 713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024408910107684864"
+          ],
+          "media_source_tweet_id": [
+            "2024408917149962728"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2024666009718968441",
+        "created_at": "2026-02-20T02:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024666009718968441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1395031782014205953",
+              "start": 3,
+              "username": "komacyan_zZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1w6XfhZAIG",
+              "end": 40,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2024408917149962728/photo/1",
+              "media_key": "3_2024408910107684864",
+              "start": 17,
+              "url": "https://t.co/1w6XfhZAIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024666009718968441",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024408917149962728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @komacyan_zZ: https://t.co/1w6XfhZAIG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024408910107684864"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "2024408917149962728",
+        "created_at": "2026-02-19T09:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024408917149962728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1w6XfhZAIG",
+              "end": 23,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2024408917149962728/photo/1",
+              "media_key": "3_2024408910107684864",
+              "start": 0,
+              "url": "https://t.co/1w6XfhZAIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024408917149962728",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 20326,
+          "like_count": 562,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1w6XfhZAIG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 2433,
+          "like_count": 88180,
+          "listed_count": 2,
+          "media_count": 655,
+          "tweet_count": 10348
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします ❤️@MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kona.icu",
+                "end": 23,
+                "expanded_url": "https://kona.icu",
+                "start": 0,
+                "url": "https://t.co/71HeCHYqFm"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2016101454386495711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2964,
+          "following_count": 791,
+          "like_count": 14019,
+          "listed_count": 10,
+          "media_count": 1527,
+          "tweet_count": 6964
+        },
+        "url": "https://t.co/71HeCHYqFm",
+        "username": "komacyan_zZ",
+        "verified": true
+      }
+    ]
+  }
+}

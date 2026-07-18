@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2039659969742790657"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2039702708723282332",
+    "created_at": "2026-04-02T13:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039702708723282332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1896175390005342208",
+          "start": 3,
+          "username": "Monggiacmeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039702708723282332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039659971139514613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Monggiacmeo: 如果存在同性版的你，除了相貌不同，记忆、思想和你一样，你愿意和 Ta 恋爱吗？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-04-03T11:03:26.000Z",
+        "id": "2039659969742790657",
+        "options": [
+          {
+            "label": "我是直的😡",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "可以可以😃",
+            "position": 2,
+            "votes": 12
+          },
+          {
+            "label": "不行不行😭",
+            "position": 3,
+            "votes": 7
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2039659969742790657"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2039702708723282332",
+        "created_at": "2026-04-02T13:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039702708723282332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896175390005342208",
+              "start": 3,
+              "username": "Monggiacmeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039702708723282332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039659971139514613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Monggiacmeo: 如果存在同性版的你，除了相貌不同，记忆、思想和你一样，你愿意和 Ta 恋爱吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2039659969742790657"
+          ]
+        },
+        "author_id": "1896175390005342208",
+        "conversation_id": "2039659971139514613",
+        "created_at": "2026-04-02T11:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039659971139514613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039659971139514613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 537,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果存在同性版的你，除了相貌不同，记忆、思想和你一样，你愿意和 Ta 恋爱吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|http://en-jp-cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 2741,
+          "like_count": 98284,
+          "listed_count": 3,
+          "media_count": 734,
+          "tweet_count": 11786
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉 | @Monggiacx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Monggiacx"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "Sơ Phi",
+        "pinned_tweet_id": "2039105843501965619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662119733997569/X8uFg8OE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 2120,
+          "like_count": 21549,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 2621
+        },
+        "username": "Monggiacmeo",
+        "verified": false
+      }
+    ]
+  }
+}

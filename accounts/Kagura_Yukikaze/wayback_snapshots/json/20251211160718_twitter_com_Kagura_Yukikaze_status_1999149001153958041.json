@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1999149001153958041",
+    "created_at": "2025-12-11T16:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999149001153958041"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "tuyu",
+          "probability": 0.6122,
+          "start": 61,
+          "type": "Person"
+        },
+        {
+          "end": 73,
+          "normalized_text": "pusu",
+          "probability": 0.4797,
+          "start": 70,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1861830242442289153",
+          "start": 3,
+          "username": "tape0021"
+        },
+        {
+          "end": 29,
+          "id": "1187773624964374528",
+          "start": 14,
+          "username": "susnugsandtoes"
+        },
+        {
+          "end": 43,
+          "id": "1558053871913558016",
+          "start": 30,
+          "username": "namcocatgirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999149001153958041",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999112597543809472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tape0021: @susnugsandtoes @namcocatgirl main composer of tuyu aka pusu committed a crime of attempting murder on his underage girlfrien…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1999149001153958041",
+        "created_at": "2025-12-11T16:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999149001153958041"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "tuyu",
+              "probability": 0.6122,
+              "start": 61,
+              "type": "Person"
+            },
+            {
+              "end": 73,
+              "normalized_text": "pusu",
+              "probability": 0.4797,
+              "start": 70,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861830242442289153",
+              "start": 3,
+              "username": "tape0021"
+            },
+            {
+              "end": 29,
+              "id": "1187773624964374528",
+              "start": 14,
+              "username": "susnugsandtoes"
+            },
+            {
+              "end": 43,
+              "id": "1558053871913558016",
+              "start": 30,
+              "username": "namcocatgirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999149001153958041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999112597543809472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tape0021: @susnugsandtoes @namcocatgirl main composer of tuyu aka pusu committed a crime of attempting murder on his underage girlfrien…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861830242442289153",
+        "conversation_id": "1998910111851651485",
+        "created_at": "2025-12-11T13:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999112597543809472"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "tuyu",
+              "probability": 0.6803,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "pusu",
+              "probability": 0.5488,
+              "start": 56,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1187773624964374528",
+              "start": 0,
+              "username": "susnugsandtoes"
+            },
+            {
+              "end": 29,
+              "id": "1558053871913558016",
+              "start": 16,
+              "username": "namcocatgirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999112597543809472",
+        "in_reply_to_user_id": "1187773624964374528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1661,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999109858076070309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susnugsandtoes @namcocatgirl main composer of tuyu aka pusu committed a crime of attempting murder on his underage girlfriend and is not jailed because he had an excuse of mental health issues"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 2071,
+          "like_count": 75822,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 8495
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T17:51:48.000Z",
+        "description": "♡ #大黒可不可 ns riako ᛝ @amekeki #kafutenfeature2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 2,
+                "tag": "大黒可不可"
+              },
+              {
+                "end": 48,
+                "start": 29,
+                "tag": "kafutenfeature2026"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "amekeki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amekeki.straw.page",
+                "end": 23,
+                "expanded_url": "https://amekeki.straw.page",
+                "start": 0,
+                "url": "https://t.co/hxYV65XA3n"
+              }
+            ]
+          }
+        },
+        "id": "1861830242442289153",
+        "location": " 🇸🇬 ",
+        "name": "nyx ♡",
+        "pinned_tweet_id": "1946974822871027982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997994518319411201/xWDQJf0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 343,
+          "like_count": 23618,
+          "listed_count": 13,
+          "media_count": 1471,
+          "tweet_count": 11643
+        },
+        "url": "https://t.co/hxYV65XA3n",
+        "username": "tape0021",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-25T16:52:03.000Z",
+        "description": "just a lurker profile to check on art pages I follow.\n\nI also do fanart (sometimes).\n\nage: 24 (2024)\n\nmy horny alt: @sus_nugs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 116,
+                "username": "sus_nugs"
+              }
+            ]
+          }
+        },
+        "id": "1187773624964374528",
+        "name": "sus_nugs_do_art 🌊⚓ 🏳️‍🌈🏳️‍🌈🏳️‍🌈",
+        "pinned_tweet_id": "1708785523589021861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849637388659937280/-HR8B631_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1832,
+          "like_count": 340801,
+          "listed_count": 3,
+          "media_count": 1006,
+          "tweet_count": 40974
+        },
+        "username": "susnugsandtoes",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T11:32:51.000Z",
+        "description": "@melodyofritsu - hikari and her loveless dress - pfp by wusem0108 - 16k ?!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "melodyofritsu"
+              }
+            ]
+          }
+        },
+        "id": "1558053871913558016",
+        "location": "zxcvbnm",
+        "name": "melody 🎼",
+        "pinned_tweet_id": "1995710266516918480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993632451902705664/46K3uOzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 1684,
+          "like_count": 92225,
+          "listed_count": 6,
+          "media_count": 5002,
+          "tweet_count": 32078
+        },
+        "username": "namcocatgirl",
+        "verified": false
+      }
+    ]
+  }
+}

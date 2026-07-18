@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2044746484084842657",
+    "created_at": "2026-04-16T11:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044746484084842657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1989194662486429697",
+          "start": 3,
+          "username": "projtransworld"
+        }
+      ],
+      "urls": [
+        {
+          "description": "RLEWorld旨在创建易于编辑及更新的RLE信息交流平台 投稿功能维护中 目前可通过邮箱投稿 格式不限 I …",
+          "display_url": "rle.world",
+          "end": 97,
+          "expanded_url": "http://rle.world",
+          "start": 74,
+          "status": 200,
+          "title": "RLEWorld",
+          "unwound_url": "https://rle.world/",
+          "url": "https://t.co/zuEcO45lrJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044746484084842657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989199509281546556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @projtransworld: TransWorld计划正式开始\n我们希望成为自由的跨性别相关信息分享平台，以信息真实与易于编辑为核心\n目前https://t.co/zuEcO45lrJ已上线，欢迎投稿\n跑路/润学指南与在线编辑器开发中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2044746484084842657",
+        "created_at": "2026-04-16T11:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044746484084842657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1989194662486429697",
+              "start": 3,
+              "username": "projtransworld"
+            }
+          ],
+          "urls": [
+            {
+              "description": "RLEWorld旨在创建易于编辑及更新的RLE信息交流平台 投稿功能维护中 目前可通过邮箱投稿 格式不限 I …",
+              "display_url": "rle.world",
+              "end": 97,
+              "expanded_url": "http://rle.world",
+              "start": 74,
+              "status": 200,
+              "title": "RLEWorld",
+              "unwound_url": "https://rle.world/",
+              "url": "https://t.co/zuEcO45lrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044746484084842657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989199509281546556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @projtransworld: TransWorld计划正式开始\n我们希望成为自由的跨性别相关信息分享平台，以信息真实与易于编辑为核心\n目前https://t.co/zuEcO45lrJ已上线，欢迎投稿\n跑路/润学指南与在线编辑器开发中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989194662486429697",
+        "conversation_id": "1989199509281546556",
+        "created_at": "2025-11-14T05:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989199509281546556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "RLEWorld旨在创建易于编辑及更新的RLE信息交流平台 投稿功能维护中 目前可通过邮箱投稿 格式不限 I …",
+              "display_url": "rle.world",
+              "end": 77,
+              "expanded_url": "http://rle.world",
+              "start": 54,
+              "status": 200,
+              "title": "RLEWorld",
+              "unwound_url": "https://rle.world/",
+              "url": "https://t.co/zuEcO45lrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989199509281546556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7687,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "TransWorld计划正式开始\n我们希望成为自由的跨性别相关信息分享平台，以信息真实与易于编辑为核心\n目前https://t.co/zuEcO45lrJ已上线，欢迎投稿\n跑路/润学指南与在线编辑器开发中…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 2813,
+          "like_count": 101587,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 12320
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T04:52:46.000Z",
+        "description": "A information sharing platform for trans/自由的跨性别相关信息交流平台",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rle.world",
+                "end": 23,
+                "expanded_url": "http://rle.world",
+                "start": 0,
+                "url": "https://t.co/eKWiO35MdQ"
+              }
+            ]
+          }
+        },
+        "id": "1989194662486429697",
+        "location": "Canada",
+        "name": "TransWorld🏳️‍⚧️",
+        "pinned_tweet_id": "1989199509281546556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989195233331146752/FOvC-DOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 16,
+          "like_count": 107,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/eKWiO35MdQ",
+        "username": "projtransworld",
+        "verified": true
+      }
+    ]
+  }
+}

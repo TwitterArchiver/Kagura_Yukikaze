@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2066411352743379243",
+    "created_at": "2026-06-15T10:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066467633634144744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482971074883366912",
+          "start": 0,
+          "username": "ChrysalisQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066467633634144744",
+    "in_reply_to_user_id": "1482971074883366912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066411352743379243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChrysalisQWQ 恭喜～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2066411337585131520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1eKciaAAAEzI0.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2066411352743379243",
+        "created_at": "2026-06-15T10:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066467633634144744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482971074883366912",
+              "start": 0,
+              "username": "ChrysalisQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066467633634144744",
+        "in_reply_to_user_id": "1482971074883366912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066411352743379243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChrysalisQWQ 恭喜～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066411337585131520"
+          ]
+        },
+        "author_id": "1482971074883366912",
+        "conversation_id": "2066411352743379243",
+        "created_at": "2026-06-15T06:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066411352743379243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/njLm6rnT6D",
+              "end": 51,
+              "expanded_url": "https://x.com/ChrysalisQWQ/status/2066411352743379243/photo/1",
+              "media_key": "3_2066411337585131520",
+              "start": 28,
+              "url": "https://t.co/njLm6rnT6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066411352743379243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3527,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我醒啦，谢谢大家关心和祝福，状态很好哦，而且一点都不痛 https://t.co/njLm6rnT6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3160,
+          "following_count": 3038,
+          "like_count": 111235,
+          "listed_count": 7,
+          "media_count": 807,
+          "tweet_count": 13562
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T07:00:43.000Z",
+        "description": "是个不可爱的孩子",
+        "id": "1482971074883366912",
+        "location": "China",
+        "name": "komi",
+        "pinned_tweet_id": "1814563906570051652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935808293512818688/yjfyVlvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5308,
+          "following_count": 623,
+          "like_count": 4375,
+          "listed_count": 12,
+          "media_count": 429,
+          "tweet_count": 3117
+        },
+        "username": "ChrysalisQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

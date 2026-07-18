@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035944106846048256",
+        "3_2035944106816626689",
+        "3_2035944107412168705",
+        "3_2035944106833367040"
+      ],
+      "media_source_tweet_id": [
+        "2035944120880168973",
+        "2035944120880168973",
+        "2035944120880168973",
+        "2035944120880168973"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2036067848284496270",
+    "created_at": "2026-03-23T13:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036067848284496270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/dV9Xcr32NkXl…",
+          "end": 44,
+          "expanded_url": "https://mp.weixin.qq.com/s/dV9Xcr32NkXlyE-0MJiIow",
+          "start": 21,
+          "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HFQdwWmjoJss2MJK6cb-APsgi88uKaaab6V52mRv&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdV9Xcr32NkXlyE-0MJiIow",
+          "url": "https://t.co/YRwWm8wV0Y"
+        },
+        {
+          "display_url": "pic.x.com/cOhQPmBq5d",
+          "end": 94,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+          "media_key": "3_2035944106846048256",
+          "start": 71,
+          "url": "https://t.co/cOhQPmBq5d"
+        },
+        {
+          "display_url": "pic.x.com/cOhQPmBq5d",
+          "end": 94,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+          "media_key": "3_2035944106816626689",
+          "start": 71,
+          "url": "https://t.co/cOhQPmBq5d"
+        },
+        {
+          "display_url": "pic.x.com/cOhQPmBq5d",
+          "end": 94,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+          "media_key": "3_2035944107412168705",
+          "start": 71,
+          "url": "https://t.co/cOhQPmBq5d"
+        },
+        {
+          "display_url": "pic.x.com/cOhQPmBq5d",
+          "end": 94,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+          "media_key": "3_2035944106833367040",
+          "start": 71,
+          "url": "https://t.co/cOhQPmBq5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036067848284496270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035944120880168973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: https://t.co/YRwWm8wV0Y\n附文章完整版链接\n以及部分受害者在该体系自述内容… https://t.co/cOhQPmBq5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035944106846048256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEgYNcb0AAzIFY.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035944106816626689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEgYNVa4AEyKDT.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035944107412168705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEgYPjaIAEOW1m.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035944106833367040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEgYNZaUAAYVlx.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035944106846048256",
+            "3_2035944106816626689",
+            "3_2035944107412168705",
+            "3_2035944106833367040"
+          ],
+          "media_source_tweet_id": [
+            "2035944120880168973",
+            "2035944120880168973",
+            "2035944120880168973",
+            "2035944120880168973"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2036067848284496270",
+        "created_at": "2026-03-23T13:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036067848284496270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/dV9Xcr32NkXl…",
+              "end": 44,
+              "expanded_url": "https://mp.weixin.qq.com/s/dV9Xcr32NkXlyE-0MJiIow",
+              "start": 21,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HFQdwWmjoJss2MJK6cb-APsgi88uKaaab6V52mRv&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdV9Xcr32NkXlyE-0MJiIow",
+              "url": "https://t.co/YRwWm8wV0Y"
+            },
+            {
+              "display_url": "pic.x.com/cOhQPmBq5d",
+              "end": 94,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+              "media_key": "3_2035944106846048256",
+              "start": 71,
+              "url": "https://t.co/cOhQPmBq5d"
+            },
+            {
+              "display_url": "pic.x.com/cOhQPmBq5d",
+              "end": 94,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+              "media_key": "3_2035944106816626689",
+              "start": 71,
+              "url": "https://t.co/cOhQPmBq5d"
+            },
+            {
+              "display_url": "pic.x.com/cOhQPmBq5d",
+              "end": 94,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+              "media_key": "3_2035944107412168705",
+              "start": 71,
+              "url": "https://t.co/cOhQPmBq5d"
+            },
+            {
+              "display_url": "pic.x.com/cOhQPmBq5d",
+              "end": 94,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+              "media_key": "3_2035944106833367040",
+              "start": 71,
+              "url": "https://t.co/cOhQPmBq5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036067848284496270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035944120880168973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: https://t.co/YRwWm8wV0Y\n附文章完整版链接\n以及部分受害者在该体系自述内容… https://t.co/cOhQPmBq5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035944106846048256",
+            "3_2035944106816626689",
+            "3_2035944107412168705",
+            "3_2035944106833367040"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2035944120880168973",
+        "created_at": "2026-03-23T04:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035944120880168973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/dV9Xcr32NkXl…",
+              "end": 23,
+              "expanded_url": "https://mp.weixin.qq.com/s/dV9Xcr32NkXlyE-0MJiIow",
+              "start": 0,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HFQdwWmjoJss2MJK6cb-APsgi88uKaaab6V52mRv&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdV9Xcr32NkXlyE-0MJiIow",
+              "url": "https://t.co/YRwWm8wV0Y"
+            },
+            {
+              "display_url": "pic.x.com/cOhQPmBq5d",
+              "end": 73,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+              "media_key": "3_2035944106846048256",
+              "start": 50,
+              "url": "https://t.co/cOhQPmBq5d"
+            },
+            {
+              "display_url": "pic.x.com/cOhQPmBq5d",
+              "end": 73,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+              "media_key": "3_2035944106816626689",
+              "start": 50,
+              "url": "https://t.co/cOhQPmBq5d"
+            },
+            {
+              "display_url": "pic.x.com/cOhQPmBq5d",
+              "end": 73,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+              "media_key": "3_2035944107412168705",
+              "start": 50,
+              "url": "https://t.co/cOhQPmBq5d"
+            },
+            {
+              "display_url": "pic.x.com/cOhQPmBq5d",
+              "end": 73,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944120880168973/photo/1",
+              "media_key": "3_2035944106833367040",
+              "start": 50,
+              "url": "https://t.co/cOhQPmBq5d"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2035943197470511235",
+              "start": 74,
+              "url": "https://t.co/FWTFRJ0yVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035944120880168973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1206,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035943197470511235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/YRwWm8wV0Y\n附文章完整版链接\n以及部分受害者在该体系自述内容… https://t.co/cOhQPmBq5d https://t.co/FWTFRJ0yVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 2667,
+          "like_count": 95635,
+          "listed_count": 2,
+          "media_count": 716,
+          "tweet_count": 11362
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3970,
+          "following_count": 2281,
+          "like_count": 2172,
+          "listed_count": 14,
+          "media_count": 373,
+          "tweet_count": 2391
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

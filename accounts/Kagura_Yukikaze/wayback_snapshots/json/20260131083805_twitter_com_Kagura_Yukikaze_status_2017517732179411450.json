@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017479744321888256"
+      ],
+      "media_source_tweet_id": [
+        "2017479753184514518"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2017517732179411450",
+    "created_at": "2026-01-31T08:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017517732179411450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2676278011",
+          "start": 3,
+          "username": "Shimizu_OC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U38siXnXY9",
+          "end": 50,
+          "expanded_url": "https://x.com/Shimizu_OC/status/2017479753184514518/photo/1",
+          "media_key": "3_2017479744321888256",
+          "start": 27,
+          "url": "https://t.co/U38siXnXY9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017517732179411450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017479753184514518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shimizu_OC: オーバークロックなう https://t.co/U38siXnXY9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2599,
+        "media_key": "3_2017479744321888256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-HI23aIAACclN.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017479744321888256"
+          ],
+          "media_source_tweet_id": [
+            "2017479753184514518"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2017517732179411450",
+        "created_at": "2026-01-31T08:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017517732179411450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2676278011",
+              "start": 3,
+              "username": "Shimizu_OC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U38siXnXY9",
+              "end": 50,
+              "expanded_url": "https://x.com/Shimizu_OC/status/2017479753184514518/photo/1",
+              "media_key": "3_2017479744321888256",
+              "start": 27,
+              "url": "https://t.co/U38siXnXY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017517732179411450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017479753184514518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shimizu_OC: オーバークロックなう https://t.co/U38siXnXY9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017479744321888256"
+          ]
+        },
+        "author_id": "2676278011",
+        "conversation_id": "2017479753184514518",
+        "created_at": "2026-01-31T06:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017479753184514518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U38siXnXY9",
+              "end": 34,
+              "expanded_url": "https://x.com/Shimizu_OC/status/2017479753184514518/photo/1",
+              "media_key": "3_2017479744321888256",
+              "start": 11,
+              "url": "https://t.co/U38siXnXY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017479753184514518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 174627,
+          "like_count": 2326,
+          "quote_count": 40,
+          "reply_count": 37,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "オーバークロックなう https://t.co/U38siXnXY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 2318,
+          "like_count": 83893,
+          "listed_count": 2,
+          "media_count": 620,
+          "tweet_count": 9881
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-24T08:45:17.000Z",
+        "description": "株式会社SHIMI-LAB 代表取締役/MSIマザーボード スペシャルアドバイザー/オーバークロッカー/家での序列は猫の下です※個人アカウント、DMの個別返信はしていません、Amazonアソシエイトリンク使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UC1kS0…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UC1kS0UwEOoHpgzgnV_goVZQ",
+                "start": 0,
+                "url": "https://t.co/WQB0mjJQQN"
+              }
+            ]
+          }
+        },
+        "id": "2676278011",
+        "location": "デュワー瓶の中",
+        "name": "清水 貴裕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706234424298442752/y-ViTgfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105639,
+          "following_count": 23177,
+          "like_count": 88723,
+          "listed_count": 459,
+          "media_count": 11852,
+          "tweet_count": 89053
+        },
+        "url": "https://t.co/WQB0mjJQQN",
+        "username": "Shimizu_OC",
+        "verified": true
+      }
+    ]
+  }
+}

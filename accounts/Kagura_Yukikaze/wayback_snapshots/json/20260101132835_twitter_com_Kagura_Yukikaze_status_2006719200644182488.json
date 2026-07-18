@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2006637084287840260"
+      ],
+      "media_source_tweet_id": [
+        "2006637093662183795"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2006719200644182488",
+    "created_at": "2026-01-01T13:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T14:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006719200644182488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1847884802516799489",
+          "start": 3,
+          "username": "FemboyLoveerr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3dC0nMipiL",
+          "end": 42,
+          "expanded_url": "https://x.com/FemboyLoveerr/status/2006637093662183795/photo/1",
+          "media_key": "16_2006637084287840260",
+          "start": 19,
+          "url": "https://t.co/3dC0nMipiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006719200644182488",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006637093662183795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FemboyLoveerr: https://t.co/3dC0nMipiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "16_2006637084287840260",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G9kBy-oaMAQ7l18.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G9kBy-oaMAQ7l18.mp4"
+          }
+        ],
+        "width": 330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2006637084287840260"
+          ],
+          "media_source_tweet_id": [
+            "2006637093662183795"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2006719200644182488",
+        "created_at": "2026-01-01T13:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T14:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006719200644182488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1847884802516799489",
+              "start": 3,
+              "username": "FemboyLoveerr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3dC0nMipiL",
+              "end": 42,
+              "expanded_url": "https://x.com/FemboyLoveerr/status/2006637093662183795/photo/1",
+              "media_key": "16_2006637084287840260",
+              "start": 19,
+              "url": "https://t.co/3dC0nMipiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006719200644182488",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006637093662183795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FemboyLoveerr: https://t.co/3dC0nMipiL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2006637084287840260"
+          ]
+        },
+        "author_id": "1847884802516799489",
+        "conversation_id": "2006637093662183795",
+        "created_at": "2026-01-01T08:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T09:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006637093662183795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3dC0nMipiL",
+              "end": 23,
+              "expanded_url": "https://x.com/FemboyLoveerr/status/2006637093662183795/photo/1",
+              "media_key": "16_2006637084287840260",
+              "start": 0,
+              "url": "https://t.co/3dC0nMipiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006637093662183795",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 6043,
+          "like_count": 294,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3dC0nMipiL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 2159,
+          "like_count": 79245,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 9048
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T06:19:06.000Z",
+        "description": "Hai :3",
+        "id": "1847884802516799489",
+        "name": ":3",
+        "pinned_tweet_id": "1878350352791093588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861534765490524160/JWCC3Hu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58403,
+          "following_count": 28,
+          "like_count": 11675,
+          "listed_count": 46,
+          "media_count": 1543,
+          "tweet_count": 6858
+        },
+        "username": "FemboyLoveerr",
+        "verified": false
+      }
+    ]
+  }
+}

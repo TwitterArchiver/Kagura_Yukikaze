@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1995394461065699329"
+      ],
+      "media_source_tweet_id": [
+        "1995398797506322870"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995463146077643085",
+    "created_at": "2025-12-01T12:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T13:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995463146077643085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cbs8oufhKJ",
+          "end": 60,
+          "expanded_url": "https://x.com/FurinaDF/status/1995398797506322870/video/1",
+          "media_key": "13_1995394461065699329",
+          "start": 37,
+          "url": "https://t.co/Cbs8oufhKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995463146077643085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995398797506322870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 2025年12月，一名男子喝下了亚硝酸钠溶液 https://t.co/Cbs8oufhKJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57133,
+        "height": 1920,
+        "media_key": "13_1995394461065699329",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995394461065699329/img/1ESzoc1N817wsIzj.jpg",
+        "public_metrics": {
+          "view_count": 17140
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995394461065699329/vid/avc1/320x568/tWd57YmKYQT-63XK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995394461065699329/vid/avc1/480x852/48cTpXoMhule40wP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995394461065699329/vid/avc1/720x1280/HAGRfGA569s9fquL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995394461065699329/pl/1bAHh35LzVOO5kMx.m3u8?tag=14&v=629"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995394461065699329"
+          ],
+          "media_source_tweet_id": [
+            "1995398797506322870"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995463146077643085",
+        "created_at": "2025-12-01T12:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995463146077643085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cbs8oufhKJ",
+              "end": 60,
+              "expanded_url": "https://x.com/FurinaDF/status/1995398797506322870/video/1",
+              "media_key": "13_1995394461065699329",
+              "start": 37,
+              "url": "https://t.co/Cbs8oufhKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995463146077643085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995398797506322870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 2025年12月，一名男子喝下了亚硝酸钠溶液 https://t.co/Cbs8oufhKJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995394461065699329"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1995398797506322870",
+        "created_at": "2025-12-01T07:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995398797506322870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cbs8oufhKJ",
+              "end": 46,
+              "expanded_url": "https://x.com/FurinaDF/status/1995398797506322870/video/1",
+              "media_key": "13_1995394461065699329",
+              "start": 23,
+              "url": "https://t.co/Cbs8oufhKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995398797506322870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 35871,
+          "like_count": 116,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "2025年12月，一名男子喝下了亚硝酸钠溶液 https://t.co/Cbs8oufhKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 1975,
+          "like_count": 73274,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 8188
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你好呀@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63326,
+          "following_count": 2371,
+          "like_count": 29996,
+          "listed_count": 180,
+          "media_count": 7831,
+          "tweet_count": 12473
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

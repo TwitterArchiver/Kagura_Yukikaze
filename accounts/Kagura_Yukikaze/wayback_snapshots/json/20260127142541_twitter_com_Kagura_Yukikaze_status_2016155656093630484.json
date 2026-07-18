@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016103976656355328"
+      ],
+      "media_source_tweet_id": [
+        "2016103987775471700"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2016155656093630484",
+    "created_at": "2026-01-27T14:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016155656093630484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1626901107363688448",
+          "start": 3,
+          "username": "mogumogu_32"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7Tv3cPgoq",
+          "end": 46,
+          "expanded_url": "https://x.com/mogumogu_32/status/2016103987775471700/photo/1",
+          "media_key": "3_2016103976656355328",
+          "start": 23,
+          "url": "https://t.co/l7Tv3cPgoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016155656093630484",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016103987775471700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mogumogu_32: ✉️𓈒𓂂𓏸 https://t.co/l7Tv3cPgoq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2016103976656355328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qj4o7awAApSms.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016103976656355328"
+          ],
+          "media_source_tweet_id": [
+            "2016103987775471700"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2016155656093630484",
+        "created_at": "2026-01-27T14:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016155656093630484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1626901107363688448",
+              "start": 3,
+              "username": "mogumogu_32"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7Tv3cPgoq",
+              "end": 46,
+              "expanded_url": "https://x.com/mogumogu_32/status/2016103987775471700/photo/1",
+              "media_key": "3_2016103976656355328",
+              "start": 23,
+              "url": "https://t.co/l7Tv3cPgoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016155656093630484",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016103987775471700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mogumogu_32: ✉️𓈒𓂂𓏸 https://t.co/l7Tv3cPgoq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016103976656355328"
+          ]
+        },
+        "author_id": "1626901107363688448",
+        "conversation_id": "2016103987775471700",
+        "created_at": "2026-01-27T11:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016103987775471700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7Tv3cPgoq",
+              "end": 29,
+              "expanded_url": "https://x.com/mogumogu_32/status/2016103987775471700/photo/1",
+              "media_key": "3_2016103976656355328",
+              "start": 6,
+              "url": "https://t.co/l7Tv3cPgoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016103987775471700",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 5497,
+          "like_count": 569,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "✉️𓈒𓂂𓏸 https://t.co/l7Tv3cPgoq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 2304,
+          "like_count": 83616,
+          "listed_count": 2,
+          "media_count": 613,
+          "tweet_count": 9789
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T11:07:12.000Z",
+        "description": "🍩",
+        "id": "1626901107363688448",
+        "location": "無断使用・二次利用・AI学習×",
+        "name": "𝕞𝕠𝕔𝕙𝕚 ꪔ̤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797265254831030272/acQsKjMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5629,
+          "following_count": 185,
+          "like_count": 3093,
+          "listed_count": 76,
+          "media_count": 101,
+          "tweet_count": 628
+        },
+        "username": "mogumogu_32",
+        "verified": false
+      }
+    ]
+  }
+}

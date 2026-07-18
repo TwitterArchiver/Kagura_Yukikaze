@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2060994660689227776"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2061076363650715994",
+    "created_at": "2026-05-31T13:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061076363650715994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446002090237513731",
+          "start": 3,
+          "username": "Misaka1042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061076363650715994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060994662215929878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misaka1042: 假如可以选择，你想当女生还是男生\nIf you can choose, would you like to be a girl or a boy?\n\nChoice 3 in English:\nBe a girl from the follicul…"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 4320,
+        "end_datetime": "2026-06-03T07:59:53.000Z",
+        "id": "2060994660689227776",
+        "options": [
+          {
+            "label": "女生(Girl)",
+            "position": 1,
+            "votes": 23
+          },
+          {
+            "label": "男生(Boy)",
+            "position": 2,
+            "votes": 4
+          },
+          {
+            "label": "卵泡期-黄体期当女生，月经期当男生",
+            "position": 3,
+            "votes": 9
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2060994660689227776"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2061076363650715994",
+        "created_at": "2026-05-31T13:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061076363650715994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446002090237513731",
+              "start": 3,
+              "username": "Misaka1042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061076363650715994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060994662215929878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misaka1042: 假如可以选择，你想当女生还是男生\nIf you can choose, would you like to be a girl or a boy?\n\nChoice 3 in English:\nBe a girl from the follicul…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2060994660689227776"
+          ]
+        },
+        "author_id": "1446002090237513731",
+        "conversation_id": "2060994662215929878",
+        "created_at": "2026-05-31T07:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060994662215929878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060994662215929878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1477,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "假如可以选择，你想当女生还是男生\nIf you can choose, would you like to be a girl or a boy?\n\nChoice 3 in English:\nBe a girl from the follicular to luteal phase and be a boy during menstruation."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 3015,
+          "like_count": 109760,
+          "listed_count": 7,
+          "media_count": 799,
+          "tweet_count": 13381
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T06:39:11.000Z",
+        "description": "19yr/out-dated JK/🍥:2021/MTF🏳️‍⚧️/SRS:2025",
+        "id": "1446002090237513731",
+        "name": "Misaka10042🍥",
+        "pinned_tweet_id": "1766128163976036475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900091749701394432/oq_27XDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 1224,
+          "like_count": 2875,
+          "listed_count": 15,
+          "media_count": 296,
+          "tweet_count": 1710
+        },
+        "username": "Misaka1042",
+        "verified": true
+      }
+    ]
+  }
+}

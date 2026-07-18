@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004978774404956160"
+      ],
+      "media_source_tweet_id": [
+        "2004978777689128994"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2006148436635132141",
+    "created_at": "2025-12-30T23:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T00:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006148436635132141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750147061406920704",
+          "start": 3,
+          "username": "_Eric28_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/howkGtMWhi",
+          "end": 42,
+          "expanded_url": "https://x.com/_Eric28_/status/2004978777689128994/photo/1",
+          "media_key": "3_2004978774404956160",
+          "start": 19,
+          "url": "https://t.co/howkGtMWhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006148436635132141",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004978777689128994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Eric28_: nya~ https://t.co/howkGtMWhi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004978774404956160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Mdko6bAAA3u-h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004978774404956160"
+          ],
+          "media_source_tweet_id": [
+            "2004978777689128994"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2006148436635132141",
+        "created_at": "2025-12-30T23:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T00:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006148436635132141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750147061406920704",
+              "start": 3,
+              "username": "_Eric28_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/howkGtMWhi",
+              "end": 42,
+              "expanded_url": "https://x.com/_Eric28_/status/2004978777689128994/photo/1",
+              "media_key": "3_2004978774404956160",
+              "start": 19,
+              "url": "https://t.co/howkGtMWhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006148436635132141",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004978777689128994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Eric28_: nya~ https://t.co/howkGtMWhi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004978774404956160"
+          ]
+        },
+        "author_id": "1750147061406920704",
+        "conversation_id": "2004978777689128994",
+        "created_at": "2025-12-27T18:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T19:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004978777689128994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/howkGtMWhi",
+              "end": 28,
+              "expanded_url": "https://x.com/_Eric28_/status/2004978777689128994/photo/1",
+              "media_key": "3_2004978774404956160",
+              "start": 5,
+              "url": "https://t.co/howkGtMWhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004978777689128994",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "nya~ https://t.co/howkGtMWhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2004093206515142661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 2158,
+          "like_count": 79048,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 9020
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T13:23:04.000Z",
+        "description": "一只男娘贝斯手♡ ｜@linbingyi288 是我宝宝｜\n喜欢金属核，旋律金属，还有死核｜\n想成为可爱的的女孩子捏~｜\nQQ：3687901256｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "linbingyi288"
+              }
+            ]
+          }
+        },
+        "id": "1750147061406920704",
+        "name": "Eric_28",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988482745971113984/KGb9FXSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 49,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 70
+        },
+        "username": "_Eric28_",
+        "verified": false
+      }
+    ]
+  }
+}

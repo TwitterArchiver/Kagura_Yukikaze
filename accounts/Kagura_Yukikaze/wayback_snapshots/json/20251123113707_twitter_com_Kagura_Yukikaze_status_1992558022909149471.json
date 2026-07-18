@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992202126508818432"
+      ],
+      "media_source_tweet_id": [
+        "1992202190828532061"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1992558022909149471",
+    "created_at": "2025-11-23T11:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992558022909149471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820467609722040320",
+          "start": 3,
+          "username": "ametic2u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ifT89521UE",
+          "end": 37,
+          "expanded_url": "https://x.com/ametic2u/status/1992202190828532061/photo/1",
+          "media_key": "3_1992202126508818432",
+          "start": 14,
+          "url": "https://t.co/ifT89521UE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992558022909149471",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1761
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992202190828532061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ametic2u: https://t.co/ifT89521UE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_1992202126508818432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6W5R2dWAAArzrh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992202126508818432"
+          ],
+          "media_source_tweet_id": [
+            "1992202190828532061"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1992558022909149471",
+        "created_at": "2025-11-23T11:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992558022909149471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820467609722040320",
+              "start": 3,
+              "username": "ametic2u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifT89521UE",
+              "end": 37,
+              "expanded_url": "https://x.com/ametic2u/status/1992202190828532061/photo/1",
+              "media_key": "3_1992202126508818432",
+              "start": 14,
+              "url": "https://t.co/ifT89521UE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992558022909149471",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1761
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992202190828532061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ametic2u: https://t.co/ifT89521UE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992202126508818432"
+          ]
+        },
+        "author_id": "1820467609722040320",
+        "conversation_id": "1992202190828532061",
+        "created_at": "2025-11-22T12:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992202190828532061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifT89521UE",
+              "end": 23,
+              "expanded_url": "https://x.com/ametic2u/status/1992202190828532061/photo/1",
+              "media_key": "3_1992202126508818432",
+              "start": 0,
+              "url": "https://t.co/ifT89521UE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992202190828532061",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 43595,
+          "like_count": 5767,
+          "quote_count": 23,
+          "reply_count": 12,
+          "retweet_count": 1761
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ifT89521UE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1900,
+          "like_count": 71701,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 8008
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T14:31:33.000Z",
+        "description": "⋅˚₊‧ ₊˚ ⋅࣭ ⭑trauma bonded with many flaws⋅˚₊‧  ‧₊˚ ⋅ ๋ ࣭  ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ametic2u.straw.page",
+                "end": 23,
+                "expanded_url": "https://ametic2u.straw.page",
+                "start": 0,
+                "url": "https://t.co/RftrdCC1K0"
+              }
+            ]
+          }
+        },
+        "id": "1820467609722040320",
+        "location": "i ♡ my fp",
+        "name": "⋆˙⟡˚₊‧꒰ა໒꒱ ‧₊˚ ୨୧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927459394570067969/lDsicexL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 35,
+          "like_count": 2717,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/RftrdCC1K0",
+        "username": "ametic2u",
+        "verified": false
+      }
+    ]
+  }
+}

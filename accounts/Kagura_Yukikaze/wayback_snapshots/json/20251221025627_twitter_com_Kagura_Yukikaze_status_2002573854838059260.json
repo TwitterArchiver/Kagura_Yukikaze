@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002267618687012864",
+        "3_2002267618695393281",
+        "3_2002267618678616066",
+        "3_2002267618682810371"
+      ],
+      "media_source_tweet_id": [
+        "2002267623610777985",
+        "2002267623610777985",
+        "2002267623610777985",
+        "2002267623610777985"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2002573854838059260",
+    "created_at": "2025-12-21T02:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002573854838059260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1733433351485390848",
+          "start": 3,
+          "username": "yutaka_bot2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mnQk39dggm",
+          "end": 40,
+          "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+          "media_key": "3_2002267618687012864",
+          "start": 17,
+          "url": "https://t.co/mnQk39dggm"
+        },
+        {
+          "display_url": "pic.x.com/mnQk39dggm",
+          "end": 40,
+          "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+          "media_key": "3_2002267618695393281",
+          "start": 17,
+          "url": "https://t.co/mnQk39dggm"
+        },
+        {
+          "display_url": "pic.x.com/mnQk39dggm",
+          "end": 40,
+          "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+          "media_key": "3_2002267618678616066",
+          "start": 17,
+          "url": "https://t.co/mnQk39dggm"
+        },
+        {
+          "display_url": "pic.x.com/mnQk39dggm",
+          "end": 40,
+          "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+          "media_key": "3_2002267618682810371",
+          "start": 17,
+          "url": "https://t.co/mnQk39dggm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002573854838059260",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 884
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002267623610777985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yutaka_bot2: https://t.co/mnQk39dggm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 308,
+        "media_key": "3_2002267618687012864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8l7ym0bUAAw4eq.jpg",
+        "width": 484
+      },
+      {
+        "height": 273,
+        "media_key": "3_2002267618695393281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8l7ym2bMAEx0O_.jpg",
+        "width": 482
+      },
+      {
+        "height": 274,
+        "media_key": "3_2002267618678616066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8l7ymybMAInBsm.jpg",
+        "width": 484
+      },
+      {
+        "height": 269,
+        "media_key": "3_2002267618682810371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8l7ymzbMAMuGyk.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002267618687012864",
+            "3_2002267618695393281",
+            "3_2002267618678616066",
+            "3_2002267618682810371"
+          ],
+          "media_source_tweet_id": [
+            "2002267623610777985",
+            "2002267623610777985",
+            "2002267623610777985",
+            "2002267623610777985"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2002573854838059260",
+        "created_at": "2025-12-21T02:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002573854838059260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1733433351485390848",
+              "start": 3,
+              "username": "yutaka_bot2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnQk39dggm",
+              "end": 40,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+              "media_key": "3_2002267618687012864",
+              "start": 17,
+              "url": "https://t.co/mnQk39dggm"
+            },
+            {
+              "display_url": "pic.x.com/mnQk39dggm",
+              "end": 40,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+              "media_key": "3_2002267618695393281",
+              "start": 17,
+              "url": "https://t.co/mnQk39dggm"
+            },
+            {
+              "display_url": "pic.x.com/mnQk39dggm",
+              "end": 40,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+              "media_key": "3_2002267618678616066",
+              "start": 17,
+              "url": "https://t.co/mnQk39dggm"
+            },
+            {
+              "display_url": "pic.x.com/mnQk39dggm",
+              "end": 40,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+              "media_key": "3_2002267618682810371",
+              "start": 17,
+              "url": "https://t.co/mnQk39dggm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002573854838059260",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 884
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002267623610777985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yutaka_bot2: https://t.co/mnQk39dggm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002267618687012864",
+            "3_2002267618695393281",
+            "3_2002267618678616066",
+            "3_2002267618682810371"
+          ]
+        },
+        "author_id": "1733433351485390848",
+        "conversation_id": "2002267623610777985",
+        "created_at": "2025-12-20T06:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T07:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002267623610777985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnQk39dggm",
+              "end": 23,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+              "media_key": "3_2002267618687012864",
+              "start": 0,
+              "url": "https://t.co/mnQk39dggm"
+            },
+            {
+              "display_url": "pic.x.com/mnQk39dggm",
+              "end": 23,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+              "media_key": "3_2002267618695393281",
+              "start": 0,
+              "url": "https://t.co/mnQk39dggm"
+            },
+            {
+              "display_url": "pic.x.com/mnQk39dggm",
+              "end": 23,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+              "media_key": "3_2002267618678616066",
+              "start": 0,
+              "url": "https://t.co/mnQk39dggm"
+            },
+            {
+              "display_url": "pic.x.com/mnQk39dggm",
+              "end": 23,
+              "expanded_url": "https://x.com/yutaka_bot2/status/2002267623610777985/photo/1",
+              "media_key": "3_2002267618682810371",
+              "start": 0,
+              "url": "https://t.co/mnQk39dggm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002267623610777985",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 61620,
+          "like_count": 5346,
+          "quote_count": 68,
+          "reply_count": 1,
+          "retweet_count": 884
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mnQk39dggm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 2101,
+          "like_count": 77357,
+          "listed_count": 2,
+          "media_count": 578,
+          "tweet_count": 8794
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-09T10:28:25.000Z",
+        "description": "ネットの面白ツイートまとめ",
+        "id": "1733433351485390848",
+        "name": "話題の面白ツイート図鑑",
+        "pinned_tweet_id": "1895785075838714144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994423272788918272/VgJxkyg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33550,
+          "following_count": 4,
+          "like_count": 153,
+          "listed_count": 38,
+          "media_count": 299,
+          "tweet_count": 435
+        },
+        "username": "yutaka_bot2",
+        "verified": false
+      }
+    ]
+  }
+}

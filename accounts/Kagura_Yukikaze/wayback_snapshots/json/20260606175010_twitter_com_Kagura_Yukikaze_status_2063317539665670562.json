@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063215754150129665"
+      ],
+      "media_source_tweet_id": [
+        "2063215759644615057"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "2063317539665670562",
+    "created_at": "2026-06-06T17:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063317539665670562"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 19,
+          "tag": "PrideMonth"
+        },
+        {
+          "end": 46,
+          "start": 31,
+          "tag": "PrideMonth2026"
+        },
+        {
+          "end": 60,
+          "start": 47,
+          "tag": "結婚の自由をすべての人に"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1668570714990080000",
+          "start": 3,
+          "username": "shiroichoco22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9zLFJQJl8Y",
+          "end": 84,
+          "expanded_url": "https://x.com/shiroichoco22/status/2063215759644615057/photo/1",
+          "media_key": "3_2063215754150129665",
+          "start": 61,
+          "url": "https://t.co/9zLFJQJl8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063317539665670562",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 230
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063215759644615057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiroichoco22: #PrideMonth\n#PrideMonth2026\n#結婚の自由をすべての人に https://t.co/9zLFJQJl8Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "「四谷ゴーストナイト」という漫画と、「仏野くんはハジメテのくせに」という漫画のキャラクターのゲイカップルがプライドパレードに参加している様子。左から送くん、ナイト、仏野くん、蓮さん。各々プライドフラッグや「結婚の自由をすべての人に」と書かれたプラカードなどを掲げている。反戦のメッセージも服に取り入れてオシャレを楽しんでいる。",
+        "height": 1000,
+        "media_key": "3_2063215754150129665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIDzAkbsAEWRhI.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063215754150129665"
+          ],
+          "media_source_tweet_id": [
+            "2063215759644615057"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2063317539665670562",
+        "created_at": "2026-06-06T17:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063317539665670562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "PrideMonth"
+            },
+            {
+              "end": 46,
+              "start": 31,
+              "tag": "PrideMonth2026"
+            },
+            {
+              "end": 60,
+              "start": 47,
+              "tag": "結婚の自由をすべての人に"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1668570714990080000",
+              "start": 3,
+              "username": "shiroichoco22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zLFJQJl8Y",
+              "end": 84,
+              "expanded_url": "https://x.com/shiroichoco22/status/2063215759644615057/photo/1",
+              "media_key": "3_2063215754150129665",
+              "start": 61,
+              "url": "https://t.co/9zLFJQJl8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063317539665670562",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063215759644615057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiroichoco22: #PrideMonth\n#PrideMonth2026\n#結婚の自由をすべての人に https://t.co/9zLFJQJl8Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063215754150129665"
+          ]
+        },
+        "author_id": "1668570714990080000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2063215759644615057",
+        "created_at": "2026-06-06T11:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063215759644615057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "PrideMonth"
+            },
+            {
+              "end": 27,
+              "start": 12,
+              "tag": "PrideMonth2026"
+            },
+            {
+              "end": 41,
+              "start": 28,
+              "tag": "結婚の自由をすべての人に"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zLFJQJl8Y",
+              "end": 65,
+              "expanded_url": "https://x.com/shiroichoco22/status/2063215759644615057/photo/1",
+              "media_key": "3_2063215754150129665",
+              "start": 42,
+              "url": "https://t.co/9zLFJQJl8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063215759644615057",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 15457,
+          "like_count": 1348,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "#PrideMonth\n#PrideMonth2026\n#結婚の自由をすべての人に https://t.co/9zLFJQJl8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 3028,
+          "like_count": 110362,
+          "listed_count": 7,
+          "media_count": 803,
+          "tweet_count": 13490
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T10:47:46.000Z",
+        "description": "fromRED様より「四谷ゴーストナイト」6/7(金)コミックス発売👻10/22（火）ダリア様にて「とろけるピエドラ」掲載💎よろしくお願い申し上げます😸あらゆる差別と戦争に反対します🏳️‍🌈🏳️‍⚧️🍉",
+        "id": "1668570714990080000",
+        "name": "しろゐチョコ",
+        "pinned_tweet_id": "2045702707026227565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739503354974547968/-JBVvsg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 233,
+          "like_count": 512,
+          "listed_count": 14,
+          "media_count": 62,
+          "tweet_count": 543
+        },
+        "username": "shiroichoco22",
+        "verified": false
+      }
+    ]
+  }
+}

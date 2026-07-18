@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979246189523386368"
+      ],
+      "media_source_tweet_id": [
+        "1979246213485727803"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1979590219168178235",
+    "created_at": "2025-10-18T16:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T17:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979590219168178235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VhOzTf9Xci",
+          "end": 55,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1979246213485727803/photo/1",
+          "media_key": "3_1979246189523386368",
+          "start": 32,
+          "url": "https://t.co/VhOzTf9Xci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979590219168178235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979246213485727803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 開心的時候就是 気持ち https://t.co/VhOzTf9Xci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_1979246189523386368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ex7EGWQAAqtYu.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979246189523386368"
+          ],
+          "media_source_tweet_id": [
+            "1979246213485727803"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1979590219168178235",
+        "created_at": "2025-10-18T16:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979590219168178235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VhOzTf9Xci",
+              "end": 55,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1979246213485727803/photo/1",
+              "media_key": "3_1979246189523386368",
+              "start": 32,
+              "url": "https://t.co/VhOzTf9Xci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979590219168178235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979246213485727803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 開心的時候就是 気持ち https://t.co/VhOzTf9Xci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979246189523386368"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1979246213485727803",
+        "created_at": "2025-10-17T18:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T19:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979246213485727803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VhOzTf9Xci",
+              "end": 35,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1979246213485727803/photo/1",
+              "media_key": "3_1979246189523386368",
+              "start": 12,
+              "url": "https://t.co/VhOzTf9Xci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979246213485727803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 14424,
+          "like_count": 500,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "開心的時候就是 気持ち https://t.co/VhOzTf9Xci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1554,
+          "like_count": 63741,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 7225
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7845,
+          "following_count": 7087,
+          "like_count": 25267,
+          "listed_count": 15,
+          "media_count": 5599,
+          "tweet_count": 37300
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

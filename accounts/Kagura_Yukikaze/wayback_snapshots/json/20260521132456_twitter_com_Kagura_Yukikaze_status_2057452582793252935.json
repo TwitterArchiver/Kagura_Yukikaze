@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057368512826671104"
+      ],
+      "media_source_tweet_id": [
+        "2057368515380978172"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2057452582793252935",
+    "created_at": "2026-05-21T13:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057452582793252935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ts5J8OzjZF",
+          "end": 103,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2057368515380978172/photo/1",
+          "media_key": "3_2057368512826671104",
+          "start": 80,
+          "url": "https://t.co/ts5J8OzjZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057452582793252935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057368515380978172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 抽奖帖\n好涩的笔架\n转发/评论/点赞这条推文抽三位获得笔架&amp;周边一份\n2026/5/24 21:00 开奖（UTC+8） https://t.co/ts5J8OzjZF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057368512826671104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI09wxMbgAALGel.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057368512826671104"
+          ],
+          "media_source_tweet_id": [
+            "2057368515380978172"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2057452582793252935",
+        "created_at": "2026-05-21T13:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057452582793252935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ts5J8OzjZF",
+              "end": 103,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2057368515380978172/photo/1",
+              "media_key": "3_2057368512826671104",
+              "start": 80,
+              "url": "https://t.co/ts5J8OzjZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057452582793252935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057368515380978172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 抽奖帖\n好涩的笔架\n转发/评论/点赞这条推文抽三位获得笔架&amp;周边一份\n2026/5/24 21:00 开奖（UTC+8） https://t.co/ts5J8OzjZF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057368512826671104"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2057368515380978172",
+        "created_at": "2026-05-21T07:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057368515380978172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ts5J8OzjZF",
+              "end": 88,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2057368515380978172/photo/1",
+              "media_key": "3_2057368512826671104",
+              "start": 65,
+              "url": "https://t.co/ts5J8OzjZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057368515380978172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1839,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖帖\n好涩的笔架\n转发/评论/点赞这条推文抽三位获得笔架&amp;周边一份\n2026/5/24 21:00 开奖（UTC+8） https://t.co/ts5J8OzjZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3092,
+          "following_count": 2947,
+          "like_count": 107221,
+          "listed_count": 8,
+          "media_count": 791,
+          "tweet_count": 13071
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8644,
+          "following_count": 2269,
+          "like_count": 30405,
+          "listed_count": 24,
+          "media_count": 1562,
+          "tweet_count": 5409
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

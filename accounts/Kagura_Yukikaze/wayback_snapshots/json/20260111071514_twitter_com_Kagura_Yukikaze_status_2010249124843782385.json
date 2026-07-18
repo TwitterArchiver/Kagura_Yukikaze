@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010184532918730752"
+      ],
+      "media_source_tweet_id": [
+        "2010184538031571104"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2010249124843782385",
+    "created_at": "2026-01-11T07:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T08:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010249124843782385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1732397774296043520",
+          "start": 3,
+          "username": "MADDOGCHANn1122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WfcLTlgU4f",
+          "end": 61,
+          "expanded_url": "https://x.com/MADDOGCHANn1122/status/2010184538031571104/photo/1",
+          "media_key": "3_2010184532918730752",
+          "start": 38,
+          "url": "https://t.co/WfcLTlgU4f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010249124843782385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010184538031571104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MADDOGCHANn1122: 🐿️🦟の描写で絵師の経験値わかる https://t.co/WfcLTlgU4f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2010184532918730752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WcLqmbAAAGs5X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010184532918730752"
+          ],
+          "media_source_tweet_id": [
+            "2010184538031571104"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2010249124843782385",
+        "created_at": "2026-01-11T07:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010249124843782385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1732397774296043520",
+              "start": 3,
+              "username": "MADDOGCHANn1122"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WfcLTlgU4f",
+              "end": 61,
+              "expanded_url": "https://x.com/MADDOGCHANn1122/status/2010184538031571104/photo/1",
+              "media_key": "3_2010184532918730752",
+              "start": 38,
+              "url": "https://t.co/WfcLTlgU4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010249124843782385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010184538031571104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MADDOGCHANn1122: 🐿️🦟の描写で絵師の経験値わかる https://t.co/WfcLTlgU4f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010184532918730752"
+          ]
+        },
+        "author_id": "1732397774296043520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2010184538031571104",
+        "created_at": "2026-01-11T02:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T03:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010184538031571104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WfcLTlgU4f",
+              "end": 40,
+              "expanded_url": "https://x.com/MADDOGCHANn1122/status/2010184538031571104/photo/1",
+              "media_key": "3_2010184532918730752",
+              "start": 17,
+              "url": "https://t.co/WfcLTlgU4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010184538031571104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 48627,
+          "like_count": 2209,
+          "quote_count": 38,
+          "reply_count": 1,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "🐿️🦟の描写で絵師の経験値わかる https://t.co/WfcLTlgU4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 2180,
+          "like_count": 80484,
+          "listed_count": 2,
+          "media_count": 591,
+          "tweet_count": 9243
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T13:53:21.000Z",
+        "description": "ようこそ、症状者の群れへ。 🗝@DOo9ta FA #独ﾀ幻視描写 創作▷ https://t.co/f4qvWzy84c DM依頼▷ https://t.co/vNt7ffhomt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "独ﾀ幻視描写"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "DOo9ta"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pont.co/u/kyok",
+                "end": 61,
+                "expanded_url": "https://pont.co/u/kyok",
+                "start": 38,
+                "url": "https://t.co/f4qvWzy84c"
+              },
+              {
+                "display_url": "lit.link/kyokencerberus",
+                "end": 91,
+                "expanded_url": "https://lit.link/kyokencerberus",
+                "start": 68,
+                "url": "https://t.co/vNt7ffhomt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kyoken1122",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Kyoken1122",
+                "start": 0,
+                "url": "https://t.co/f55PmtFRmm"
+              }
+            ]
+          }
+        },
+        "id": "1732397774296043520",
+        "location": "skeb▶︎▷",
+        "name": "℃9✝︎or",
+        "pinned_tweet_id": "1992067983859179538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975827594802270208/EV21tRRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4754,
+          "following_count": 411,
+          "like_count": 24627,
+          "listed_count": 13,
+          "media_count": 71,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/f55PmtFRmm",
+        "username": "MADDOGCHANn1122",
+        "verified": true
+      }
+    ]
+  }
+}

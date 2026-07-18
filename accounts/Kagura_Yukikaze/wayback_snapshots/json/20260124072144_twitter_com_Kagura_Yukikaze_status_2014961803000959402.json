@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014738265153404932"
+      ],
+      "media_source_tweet_id": [
+        "2014738325501051093"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2014961803000959402",
+    "created_at": "2026-01-24T07:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014961803000959402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002014423591129088",
+          "start": 3,
+          "username": "2ungyxl7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rQUXoxvc6q",
+          "end": 50,
+          "expanded_url": "https://x.com/2ungyxl7/status/2014738325501051093/video/1",
+          "media_key": "13_2014738265153404932",
+          "start": 27,
+          "url": "https://t.co/rQUXoxvc6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014961803000959402",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014738325501051093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2ungyxl7: 리필심 못찾아도 그만임 https://t.co/rQUXoxvc6q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10535,
+        "height": 1280,
+        "media_key": "13_2014738265153404932",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014738265153404932/img/Heh8rllozZpXyfWR.jpg",
+        "public_metrics": {
+          "view_count": 1557
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014738265153404932/vid/avc1/320x568/qsv3ixfVHL_ubOwp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014738265153404932/vid/avc1/480x852/PF9vk5Neiz0dSzl4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014738265153404932/vid/avc1/720x1280/jGmud7hADYleWzdY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014738265153404932/pl/u555ciRWzoSqYB7O.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014738265153404932"
+          ],
+          "media_source_tweet_id": [
+            "2014738325501051093"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2014961803000959402",
+        "created_at": "2026-01-24T07:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014961803000959402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002014423591129088",
+              "start": 3,
+              "username": "2ungyxl7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQUXoxvc6q",
+              "end": 50,
+              "expanded_url": "https://x.com/2ungyxl7/status/2014738325501051093/video/1",
+              "media_key": "13_2014738265153404932",
+              "start": 27,
+              "url": "https://t.co/rQUXoxvc6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014961803000959402",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014738325501051093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2ungyxl7: 리필심 못찾아도 그만임 https://t.co/rQUXoxvc6q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014738265153404932"
+          ]
+        },
+        "author_id": "2002014423591129088",
+        "conversation_id": "2014738325501051093",
+        "created_at": "2026-01-23T16:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014738325501051093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQUXoxvc6q",
+              "end": 36,
+              "expanded_url": "https://x.com/2ungyxl7/status/2014738325501051093/video/1",
+              "media_key": "13_2014738265153404932",
+              "start": 13,
+              "url": "https://t.co/rQUXoxvc6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014738325501051093",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2727,
+          "like_count": 325,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "리필심 못찾아도 그만임 https://t.co/rQUXoxvc6q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 2278,
+          "like_count": 82693,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 9647
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T13:53:47.000Z",
+        "description": "정병터지면 건들지 마세요😕 / 12 / 초멘, 초뎀 O / 푸슝: https://t.co/RPbUsgMogB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/9926898235/",
+                "end": 60,
+                "expanded_url": "https://pushoong.com/ask/9926898235/",
+                "start": 37,
+                "url": "https://t.co/RPbUsgMogB"
+              }
+            ]
+          }
+        },
+        "id": "2002014423591129088",
+        "location": "미친짓해도이해해주고사랑해줘",
+        "name": "은결𖤐",
+        "pinned_tweet_id": "2014241183955046531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002368909652131840/5ewXtcnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 257,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 652
+        },
+        "username": "2ungyxl7",
+        "verified": false
+      }
+    ]
+  }
+}

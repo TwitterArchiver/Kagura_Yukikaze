@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2020035122851115288",
+    "created_at": "2026-02-07T10:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T11:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020083258705473658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798691696001355776",
+          "start": 0,
+          "username": "ZaoTon618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020083258705473658",
+    "in_reply_to_user_id": "1798691696001355776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020065331516215456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaoTon618 呜呜\n再买嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2020035122851115288",
+        "created_at": "2026-02-07T10:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020083258705473658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798691696001355776",
+              "start": 0,
+              "username": "ZaoTon618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020083258705473658",
+        "in_reply_to_user_id": "1798691696001355776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020065331516215456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaoTon618 呜呜\n再买嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798691696001355776",
+        "conversation_id": "2020035122851115288",
+        "created_at": "2026-02-07T09:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020065331516215456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020065331516215456",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020035122851115288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze 谷子都扔了怎么办（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 2377,
+          "like_count": 85506,
+          "listed_count": 2,
+          "media_count": 629,
+          "tweet_count": 10061
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T12:21:58.000Z",
+        "description": "HRT2023.11.24 MtF🍥/已炸柜/家长不管党/不抽烟不喝酒/不od不割手/应该没有精神疾病/一般不会发负能量内容/可互fo有关注基本必回(前提我确定你是人)/欢迎找我咨询MtF用药方案及相关知识，有跨性别意愿的也可以找我做心理疏导🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XnF12",
+                "end": 23,
+                "expanded_url": "http://t.me/XnF12",
+                "start": 0,
+                "url": "https://t.co/ZnvBY12Y5s"
+              }
+            ]
+          }
+        },
+        "id": "1798691696001355776",
+        "location": "梦",
+        "name": "枣桐酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015014041513845212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004470062452035588/PVjS6TLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 567,
+          "like_count": 17108,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/ZnvBY12Y5s",
+        "username": "ZaoTon618",
+        "verified": false
+      }
+    ]
+  }
+}

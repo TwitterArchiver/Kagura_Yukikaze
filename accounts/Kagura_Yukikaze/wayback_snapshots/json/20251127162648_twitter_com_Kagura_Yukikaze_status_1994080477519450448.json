@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993297431761432576"
+      ],
+      "media_source_tweet_id": [
+        "1993403062476734663"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1994080477519450448",
+    "created_at": "2025-11-27T16:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994080477519450448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562910548630867969",
+          "start": 3,
+          "username": "lovesickdoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wM6hdhqi4U",
+          "end": 63,
+          "expanded_url": "https://x.com/lovesickdoe/status/1993403062476734663/photo/1",
+          "media_key": "3_1993297431761432576",
+          "start": 40,
+          "url": "https://t.co/wM6hdhqi4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994080477519450448",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 767
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993403062476734663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovesickdoe: pink ribbon box cutter https://t.co/wM6hdhqi4U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1993297431761432576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mddAfWsAAo0Zm.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993297431761432576"
+          ],
+          "media_source_tweet_id": [
+            "1993403062476734663"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1994080477519450448",
+        "created_at": "2025-11-27T16:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994080477519450448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562910548630867969",
+              "start": 3,
+              "username": "lovesickdoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wM6hdhqi4U",
+              "end": 63,
+              "expanded_url": "https://x.com/lovesickdoe/status/1993403062476734663/photo/1",
+              "media_key": "3_1993297431761432576",
+              "start": 40,
+              "url": "https://t.co/wM6hdhqi4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994080477519450448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 767
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993403062476734663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovesickdoe: pink ribbon box cutter https://t.co/wM6hdhqi4U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993297431761432576"
+          ]
+        },
+        "author_id": "1562910548630867969",
+        "conversation_id": "1993403062476734663",
+        "created_at": "2025-11-25T19:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993403062476734663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wM6hdhqi4U",
+              "end": 46,
+              "expanded_url": "https://x.com/lovesickdoe/status/1993403062476734663/photo/1",
+              "media_key": "3_1993297431761432576",
+              "start": 23,
+              "url": "https://t.co/wM6hdhqi4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993403062476734663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 47000,
+          "like_count": 5919,
+          "quote_count": 67,
+          "reply_count": 7,
+          "retweet_count": 767
+        },
+        "reply_settings": "everyone",
+        "text": "pink ribbon box cutter https://t.co/wM6hdhqi4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1941,
+          "like_count": 72567,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 8106
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T21:12:23.000Z",
+        "description": "love everything pretty & cute • 💌 for promo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesickdoe.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lovesickdoe.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VsrfaGjItr"
+              }
+            ]
+          }
+        },
+        "id": "1562910548630867969",
+        "location": "more info .ᐟ.ᐟ",
+        "name": "(•˕ •マ.ᐟ ☃️",
+        "pinned_tweet_id": "1993977956520042847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992558778277842944/bmQQfx0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174644,
+          "following_count": 188,
+          "like_count": 78997,
+          "listed_count": 709,
+          "media_count": 19701,
+          "tweet_count": 54540
+        },
+        "url": "https://t.co/VsrfaGjItr",
+        "username": "lovesickdoe",
+        "verified": true
+      }
+    ]
+  }
+}

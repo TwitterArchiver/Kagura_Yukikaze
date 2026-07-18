@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1996912142893641728"
+      ],
+      "media_source_tweet_id": [
+        "1997334718946169116"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1997494510201536849",
+    "created_at": "2025-12-07T02:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997494510201536849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3213596780",
+          "start": 3,
+          "username": "neomechanica"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GuzdckCASg",
+          "end": 41,
+          "expanded_url": "https://x.com/neomechanica/status/1997334718946169116/photo/1",
+          "media_key": "16_1996912142893641728",
+          "start": 18,
+          "url": "https://t.co/GuzdckCASg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997494510201536849",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2372
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997334718946169116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neomechanica: https://t.co/GuzdckCASg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_1996912142893641728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7Z1A4zW8AA5lP_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7Z1A4zW8AA5lP_.mp4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1996912142893641728"
+          ],
+          "media_source_tweet_id": [
+            "1997334718946169116"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1997494510201536849",
+        "created_at": "2025-12-07T02:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997494510201536849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3213596780",
+              "start": 3,
+              "username": "neomechanica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuzdckCASg",
+              "end": 41,
+              "expanded_url": "https://x.com/neomechanica/status/1997334718946169116/photo/1",
+              "media_key": "16_1996912142893641728",
+              "start": 18,
+              "url": "https://t.co/GuzdckCASg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997494510201536849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2372
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997334718946169116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neomechanica: https://t.co/GuzdckCASg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1996912142893641728"
+          ]
+        },
+        "author_id": "3213596780",
+        "conversation_id": "1997334718946169116",
+        "created_at": "2025-12-06T15:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997334718946169116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuzdckCASg",
+              "end": 23,
+              "expanded_url": "https://x.com/neomechanica/status/1997334718946169116/photo/1",
+              "media_key": "16_1996912142893641728",
+              "start": 0,
+              "url": "https://t.co/GuzdckCASg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997334718946169116",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2698,
+          "impression_count": 329805,
+          "like_count": 15660,
+          "quote_count": 121,
+          "reply_count": 139,
+          "retweet_count": 2372
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GuzdckCASg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 2039,
+          "like_count": 74622,
+          "listed_count": 2,
+          "media_count": 565,
+          "tweet_count": 8340
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-17T16:21:59.000Z",
+        "description": "THIΣ STORY IS ΔEDICATED TO ALL THOΣE CYBERPUNKS WH𐍈 FIGHT AGAINΣT INJUSTICE AND CORRUPTION EVERY ΔAY OF THEIR LIVES",
+        "id": "3213596780",
+        "location": "cyberspace",
+        "name": "NEOMECHANICA",
+        "pinned_tweet_id": "1846131118170345497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/678896623368335360/hvNn0f5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243879,
+          "following_count": 1,
+          "like_count": 55,
+          "listed_count": 1264,
+          "media_count": 11760,
+          "tweet_count": 11911
+        },
+        "username": "neomechanica",
+        "verified": true
+      }
+    ]
+  }
+}

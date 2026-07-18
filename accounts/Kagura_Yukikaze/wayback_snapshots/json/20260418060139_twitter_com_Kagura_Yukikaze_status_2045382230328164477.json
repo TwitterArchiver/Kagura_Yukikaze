@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045224888756060160"
+      ],
+      "media_source_tweet_id": [
+        "2045224891096392020"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2045382230328164477",
+    "created_at": "2026-04-18T06:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045382230328164477"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 66,
+          "tag": "BlueArchive"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "柚鳥ナツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1282789127625334790",
+          "start": 3,
+          "username": "StarDust2342040"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ORT8OUowf",
+          "end": 114,
+          "expanded_url": "https://x.com/StarDust2342040/status/2045224891096392020/photo/1",
+          "media_key": "3_2045224888756060160",
+          "start": 91,
+          "url": "https://t.co/7ORT8OUowf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045382230328164477",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 754
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045224891096392020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarDust2342040: Looks like I'm sitting without a PC for now\n\n#BlueArchive #ブルアカ #柚鳥ナツ https://t.co/7ORT8OUowf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2045224888756060160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIZM0QXwAAGIiu.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045224888756060160"
+          ],
+          "media_source_tweet_id": [
+            "2045224891096392020"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2045382230328164477",
+        "created_at": "2026-04-18T06:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045382230328164477"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 66,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "柚鳥ナツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1282789127625334790",
+              "start": 3,
+              "username": "StarDust2342040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ORT8OUowf",
+              "end": 114,
+              "expanded_url": "https://x.com/StarDust2342040/status/2045224891096392020/photo/1",
+              "media_key": "3_2045224888756060160",
+              "start": 91,
+              "url": "https://t.co/7ORT8OUowf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045382230328164477",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 754
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045224891096392020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarDust2342040: Looks like I'm sitting without a PC for now\n\n#BlueArchive #ブルアカ #柚鳥ナツ https://t.co/7ORT8OUowf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045224888756060160"
+          ]
+        },
+        "author_id": "1282789127625334790",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2045224891096392020",
+        "created_at": "2026-04-17T19:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T20:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045224891096392020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 45,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "柚鳥ナツ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ORT8OUowf",
+              "end": 93,
+              "expanded_url": "https://x.com/StarDust2342040/status/2045224891096392020/photo/1",
+              "media_key": "3_2045224888756060160",
+              "start": 70,
+              "url": "https://t.co/7ORT8OUowf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045224891096392020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 824,
+          "impression_count": 116861,
+          "like_count": 8953,
+          "quote_count": 26,
+          "reply_count": 30,
+          "retweet_count": 754
+        },
+        "reply_settings": "everyone",
+        "text": "Looks like I'm sitting without a PC for now\n\n#BlueArchive #ブルアカ #柚鳥ナツ https://t.co/7ORT8OUowf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2915,
+          "following_count": 2818,
+          "like_count": 101787,
+          "listed_count": 5,
+          "media_count": 759,
+          "tweet_count": 12356
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-13T21:29:03.000Z",
+        "description": "хз я плюшевый",
+        "id": "1282789127625334790",
+        "location": "Россия",
+        "name": "StarDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040814016264544256/-y3gFB3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 207,
+          "like_count": 16368,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 29
+        },
+        "username": "StarDust2342040",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994805982132588544"
+      ],
+      "media_source_tweet_id": [
+        "1994806052483649780"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995141346835968271",
+    "created_at": "2025-11-30T14:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T15:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995141346835968271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "855300206086168576",
+          "start": 3,
+          "username": "HumansNoContext"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4bWgoGuDs",
+          "end": 63,
+          "expanded_url": "https://x.com/HumansNoContext/status/1994806052483649780/video/1",
+          "media_key": "13_1994805982132588544",
+          "start": 40,
+          "url": "https://t.co/n4bWgoGuDs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995141346835968271",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1239
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994806052483649780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HumansNoContext: I feel smarter now https://t.co/n4bWgoGuDs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23900,
+        "height": 954,
+        "media_key": "13_1994805982132588544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994805982132588544/img/IElwtf8UPd3WeLkv.jpg",
+        "public_metrics": {
+          "view_count": 3800152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994805982132588544/vid/avc1/320x424/9wtTfbbGvZYYRocg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994805982132588544/vid/avc1/480x636/KAGmSA0Fscmtr9jT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994805982132588544/vid/avc1/718x954/xe9L7qXkIy212tvx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994805982132588544/pl/ETGR5HAvV2Q8LPpF.m3u8?v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994805982132588544"
+          ],
+          "media_source_tweet_id": [
+            "1994806052483649780"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995141346835968271",
+        "created_at": "2025-11-30T14:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995141346835968271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "855300206086168576",
+              "start": 3,
+              "username": "HumansNoContext"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4bWgoGuDs",
+              "end": 63,
+              "expanded_url": "https://x.com/HumansNoContext/status/1994806052483649780/video/1",
+              "media_key": "13_1994805982132588544",
+              "start": 40,
+              "url": "https://t.co/n4bWgoGuDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995141346835968271",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1239
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994806052483649780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HumansNoContext: I feel smarter now https://t.co/n4bWgoGuDs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994805982132588544"
+          ]
+        },
+        "author_id": "855300206086168576",
+        "conversation_id": "1994806052483649780",
+        "created_at": "2025-11-29T16:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994806052483649780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4bWgoGuDs",
+              "end": 42,
+              "expanded_url": "https://x.com/HumansNoContext/status/1994806052483649780/video/1",
+              "media_key": "13_1994805982132588544",
+              "start": 19,
+              "url": "https://t.co/n4bWgoGuDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994806052483649780",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2553,
+          "impression_count": 4846496,
+          "like_count": 27976,
+          "quote_count": 141,
+          "reply_count": 284,
+          "retweet_count": 1239
+        },
+        "reply_settings": "everyone",
+        "text": "I feel smarter now https://t.co/n4bWgoGuDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1966,
+          "like_count": 73154,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 8173
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-21T06:00:34.000Z",
+        "description": "humans being humans",
+        "id": "855300206086168576",
+        "name": "NO CONTEXT HUMANS",
+        "pinned_tweet_id": "1994890228423954742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833050358479826944/A2qj0e6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6172073,
+          "following_count": 0,
+          "like_count": 837,
+          "listed_count": 13005,
+          "media_count": 43505,
+          "tweet_count": 45221
+        },
+        "username": "HumansNoContext",
+        "verified": true
+      }
+    ]
+  }
+}

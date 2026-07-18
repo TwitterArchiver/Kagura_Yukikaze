@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999036090099859457"
+      ],
+      "media_source_tweet_id": [
+        "1999036205342871904"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "1999458295107744029",
+    "created_at": "2025-12-12T12:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999458295107744029"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "duolingo",
+          "probability": 0.7954,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "217856128",
+          "start": 3,
+          "username": "djcows"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/08TkPhnMQv",
+          "end": 67,
+          "expanded_url": "https://x.com/djcows/status/1999036205342871904/photo/1",
+          "media_key": "3_1999036090099859457",
+          "start": 44,
+          "url": "https://t.co/08TkPhnMQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999458295107744029",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7165
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999036205342871904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @djcows: learning a language on duolingo https://t.co/08TkPhnMQv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1425,
+        "media_key": "3_1999036090099859457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74Au4uWgAEe6y7.jpg",
+        "width": 2648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999036090099859457"
+          ],
+          "media_source_tweet_id": [
+            "1999036205342871904"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "1999458295107744029",
+        "created_at": "2025-12-12T12:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999458295107744029"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "duolingo",
+              "probability": 0.7954,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "217856128",
+              "start": 3,
+              "username": "djcows"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/08TkPhnMQv",
+              "end": 67,
+              "expanded_url": "https://x.com/djcows/status/1999036205342871904/photo/1",
+              "media_key": "3_1999036090099859457",
+              "start": 44,
+              "url": "https://t.co/08TkPhnMQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999458295107744029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7165
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999036205342871904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @djcows: learning a language on duolingo https://t.co/08TkPhnMQv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999036090099859457"
+          ]
+        },
+        "author_id": "217856128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "1999036205342871904",
+        "created_at": "2025-12-11T08:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999036205342871904"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "duolingo",
+              "probability": 0.8018,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/08TkPhnMQv",
+              "end": 55,
+              "expanded_url": "https://x.com/djcows/status/1999036205342871904/photo/1",
+              "media_key": "3_1999036090099859457",
+              "start": 32,
+              "url": "https://t.co/08TkPhnMQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999036205342871904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3716,
+          "impression_count": 3762499,
+          "like_count": 181993,
+          "quote_count": 363,
+          "reply_count": 406,
+          "retweet_count": 7165
+        },
+        "reply_settings": "everyone",
+        "text": "learning a language on duolingo https://t.co/08TkPhnMQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 2071,
+          "like_count": 75886,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 8509
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-20T18:42:10.000Z",
+        "description": "internet cow",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.djcows.com",
+                "end": 23,
+                "expanded_url": "http://shop.djcows.com",
+                "start": 0,
+                "url": "https://t.co/I5yRqNNe8L"
+              }
+            ]
+          }
+        },
+        "id": "217856128",
+        "name": "djcows",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932105171443859456/Gjhd9qC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19147,
+          "following_count": 905,
+          "like_count": 147149,
+          "listed_count": 129,
+          "media_count": 10413,
+          "tweet_count": 75628
+        },
+        "url": "https://t.co/I5yRqNNe8L",
+        "username": "djcows",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023597387537854464"
+      ],
+      "media_source_tweet_id": [
+        "2023597396106568076"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2023686049399181636",
+    "created_at": "2026-02-17T09:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023686049399181636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "chuannaishen12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6uqSDySW9M",
+          "end": 43,
+          "expanded_url": "https://x.com/chuannaishen12/status/2023597396106568076/photo/1",
+          "media_key": "3_2023597387537854464",
+          "start": 20,
+          "url": "https://t.co/6uqSDySW9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023686049399181636",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023597396106568076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuannaishen12: https://t.co/6uqSDySW9M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1678,
+        "media_key": "3_2023597387537854464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBVDGjyaMAA8_zF.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023597387537854464"
+          ],
+          "media_source_tweet_id": [
+            "2023597396106568076"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2023686049399181636",
+        "created_at": "2026-02-17T09:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023686049399181636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "chuannaishen12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uqSDySW9M",
+              "end": 43,
+              "expanded_url": "https://x.com/chuannaishen12/status/2023597396106568076/photo/1",
+              "media_key": "3_2023597387537854464",
+              "start": 20,
+              "url": "https://t.co/6uqSDySW9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023686049399181636",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023597396106568076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuannaishen12: https://t.co/6uqSDySW9M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023597387537854464"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2023597396106568076",
+        "created_at": "2026-02-17T03:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023597396106568076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uqSDySW9M",
+              "end": 23,
+              "expanded_url": "https://x.com/chuannaishen12/status/2023597396106568076/photo/1",
+              "media_key": "3_2023597387537854464",
+              "start": 0,
+              "url": "https://t.co/6uqSDySW9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023597396106568076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3340,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6uqSDySW9M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 2424,
+          "like_count": 87693,
+          "listed_count": 2,
+          "media_count": 650,
+          "tweet_count": 10310
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "当猪中",
+        "id": "2010357366466990080",
+        "name": "Fel1x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022304733239844864/0UafElpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 211,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 568
+        },
+        "username": "chuannaishen12",
+        "verified": false
+      }
+    ]
+  }
+}

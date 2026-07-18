@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972120760626937856"
+      ],
+      "media_source_tweet_id": [
+        "1972120763416121359"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1972241795515077088",
+    "created_at": "2025-09-28T10:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T11:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972241795515077088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487563847602900992",
+          "start": 3,
+          "username": "duxiangwan4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SWzmjH3opE",
+          "end": 56,
+          "expanded_url": "https://x.com/duxiangwan4/status/1972120763416121359/photo/1",
+          "media_key": "3_1972120760626937856",
+          "start": 33,
+          "url": "https://t.co/SWzmjH3opE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972241795515077088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972120763416121359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duxiangwan4: 《小南娘/小药娘是怎么诞生的》 https://t.co/SWzmjH3opE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972120760626937856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G15hYg9XgAALyjo.jpg",
+        "width": 280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972120760626937856"
+          ],
+          "media_source_tweet_id": [
+            "1972120763416121359"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1972241795515077088",
+        "created_at": "2025-09-28T10:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972241795515077088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487563847602900992",
+              "start": 3,
+              "username": "duxiangwan4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWzmjH3opE",
+              "end": 56,
+              "expanded_url": "https://x.com/duxiangwan4/status/1972120763416121359/photo/1",
+              "media_key": "3_1972120760626937856",
+              "start": 33,
+              "url": "https://t.co/SWzmjH3opE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972241795515077088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972120763416121359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duxiangwan4: 《小南娘/小药娘是怎么诞生的》 https://t.co/SWzmjH3opE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972120760626937856"
+          ]
+        },
+        "author_id": "1487563847602900992",
+        "conversation_id": "1972120763416121359",
+        "created_at": "2025-09-28T02:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T03:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972120763416121359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWzmjH3opE",
+              "end": 39,
+              "expanded_url": "https://x.com/duxiangwan4/status/1972120763416121359/photo/1",
+              "media_key": "3_1972120760626937856",
+              "start": 16,
+              "url": "https://t.co/SWzmjH3opE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972120763416121359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 29602,
+          "like_count": 197,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "《小南娘/小药娘是怎么诞生的》 https://t.co/SWzmjH3opE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 1227,
+          "like_count": 57519,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6443
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T23:10:42.000Z",
+        "description": "🍥无证含糖/🎂05.2.14/🏳️‍⚧️hrt25.2.5/👻168cm54kg/🇨🇳广州/🏫小学毕业小文盲/😥常态短发男装/😭天残党丑逼/🎮明日方舟玩家p社玩家/👿晚班社畜一枚/💰v我50",
+        "id": "1487563847602900992",
+        "name": "🍥陌然🇨🇳🏳️‍⚧️",
+        "pinned_tweet_id": "1960433514614284521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961823133083840512/xfujkpNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 101,
+          "like_count": 43,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 380
+        },
+        "username": "duxiangwan4",
+        "verified": false
+      }
+    ]
+  }
+}

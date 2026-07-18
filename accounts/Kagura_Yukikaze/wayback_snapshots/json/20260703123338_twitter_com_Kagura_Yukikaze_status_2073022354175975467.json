@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072897972690677760"
+      ],
+      "media_source_tweet_id": [
+        "2072898041221415404"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2073022354175975467",
+    "created_at": "2026-07-03T12:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073022354175975467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1374724817119772674",
+          "start": 3,
+          "username": "Mimiaomc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/77muPXNrPW",
+          "end": 37,
+          "expanded_url": "https://x.com/Mimiaomc/status/2072898041221415404/photo/1",
+          "media_key": "3_2072897972690677760",
+          "start": 14,
+          "url": "https://t.co/77muPXNrPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073022354175975467",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072898041221415404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mimiaomc: https://t.co/77muPXNrPW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2072897972690677760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRpuTXa8AAvvkI.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072897972690677760"
+          ],
+          "media_source_tweet_id": [
+            "2072898041221415404"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2073022354175975467",
+        "created_at": "2026-07-03T12:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073022354175975467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374724817119772674",
+              "start": 3,
+              "username": "Mimiaomc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/77muPXNrPW",
+              "end": 37,
+              "expanded_url": "https://x.com/Mimiaomc/status/2072898041221415404/photo/1",
+              "media_key": "3_2072897972690677760",
+              "start": 14,
+              "url": "https://t.co/77muPXNrPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073022354175975467",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072898041221415404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mimiaomc: https://t.co/77muPXNrPW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072897972690677760"
+          ]
+        },
+        "author_id": "1374724817119772674",
+        "conversation_id": "2072898041221415404",
+        "created_at": "2026-07-03T04:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072898041221415404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/77muPXNrPW",
+              "end": 23,
+              "expanded_url": "https://x.com/Mimiaomc/status/2072898041221415404/photo/1",
+              "media_key": "3_2072897972690677760",
+              "start": 0,
+              "url": "https://t.co/77muPXNrPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072898041221415404",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/77muPXNrPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2070462188402413624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3170,
+          "following_count": 3071,
+          "like_count": 113836,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 13821
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟\n渴望被爱 | 会尽力去爱朋友 | 2009 | MtF | 西安高新 |\n红帽 Linux | 铁路迷 | 温柔大姐姐 | 钟楼笔记站长 |\n邮政 | 卡组织 | 公交 | 离家出走 | 嵌入式 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "https://classnote.top",
+                "start": 0,
+                "url": "https://t.co/gOvxKZpBRM"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "location": "CLOUDFLARE.COM",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2072872691380654248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374736977145303040/wMVCqAP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 160,
+          "like_count": 1727,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 1036
+        },
+        "url": "https://t.co/gOvxKZpBRM",
+        "username": "Mimiaomc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970989750778576896"
+      ],
+      "media_source_tweet_id": [
+        "1970989762573119791"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971222966303379629",
+    "created_at": "2025-09-25T14:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T15:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971222966303379629"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "Skeuomorphism",
+          "probability": 0.7745,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 60,
+          "normalized_text": "Liquid",
+          "probability": 0.5912,
+          "start": 55,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1254456213527543808",
+          "start": 3,
+          "username": "TheAppleDesign"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bInXHhdJuF",
+          "end": 91,
+          "expanded_url": "https://x.com/TheAppleDesign/status/1970989762573119791/photo/1",
+          "media_key": "3_1970989750778576896",
+          "start": 68,
+          "url": "https://t.co/bInXHhdJuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971222966303379629",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970989762573119791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheAppleDesign: Choose one\n\nSkeuomorphism • Flat • Liquid Glass https://t.co/bInXHhdJuF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1970989750778576896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1pcvE8XwAA-D2q.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970989750778576896"
+          ],
+          "media_source_tweet_id": [
+            "1970989762573119791"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971222966303379629",
+        "created_at": "2025-09-25T14:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971222966303379629"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Skeuomorphism",
+              "probability": 0.7745,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Liquid",
+              "probability": 0.5912,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1254456213527543808",
+              "start": 3,
+              "username": "TheAppleDesign"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bInXHhdJuF",
+              "end": 91,
+              "expanded_url": "https://x.com/TheAppleDesign/status/1970989762573119791/photo/1",
+              "media_key": "3_1970989750778576896",
+              "start": 68,
+              "url": "https://t.co/bInXHhdJuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971222966303379629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970989762573119791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheAppleDesign: Choose one\n\nSkeuomorphism • Flat • Liquid Glass https://t.co/bInXHhdJuF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970989750778576896"
+          ]
+        },
+        "author_id": "1254456213527543808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970989762573119791",
+        "created_at": "2025-09-24T23:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T00:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970989762573119791"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Skeuomorphism",
+              "probability": 0.6765,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Liquid",
+              "probability": 0.6312,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bInXHhdJuF",
+              "end": 71,
+              "expanded_url": "https://x.com/TheAppleDesign/status/1970989762573119791/photo/1",
+              "media_key": "3_1970989750778576896",
+              "start": 48,
+              "url": "https://t.co/bInXHhdJuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970989762573119791",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 88580,
+          "like_count": 1291,
+          "quote_count": 18,
+          "reply_count": 139,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "Choose one\n\nSkeuomorphism • Flat • Liquid Glass https://t.co/bInXHhdJuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 1182,
+          "like_count": 56317,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 6309
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T17:04:19.000Z",
+        "description": "Apple Design. Not affiliated with Apple Inc. DM or mail for business.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheAppleDesign",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheAppleDesign",
+                "start": 0,
+                "url": "https://t.co/BkHuWurYMW"
+              }
+            ]
+          }
+        },
+        "id": "1254456213527543808",
+        "name": "Apple Design",
+        "pinned_tweet_id": "1958938747866947922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806052486417096704/FnBslKp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67565,
+          "following_count": 44,
+          "like_count": 4053,
+          "listed_count": 280,
+          "media_count": 1731,
+          "tweet_count": 6549
+        },
+        "url": "https://t.co/BkHuWurYMW",
+        "username": "TheAppleDesign",
+        "verified": true
+      }
+    ]
+  }
+}

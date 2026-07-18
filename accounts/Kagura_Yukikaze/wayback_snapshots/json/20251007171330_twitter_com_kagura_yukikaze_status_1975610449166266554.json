@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975160892661846016"
+      ],
+      "media_source_tweet_id": [
+        "1975160896696750337"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1975610449166266554",
+    "created_at": "2025-10-07T17:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T18:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975610449166266554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594548640521277440",
+          "start": 3,
+          "username": "mzp_lt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/deW3ieG9z8",
+          "end": 42,
+          "expanded_url": "https://x.com/mzp_lt/status/1975160896696750337/photo/1",
+          "media_key": "3_1975160892661846016",
+          "start": 19,
+          "url": "https://t.co/deW3ieG9z8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975610449166266554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975160896696750337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mzp_lt: 中秋节该看的 https://t.co/deW3ieG9z8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1975160892661846016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kuXfVaUAACzhu.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975160892661846016"
+          ],
+          "media_source_tweet_id": [
+            "1975160896696750337"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1975610449166266554",
+        "created_at": "2025-10-07T17:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975610449166266554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594548640521277440",
+              "start": 3,
+              "username": "mzp_lt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/deW3ieG9z8",
+              "end": 42,
+              "expanded_url": "https://x.com/mzp_lt/status/1975160896696750337/photo/1",
+              "media_key": "3_1975160892661846016",
+              "start": 19,
+              "url": "https://t.co/deW3ieG9z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975610449166266554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975160896696750337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mzp_lt: 中秋节该看的 https://t.co/deW3ieG9z8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975160892661846016"
+          ]
+        },
+        "author_id": "1594548640521277440",
+        "conversation_id": "1975160896696750337",
+        "created_at": "2025-10-06T11:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975160896696750337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/deW3ieG9z8",
+              "end": 30,
+              "expanded_url": "https://x.com/mzp_lt/status/1975160896696750337/photo/1",
+              "media_key": "3_1975160892661846016",
+              "start": 7,
+              "url": "https://t.co/deW3ieG9z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975160896696750337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 41127,
+          "like_count": 542,
+          "quote_count": 9,
+          "reply_count": 68,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "中秋节该看的 https://t.co/deW3ieG9z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 1468,
+          "like_count": 61477,
+          "listed_count": 3,
+          "media_count": 518,
+          "tweet_count": 6946
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T04:30:17.000Z",
+        "description": "中推第一花火酱黑粉，在考虑建群\n卡芙卡单推人，不算mxz，玩崩铁方舟和各种音游\nmaimai真超檄桃晓紫极\n多种dancemachine本当上手",
+        "id": "1594548640521277440",
+        "name": "⏚花火酱研究院院长（开香槟失败ver）⏚",
+        "pinned_tweet_id": "1850197921440084014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844025865115734016/ykE_pv_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 549,
+          "like_count": 13212,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 3880
+        },
+        "username": "mzp_lt",
+        "verified": false
+      }
+    ]
+  }
+}

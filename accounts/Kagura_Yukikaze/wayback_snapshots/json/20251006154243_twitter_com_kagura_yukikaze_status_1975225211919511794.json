@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975204796954288128"
+      ],
+      "media_source_tweet_id": [
+        "1975204799210770620"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1975225211919511794",
+    "created_at": "2025-10-06T15:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T16:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975225211919511794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RpVBoSfz8w",
+          "end": 41,
+          "expanded_url": "https://x.com/bghtnya/status/1975204799210770620/photo/1",
+          "media_key": "3_1975204796954288128",
+          "start": 18,
+          "url": "https://t.co/RpVBoSfz8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975225211919511794",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975204799210770620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: awmc https://t.co/RpVBoSfz8w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_1975204796954288128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lWTDkboAA8XbP.jpg",
+        "width": 341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975204796954288128"
+          ],
+          "media_source_tweet_id": [
+            "1975204799210770620"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1975225211919511794",
+        "created_at": "2025-10-06T15:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975225211919511794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpVBoSfz8w",
+              "end": 41,
+              "expanded_url": "https://x.com/bghtnya/status/1975204799210770620/photo/1",
+              "media_key": "3_1975204796954288128",
+              "start": 18,
+              "url": "https://t.co/RpVBoSfz8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975225211919511794",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975204799210770620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: awmc https://t.co/RpVBoSfz8w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975204796954288128"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1975204799210770620",
+        "created_at": "2025-10-06T14:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975204799210770620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpVBoSfz8w",
+              "end": 28,
+              "expanded_url": "https://x.com/bghtnya/status/1975204799210770620/photo/1",
+              "media_key": "3_1975204796954288128",
+              "start": 5,
+              "url": "https://t.co/RpVBoSfz8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975204799210770620",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 626,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "awmc https://t.co/RpVBoSfz8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1462,
+          "like_count": 61145,
+          "listed_count": 3,
+          "media_count": 516,
+          "tweet_count": 6885
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/35371135…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/63BEDCHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7825,
+          "following_count": 2081,
+          "like_count": 161476,
+          "listed_count": 20,
+          "media_count": 3223,
+          "tweet_count": 40764
+        },
+        "url": "https://t.co/63BEDCHLlz",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

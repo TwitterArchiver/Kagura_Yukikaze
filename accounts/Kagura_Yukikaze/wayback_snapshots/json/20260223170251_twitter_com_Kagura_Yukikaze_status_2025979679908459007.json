@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2025978111075217641",
+    "created_at": "2026-02-23T17:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T18:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025979679908459007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2024791258993164289",
+          "start": 0,
+          "username": "zuo837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025979679908459007",
+    "in_reply_to_user_id": "2024791258993164289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025978111075217641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo837 内圈诶\n贴贴～🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2025978099914137605",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB24WQgaYAUoKLr.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2025978111075217641",
+        "created_at": "2026-02-23T17:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T18:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025979679908459007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2024791258993164289",
+              "start": 0,
+              "username": "zuo837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025979679908459007",
+        "in_reply_to_user_id": "2024791258993164289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025978111075217641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo837 内圈诶\n贴贴～🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025978099914137605"
+          ]
+        },
+        "author_id": "2024791258993164289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2025978111075217641",
+        "created_at": "2026-02-23T16:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025978111075217641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025503934677479424/hwgHKRHi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Z9PMwu2yuU"
+            },
+            {
+              "display_url": "pic.x.com/rFKcXXhMsJ",
+              "end": 64,
+              "expanded_url": "https://x.com/zuo837/status/2025978111075217641/photo/1",
+              "media_key": "3_2025978099914137605",
+              "start": 41,
+              "url": "https://t.co/rFKcXXhMsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025978111075217641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Z9PMwu2yuU https://t.co/rFKcXXhMsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 2512,
+          "like_count": 89713,
+          "listed_count": 2,
+          "media_count": 664,
+          "tweet_count": 10530
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T10:20:38.000Z",
+        "description": "生日2012.02.28\nhrt 2024.09.27\ntg@wmphy896\nqq3931417804",
+        "id": "2024791258993164289",
+        "name": "錳酸鉀🍥糖商（20小時在線?",
+        "pinned_tweet_id": "2025970186273313066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024792727897202688/WWsetyri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 202,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "username": "zuo837",
+        "verified": false
+      }
+    ]
+  }
+}

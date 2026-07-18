@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2033915565170167844",
+    "created_at": "2026-03-17T15:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033930018750140805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1751839872988696576",
+          "start": 0,
+          "username": "NeYoTar_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033930018750140805",
+    "in_reply_to_user_id": "1751839872988696576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033915565170167844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeYoTar_ 抱抱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2033915565170167844",
+        "created_at": "2026-03-17T15:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033930018750140805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1751839872988696576",
+              "start": 0,
+              "username": "NeYoTar_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033930018750140805",
+        "in_reply_to_user_id": "1751839872988696576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033915565170167844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeYoTar_ 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751839872988696576",
+        "conversation_id": "2033915565170167844",
+        "created_at": "2026-03-17T14:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033915565170167844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033915565170167844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的生活彻底走上了脱轨，被警、被分手、被开药、被心理咨询，短短发生在两天内，彻底毁了，我没法正常讲话没法正常生活，去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 2612,
+          "like_count": 94268,
+          "listed_count": 2,
+          "media_count": 703,
+          "tweet_count": 11116
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T05:29:17.000Z",
+        "description": "不好看不好听不好懂身材差。 宝贝@naitang166 OD、割手、抽血。 INFP，不混任何圈子，拒绝键政，喜欢猫。 无门，欢迎互fo，友跨。会发血图，发烂东西自娱自乐。 https://t.co/OhvSG3efVE 固定翼航模/ACGN/文学/哲学/书法/胶片/PC/FPS游戏/爱情/钢琴/折纸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "naitang166"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/neyotar",
+                "end": 110,
+                "expanded_url": "https://ngl.link/neyotar",
+                "start": 87,
+                "url": "https://t.co/OhvSG3efVE"
+              }
+            ]
+          }
+        },
+        "id": "1751839872988696576",
+        "name": "NeYoTar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786406383576862720/WS64j5rr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 83,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 250
+        },
+        "username": "NeYoTar_",
+        "verified": false
+      }
+    ]
+  }
+}

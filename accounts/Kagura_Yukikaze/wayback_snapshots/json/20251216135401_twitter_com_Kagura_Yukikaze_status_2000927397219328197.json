@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2000764390815981573"
+      ],
+      "media_source_tweet_id": [
+        "2000764430783500691"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000927397219328197",
+    "created_at": "2025-12-16T13:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T14:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000927397219328197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557804200704331776",
+          "start": 3,
+          "username": "PlatanoSans"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/niECRYsoxv",
+          "end": 40,
+          "expanded_url": "https://x.com/PlatanoSans/status/2000764430783500691/video/1",
+          "media_key": "7_2000764390815981573",
+          "start": 17,
+          "url": "https://t.co/niECRYsoxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000927397219328197",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2972
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000764430783500691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PlatanoSans: https://t.co/niECRYsoxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35066,
+        "height": 576,
+        "media_key": "7_2000764390815981573",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000764390815981573/pu/img/5qwP-RAv026pAmaE.jpg",
+        "public_metrics": {
+          "view_count": 236956
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000764390815981573/pu/vid/avc1/398x270/dU48qYtRCRLCScqQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000764390815981573/pu/vid/avc1/532x360/iMZNzVvIV3k0IQ8V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000764390815981573/pu/vid/avc1/852x576/sSUuNE3Lyxth1GKA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000764390815981573/pu/pl/l6nnd9qt9rRNnAuO.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000764390815981573"
+          ],
+          "media_source_tweet_id": [
+            "2000764430783500691"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000927397219328197",
+        "created_at": "2025-12-16T13:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000927397219328197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557804200704331776",
+              "start": 3,
+              "username": "PlatanoSans"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/niECRYsoxv",
+              "end": 40,
+              "expanded_url": "https://x.com/PlatanoSans/status/2000764430783500691/video/1",
+              "media_key": "7_2000764390815981573",
+              "start": 17,
+              "url": "https://t.co/niECRYsoxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000927397219328197",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2972
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000764430783500691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PlatanoSans: https://t.co/niECRYsoxv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000764390815981573"
+          ]
+        },
+        "author_id": "1557804200704331776",
+        "conversation_id": "2000764430783500691",
+        "created_at": "2025-12-16T03:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000764430783500691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/niECRYsoxv",
+              "end": 23,
+              "expanded_url": "https://x.com/PlatanoSans/status/2000764430783500691/video/1",
+              "media_key": "7_2000764390815981573",
+              "start": 0,
+              "url": "https://t.co/niECRYsoxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000764430783500691",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1287,
+          "impression_count": 554207,
+          "like_count": 11402,
+          "quote_count": 247,
+          "reply_count": 18,
+          "retweet_count": 2972
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/niECRYsoxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 2082,
+          "like_count": 76707,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 8678
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T19:00:51.000Z",
+        "description": "Mi cuenta Privada: @CuentaAlt2 foto de perfil y banner by: @Sandoat\nMi otra casa: https://t.co/aSLbyd6bnx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "CuentaAlt2"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "Sandoat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/banana…",
+                "end": 105,
+                "expanded_url": "https://bsky.app/profile/bananasans.bsky.social",
+                "start": 82,
+                "url": "https://t.co/aSLbyd6bnx"
+              }
+            ]
+          }
+        },
+        "id": "1557804200704331776",
+        "name": "Banana Sans🍌💀",
+        "pinned_tweet_id": "1678286169438658560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928288508931670016/0oVoFV-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16170,
+          "following_count": 1589,
+          "like_count": 218195,
+          "listed_count": 28,
+          "media_count": 17394,
+          "tweet_count": 33364
+        },
+        "username": "PlatanoSans",
+        "verified": false
+      }
+    ]
+  }
+}

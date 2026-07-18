@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "2061957171970257249",
+    "created_at": "2026-06-02T23:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T00:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061957171970257249"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "pridemonth"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "193648759",
+          "start": 3,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061957171970257249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061822676759445665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripo0079: 六月是 #pridemonth 🏳️‍🌈🏳️‍⚧️\n今天我去了巴黎的LGBT纪念碑——那是为了纪念被驱逐的同性恋受害者，以及所有曾遭受迫害的LGBTQIA+人群而建立的纪念碑\n这是去年建成的\n\n我献上了一枝玫瑰\n花店的大叔很温柔\n\n我也带着🍥一起去了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7933,
+        "height": 2688,
+        "media_key": "13_2061822603564609536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061822603564609536/img/vKbzivDH599K3wTM.jpg",
+        "public_metrics": {
+          "view_count": 879
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061822603564609536/vid/avc1/480x852/wdHf52kFcoa6Do1U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061822603564609536/pl/ImtUtw_W1RpDXgvS.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061822603564609536/vid/avc1/720x1280/CmzFypaSZmksCsaO.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061822603564609536/vid/avc1/1512x2688/KYUXmu1556baWiKD.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061822603564609536/vid/avc1/320x568/Sbsi1pEk-zRfeNQ2.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061822603564609536/vid/avc1/1080x1920/pVzy6-OrhCwZMJNY.mp4"
+          }
+        ],
+        "width": 1512
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2061822603539501056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0Qu-HX0AAjMlK.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2061822603556257792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0Qu-LXgAAaI9k.jpg",
+        "width": 3840
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2061822603552055296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0Qu-KXYAA6xBq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2061957171970257249",
+        "created_at": "2026-06-02T23:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061957171970257249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "pridemonth"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "193648759",
+              "start": 3,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061957171970257249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061822676759445665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ripo0079: 六月是 #pridemonth 🏳️‍🌈🏳️‍⚧️\n今天我去了巴黎的LGBT纪念碑——那是为了纪念被驱逐的同性恋受害者，以及所有曾遭受迫害的LGBTQIA+人群而建立的纪念碑\n这是去年建成的\n\n我献上了一枝玫瑰\n花店的大叔很温柔\n\n我也带着🍥一起去了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061822603564609536",
+            "3_2061822603539501056",
+            "3_2061822603556257792",
+            "3_2061822603552055296"
+          ]
+        },
+        "author_id": "193648759",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2061822676759445665",
+        "created_at": "2026-06-02T14:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061822676759445665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 4,
+              "tag": "pridemonth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BaTbdK9GwH",
+              "end": 149,
+              "expanded_url": "https://x.com/ripo0079/status/2061822676759445665/video/1",
+              "media_key": "13_2061822603564609536",
+              "start": 126,
+              "url": "https://t.co/BaTbdK9GwH"
+            },
+            {
+              "display_url": "pic.x.com/BaTbdK9GwH",
+              "end": 149,
+              "expanded_url": "https://x.com/ripo0079/status/2061822676759445665/video/1",
+              "media_key": "3_2061822603539501056",
+              "start": 126,
+              "url": "https://t.co/BaTbdK9GwH"
+            },
+            {
+              "display_url": "pic.x.com/BaTbdK9GwH",
+              "end": 149,
+              "expanded_url": "https://x.com/ripo0079/status/2061822676759445665/video/1",
+              "media_key": "3_2061822603556257792",
+              "start": 126,
+              "url": "https://t.co/BaTbdK9GwH"
+            },
+            {
+              "display_url": "pic.x.com/BaTbdK9GwH",
+              "end": 149,
+              "expanded_url": "https://x.com/ripo0079/status/2061822676759445665/video/1",
+              "media_key": "3_2061822603552055296",
+              "start": 126,
+              "url": "https://t.co/BaTbdK9GwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061822676759445665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2158,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "六月是 #pridemonth 🏳️‍🌈🏳️‍⚧️\n今天我去了巴黎的LGBT纪念碑——那是为了纪念被驱逐的同性恋受害者，以及所有曾遭受迫害的LGBTQIA+人群而建立的纪念碑\n这是去年建成的\n\n我献上了一枝玫瑰\n花店的大叔很温柔\n\n我也带着🍥一起去了 https://t.co/BaTbdK9GwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 3007,
+          "like_count": 110083,
+          "listed_count": 7,
+          "media_count": 799,
+          "tweet_count": 13408
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11728,
+          "following_count": 1417,
+          "like_count": 73702,
+          "listed_count": 131,
+          "media_count": 4401,
+          "tweet_count": 54676
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

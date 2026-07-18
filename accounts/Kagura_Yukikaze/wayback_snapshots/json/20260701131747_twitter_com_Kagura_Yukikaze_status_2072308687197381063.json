@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2072308687197381063",
+    "created_at": "2026-07-01T13:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072308687197381063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585145286598483968",
+          "start": 0,
+          "username": "lianyiganyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xiangcai_nya/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/xiangcai_nya/status/2072279410385060339",
+          "start": 13,
+          "url": "https://t.co/pgPrZU8KH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072308687197381063",
+    "in_reply_to_user_id": "1585145286598483968",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072279410385060339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyiganyu https://t.co/pgPrZU8KH6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2072279397693009920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI3If7aMAAbP0y.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2072308687197381063",
+        "created_at": "2026-07-01T13:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072308687197381063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585145286598483968",
+              "start": 0,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xiangcai_nya/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xiangcai_nya/status/2072279410385060339",
+              "start": 13,
+              "url": "https://t.co/pgPrZU8KH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072308687197381063",
+        "in_reply_to_user_id": "1585145286598483968",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072279410385060339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyiganyu https://t.co/pgPrZU8KH6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072279397693009920"
+          ]
+        },
+        "author_id": "1153430387504373764",
+        "conversation_id": "2072279410385060339",
+        "created_at": "2026-07-01T11:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072279410385060339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOOZDkdoSx",
+              "end": 26,
+              "expanded_url": "https://x.com/xiangcai_nya/status/2072279410385060339/photo/1",
+              "media_key": "3_2072279397693009920",
+              "start": 3,
+              "url": "https://t.co/dOOZDkdoSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072279410385060339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1005,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/dOOZDkdoSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2070462188402413624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 3066,
+          "like_count": 113561,
+          "listed_count": 6,
+          "media_count": 819,
+          "tweet_count": 13793
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 6,
+          "like_count": 53,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067242056930746368/6sGN2gJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 268,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

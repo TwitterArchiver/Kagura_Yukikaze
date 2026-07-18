@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992164311532523520"
+      ],
+      "media_source_tweet_id": [
+        "1992164316288798894"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1992589850516860940",
+    "created_at": "2025-11-23T13:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992589850516860940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1143103126594961408",
+          "start": 3,
+          "username": "segu_ishida"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cef03wJjaB",
+          "end": 45,
+          "expanded_url": "https://x.com/segu_ishida/status/1992164316288798894/photo/1",
+          "media_key": "3_1992164311532523520",
+          "start": 22,
+          "url": "https://t.co/cef03wJjaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992589850516860940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3645
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992164316288798894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @segu_ishida: 職務質問 https://t.co/cef03wJjaB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_1992164311532523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WW4usbUAAnBKL.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992164311532523520"
+          ],
+          "media_source_tweet_id": [
+            "1992164316288798894"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1992589850516860940",
+        "created_at": "2025-11-23T13:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992589850516860940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1143103126594961408",
+              "start": 3,
+              "username": "segu_ishida"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cef03wJjaB",
+              "end": 45,
+              "expanded_url": "https://x.com/segu_ishida/status/1992164316288798894/photo/1",
+              "media_key": "3_1992164311532523520",
+              "start": 22,
+              "url": "https://t.co/cef03wJjaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992589850516860940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3645
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992164316288798894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @segu_ishida: 職務質問 https://t.co/cef03wJjaB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992164311532523520"
+          ]
+        },
+        "author_id": "1143103126594961408",
+        "conversation_id": "1992164316288798894",
+        "created_at": "2025-11-22T09:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992164316288798894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cef03wJjaB",
+              "end": 28,
+              "expanded_url": "https://x.com/segu_ishida/status/1992164316288798894/photo/1",
+              "media_key": "3_1992164311532523520",
+              "start": 5,
+              "url": "https://t.co/cef03wJjaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992164316288798894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4521,
+          "impression_count": 749026,
+          "like_count": 57603,
+          "quote_count": 82,
+          "reply_count": 30,
+          "retweet_count": 3645
+        },
+        "reply_settings": "everyone",
+        "text": "職務質問 https://t.co/cef03wJjaB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 1899,
+          "like_count": 71810,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 8021
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-24T10:26:37.000Z",
+        "description": "Ishida Illustrator/CG Artist ご連絡はこちらishida.segu@gmail.com",
+        "id": "1143103126594961408",
+        "location": "KASSEN",
+        "name": "石田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323615591622569984/PFIu5_5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183452,
+          "following_count": 663,
+          "like_count": 5304,
+          "listed_count": 999,
+          "media_count": 938,
+          "tweet_count": 2735
+        },
+        "username": "segu_ishida",
+        "verified": false
+      }
+    ]
+  }
+}

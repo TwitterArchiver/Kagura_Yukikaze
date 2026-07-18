@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046177307682078720"
+      ],
+      "media_source_tweet_id": [
+        "2046177310450315468"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2046218551141474632",
+    "created_at": "2026-04-20T13:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046218551141474632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xxg4u2lnaK",
+          "end": 51,
+          "expanded_url": "https://x.com/amecandy_x/status/2046177310450315468/photo/1",
+          "media_key": "3_2046177307682078720",
+          "start": 28,
+          "url": "https://t.co/Xxg4u2lnaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046218551141474632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046177310450315468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 愈美和普瑞巴林网络禁售 https://t.co/Xxg4u2lnaK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046177307682078720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV7a5PbAAA_ys2.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046177307682078720"
+          ],
+          "media_source_tweet_id": [
+            "2046177310450315468"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2046218551141474632",
+        "created_at": "2026-04-20T13:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046218551141474632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xxg4u2lnaK",
+              "end": 51,
+              "expanded_url": "https://x.com/amecandy_x/status/2046177310450315468/photo/1",
+              "media_key": "3_2046177307682078720",
+              "start": 28,
+              "url": "https://t.co/Xxg4u2lnaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046218551141474632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046177310450315468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 愈美和普瑞巴林网络禁售 https://t.co/Xxg4u2lnaK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046177307682078720"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2046177310450315468",
+        "created_at": "2026-04-20T10:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046177310450315468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xxg4u2lnaK",
+              "end": 35,
+              "expanded_url": "https://x.com/amecandy_x/status/2046177310450315468/photo/1",
+              "media_key": "3_2046177307682078720",
+              "start": 12,
+              "url": "https://t.co/Xxg4u2lnaK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2046177310450315468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7352,
+          "like_count": 80,
+          "quote_count": 17,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "愈美和普瑞巴林网络禁售 https://t.co/Xxg4u2lnaK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2937,
+          "following_count": 2825,
+          "like_count": 102022,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 12397
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6139,
+          "following_count": 2121,
+          "like_count": 27076,
+          "listed_count": 15,
+          "media_count": 1413,
+          "tweet_count": 10099
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1994084476360773859",
+    "created_at": "2025-11-27T16:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994084476360773859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1920598284877639684",
+          "start": 3,
+          "username": "fartypanana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994084476360773859",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 791
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993884094808408150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fartypanana: \"stop cutting yourself\" would you rather me kill myself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1994084476360773859",
+        "created_at": "2025-11-27T16:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994084476360773859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1920598284877639684",
+              "start": 3,
+              "username": "fartypanana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994084476360773859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 791
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993884094808408150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fartypanana: \"stop cutting yourself\" would you rather me kill myself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920598284877639684",
+        "conversation_id": "1993884094808408150",
+        "created_at": "2025-11-27T03:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993884094808408150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993884094808408150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 19388,
+          "like_count": 2030,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 791
+        },
+        "reply_settings": "everyone",
+        "text": "\"stop cutting yourself\" would you rather me kill myself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1944,
+          "like_count": 72630,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 8108
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T21:54:59.000Z",
+        "description": "13 🦙   she/her    shedtwt🪒🍛    I HAVE A BF   adhd🐠    censored sh🐝     46kg, gw 40kg🦔   no dni I block freely!!    Favoomf: @St4rvingZombiez",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 124,
+                "username": "St4rvingZombiez"
+              }
+            ]
+          }
+        },
+        "id": "1920598284877639684",
+        "name": "buro of shedtwt!! || IFB!",
+        "pinned_tweet_id": "1984713388661039579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987377823477100544/gwGxEOGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1080,
+          "like_count": 370,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 685
+        },
+        "username": "fartypanana",
+        "verified": false
+      }
+    ]
+  }
+}

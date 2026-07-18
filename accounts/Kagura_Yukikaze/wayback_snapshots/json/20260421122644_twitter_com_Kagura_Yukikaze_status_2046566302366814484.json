@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046355335036968960"
+      ],
+      "media_source_tweet_id": [
+        "2046355398873997589"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2046566302366814484",
+    "created_at": "2026-04-21T12:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046566302366814484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040846132138369024",
+          "start": 3,
+          "username": "_bananba_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hZl9muUTFz",
+          "end": 38,
+          "expanded_url": "https://x.com/_bananba_/status/2046355398873997589/video/1",
+          "media_key": "13_2046355335036968960",
+          "start": 15,
+          "url": "https://t.co/hZl9muUTFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046566302366814484",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046355398873997589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_bananba_: https://t.co/hZl9muUTFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15627,
+        "height": 960,
+        "media_key": "13_2046355335036968960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046355335036968960/img/m-Dd4-afnU2PaO6P.jpg",
+        "public_metrics": {
+          "view_count": 79401
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046355335036968960/vid/avc1/320x426/9rNN62n4Rb6TbZmV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046355335036968960/vid/avc1/480x640/ak9n1BxmFl_1Z2M8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046355335036968960/vid/avc1/720x960/Vpt7U5GofMWOH-WN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046355335036968960/pl/4M1CSzqmwjsEOsII.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046355335036968960"
+          ],
+          "media_source_tweet_id": [
+            "2046355398873997589"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2046566302366814484",
+        "created_at": "2026-04-21T12:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046566302366814484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040846132138369024",
+              "start": 3,
+              "username": "_bananba_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZl9muUTFz",
+              "end": 38,
+              "expanded_url": "https://x.com/_bananba_/status/2046355398873997589/video/1",
+              "media_key": "13_2046355335036968960",
+              "start": 15,
+              "url": "https://t.co/hZl9muUTFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046566302366814484",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046355398873997589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_bananba_: https://t.co/hZl9muUTFz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046355335036968960"
+          ]
+        },
+        "author_id": "2040846132138369024",
+        "conversation_id": "2046355398873997589",
+        "created_at": "2026-04-20T22:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046355398873997589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZl9muUTFz",
+              "end": 23,
+              "expanded_url": "https://x.com/_bananba_/status/2046355398873997589/video/1",
+              "media_key": "13_2046355335036968960",
+              "start": 0,
+              "url": "https://t.co/hZl9muUTFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046355398873997589",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 991,
+          "impression_count": 142605,
+          "like_count": 5162,
+          "quote_count": 24,
+          "reply_count": 30,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hZl9muUTFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 2834,
+          "like_count": 102260,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 12420
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T17:37:45.000Z",
+        "description": "Just a silly dude being silly. \n\nMost based chud\n\nIt's better to cum in the sink, than to sink in cum",
+        "id": "2040846132138369024",
+        "name": "nana",
+        "pinned_tweet_id": "2046260775904272733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042735426348441600/OKfdRQ3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 268,
+          "like_count": 2311,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 196
+        },
+        "username": "_bananba_",
+        "verified": false
+      }
+    ]
+  }
+}

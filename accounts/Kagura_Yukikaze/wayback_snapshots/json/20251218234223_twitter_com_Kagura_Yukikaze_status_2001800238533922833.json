@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001456883974950912"
+      ],
+      "media_source_tweet_id": [
+        "2001456886533530067"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2001800238533922833",
+    "created_at": "2025-12-18T23:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T00:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001800238533922833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1312407594217005059",
+          "start": 3,
+          "username": "coolcatsociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KvMRPt0IAs",
+          "end": 43,
+          "expanded_url": "https://x.com/coolcatsociety/status/2001456886533530067/photo/1",
+          "media_key": "3_2001456883974950912",
+          "start": 20,
+          "url": "https://t.co/KvMRPt0IAs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001800238533922833",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001456886533530067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coolcatsociety: https://t.co/KvMRPt0IAs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_2001456883974950912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8aaboqWUAAb18i.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001456883974950912"
+          ],
+          "media_source_tweet_id": [
+            "2001456886533530067"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2001800238533922833",
+        "created_at": "2025-12-18T23:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T00:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001800238533922833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1312407594217005059",
+              "start": 3,
+              "username": "coolcatsociety"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvMRPt0IAs",
+              "end": 43,
+              "expanded_url": "https://x.com/coolcatsociety/status/2001456886533530067/photo/1",
+              "media_key": "3_2001456883974950912",
+              "start": 20,
+              "url": "https://t.co/KvMRPt0IAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001800238533922833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001456886533530067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coolcatsociety: https://t.co/KvMRPt0IAs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001456883974950912"
+          ]
+        },
+        "author_id": "1312407594217005059",
+        "conversation_id": "2001456886533530067",
+        "created_at": "2025-12-18T00:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T01:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001456886533530067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvMRPt0IAs",
+              "end": 23,
+              "expanded_url": "https://x.com/coolcatsociety/status/2001456886533530067/photo/1",
+              "media_key": "3_2001456883974950912",
+              "start": 0,
+              "url": "https://t.co/KvMRPt0IAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001456886533530067",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 148928,
+          "like_count": 18675,
+          "quote_count": 24,
+          "reply_count": 33,
+          "retweet_count": 1119
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KvMRPt0IAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 2096,
+          "like_count": 77083,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 8732
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-03T15:02:18.000Z",
+        "description": "A society of cool cats.",
+        "id": "1312407594217005059",
+        "name": "Cool Cat Society",
+        "pinned_tweet_id": "1556311691092283397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591993791258710018/iuVySjLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147020,
+          "following_count": 31,
+          "like_count": 947,
+          "listed_count": 534,
+          "media_count": 1318,
+          "tweet_count": 1463
+        },
+        "username": "coolcatsociety",
+        "verified": true
+      }
+    ]
+  }
+}

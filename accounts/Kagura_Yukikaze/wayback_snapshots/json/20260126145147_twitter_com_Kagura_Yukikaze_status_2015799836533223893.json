@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015778916192129024",
+        "3_2015778916187910144"
+      ],
+      "media_source_tweet_id": [
+        "2015778936911962148",
+        "2015778936911962148"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2015799836533223893",
+    "created_at": "2026-01-26T14:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015799836533223893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950548412140494848",
+          "start": 3,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X2FFlXOVwg",
+          "end": 56,
+          "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2015778936911962148/photo/1",
+          "media_key": "3_2015778916192129024",
+          "start": 33,
+          "url": "https://t.co/X2FFlXOVwg"
+        },
+        {
+          "display_url": "pic.x.com/X2FFlXOVwg",
+          "end": 56,
+          "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2015778936911962148/photo/1",
+          "media_key": "3_2015778916187910144",
+          "start": 33,
+          "url": "https://t.co/X2FFlXOVwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015799836533223893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015778936911962148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K7qWcfzcdAPW5Y9: 中国人最喜欢的两样东西 https://t.co/X2FFlXOVwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2015778916192129024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l8PoVakAAF3v9.jpg",
+        "width": 516
+      },
+      {
+        "height": 542,
+        "media_key": "3_2015778916187910144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l8PoUaMAAFT68.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015778916192129024",
+            "3_2015778916187910144"
+          ],
+          "media_source_tweet_id": [
+            "2015778936911962148",
+            "2015778936911962148"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2015799836533223893",
+        "created_at": "2026-01-26T14:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015799836533223893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950548412140494848",
+              "start": 3,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2FFlXOVwg",
+              "end": 56,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2015778936911962148/photo/1",
+              "media_key": "3_2015778916192129024",
+              "start": 33,
+              "url": "https://t.co/X2FFlXOVwg"
+            },
+            {
+              "display_url": "pic.x.com/X2FFlXOVwg",
+              "end": 56,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2015778936911962148/photo/1",
+              "media_key": "3_2015778916187910144",
+              "start": 33,
+              "url": "https://t.co/X2FFlXOVwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015799836533223893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015778936911962148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K7qWcfzcdAPW5Y9: 中国人最喜欢的两样东西 https://t.co/X2FFlXOVwg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015778916192129024",
+            "3_2015778916187910144"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2015778936911962148",
+        "created_at": "2026-01-26T13:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015778936911962148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2FFlXOVwg",
+              "end": 35,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2015778936911962148/photo/1",
+              "media_key": "3_2015778916192129024",
+              "start": 12,
+              "url": "https://t.co/X2FFlXOVwg"
+            },
+            {
+              "display_url": "pic.x.com/X2FFlXOVwg",
+              "end": 35,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2015778936911962148/photo/1",
+              "media_key": "3_2015778916187910144",
+              "start": 12,
+              "url": "https://t.co/X2FFlXOVwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015778936911962148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6959,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国人最喜欢的两样东西 https://t.co/X2FFlXOVwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 2295,
+          "like_count": 83229,
+          "listed_count": 2,
+          "media_count": 612,
+          "tweet_count": 9731
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "我每天都看：浪人新闻、跑路TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/eL54RSI0k6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15212,
+          "following_count": 211,
+          "like_count": 665,
+          "listed_count": 47,
+          "media_count": 648,
+          "tweet_count": 856
+        },
+        "url": "https://t.co/eL54RSI0k6",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

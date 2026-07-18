@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987780483510616064"
+      ],
+      "media_source_tweet_id": [
+        "1987780489034571921"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1987923965357289525",
+    "created_at": "2025-11-10T16:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T17:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987923965357289525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847025525610762240",
+          "start": 3,
+          "username": "KS_Nitori"
+        },
+        {
+          "end": 40,
+          "id": "1746469344325021697",
+          "start": 25,
+          "username": "suzumiyasuzume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/26wldbVPES",
+          "end": 64,
+          "expanded_url": "https://x.com/KS_Nitori/status/1987780489034571921/photo/1",
+          "media_key": "3_1987780483510616064",
+          "start": 41,
+          "url": "https://t.co/26wldbVPES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987923965357289525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987780489034571921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KS_Nitori: 已严肃品尝绿猫OO @suzumiyasuzume https://t.co/26wldbVPES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1987780483510616064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YD0WsawAAC6p8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987780483510616064"
+          ],
+          "media_source_tweet_id": [
+            "1987780489034571921"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987923965357289525",
+        "created_at": "2025-11-10T16:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987923965357289525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847025525610762240",
+              "start": 3,
+              "username": "KS_Nitori"
+            },
+            {
+              "end": 40,
+              "id": "1746469344325021697",
+              "start": 25,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/26wldbVPES",
+              "end": 64,
+              "expanded_url": "https://x.com/KS_Nitori/status/1987780489034571921/photo/1",
+              "media_key": "3_1987780483510616064",
+              "start": 41,
+              "url": "https://t.co/26wldbVPES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987923965357289525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987780489034571921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KS_Nitori: 已严肃品尝绿猫OO @suzumiyasuzume https://t.co/26wldbVPES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987780483510616064"
+          ]
+        },
+        "author_id": "1847025525610762240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987780489034571921",
+        "created_at": "2025-11-10T07:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987780489034571921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1746469344325021697",
+              "start": 10,
+              "username": "suzumiyasuzume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/26wldbVPES",
+              "end": 49,
+              "expanded_url": "https://x.com/KS_Nitori/status/1987780489034571921/photo/1",
+              "media_key": "3_1987780483510616064",
+              "start": 26,
+              "url": "https://t.co/26wldbVPES"
+            },
+            {
+              "display_url": "x.com/HarukawaSayaka…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/HarukawaSayaka/status/1987771586435576280",
+              "start": 50,
+              "url": "https://t.co/p8n0rAZ4g9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987780489034571921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4718,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987771586435576280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃品尝绿猫OO @suzumiyasuzume https://t.co/26wldbVPES https://t.co/p8n0rAZ4g9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 1827,
+          "like_count": 69665,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 7777
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2lEIU"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "pinned_tweet_id": "1981839564122804621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 1579,
+          "like_count": 10649,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/8rmha2lEIU",
+        "username": "KS_Nitori",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "中国からのvtb\n绿色山葵猫【？】\n精神不稳定\n头像，头图画师：@kitsuneOAO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "kitsuneOAO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEpH0"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984604439991500802/5Wv1Qq9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11962,
+          "following_count": 704,
+          "like_count": 701,
+          "listed_count": 19,
+          "media_count": 78,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/NOpi9MEpH0",
+        "username": "suzumiyasuzume",
+        "verified": false
+      }
+    ]
+  }
+}

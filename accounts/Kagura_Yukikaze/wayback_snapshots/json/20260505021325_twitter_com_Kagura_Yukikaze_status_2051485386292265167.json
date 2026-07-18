@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2051485386292265167",
+    "created_at": "2026-05-05T02:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051485386292265167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nakaharabulbel…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/nakaharabulbel/status/2051451108481286387",
+          "start": 13,
+          "url": "https://t.co/E9UWoTEGs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051485386292265167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051451108481286387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又一位互fo….\n晚安… https://t.co/E9UWoTEGs1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2051485386292265167",
+        "created_at": "2026-05-05T02:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051485386292265167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakaharabulbel…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nakaharabulbel/status/2051451108481286387",
+              "start": 13,
+              "url": "https://t.co/E9UWoTEGs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051485386292265167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051451108481286387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又一位互fo….\n晚安… https://t.co/E9UWoTEGs1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600148543125090305",
+        "conversation_id": "2051451108481286387",
+        "created_at": "2026-05-04T23:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051451108481286387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051451108481286387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n珠芽于2026年5月5日（周二）上午八点前回归天空（坠楼），生前将账号托付给我，面前已联系上其母亲，已确定死亡。\n是你们当中的人一步步将她推向深渊，我恨你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 2899,
+          "like_count": 104488,
+          "listed_count": 8,
+          "media_count": 780,
+          "tweet_count": 12721
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "正在向崩溃发展，急需要爱，坐标安徽蚌埠。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nakaharabulbel",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nakaharabulbel",
+                "start": 0,
+                "url": "https://t.co/KC6nMpv3E2"
+              }
+            ]
+          }
+        },
+        "id": "1600148543125090305",
+        "location": "🚪38u，但是我很废",
+        "name": "珠芽（想涨fo中）",
+        "pinned_tweet_id": "2051451108481286387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041074958781272064/hww1YOFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 414,
+          "like_count": 10057,
+          "listed_count": 6,
+          "media_count": 173,
+          "tweet_count": 1619
+        },
+        "url": "https://t.co/KC6nMpv3E2",
+        "username": "NakaharaBulbel",
+        "verified": false
+      }
+    ]
+  }
+}

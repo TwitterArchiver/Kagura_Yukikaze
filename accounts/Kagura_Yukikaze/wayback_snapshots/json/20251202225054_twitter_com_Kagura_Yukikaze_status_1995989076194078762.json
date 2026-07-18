@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1995905211148427364",
+    "created_at": "2025-12-02T22:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T23:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995989076194078762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782063289675255808",
+          "start": 0,
+          "username": "Kisaragi_Momoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995989076194078762",
+    "in_reply_to_user_id": "1782063289675255808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995905211148427364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisaragi_Momoe 抱抱哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1995905211148427364].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1995905211148427364",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1995905211148427364"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1995905211148427364",
+        "created_at": "2025-12-02T22:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T23:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995989076194078762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782063289675255808",
+              "start": 0,
+              "username": "Kisaragi_Momoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995989076194078762",
+        "in_reply_to_user_id": "1782063289675255808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995905211148427364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisaragi_Momoe 抱抱哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 2009,
+          "like_count": 73970,
+          "listed_count": 2,
+          "media_count": 562,
+          "tweet_count": 8259
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T15:06:19.000Z",
+        "description": "焦虑型依恋｜MtX｜坐标山东高三｜持续性想死｜最爱的最好的妹妹 @minaseayano ｜最喜欢的妈妈大人 @eyndentlefly | 我最好的可爱姐姐老婆 @nomexfirebullet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "minaseayano"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "eyndentlefly"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "nomexfirebullet"
+              }
+            ]
+          }
+        },
+        "id": "1782063289675255808",
+        "location": "在你心里",
+        "name": "如月 桃枝（剧烈变性版）🍥🏳️‍⚧️🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑",
+        "pinned_tweet_id": "1995440759039033830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984682878085840897/6gda--vn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1401,
+          "like_count": 32268,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 4258
+        },
+        "username": "Kisaragi_Momoe",
+        "verified": false
+      }
+    ]
+  }
+}

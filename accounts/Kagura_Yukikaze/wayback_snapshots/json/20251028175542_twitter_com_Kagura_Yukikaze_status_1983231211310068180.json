@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983078512513748992"
+      ],
+      "media_source_tweet_id": [
+        "1983078521011614024"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1983231211310068180",
+    "created_at": "2025-10-28T17:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983231211310068180"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "ThinkPad",
+          "probability": 0.6237,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1445084903146614791",
+          "start": 3,
+          "username": "Adityapandeydev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xnWbttGKul",
+          "end": 67,
+          "expanded_url": "https://x.com/Adityapandeydev/status/1983078521011614024/photo/1",
+          "media_key": "3_1983078512513748992",
+          "start": 44,
+          "url": "https://t.co/xnWbttGKul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983231211310068180",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983078521011614024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Adityapandeydev: The life of a ThinkPad https://t.co/xnWbttGKul"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_1983078512513748992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VPZnwXkAA9kfX.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983078512513748992"
+          ],
+          "media_source_tweet_id": [
+            "1983078521011614024"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1983231211310068180",
+        "created_at": "2025-10-28T17:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983231211310068180"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "ThinkPad",
+              "probability": 0.6237,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1445084903146614791",
+              "start": 3,
+              "username": "Adityapandeydev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnWbttGKul",
+              "end": 67,
+              "expanded_url": "https://x.com/Adityapandeydev/status/1983078521011614024/photo/1",
+              "media_key": "3_1983078512513748992",
+              "start": 44,
+              "url": "https://t.co/xnWbttGKul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983231211310068180",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983078521011614024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Adityapandeydev: The life of a ThinkPad https://t.co/xnWbttGKul"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983078512513748992"
+          ]
+        },
+        "author_id": "1445084903146614791",
+        "conversation_id": "1983078521011614024",
+        "created_at": "2025-10-28T07:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983078521011614024"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ThinkPad",
+              "probability": 0.7502,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnWbttGKul",
+              "end": 46,
+              "expanded_url": "https://x.com/Adityapandeydev/status/1983078521011614024/photo/1",
+              "media_key": "3_1983078512513748992",
+              "start": 23,
+              "url": "https://t.co/xnWbttGKul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983078521011614024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 43904,
+          "like_count": 3133,
+          "quote_count": 18,
+          "reply_count": 32,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "The life of a ThinkPad https://t.co/xnWbttGKul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983188124747587585/zIni_VCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 1711,
+          "like_count": 67046,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7559
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T17:54:40.000Z",
+        "description": "22 & building everything.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/fMdDV3NdGz",
+                "end": 23,
+                "expanded_url": "https://discord.gg/fMdDV3NdGz",
+                "start": 0,
+                "url": "https://t.co/XpGq6lTzPH"
+              }
+            ]
+          }
+        },
+        "id": "1445084903146614791",
+        "location": "  $69K/month",
+        "name": "Adith",
+        "pinned_tweet_id": "1983078521011614024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964660690280415232/NyvsJ6xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11943,
+          "following_count": 1501,
+          "like_count": 13652,
+          "listed_count": 20,
+          "media_count": 756,
+          "tweet_count": 6219
+        },
+        "url": "https://t.co/XpGq6lTzPH",
+        "username": "Adityapandeydev",
+        "verified": true
+      }
+    ]
+  }
+}

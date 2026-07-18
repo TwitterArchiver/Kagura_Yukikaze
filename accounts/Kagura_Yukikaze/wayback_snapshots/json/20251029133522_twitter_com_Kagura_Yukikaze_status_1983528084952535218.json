@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983168772392599552",
+        "3_1983168772363141120",
+        "3_1983168772367376384",
+        "3_1983168772409319424"
+      ],
+      "media_source_tweet_id": [
+        "1983168786586042496",
+        "1983168786586042496",
+        "1983168786586042496",
+        "1983168786586042496"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1983528084952535218",
+    "created_at": "2025-10-29T13:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983528084952535218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1227160453253455872",
+          "start": 3,
+          "username": "L0vetodream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NiWdYOr724",
+          "end": 56,
+          "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+          "media_key": "3_1983168772392599552",
+          "start": 33,
+          "url": "https://t.co/NiWdYOr724"
+        },
+        {
+          "display_url": "pic.x.com/NiWdYOr724",
+          "end": 56,
+          "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+          "media_key": "3_1983168772363141120",
+          "start": 33,
+          "url": "https://t.co/NiWdYOr724"
+        },
+        {
+          "display_url": "pic.x.com/NiWdYOr724",
+          "end": 56,
+          "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+          "media_key": "3_1983168772367376384",
+          "start": 33,
+          "url": "https://t.co/NiWdYOr724"
+        },
+        {
+          "display_url": "pic.x.com/NiWdYOr724",
+          "end": 56,
+          "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+          "media_key": "3_1983168772409319424",
+          "start": 33,
+          "url": "https://t.co/NiWdYOr724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983528084952535218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983168786586042496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L0vetodream: 17 Pro的相机模组是真的大 https://t.co/NiWdYOr724"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983168772392599552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WhfcAbwAAP_ol.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983168772363141120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Whfb5aQAA-fhn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983168772367376384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Whfb6a4AAacVK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983168772409319424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WhfcEa4AAUlEg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983168772392599552",
+            "3_1983168772363141120",
+            "3_1983168772367376384",
+            "3_1983168772409319424"
+          ],
+          "media_source_tweet_id": [
+            "1983168786586042496",
+            "1983168786586042496",
+            "1983168786586042496",
+            "1983168786586042496"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1983528084952535218",
+        "created_at": "2025-10-29T13:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983528084952535218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1227160453253455872",
+              "start": 3,
+              "username": "L0vetodream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiWdYOr724",
+              "end": 56,
+              "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+              "media_key": "3_1983168772392599552",
+              "start": 33,
+              "url": "https://t.co/NiWdYOr724"
+            },
+            {
+              "display_url": "pic.x.com/NiWdYOr724",
+              "end": 56,
+              "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+              "media_key": "3_1983168772363141120",
+              "start": 33,
+              "url": "https://t.co/NiWdYOr724"
+            },
+            {
+              "display_url": "pic.x.com/NiWdYOr724",
+              "end": 56,
+              "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+              "media_key": "3_1983168772367376384",
+              "start": 33,
+              "url": "https://t.co/NiWdYOr724"
+            },
+            {
+              "display_url": "pic.x.com/NiWdYOr724",
+              "end": 56,
+              "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+              "media_key": "3_1983168772409319424",
+              "start": 33,
+              "url": "https://t.co/NiWdYOr724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983528084952535218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983168786586042496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L0vetodream: 17 Pro的相机模组是真的大 https://t.co/NiWdYOr724"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983168772392599552",
+            "3_1983168772363141120",
+            "3_1983168772367376384",
+            "3_1983168772409319424"
+          ]
+        },
+        "author_id": "1227160453253455872",
+        "conversation_id": "1983168786586042496",
+        "created_at": "2025-10-28T13:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983168786586042496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiWdYOr724",
+              "end": 39,
+              "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+              "media_key": "3_1983168772392599552",
+              "start": 16,
+              "url": "https://t.co/NiWdYOr724"
+            },
+            {
+              "display_url": "pic.x.com/NiWdYOr724",
+              "end": 39,
+              "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+              "media_key": "3_1983168772363141120",
+              "start": 16,
+              "url": "https://t.co/NiWdYOr724"
+            },
+            {
+              "display_url": "pic.x.com/NiWdYOr724",
+              "end": 39,
+              "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+              "media_key": "3_1983168772367376384",
+              "start": 16,
+              "url": "https://t.co/NiWdYOr724"
+            },
+            {
+              "display_url": "pic.x.com/NiWdYOr724",
+              "end": 39,
+              "expanded_url": "https://x.com/L0vetodream/status/1983168786586042496/photo/1",
+              "media_key": "3_1983168772409319424",
+              "start": 16,
+              "url": "https://t.co/NiWdYOr724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983168786586042496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 14211,
+          "like_count": 293,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "17 Pro的相机模组是真的大 https://t.co/NiWdYOr724"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983188124747587585/zIni_VCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 1715,
+          "like_count": 67294,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7579
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T09:20:34.000Z",
+        "description": "Apple产品爱好者 收藏者 分享自己的科技数码产品 （只分享产品 不聊政治 聊政治的 种族歧视的 全部会被拉黑）",
+        "id": "1227160453253455872",
+        "location": "like my dream",
+        "name": "有没有搞措",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284920026865123329/qHlPFH1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39501,
+          "following_count": 779,
+          "like_count": 11830,
+          "listed_count": 411,
+          "media_count": 2256,
+          "tweet_count": 5325
+        },
+        "username": "L0vetodream",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014195940618293248"
+      ],
+      "media_source_tweet_id": [
+        "2014195943311044624"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2014333272629891557",
+    "created_at": "2026-01-22T13:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T14:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014333272629891557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1287655187100901379",
+          "start": 3,
+          "username": "SadButTrueDog02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJBDHQHEhq",
+          "end": 62,
+          "expanded_url": "https://x.com/SadButTrueDog02/status/2014195943311044624/photo/1",
+          "media_key": "3_2014195940618293248",
+          "start": 39,
+          "url": "https://t.co/aJBDHQHEhq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014333272629891557",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1917
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014195943311044624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SadButTrueDog02: one day at a time https://t.co/aJBDHQHEhq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2014195940618293248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PciUyWUAA1mOC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014195940618293248"
+          ],
+          "media_source_tweet_id": [
+            "2014195943311044624"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2014333272629891557",
+        "created_at": "2026-01-22T13:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014333272629891557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1287655187100901379",
+              "start": 3,
+              "username": "SadButTrueDog02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJBDHQHEhq",
+              "end": 62,
+              "expanded_url": "https://x.com/SadButTrueDog02/status/2014195943311044624/photo/1",
+              "media_key": "3_2014195940618293248",
+              "start": 39,
+              "url": "https://t.co/aJBDHQHEhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014333272629891557",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1917
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014195943311044624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SadButTrueDog02: one day at a time https://t.co/aJBDHQHEhq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014195940618293248"
+          ]
+        },
+        "author_id": "1287655187100901379",
+        "conversation_id": "2014195943311044624",
+        "created_at": "2026-01-22T04:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014195943311044624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJBDHQHEhq",
+              "end": 41,
+              "expanded_url": "https://x.com/SadButTrueDog02/status/2014195943311044624/photo/1",
+              "media_key": "3_2014195940618293248",
+              "start": 18,
+              "url": "https://t.co/aJBDHQHEhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014195943311044624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2224,
+          "impression_count": 124030,
+          "like_count": 18416,
+          "quote_count": 42,
+          "reply_count": 4,
+          "retweet_count": 1917
+        },
+        "reply_settings": "everyone",
+        "text": "one day at a time https://t.co/aJBDHQHEhq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 2255,
+          "like_count": 82257,
+          "listed_count": 2,
+          "media_count": 604,
+          "tweet_count": 9556
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T07:45:26.000Z",
+        "description": "телега - рубль.png\n\n🫀📿🃏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rublepng",
+                "end": 23,
+                "expanded_url": "https://t.me/rublepng",
+                "start": 0,
+                "url": "https://t.co/oKLyExsmWV"
+              }
+            ]
+          }
+        },
+        "id": "1287655187100901379",
+        "location": "🇷🇺Санкт-Петербург, Россия",
+        "name": "ruble.png🔪",
+        "pinned_tweet_id": "2011870516827865580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899608585031577600/cPVbVLl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7064,
+          "following_count": 173,
+          "like_count": 2760,
+          "listed_count": 24,
+          "media_count": 70,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/oKLyExsmWV",
+        "username": "SadButTrueDog02",
+        "verified": false
+      }
+    ]
+  }
+}

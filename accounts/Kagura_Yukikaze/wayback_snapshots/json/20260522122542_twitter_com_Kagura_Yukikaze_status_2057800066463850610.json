@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2057800066463850610",
+    "created_at": "2026-05-22T12:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057800066463850610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764195010986274816",
+          "start": 3,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057800066463850610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057768936507326548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798: 推特上的跨性别圈子不是坏圈\n但也不是好圈\n\n浅混，保持礼貌和尊重\n你可以感受到圈子的人文关怀\n可以感受到面对闹钟家长的无力\n\n但是混深了，你会看到这个圈子\n最自私、卑劣\n同时也是最会伪装的一面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2057800066463850610",
+        "created_at": "2026-05-22T12:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057800066463850610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764195010986274816",
+              "start": 3,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057800066463850610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057768936507326548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798: 推特上的跨性别圈子不是坏圈\n但也不是好圈\n\n浅混，保持礼貌和尊重\n你可以感受到圈子的人文关怀\n可以感受到面对闹钟家长的无力\n\n但是混深了，你会看到这个圈子\n最自私、卑劣\n同时也是最会伪装的一面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764195010986274816",
+        "conversation_id": "2057768936507326548",
+        "created_at": "2026-05-22T10:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057768936507326548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057768936507326548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 187,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推特上的跨性别圈子不是坏圈\n但也不是好圈\n\n浅混，保持礼貌和尊重\n你可以感受到圈子的人文关怀\n可以感受到面对闹钟家长的无力\n\n但是混深了，你会看到这个圈子\n最自私、卑劣\n同时也是最会伪装的一面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 2941,
+          "like_count": 107306,
+          "listed_count": 8,
+          "media_count": 791,
+          "tweet_count": 13098
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党！) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 心境障碍 ED GD (OD🧐)双相中焦 | 交通 科学 医学 杂圈迷 | 战争雷霆 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(疲乏版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 1262,
+          "like_count": 16431,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 2338
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

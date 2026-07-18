@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007774836454764544"
+      ],
+      "media_source_tweet_id": [
+        "2007808986377011364"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2007960485610860961",
+    "created_at": "2026-01-04T23:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T00:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007960485610860961"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945054112758059008",
+          "start": 3,
+          "username": "hayeong21m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kRqr9Jd4Zy",
+          "end": 45,
+          "expanded_url": "https://x.com/hayeong21m/status/2007808986377011364/photo/1",
+          "media_key": "3_2007774836454764544",
+          "start": 22,
+          "url": "https://t.co/kRqr9Jd4Zy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007960485610860961",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1423
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007808986377011364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hayeong21m: #重音テト https://t.co/kRqr9Jd4Zy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2352,
+        "media_key": "3_2007774836454764544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90Mk3vasAAPN-i.jpg",
+        "width": 1875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007774836454764544"
+          ],
+          "media_source_tweet_id": [
+            "2007808986377011364"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2007960485610860961",
+        "created_at": "2026-01-04T23:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T00:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007960485610860961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1945054112758059008",
+              "start": 3,
+              "username": "hayeong21m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRqr9Jd4Zy",
+              "end": 45,
+              "expanded_url": "https://x.com/hayeong21m/status/2007808986377011364/photo/1",
+              "media_key": "3_2007774836454764544",
+              "start": 22,
+              "url": "https://t.co/kRqr9Jd4Zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007960485610860961",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1423
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007808986377011364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hayeong21m: #重音テト https://t.co/kRqr9Jd4Zy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007774836454764544"
+          ]
+        },
+        "author_id": "1945054112758059008",
+        "conversation_id": "2007808986377011364",
+        "created_at": "2026-01-04T13:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007808986377011364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRqr9Jd4Zy",
+              "end": 29,
+              "expanded_url": "https://x.com/hayeong21m/status/2007808986377011364/photo/1",
+              "media_key": "3_2007774836454764544",
+              "start": 6,
+              "url": "https://t.co/kRqr9Jd4Zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007808986377011364",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1389,
+          "impression_count": 75580,
+          "like_count": 17655,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1423
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/kRqr9Jd4Zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 2166,
+          "like_count": 79690,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 9117
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T09:34:00.000Z",
+        "description": "主にボカロを描いてます。たまに忙しくてお返事遅れることがあります 🎏🎏🎏🎏🎏🎏\n/AI🚫/ サブ垢 → @cloudzaaaari_21 / bskyでも活動中です！ 👉 https://t.co/45MRwRTtnq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "cloudzaaaari_21"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/cloudz…",
+                "end": 109,
+                "expanded_url": "https://bsky.app/profile/cloudzari.bsky.social",
+                "start": 86,
+                "url": "https://t.co/45MRwRTtnq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/118144735",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/118144735",
+                "start": 0,
+                "url": "https://t.co/CTb0GQi4yS"
+              }
+            ]
+          }
+        },
+        "id": "1945054112758059008",
+        "location": "둣교같다!",
+        "name": "@cloudzari_21",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007686273755181056/OVlUtZuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6568,
+          "following_count": 80,
+          "like_count": 6262,
+          "listed_count": 17,
+          "media_count": 138,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/CTb0GQi4yS",
+        "username": "hayeong21m",
+        "verified": false
+      }
+    ]
+  }
+}

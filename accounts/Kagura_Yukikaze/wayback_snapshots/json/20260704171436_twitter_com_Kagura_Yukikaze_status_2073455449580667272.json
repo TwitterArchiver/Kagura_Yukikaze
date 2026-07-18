@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2073455449580667272",
+    "created_at": "2026-07-04T17:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073455449580667272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055900754968465408",
+          "start": 3,
+          "username": "conv1x1"
+        },
+        {
+          "end": 25,
+          "id": "1930261854510821388",
+          "start": 13,
+          "username": "xingyunxiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073455449580667272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073454450048647425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @conv1x1: @xingyunxiya 先不说别的，你们家长为什么都爱看孩子的隐私？是有什么癖好吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2073455449580667272",
+        "created_at": "2026-07-04T17:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073455449580667272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055900754968465408",
+              "start": 3,
+              "username": "conv1x1"
+            },
+            {
+              "end": 25,
+              "id": "1930261854510821388",
+              "start": 13,
+              "username": "xingyunxiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073455449580667272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454450048647425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @conv1x1: @xingyunxiya 先不说别的，你们家长为什么都爱看孩子的隐私？是有什么癖好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055900754968465408",
+        "conversation_id": "2073453017903567277",
+        "created_at": "2026-07-04T17:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073454450048647425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930261854510821388",
+              "start": 0,
+              "username": "xingyunxiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073454450048647425",
+        "in_reply_to_user_id": "1930261854510821388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073453017903567277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyunxiya 先不说别的，你们家长为什么都爱看孩子的隐私？是有什么癖好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2070462188402413624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 3071,
+          "like_count": 113981,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 13843
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T06:55:27.000Z",
+        "description": "怪人・lim社恐=+∞・某种奇怪的跨・infp&intp叠加态・喜欢［男, 女］孩子(闭区间)・千禧製・非二维・非线性・张量・什么时候给性别先安一个虚轴?・甚至可以跨物种?・傅立叶・贝叶斯・模拟?数字?连续?离散?・找到了神奇的介面・干什么都是半吊子・其实是个笨蛋\nhttps://t.co/FORM8d5HJj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/T9HsSQwz",
+                "end": 156,
+                "expanded_url": "https://discord.gg/T9HsSQwz",
+                "start": 133,
+                "url": "https://t.co/FORM8d5HJj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tat48760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tat48760",
+                "start": 0,
+                "url": "https://t.co/cyyi2t9Aci"
+              }
+            ]
+          }
+        },
+        "id": "2055900754968465408",
+        "name": "uu （永远爱你们！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069073801414082560/0qmpBmzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 120,
+          "like_count": 1863,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/cyyi2t9Aci",
+        "username": "conv1x1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T13:54:46.000Z",
+        "description": "破茧成蝶，终见光芒\n喜欢的小可爱：@yue_li0712\n半证含🍥｜Start：2019（9 years old）｜中途被迫断糖｜Continue：2026/06/27｜10年｜可以叫我云稀｜MtF｜不od自残｜小透明社恐属性｜喜欢朋友和xyn｜174/50 烦｜推芙鸟月天依｜同类互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yue_li0712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furina.blog",
+                "end": 23,
+                "expanded_url": "http://furina.blog",
+                "start": 0,
+                "url": "https://t.co/N99BSLWgjU"
+              }
+            ]
+          }
+        },
+        "id": "1930261854510821388",
+        "location": "東京 渋谷区",
+        "name": "星云稀🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261955450941441/fsBaETTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 83,
+          "like_count": 1969,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/N99BSLWgjU",
+        "username": "xingyunxiya",
+        "verified": true
+      }
+    ]
+  }
+}

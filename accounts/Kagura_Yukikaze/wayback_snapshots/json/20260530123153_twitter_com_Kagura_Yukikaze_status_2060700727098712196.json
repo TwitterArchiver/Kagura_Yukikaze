@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2060700727098712196",
+    "created_at": "2026-05-30T12:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060700727098712196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1355034977570701316",
+          "start": 3,
+          "username": "JCMarkEvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060700727098712196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060483956810625447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JCMarkEvo: 我相信x推出自动翻译功能是为了消除语言壁垒的，而不是让世界各地的神人言论自动侵犯我的大脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2060700727098712196",
+        "created_at": "2026-05-30T12:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060700727098712196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1355034977570701316",
+              "start": 3,
+              "username": "JCMarkEvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060700727098712196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060483956810625447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JCMarkEvo: 我相信x推出自动翻译功能是为了消除语言壁垒的，而不是让世界各地的神人言论自动侵犯我的大脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355034977570701316",
+        "conversation_id": "2060483956810625447",
+        "created_at": "2026-05-29T22:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T23:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060483956810625447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060483956810625447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 46285,
+          "like_count": 1424,
+          "quote_count": 4,
+          "reply_count": 100,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "我相信x推出自动翻译功能是为了消除语言壁垒的，而不是让世界各地的神人言论自动侵犯我的大脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 3011,
+          "like_count": 109574,
+          "listed_count": 7,
+          "media_count": 799,
+          "tweet_count": 13358
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T06:08:18.000Z",
+        "description": "你好哦~？ 咳咳，这里是Mark，没什么好介绍的，痛苦上学壬，偶尔会掉落一两张手绘",
+        "id": "1355034977570701316",
+        "location": "Port 443",
+        "name": "𝓙.𝓒.𝓜𝓪𝓻𝓴🍀",
+        "pinned_tweet_id": "1897213562684367065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056412347195887616/eHBxZT74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3554,
+          "following_count": 878,
+          "like_count": 34791,
+          "listed_count": 19,
+          "media_count": 1502,
+          "tweet_count": 6179
+        },
+        "username": "JCMarkEvo",
+        "verified": false
+      }
+    ]
+  }
+}

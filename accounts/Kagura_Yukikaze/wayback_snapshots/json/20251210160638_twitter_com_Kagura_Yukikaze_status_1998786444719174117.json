@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874095638117580800"
+      ],
+      "media_source_tweet_id": [
+        "1874108249328542205"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1998786444719174117",
+    "created_at": "2025-12-10T16:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T17:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998786444719174117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1123957602449350660",
+          "start": 3,
+          "username": "TUYU_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G7vmJ8z61Y",
+          "end": 42,
+          "expanded_url": "https://x.com/TUYU_official/status/1874108249328542205/photo/1",
+          "media_key": "3_1874095638117580800",
+          "start": 19,
+          "url": "https://t.co/G7vmJ8z61Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998786444719174117",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14184
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874108249328542205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @TUYU_official: https://t.co/G7vmJ8z61Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1874095638117580800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgIgDbEbgAATQ2v.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874095638117580800"
+          ],
+          "media_source_tweet_id": [
+            "1874108249328542205"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1998786444719174117",
+        "created_at": "2025-12-10T16:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998786444719174117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1123957602449350660",
+              "start": 3,
+              "username": "TUYU_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7vmJ8z61Y",
+              "end": 42,
+              "expanded_url": "https://x.com/TUYU_official/status/1874108249328542205/photo/1",
+              "media_key": "3_1874095638117580800",
+              "start": 19,
+              "url": "https://t.co/G7vmJ8z61Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998786444719174117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14184
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874108249328542205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @TUYU_official: https://t.co/G7vmJ8z61Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874095638117580800"
+          ]
+        },
+        "author_id": "1123957602449350660",
+        "conversation_id": "1874108249328542205",
+        "created_at": "2024-12-31T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874108249328542205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7vmJ8z61Y",
+              "end": 23,
+              "expanded_url": "https://x.com/TUYU_official/status/1874108249328542205/photo/1",
+              "media_key": "3_1874095638117580800",
+              "start": 0,
+              "url": "https://t.co/G7vmJ8z61Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874108249328542205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2951,
+          "impression_count": 6765393,
+          "like_count": 75210,
+          "quote_count": 8810,
+          "reply_count": 0,
+          "retweet_count": 14184
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/G7vmJ8z61Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 2065,
+          "like_count": 75325,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 8435
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-02T14:29:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/EXSpins",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/EXSpins",
+                "start": 0,
+                "url": "https://t.co/F8O0S1FZW0"
+              }
+            ]
+          }
+        },
+        "id": "1123957602449350660",
+        "name": "ツユ",
+        "pinned_tweet_id": "1770057635209040199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425789484910616578/eM6PJ1KJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213528,
+          "following_count": 5,
+          "like_count": 7022,
+          "listed_count": 640,
+          "media_count": 344,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/F8O0S1FZW0",
+        "username": "TUYU_official",
+        "verified": true
+      }
+    ]
+  }
+}

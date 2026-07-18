@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009522289390551040",
+        "13_2009522289394819072",
+        "3_2009522289369649152",
+        "3_2009522289369550848"
+      ],
+      "media_source_tweet_id": [
+        "2009522407976128571",
+        "2009522407976128571",
+        "2009522407976128571",
+        "2009522407976128571"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2009572399206007192",
+    "created_at": "2026-01-09T10:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009572399206007192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1862977940935315456",
+          "start": 3,
+          "username": "Rainbow_080131"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ImPYxEejh",
+          "end": 97,
+          "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+          "media_key": "13_2009522289390551040",
+          "start": 74,
+          "url": "https://t.co/1ImPYxEejh"
+        },
+        {
+          "display_url": "pic.x.com/1ImPYxEejh",
+          "end": 97,
+          "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+          "media_key": "13_2009522289394819072",
+          "start": 74,
+          "url": "https://t.co/1ImPYxEejh"
+        },
+        {
+          "display_url": "pic.x.com/1ImPYxEejh",
+          "end": 97,
+          "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+          "media_key": "3_2009522289369649152",
+          "start": 74,
+          "url": "https://t.co/1ImPYxEejh"
+        },
+        {
+          "display_url": "pic.x.com/1ImPYxEejh",
+          "end": 97,
+          "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+          "media_key": "3_2009522289369550848",
+          "start": 74,
+          "url": "https://t.co/1ImPYxEejh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009572399206007192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009522407976128571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainbow_080131: 重庆某学校对学生采取暴力强制立法，不知道这样何意味，并且还要收费，最后使用权利和资本的大手压的他们喘不过气 https://t.co/1ImPYxEejh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 135448,
+        "height": 960,
+        "media_key": "13_2009522289390551040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009522289390551040/img/OOFeb7yKWg6PQgWb.jpg",
+        "public_metrics": {
+          "view_count": 92
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009522289390551040/vid/avc1/320x564/5J4_ZcGuef6pWRGa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009522289390551040/vid/avc1/480x846/nBsUU_VGtNdvsBXD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009522289390551040/vid/avc1/544x960/-nVYzdpvUGXUdCwK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009522289390551040/pl/P6EDtqcZPWb2vM_y.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 10054,
+        "height": 1280,
+        "media_key": "13_2009522289394819072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009522289394819072/img/j_4S3blTP8n0ywXg.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009522289394819072/vid/avc1/320x568/a67sOC7KoOVRK4z5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009522289394819072/vid/avc1/480x852/PMTLlyRfNytaQuaq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009522289394819072/vid/avc1/720x1280/hIvJ2cT7NhYu9EZN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009522289394819072/pl/qcg5VpPuIcKU2eaE.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009522289369649152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NB4BIbkAAeEds.jpg",
+        "width": 532
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009522289369550848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NB4BIaEAAugqT.jpg",
+        "width": 68
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009522289390551040",
+            "13_2009522289394819072",
+            "3_2009522289369649152",
+            "3_2009522289369550848"
+          ],
+          "media_source_tweet_id": [
+            "2009522407976128571",
+            "2009522407976128571",
+            "2009522407976128571",
+            "2009522407976128571"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2009572399206007192",
+        "created_at": "2026-01-09T10:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009572399206007192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1862977940935315456",
+              "start": 3,
+              "username": "Rainbow_080131"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ImPYxEejh",
+              "end": 97,
+              "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+              "media_key": "13_2009522289390551040",
+              "start": 74,
+              "url": "https://t.co/1ImPYxEejh"
+            },
+            {
+              "display_url": "pic.x.com/1ImPYxEejh",
+              "end": 97,
+              "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+              "media_key": "13_2009522289394819072",
+              "start": 74,
+              "url": "https://t.co/1ImPYxEejh"
+            },
+            {
+              "display_url": "pic.x.com/1ImPYxEejh",
+              "end": 97,
+              "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+              "media_key": "3_2009522289369649152",
+              "start": 74,
+              "url": "https://t.co/1ImPYxEejh"
+            },
+            {
+              "display_url": "pic.x.com/1ImPYxEejh",
+              "end": 97,
+              "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+              "media_key": "3_2009522289369550848",
+              "start": 74,
+              "url": "https://t.co/1ImPYxEejh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009572399206007192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009522407976128571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainbow_080131: 重庆某学校对学生采取暴力强制立法，不知道这样何意味，并且还要收费，最后使用权利和资本的大手压的他们喘不过气 https://t.co/1ImPYxEejh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009522289390551040",
+            "13_2009522289394819072",
+            "3_2009522289369649152",
+            "3_2009522289369550848"
+          ]
+        },
+        "author_id": "1862977940935315456",
+        "conversation_id": "2009522407976128571",
+        "created_at": "2026-01-09T07:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009522407976128571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ImPYxEejh",
+              "end": 77,
+              "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+              "media_key": "13_2009522289390551040",
+              "start": 54,
+              "url": "https://t.co/1ImPYxEejh"
+            },
+            {
+              "display_url": "pic.x.com/1ImPYxEejh",
+              "end": 77,
+              "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+              "media_key": "13_2009522289394819072",
+              "start": 54,
+              "url": "https://t.co/1ImPYxEejh"
+            },
+            {
+              "display_url": "pic.x.com/1ImPYxEejh",
+              "end": 77,
+              "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+              "media_key": "3_2009522289369649152",
+              "start": 54,
+              "url": "https://t.co/1ImPYxEejh"
+            },
+            {
+              "display_url": "pic.x.com/1ImPYxEejh",
+              "end": 77,
+              "expanded_url": "https://x.com/Rainbow_080131/status/2009522407976128571/video/1",
+              "media_key": "3_2009522289369550848",
+              "start": 54,
+              "url": "https://t.co/1ImPYxEejh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009522407976128571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重庆某学校对学生采取暴力强制立法，不知道这样何意味，并且还要收费，最后使用权利和资本的大手压的他们喘不过气 https://t.co/1ImPYxEejh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 2172,
+          "like_count": 80072,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 9177
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T21:52:16.000Z",
+        "description": "小药娘 无证含糖/\n17岁 /中度抑郁/无党派(也许?)/\n178/62kg /目前在上海，下海中，包养也可以的/\n希望有朋友-🚪88-/\n也出原味(自付运费，也可以买新的给我穿🤔然后我给你加料🤓👆)/\nhttps://t.co/ZLktImR2WF\n下面链接是匿名问🥰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rainbow_080131",
+                "end": 125,
+                "expanded_url": "http://t.me/Rainbow_080131",
+                "start": 102,
+                "url": "https://t.co/ZLktImR2WF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainbow54219",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainbow54219",
+                "start": 0,
+                "url": "https://t.co/3dG6fmxkaw"
+              }
+            ]
+          }
+        },
+        "id": "1862977940935315456",
+        "name": "𝓡𝓪𝓲𝓷𝓫𝓸𝔀🍥🐱",
+        "pinned_tweet_id": "1995687473192849452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999772295993425921/YztlbTBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 43,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/3dG6fmxkaw",
+        "username": "Rainbow_080131",
+        "verified": true
+      }
+    ]
+  }
+}

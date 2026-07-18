@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009448100822392832"
+      ],
+      "media_source_tweet_id": [
+        "2009448108061868460"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2009785904970522839",
+    "created_at": "2026-01-10T00:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T01:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009785904970522839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C71h7zAGcG",
+          "end": 39,
+          "expanded_url": "https://x.com/amecandy_x/status/2009448108061868460/photo/1",
+          "media_key": "3_2009448100822392832",
+          "start": 16,
+          "url": "https://t.co/C71h7zAGcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009785904970522839",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009448108061868460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: https://t.co/C71h7zAGcG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2009448100822392832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-L-ZrQaIAAK7JK.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009448100822392832"
+          ],
+          "media_source_tweet_id": [
+            "2009448108061868460"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2009785904970522839",
+        "created_at": "2026-01-10T00:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T01:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009785904970522839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C71h7zAGcG",
+              "end": 39,
+              "expanded_url": "https://x.com/amecandy_x/status/2009448108061868460/photo/1",
+              "media_key": "3_2009448100822392832",
+              "start": 16,
+              "url": "https://t.co/C71h7zAGcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009785904970522839",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009448108061868460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: https://t.co/C71h7zAGcG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009448100822392832"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2009448108061868460",
+        "created_at": "2026-01-09T02:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T03:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009448108061868460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C71h7zAGcG",
+              "end": 23,
+              "expanded_url": "https://x.com/amecandy_x/status/2009448108061868460/photo/1",
+              "media_key": "3_2009448100822392832",
+              "start": 0,
+              "url": "https://t.co/C71h7zAGcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009448108061868460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 29362,
+          "like_count": 962,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C71h7zAGcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 2172,
+          "like_count": 80105,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 9182
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/Fullstack/LLM/Blogger #odtwt💊#drugtwt💉——@whitecloud_ybw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2009108738251350442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 1691,
+          "like_count": 23101,
+          "listed_count": 15,
+          "media_count": 949,
+          "tweet_count": 7872
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

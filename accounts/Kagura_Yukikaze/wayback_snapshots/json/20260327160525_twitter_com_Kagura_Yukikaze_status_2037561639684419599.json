@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037413548855562240"
+      ],
+      "media_source_tweet_id": [
+        "2037413695702393169"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037561639684419599",
+    "created_at": "2026-03-27T16:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037561639684419599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "387147664",
+          "start": 3,
+          "username": "caizhenghai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EkWZTlvRmc",
+          "end": 65,
+          "expanded_url": "https://x.com/caizhenghai/status/2037413695702393169/photo/1",
+          "media_key": "3_2037413548855562240",
+          "start": 42,
+          "url": "https://t.co/EkWZTlvRmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037561639684419599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037413695702393169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caizhenghai: 国产 App 就是臭毛病，第一次用就给你开机启动 https://t.co/EkWZTlvRmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "3_2037413548855562240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZY0_gakAAeHGD.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037413548855562240"
+          ],
+          "media_source_tweet_id": [
+            "2037413695702393169"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037561639684419599",
+        "created_at": "2026-03-27T16:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037561639684419599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "387147664",
+              "start": 3,
+              "username": "caizhenghai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EkWZTlvRmc",
+              "end": 65,
+              "expanded_url": "https://x.com/caizhenghai/status/2037413695702393169/photo/1",
+              "media_key": "3_2037413548855562240",
+              "start": 42,
+              "url": "https://t.co/EkWZTlvRmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037561639684419599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037413695702393169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caizhenghai: 国产 App 就是臭毛病，第一次用就给你开机启动 https://t.co/EkWZTlvRmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037413548855562240"
+          ]
+        },
+        "author_id": "387147664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037413695702393169",
+        "created_at": "2026-03-27T06:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037413695702393169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EkWZTlvRmc",
+              "end": 48,
+              "expanded_url": "https://x.com/caizhenghai/status/2037413695702393169/photo/1",
+              "media_key": "3_2037413548855562240",
+              "start": 25,
+              "url": "https://t.co/EkWZTlvRmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037413695702393169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 28732,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国产 App 就是臭毛病，第一次用就给你开机启动 https://t.co/EkWZTlvRmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 2702,
+          "like_count": 96645,
+          "listed_count": 2,
+          "media_count": 726,
+          "tweet_count": 11508
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-08T15:09:19.000Z",
+        "description": "8 年美股投资者，13 年程序开发。 - 联系我：https://t.co/TpEhIUOWf4   - 美股社区 https://t.co/4O2QdkEkMf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/forecho",
+                "end": 48,
+                "expanded_url": "http://t.me/forecho",
+                "start": 25,
+                "url": "https://t.co/TpEhIUOWf4"
+              },
+              {
+                "display_url": "link.3li3.com/richcalls",
+                "end": 81,
+                "expanded_url": "https://link.3li3.com/richcalls",
+                "start": 58,
+                "url": "https://t.co/4O2QdkEkMf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forecho.com",
+                "end": 23,
+                "expanded_url": "https://forecho.com",
+                "start": 0,
+                "url": "https://t.co/DT5QtW82cM"
+              }
+            ]
+          }
+        },
+        "id": "387147664",
+        "location": "China",
+        "name": "forecho📈",
+        "pinned_tweet_id": "2037334823015231630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/790007015783346178/tvajHHFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38911,
+          "following_count": 3915,
+          "like_count": 50289,
+          "listed_count": 444,
+          "media_count": 3260,
+          "tweet_count": 13531
+        },
+        "url": "https://t.co/DT5QtW82cM",
+        "username": "caizhenghai",
+        "verified": true
+      }
+    ]
+  }
+}

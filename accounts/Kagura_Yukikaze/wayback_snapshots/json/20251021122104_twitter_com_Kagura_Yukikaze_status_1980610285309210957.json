@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980046027919884288"
+      ],
+      "media_source_tweet_id": [
+        "1980046034886898113"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1980610285309210957",
+    "created_at": "2025-10-21T12:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980610285309210957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1857681686374547456",
+          "start": 3,
+          "username": "kq5ara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4188KtMhB",
+          "end": 61,
+          "expanded_url": "https://x.com/kq5ara/status/1980046034886898113/photo/1",
+          "media_key": "3_1980046027919884288",
+          "start": 38,
+          "url": "https://t.co/t4188KtMhB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980610285309210957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980046034886898113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kq5ara: これは「ね？簡単でしょ〜？」って言いそうなペンギン https://t.co/t4188KtMhB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980046027919884288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qJXyUWgAA_yR7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980046027919884288"
+          ],
+          "media_source_tweet_id": [
+            "1980046034886898113"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1980610285309210957",
+        "created_at": "2025-10-21T12:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980610285309210957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1857681686374547456",
+              "start": 3,
+              "username": "kq5ara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4188KtMhB",
+              "end": 61,
+              "expanded_url": "https://x.com/kq5ara/status/1980046034886898113/photo/1",
+              "media_key": "3_1980046027919884288",
+              "start": 38,
+              "url": "https://t.co/t4188KtMhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980610285309210957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980046034886898113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kq5ara: これは「ね？簡単でしょ〜？」って言いそうなペンギン https://t.co/t4188KtMhB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980046027919884288"
+          ]
+        },
+        "author_id": "1857681686374547456",
+        "conversation_id": "1980046034886898113",
+        "created_at": "2025-10-19T22:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T23:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980046034886898113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4188KtMhB",
+              "end": 49,
+              "expanded_url": "https://x.com/kq5ara/status/1980046034886898113/photo/1",
+              "media_key": "3_1980046027919884288",
+              "start": 26,
+              "url": "https://t.co/t4188KtMhB"
+            },
+            {
+              "display_url": "x.com/kq5ara/status/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/kq5ara/status/1979795093923209545",
+              "start": 50,
+              "url": "https://t.co/78uUFQ8b75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980046034886898113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 96466,
+          "like_count": 1411,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979795093923209545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これは「ね？簡単でしょ〜？」って言いそうなペンギン https://t.co/t4188KtMhB https://t.co/78uUFQ8b75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 1599,
+          "like_count": 64343,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7295
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T07:07:04.000Z",
+        "description": "旅行とゲームが好きです！気軽に絡んで🥰/@boun1ngen /サブ@kasab_hara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "boun1ngen"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "kasab_hara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kq5ara?si=K2C…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@kq5ara?si=K2CYrfqTGW7XerVw",
+                "start": 0,
+                "url": "https://t.co/KbOPtL3VBY"
+              }
+            ]
+          }
+        },
+        "id": "1857681686374547456",
+        "location": "関西",
+        "name": "棒人間/かさら",
+        "pinned_tweet_id": "1950135068178935908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861636057512714244/l0Vt86Xi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 1228,
+          "like_count": 43216,
+          "listed_count": 12,
+          "media_count": 3791,
+          "tweet_count": 18825
+        },
+        "url": "https://t.co/KbOPtL3VBY",
+        "username": "kq5ara",
+        "verified": false
+      }
+    ]
+  }
+}

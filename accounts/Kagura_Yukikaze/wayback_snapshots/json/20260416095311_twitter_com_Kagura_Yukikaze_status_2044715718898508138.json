@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2044715718898508138",
+    "created_at": "2026-04-16T09:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044715718898508138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Available on iOS",
+          "display_url": "testflight.apple.com/join/SPGZysjK",
+          "end": 133,
+          "expanded_url": "https://testflight.apple.com/join/SPGZysjK",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/2044461293059620864/EBezcv85?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044461293059620864/EBezcv85?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 110,
+          "status": 200,
+          "title": "Join the Transition Journey beta",
+          "unwound_url": "https://testflight.apple.com/join/SPGZysjK",
+          "url": "https://t.co/HPBfvia87M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044715718898508138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044514015091605662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 给各位推荐一下这个同类做的 HRT 药物剂量追踪 App，界面非常清爽且完全按照 Liquid Glass 设计，还可以和苹果健康互通数据，欢迎各位在 Testflight 下载体验\nhttps://t.co/HPBfvia87M https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044514009445961729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-SqMdWEAE7TaC.jpg",
+        "width": 1218
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044514009509253120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-SqMsb0AAW4j6.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2044715718898508138",
+        "created_at": "2026-04-16T09:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044715718898508138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Available on iOS",
+              "display_url": "testflight.apple.com/join/SPGZysjK",
+              "end": 133,
+              "expanded_url": "https://testflight.apple.com/join/SPGZysjK",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2044461293059620864/EBezcv85?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044461293059620864/EBezcv85?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "Join the Transition Journey beta",
+              "unwound_url": "https://testflight.apple.com/join/SPGZysjK",
+              "url": "https://t.co/HPBfvia87M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044715718898508138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044514015091605662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 给各位推荐一下这个同类做的 HRT 药物剂量追踪 App，界面非常清爽且完全按照 Liquid Glass 设计，还可以和苹果健康互通数据，欢迎各位在 Testflight 下载体验\nhttps://t.co/HPBfvia87M https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044514009445961729",
+            "3_2044514009509253120"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2044514015091605662",
+        "created_at": "2026-04-15T20:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044514015091605662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Available on iOS",
+              "display_url": "testflight.apple.com/join/SPGZysjK",
+              "end": 115,
+              "expanded_url": "https://testflight.apple.com/join/SPGZysjK",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2044461293059620864/EBezcv85?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044461293059620864/EBezcv85?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 92,
+              "status": 200,
+              "title": "Join the Transition Journey beta",
+              "unwound_url": "https://testflight.apple.com/join/SPGZysjK",
+              "url": "https://t.co/HPBfvia87M"
+            },
+            {
+              "display_url": "pic.x.com/WjbZEKJgKg",
+              "end": 139,
+              "expanded_url": "https://x.com/amber_toffee/status/2044514015091605662/photo/1",
+              "media_key": "3_2044514009445961729",
+              "start": 116,
+              "url": "https://t.co/WjbZEKJgKg"
+            },
+            {
+              "display_url": "pic.x.com/WjbZEKJgKg",
+              "end": 139,
+              "expanded_url": "https://x.com/amber_toffee/status/2044514015091605662/photo/1",
+              "media_key": "3_2044514009509253120",
+              "start": 116,
+              "url": "https://t.co/WjbZEKJgKg"
+            },
+            {
+              "display_url": "x.com/m1zukiqaqaqaq/…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/m1zukiqaqaqaq/status/2044461989389565992",
+              "start": 140,
+              "url": "https://t.co/oAi6toMSQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044514015091605662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 15052,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044461989389565992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给各位推荐一下这个同类做的 HRT 药物剂量追踪 App，界面非常清爽且完全按照 Liquid Glass 设计，还可以和苹果健康互通数据，欢迎各位在 Testflight 下载体验\nhttps://t.co/HPBfvia87M https://t.co/WjbZEKJgKg https://t.co/oAi6toMSQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2911,
+          "following_count": 2810,
+          "like_count": 101499,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 12309
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25050,
+          "following_count": 2742,
+          "like_count": 40842,
+          "listed_count": 13,
+          "media_count": 616,
+          "tweet_count": 21796
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

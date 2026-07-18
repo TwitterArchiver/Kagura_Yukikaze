@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982538445659553792",
+        "3_1982538446540255234"
+      ],
+      "media_source_tweet_id": [
+        "1982538449543733755",
+        "1982538449543733755"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1982803281219879129",
+    "created_at": "2025-10-27T13:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T14:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982803281219879129"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "男娘"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "伪娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926764459889963008",
+          "start": 3,
+          "username": "SQDR668"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hfiyOtirV",
+          "end": 64,
+          "expanded_url": "https://x.com/SQDR668/status/1982538449543733755/photo/1",
+          "media_key": "3_1982538445659553792",
+          "start": 41,
+          "url": "https://t.co/0hfiyOtirV"
+        },
+        {
+          "display_url": "pic.x.com/0hfiyOtirV",
+          "end": 64,
+          "expanded_url": "https://x.com/SQDR668/status/1982538449543733755/photo/1",
+          "media_key": "3_1982538446540255234",
+          "start": 41,
+          "url": "https://t.co/0hfiyOtirV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982803281219879129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982538449543733755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SQDR668: 拖着残破的自己去完成一个不可能好的结局\n#男娘 #伪娘 https://t.co/0hfiyOtirV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982538445659553792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NkNl8XwAAxCis.jpg",
+        "width": 1646
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982538446540255234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NkNpOWMAI97m0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982538445659553792",
+            "3_1982538446540255234"
+          ],
+          "media_source_tweet_id": [
+            "1982538449543733755",
+            "1982538449543733755"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1982803281219879129",
+        "created_at": "2025-10-27T13:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982803281219879129"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "男娘"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926764459889963008",
+              "start": 3,
+              "username": "SQDR668"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hfiyOtirV",
+              "end": 64,
+              "expanded_url": "https://x.com/SQDR668/status/1982538449543733755/photo/1",
+              "media_key": "3_1982538445659553792",
+              "start": 41,
+              "url": "https://t.co/0hfiyOtirV"
+            },
+            {
+              "display_url": "pic.x.com/0hfiyOtirV",
+              "end": 64,
+              "expanded_url": "https://x.com/SQDR668/status/1982538449543733755/photo/1",
+              "media_key": "3_1982538446540255234",
+              "start": 41,
+              "url": "https://t.co/0hfiyOtirV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982803281219879129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982538449543733755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SQDR668: 拖着残破的自己去完成一个不可能好的结局\n#男娘 #伪娘 https://t.co/0hfiyOtirV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982538445659553792",
+            "3_1982538446540255234"
+          ]
+        },
+        "author_id": "1926764459889963008",
+        "conversation_id": "1982538449543733755",
+        "created_at": "2025-10-26T20:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T21:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982538449543733755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hfiyOtirV",
+              "end": 51,
+              "expanded_url": "https://x.com/SQDR668/status/1982538449543733755/photo/1",
+              "media_key": "3_1982538445659553792",
+              "start": 28,
+              "url": "https://t.co/0hfiyOtirV"
+            },
+            {
+              "display_url": "pic.x.com/0hfiyOtirV",
+              "end": 51,
+              "expanded_url": "https://x.com/SQDR668/status/1982538449543733755/photo/1",
+              "media_key": "3_1982538446540255234",
+              "start": 28,
+              "url": "https://t.co/0hfiyOtirV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982538449543733755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 20814,
+          "like_count": 395,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "拖着残破的自己去完成一个不可能好的结局\n#男娘 #伪娘 https://t.co/0hfiyOtirV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1684,
+          "like_count": 66486,
+          "listed_count": 2,
+          "media_count": 537,
+          "tweet_count": 7503
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T22:33:04.000Z",
+        "description": "小众变态结晶博主",
+        "id": "1926764459889963008",
+        "location": "炼狱小镇",
+        "name": "绝世好猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945632363582484480/tQNV4NBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3178,
+          "following_count": 43,
+          "like_count": 144,
+          "listed_count": 11,
+          "media_count": 156,
+          "tweet_count": 248
+        },
+        "username": "SQDR668",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2040341100595184124",
+    "created_at": "2026-04-04T08:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040341100595184124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2040329873919730044",
+          "start": 21,
+          "url": "https://t.co/flsuW7x2Ys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040341100595184124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040329873919730044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死死抓住裤子不放落地时或许就不是这样了吧 https://t.co/flsuW7x2Ys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2040329843540447232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFC1LrzbUAAfQWg.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2040341100595184124",
+        "created_at": "2026-04-04T08:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040341100595184124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2040329873919730044",
+              "start": 21,
+              "url": "https://t.co/flsuW7x2Ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040341100595184124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040329873919730044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死死抓住裤子不放落地时或许就不是这样了吧 https://t.co/flsuW7x2Ys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040329843540447232"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040329873919730044",
+        "created_at": "2026-04-04T07:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040329873919730044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z09BFDhFel",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2040329873919730044/photo/1",
+              "media_key": "3_2040329843540447232",
+              "start": 0,
+              "url": "https://t.co/Z09BFDhFel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040329873919730044",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Z09BFDhFel"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 2762,
+          "like_count": 98887,
+          "listed_count": 3,
+          "media_count": 738,
+          "tweet_count": 11894
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7804,
+          "following_count": 4022,
+          "like_count": 41950,
+          "listed_count": 20,
+          "media_count": 1625,
+          "tweet_count": 11253
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

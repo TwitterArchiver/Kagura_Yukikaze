@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990379797193891840"
+      ],
+      "media_source_tweet_id": [
+        "1990379801820148156"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1990467995626582245",
+    "created_at": "2025-11-17T17:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T18:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990467995626582245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975454612670062604",
+          "start": 3,
+          "username": "yrn_cxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nKErb6kZNV",
+          "end": 36,
+          "expanded_url": "https://x.com/yrn_cxx/status/1990379801820148156/photo/1",
+          "media_key": "3_1990379797193891840",
+          "start": 13,
+          "url": "https://t.co/nKErb6kZNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990467995626582245",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990379801820148156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yrn_cxx: https://t.co/nKErb6kZNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2008,
+        "media_key": "3_1990379797193891840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58_4UvbIAA5HCd.jpg",
+        "width": 1911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990379797193891840"
+          ],
+          "media_source_tweet_id": [
+            "1990379801820148156"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1990467995626582245",
+        "created_at": "2025-11-17T17:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990467995626582245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975454612670062604",
+              "start": 3,
+              "username": "yrn_cxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKErb6kZNV",
+              "end": 36,
+              "expanded_url": "https://x.com/yrn_cxx/status/1990379801820148156/photo/1",
+              "media_key": "3_1990379797193891840",
+              "start": 13,
+              "url": "https://t.co/nKErb6kZNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990467995626582245",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990379801820148156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yrn_cxx: https://t.co/nKErb6kZNV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990379797193891840"
+          ]
+        },
+        "author_id": "1975454612670062604",
+        "conversation_id": "1990379801820148156",
+        "created_at": "2025-11-17T11:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990379801820148156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKErb6kZNV",
+              "end": 23,
+              "expanded_url": "https://x.com/yrn_cxx/status/1990379801820148156/photo/1",
+              "media_key": "3_1990379797193891840",
+              "start": 0,
+              "url": "https://t.co/nKErb6kZNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990379801820148156",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 6887,
+          "like_count": 761,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nKErb6kZNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 1879,
+          "like_count": 70939,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 7903
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T06:54:32.000Z",
+        "description": "よるののツイ廃裏垢┊︎ツイ消し多┊︎フォロー非推奨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yrn_o00xx_o0",
+                "end": 23,
+                "expanded_url": "https://lit.link/yrn_o00xx_o0",
+                "start": 0,
+                "url": "https://t.co/6fMmRpL2RI"
+              }
+            ]
+          }
+        },
+        "id": "1975454612670062604",
+        "name": "ょ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985667447601709059/z2SZgw2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 6,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/6fMmRpL2RI",
+        "username": "yrn_cxx",
+        "verified": false
+      }
+    ]
+  }
+}

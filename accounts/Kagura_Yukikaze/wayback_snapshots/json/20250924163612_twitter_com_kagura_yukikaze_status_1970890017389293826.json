@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1970890017389293826",
+    "created_at": "2025-09-24T16:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T17:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970890017389293826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zixinmiao2/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/zixinmiao2/status/1970799743216554092",
+          "start": 53,
+          "url": "https://t.co/bAKPegQHUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970890017389293826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970799743216554092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "手机只买苹果，电脑只用麦克，电车只开特斯拉，饭我只吃麦当劳赛百味达美乐，泡面只吃合味道，这不是装，是避坑 https://t.co/bAKPegQHUD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1970799729895411712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mv6Z_aEAA8In7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 918,
+        "media_key": "3_1970799729916420096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mv6aEaoAA8_sq.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1970890017389293826",
+        "created_at": "2025-09-24T16:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970890017389293826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zixinmiao2/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/zixinmiao2/status/1970799743216554092",
+              "start": 53,
+              "url": "https://t.co/bAKPegQHUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970890017389293826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970799743216554092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手机只买苹果，电脑只用麦克，电车只开特斯拉，饭我只吃麦当劳赛百味达美乐，泡面只吃合味道，这不是装，是避坑 https://t.co/bAKPegQHUD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970799729895411712",
+            "3_1970799729916420096"
+          ]
+        },
+        "author_id": "1741091789879308288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1970799743216554092",
+        "created_at": "2025-09-24T10:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970799743216554092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwZ6oB8u4p",
+              "end": 54,
+              "expanded_url": "https://x.com/zixinmiao2/status/1970799743216554092/photo/1",
+              "media_key": "3_1970799729895411712",
+              "start": 31,
+              "url": "https://t.co/hwZ6oB8u4p"
+            },
+            {
+              "display_url": "pic.x.com/hwZ6oB8u4p",
+              "end": 54,
+              "expanded_url": "https://x.com/zixinmiao2/status/1970799743216554092/photo/1",
+              "media_key": "3_1970799729916420096",
+              "start": 31,
+              "url": "https://t.co/hwZ6oB8u4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970799743216554092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1044,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手机只买苹果，电脑只用麦克，饭我只吃麦当劳，这不是装，是避坑 https://t.co/hwZ6oB8u4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1181,
+          "like_count": 56172,
+          "listed_count": 3,
+          "media_count": 479,
+          "tweet_count": 6295
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "一个杂鱼填充物，中推第一锦依卫 coser/kiger/せいふくコン/写真撮影 想和娃娃们贴贴 欢迎大家扩列",
+        "id": "1741091789879308288",
+        "location": "上海 闵行区",
+        "name": "阿梓喵",
+        "pinned_tweet_id": "1947996301037334601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946796000896565248/ml-OsKJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5036,
+          "following_count": 1826,
+          "like_count": 11749,
+          "listed_count": 15,
+          "media_count": 213,
+          "tweet_count": 2624
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

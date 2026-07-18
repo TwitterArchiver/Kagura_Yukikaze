@@ -1,0 +1,630 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008368701339545600"
+      ],
+      "media_source_tweet_id": [
+        "2008368718481604852"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2008523107984961599",
+    "created_at": "2026-01-06T12:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008523107984961599"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 24,
+          "tag": "drawing"
+        },
+        {
+          "end": 42,
+          "start": 33,
+          "tag": "オリジナルキャラ"
+        },
+        {
+          "end": 49,
+          "start": 43,
+          "tag": "創作キャラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "710301654638206976",
+          "start": 3,
+          "username": "yume037"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9sqbI3iOh0",
+          "end": 73,
+          "expanded_url": "https://x.com/yume037/status/2008368718481604852/photo/1",
+          "media_key": "3_2008368701339545600",
+          "start": 50,
+          "url": "https://t.co/9sqbI3iOh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008523107984961599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008368718481604852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yume037: ドローイング🎀❤️\n\n#drawing #オリジナルキャラ #創作キャラ https://t.co/9sqbI3iOh0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008368701339545600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98osW1bMAArHDg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008368701339545600"
+          ],
+          "media_source_tweet_id": [
+            "2008368718481604852"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2008523107984961599",
+        "created_at": "2026-01-06T12:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008523107984961599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "drawing"
+            },
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "オリジナルキャラ"
+            },
+            {
+              "end": 49,
+              "start": 43,
+              "tag": "創作キャラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "710301654638206976",
+              "start": 3,
+              "username": "yume037"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sqbI3iOh0",
+              "end": 73,
+              "expanded_url": "https://x.com/yume037/status/2008368718481604852/photo/1",
+              "media_key": "3_2008368701339545600",
+              "start": 50,
+              "url": "https://t.co/9sqbI3iOh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008523107984961599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008368718481604852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yume037: ドローイング🎀❤️\n\n#drawing #オリジナルキャラ #創作キャラ https://t.co/9sqbI3iOh0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008368701339545600"
+          ]
+        },
+        "author_id": "710301654638206976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2008368718481604852",
+        "created_at": "2026-01-06T02:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008368718481604852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "drawing"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "オリジナルキャラ"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "創作キャラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sqbI3iOh0",
+              "end": 60,
+              "expanded_url": "https://x.com/yume037/status/2008368718481604852/photo/1",
+              "media_key": "3_2008368701339545600",
+              "start": 37,
+              "url": "https://t.co/9sqbI3iOh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008368718481604852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2466,
+          "like_count": 471,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "ドローイング🎀❤️\n\n#drawing #オリジナルキャラ #創作キャラ https://t.co/9sqbI3iOh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 2169,
+          "like_count": 79711,
+          "listed_count": 2,
+          "media_count": 584,
+          "tweet_count": 9132
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-17T03:08:06.000Z",
+        "description": "◢正気を忘れないために描いてる◣ 💞MAIL ∇ rikayume037@gmail.com📨 Instagram→ https://t.co/c3ZeZ5bmZb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/qsaku_yume?igs…",
+                "end": 82,
+                "expanded_url": "https://www.instagram.com/qsaku_yume?igsh=Z3dqdmsxNm9lMTF1&utm_source=qr",
+                "start": 59,
+                "url": "https://t.co/c3ZeZ5bmZb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rikakirakira.wixsite.com/qsaku",
+                "end": 23,
+                "expanded_url": "http://rikakirakira.wixsite.com/qsaku",
+                "start": 0,
+                "url": "https://t.co/8Fxk6f9pOz"
+              }
+            ]
+          }
+        },
+        "id": "710301654638206976",
+        "location": "🍎🍀",
+        "name": "夢野Q作🍰🍓",
+        "pinned_tweet_id": "1893509899964838312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006030286740742144/mDwNrw8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 324,
+          "like_count": 6062,
+          "listed_count": 9,
+          "media_count": 585,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/8Fxk6f9pOz",
+        "username": "yume037",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1997686263667961857"
+      ],
+      "media_source_tweet_id": [
+        "1997686295783752107"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324127674575450113",
+          "name": "School festivals"
+        }
+      }
+    ],
+    "conversation_id": "1998051998663688264",
+    "created_at": "2025-12-08T15:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T16:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998051998663688264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1290089567647760385",
+          "start": 3,
+          "username": "mahitaromusic"
+        },
+        {
+          "end": 40,
+          "id": "1077476442902953985",
+          "start": 29,
+          "username": "natua_tcmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bpOJ6ZXZk6",
+          "end": 112,
+          "expanded_url": "https://x.com/mahitaromusic/status/1997686295783752107/video/1",
+          "media_key": "7_1997686263667961857",
+          "start": 89,
+          "url": "https://t.co/bpOJ6ZXZk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998051998663688264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997686295783752107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahitaromusic: 学祭後、Natua(@natua_tcmm)さんのウニのスライダー借りてBlueWhite擦ったやつ\nDJMAXの動きじゃなさすぎて面白い https://t.co/bpOJ6ZXZk6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12746,
+        "height": 720,
+        "media_key": "7_1997686263667961857",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997686263667961857/pu/img/r_3FWBA2Wfr9BMX9.jpg",
+        "public_metrics": {
+          "view_count": 30706
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997686263667961857/pu/vid/avc1/480x270/05XuVsj-a2i2Ws4z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997686263667961857/pu/vid/avc1/640x360/oIML4ZSk44FMBevy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997686263667961857/pu/vid/avc1/1280x720/VT0A2nFoteXE5cI7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997686263667961857/pu/pl/hSNE33dDGw58_qPS.m3u8?tag=12&v=5df"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997686263667961857"
+          ],
+          "media_source_tweet_id": [
+            "1997686295783752107"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "1998051998663688264",
+        "created_at": "2025-12-08T15:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998051998663688264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1290089567647760385",
+              "start": 3,
+              "username": "mahitaromusic"
+            },
+            {
+              "end": 40,
+              "id": "1077476442902953985",
+              "start": 29,
+              "username": "natua_tcmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpOJ6ZXZk6",
+              "end": 112,
+              "expanded_url": "https://x.com/mahitaromusic/status/1997686295783752107/video/1",
+              "media_key": "7_1997686263667961857",
+              "start": 89,
+              "url": "https://t.co/bpOJ6ZXZk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998051998663688264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997686295783752107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahitaromusic: 学祭後、Natua(@natua_tcmm)さんのウニのスライダー借りてBlueWhite擦ったやつ\nDJMAXの動きじゃなさすぎて面白い https://t.co/bpOJ6ZXZk6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997686263667961857"
+          ]
+        },
+        "author_id": "1290089567647760385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "1997686295783752107",
+        "created_at": "2025-12-07T15:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997686295783752107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1077476442902953985",
+              "start": 10,
+              "username": "natua_tcmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpOJ6ZXZk6",
+              "end": 93,
+              "expanded_url": "https://x.com/mahitaromusic/status/1997686295783752107/video/1",
+              "media_key": "7_1997686263667961857",
+              "start": 70,
+              "url": "https://t.co/bpOJ6ZXZk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997686295783752107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 58921,
+          "like_count": 858,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "学祭後、Natua(@natua_tcmm)さんのウニのスライダー借りてBlueWhite擦ったやつ\nDJMAXの動きじゃなさすぎて面白い https://t.co/bpOJ6ZXZk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 2052,
+          "like_count": 74945,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 8390
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-03T00:58:29.000Z",
+        "description": "エンクリ/音ゲー/カードゲー/ブルアカなど 立エボ@Rits_evo大学/身内垢→@mahitaro2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Rits_evo"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "mahitaro2"
+              }
+            ]
+          }
+        },
+        "id": "1290089567647760385",
+        "name": "まひたろー",
+        "pinned_tweet_id": "1838005851459932246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794581212587229186/3_ghXFPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 462,
+          "like_count": 10667,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 648
+        },
+        "username": "mahitaromusic",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-25T08:09:37.000Z",
+        "description": "「なちゅあ」です 音ゲー 駅メモ 技術 / 作ったツールや作品・記事はハイライトタブにまとめています / アイコン→AI生成(SD+AnythingXL) @natua_evolved",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "natua_evolved"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "natua.pythonanywhere.com/my_apps/top",
+                "end": 23,
+                "expanded_url": "https://natua.pythonanywhere.com/my_apps/top",
+                "start": 0,
+                "url": "https://t.co/YwxkbCIsCX"
+              }
+            ]
+          }
+        },
+        "id": "1077476442902953985",
+        "location": "Kyooooooooooooooooooooto",
+        "name": "△Natua♪▽",
+        "pinned_tweet_id": "1903744765876920699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877367701280272387/BPKH-Je8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1034,
+          "like_count": 131271,
+          "listed_count": 13,
+          "media_count": 8060,
+          "tweet_count": 61466
+        },
+        "url": "https://t.co/YwxkbCIsCX",
+        "username": "natua_tcmm",
+        "verified": false
+      }
+    ]
+  }
+}

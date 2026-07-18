@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2073420023125995582",
+    "created_at": "2026-07-04T15:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073432250826596774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891722301584048128",
+          "start": 0,
+          "username": "8964shrimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073432250826596774",
+    "in_reply_to_user_id": "1891722301584048128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073420023125995582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@8964shrimp 羡慕😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_2073420010274553856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZEg46aAAAY8Ax.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2073420023125995582",
+        "created_at": "2026-07-04T15:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073432250826596774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891722301584048128",
+              "start": 0,
+              "username": "8964shrimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073432250826596774",
+        "in_reply_to_user_id": "1891722301584048128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073420023125995582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@8964shrimp 羡慕😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073420010274553856"
+          ]
+        },
+        "author_id": "1891722301584048128",
+        "conversation_id": "2073420023125995582",
+        "created_at": "2026-07-04T14:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073420023125995582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrkQKzKmBb",
+              "end": 35,
+              "expanded_url": "https://x.com/8964shrimp/status/2073420023125995582/photo/1",
+              "media_key": "3_2073420010274553856",
+              "start": 12,
+              "url": "https://t.co/CrkQKzKmBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073420023125995582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "洗個澡被雨夏扣成傻蝦了 https://t.co/CrkQKzKmBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2070462188402413624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 3070,
+          "like_count": 113866,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 13821
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "❤️雨夏老婆：@xiyu86｜友順mtf（x？｜持證含糖：2025.3.12｜單車佬｜邊緣人｜躁鬱｜od已戒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "xiyu86"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "location": "月球",
+        "name": "蝦蝦醬🏳️‍⚧️",
+        "pinned_tweet_id": "2066925321019150813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062537785681362944/QpoDPa-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 616,
+          "like_count": 12316,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 1565
+        },
+        "url": "",
+        "username": "8964shrimp",
+        "verified": false
+      }
+    ]
+  }
+}

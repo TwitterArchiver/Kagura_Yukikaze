@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2003109213313310836",
+    "created_at": "2025-12-22T14:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T15:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003109213313310836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagura_yukikaz…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/kagura_yukikaze/status/2003100364846080074",
+          "start": 26,
+          "url": "https://t.co/tycNiTfquy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003109213313310836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003100364846080074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然没炸柜但也和炸柜没区别了\n不要休学….\n不要… https://t.co/tycNiTfquy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2003109213313310836",
+        "created_at": "2025-12-22T14:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T15:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003109213313310836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagura_yukikaz…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/kagura_yukikaze/status/2003100364846080074",
+              "start": 26,
+              "url": "https://t.co/tycNiTfquy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003109213313310836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003100364846080074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然没炸柜但也和炸柜没区别了\n不要休学….\n不要… https://t.co/tycNiTfquy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2003100364846080074",
+        "created_at": "2025-12-22T13:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003100364846080074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003100364846080074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割手被彻底发现了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998075130380189700/F39f69AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 2104,
+          "like_count": 77550,
+          "listed_count": 2,
+          "media_count": 579,
+          "tweet_count": 8821
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023648940525293568"
+      ],
+      "media_source_tweet_id": [
+        "2023649005570584658"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2024015380109263180",
+    "created_at": "2026-02-18T06:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024015380109263180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1341010788803174401",
+          "start": 3,
+          "username": "yang_mady"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/83YnDtRkJz",
+          "end": 53,
+          "expanded_url": "https://x.com/yang_mady/status/2023649005570584658/video/1",
+          "media_key": "13_2023648940525293568",
+          "start": 30,
+          "url": "https://t.co/83YnDtRkJz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024015380109263180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023649005570584658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yang_mady: 我又要笑死在互联网里了🤣🤣🤣 https://t.co/83YnDtRkJz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10083,
+        "height": 640,
+        "media_key": "13_2023648940525293568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023648940525293568/img/O10OnIatXgOqLwmW.jpg",
+        "public_metrics": {
+          "view_count": 87689
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023648940525293568/vid/avc1/320x556/TayJ_ftmCmtoAzXe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023648940525293568/vid/avc1/368x640/8BQKx1fkw2UP2qqY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023648940525293568/pl/NtgEnLVXvEGB5DVF.m3u8"
+          }
+        ],
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023648940525293568"
+          ],
+          "media_source_tweet_id": [
+            "2023649005570584658"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2024015380109263180",
+        "created_at": "2026-02-18T06:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024015380109263180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1341010788803174401",
+              "start": 3,
+              "username": "yang_mady"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/83YnDtRkJz",
+              "end": 53,
+              "expanded_url": "https://x.com/yang_mady/status/2023649005570584658/video/1",
+              "media_key": "13_2023648940525293568",
+              "start": 30,
+              "url": "https://t.co/83YnDtRkJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024015380109263180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023649005570584658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yang_mady: 我又要笑死在互联网里了🤣🤣🤣 https://t.co/83YnDtRkJz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023648940525293568"
+          ]
+        },
+        "author_id": "1341010788803174401",
+        "conversation_id": "2023649005570584658",
+        "created_at": "2026-02-17T06:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T07:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023649005570584658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/83YnDtRkJz",
+              "end": 38,
+              "expanded_url": "https://x.com/yang_mady/status/2023649005570584658/video/1",
+              "media_key": "13_2023648940525293568",
+              "start": 15,
+              "url": "https://t.co/83YnDtRkJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023649005570584658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 184958,
+          "like_count": 1614,
+          "quote_count": 11,
+          "reply_count": 22,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "我又要笑死在互联网里了🤣🤣🤣 https://t.co/83YnDtRkJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2405,
+          "following_count": 2430,
+          "like_count": 87885,
+          "listed_count": 2,
+          "media_count": 650,
+          "tweet_count": 10323
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-21T13:21:11.000Z",
+        "description": "Currently living in Xinjiang, China, we can discuss topics related to Xinjiang, especially emphasizing that I have two cats, so I love cats very much!",
+        "id": "1341010788803174401",
+        "location": "Xinjiang,China",
+        "name": "Mady Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342117237814005761/E5te7yO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13759,
+          "following_count": 2331,
+          "like_count": 31654,
+          "listed_count": 40,
+          "media_count": 11272,
+          "tweet_count": 24384
+        },
+        "username": "yang_mady",
+        "verified": false
+      }
+    ]
+  }
+}

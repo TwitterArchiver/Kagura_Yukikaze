@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979230152572698624",
+        "3_1979230152572706816",
+        "3_1979230152576860160",
+        "3_1979230152677580800"
+      ],
+      "media_source_tweet_id": [
+        "1979230163918557622",
+        "1979230163918557622",
+        "1979230163918557622",
+        "1979230163918557622"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1979590973547249734",
+    "created_at": "2025-10-18T16:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T17:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979590973547249734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1227160453253455872",
+          "start": 3,
+          "username": "L0vetodream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cHbgdftJ7F",
+          "end": 76,
+          "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+          "media_key": "3_1979230152572698624",
+          "start": 53,
+          "url": "https://t.co/cHbgdftJ7F"
+        },
+        {
+          "display_url": "pic.x.com/cHbgdftJ7F",
+          "end": 76,
+          "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+          "media_key": "3_1979230152572706816",
+          "start": 53,
+          "url": "https://t.co/cHbgdftJ7F"
+        },
+        {
+          "display_url": "pic.x.com/cHbgdftJ7F",
+          "end": 76,
+          "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+          "media_key": "3_1979230152576860160",
+          "start": 53,
+          "url": "https://t.co/cHbgdftJ7F"
+        },
+        {
+          "display_url": "pic.x.com/cHbgdftJ7F",
+          "end": 76,
+          "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+          "media_key": "3_1979230152677580800",
+          "start": 53,
+          "url": "https://t.co/cHbgdftJ7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979590973547249734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979230163918557622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L0vetodream: 为了搭配iOS26的Liquid Glass效果  自己动手DIY一个 https://t.co/cHbgdftJ7F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1979230152572698624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ejVlzWgAAsZhL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979230152572706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ejVlzWoAAla0o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979230152576860160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ejVl0WAAAmTTY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979230152677580800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ejVmMW4AAOn3p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979230152572698624",
+            "3_1979230152572706816",
+            "3_1979230152576860160",
+            "3_1979230152677580800"
+          ],
+          "media_source_tweet_id": [
+            "1979230163918557622",
+            "1979230163918557622",
+            "1979230163918557622",
+            "1979230163918557622"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979590973547249734",
+        "created_at": "2025-10-18T16:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979590973547249734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1227160453253455872",
+              "start": 3,
+              "username": "L0vetodream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHbgdftJ7F",
+              "end": 76,
+              "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+              "media_key": "3_1979230152572698624",
+              "start": 53,
+              "url": "https://t.co/cHbgdftJ7F"
+            },
+            {
+              "display_url": "pic.x.com/cHbgdftJ7F",
+              "end": 76,
+              "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+              "media_key": "3_1979230152572706816",
+              "start": 53,
+              "url": "https://t.co/cHbgdftJ7F"
+            },
+            {
+              "display_url": "pic.x.com/cHbgdftJ7F",
+              "end": 76,
+              "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+              "media_key": "3_1979230152576860160",
+              "start": 53,
+              "url": "https://t.co/cHbgdftJ7F"
+            },
+            {
+              "display_url": "pic.x.com/cHbgdftJ7F",
+              "end": 76,
+              "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+              "media_key": "3_1979230152677580800",
+              "start": 53,
+              "url": "https://t.co/cHbgdftJ7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979590973547249734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979230163918557622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L0vetodream: 为了搭配iOS26的Liquid Glass效果  自己动手DIY一个 https://t.co/cHbgdftJ7F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979230152572698624",
+            "3_1979230152572706816",
+            "3_1979230152576860160",
+            "3_1979230152677580800"
+          ]
+        },
+        "author_id": "1227160453253455872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979230163918557622",
+        "created_at": "2025-10-17T16:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979230163918557622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHbgdftJ7F",
+              "end": 59,
+              "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+              "media_key": "3_1979230152572698624",
+              "start": 36,
+              "url": "https://t.co/cHbgdftJ7F"
+            },
+            {
+              "display_url": "pic.x.com/cHbgdftJ7F",
+              "end": 59,
+              "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+              "media_key": "3_1979230152572706816",
+              "start": 36,
+              "url": "https://t.co/cHbgdftJ7F"
+            },
+            {
+              "display_url": "pic.x.com/cHbgdftJ7F",
+              "end": 59,
+              "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+              "media_key": "3_1979230152576860160",
+              "start": 36,
+              "url": "https://t.co/cHbgdftJ7F"
+            },
+            {
+              "display_url": "pic.x.com/cHbgdftJ7F",
+              "end": 59,
+              "expanded_url": "https://x.com/L0vetodream/status/1979230163918557622/photo/1",
+              "media_key": "3_1979230152677580800",
+              "start": 36,
+              "url": "https://t.co/cHbgdftJ7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979230163918557622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 11883,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "为了搭配iOS26的Liquid Glass效果  自己动手DIY一个 https://t.co/cHbgdftJ7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1554,
+          "like_count": 63749,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 7227
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T09:20:34.000Z",
+        "description": "Apple产品爱好者 收藏者 分享自己的科技数码产品 （只分享产品 不聊政治 聊政治的 种族歧视的 全部会被拉黑）",
+        "id": "1227160453253455872",
+        "location": "like my dream",
+        "name": "有没有搞措",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284920026865123329/qHlPFH1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39360,
+          "following_count": 772,
+          "like_count": 11610,
+          "listed_count": 409,
+          "media_count": 2225,
+          "tweet_count": 5243
+        },
+        "username": "L0vetodream",
+        "verified": false
+      }
+    ]
+  }
+}

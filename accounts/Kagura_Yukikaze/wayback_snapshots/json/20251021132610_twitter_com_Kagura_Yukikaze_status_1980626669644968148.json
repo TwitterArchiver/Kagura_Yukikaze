@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980316030011330560"
+      ],
+      "media_source_tweet_id": [
+        "1980316094389952594"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980626669644968148",
+    "created_at": "2025-10-21T13:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980626669644968148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751467223900938240",
+          "start": 3,
+          "username": "PP_MM_HALO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xJOO1PLCS1",
+          "end": 46,
+          "expanded_url": "https://x.com/PP_MM_HALO/status/1980316094389952594/video/1",
+          "media_key": "13_1980316030011330560",
+          "start": 23,
+          "url": "https://t.co/xJOO1PLCS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980626669644968148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980316094389952594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PP_MM_HALO: これかわいい https://t.co/xJOO1PLCS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 480,
+        "media_key": "13_1980316030011330560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980316030011330560/img/UHrS5AEY509JVbds.jpg",
+        "public_metrics": {
+          "view_count": 7883
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980316030011330560/vid/avc1/640x480/BNMQ3tJMguxcJdI5.mp4?tag=23"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980316030011330560/pl/W3a7JNlv7DN2lHBv.m3u8?tag=23"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980316030011330560"
+          ],
+          "media_source_tweet_id": [
+            "1980316094389952594"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980626669644968148",
+        "created_at": "2025-10-21T13:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980626669644968148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751467223900938240",
+              "start": 3,
+              "username": "PP_MM_HALO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJOO1PLCS1",
+              "end": 46,
+              "expanded_url": "https://x.com/PP_MM_HALO/status/1980316094389952594/video/1",
+              "media_key": "13_1980316030011330560",
+              "start": 23,
+              "url": "https://t.co/xJOO1PLCS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980626669644968148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980316094389952594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PP_MM_HALO: これかわいい https://t.co/xJOO1PLCS1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980316030011330560"
+          ]
+        },
+        "author_id": "1751467223900938240",
+        "conversation_id": "1980316094389952594",
+        "created_at": "2025-10-20T16:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T17:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980316094389952594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJOO1PLCS1",
+              "end": 30,
+              "expanded_url": "https://x.com/PP_MM_HALO/status/1980316094389952594/video/1",
+              "media_key": "13_1980316030011330560",
+              "start": 7,
+              "url": "https://t.co/xJOO1PLCS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980316094389952594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 19988,
+          "like_count": 277,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "これかわいい https://t.co/xJOO1PLCS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1599,
+          "like_count": 64450,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 7304
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T04:48:29.000Z",
+        "description": "03.社会不適高校理科部/翼を授けるニキ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@halo_52?si=LP…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@halo_52?si=LP7XX_OePsIIVula",
+                "start": 0,
+                "url": "https://t.co/fenRgwXFdD"
+              }
+            ]
+          }
+        },
+        "id": "1751467223900938240",
+        "name": "はろ🚷 🕊＊",
+        "pinned_tweet_id": "1952700872095613036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931279389108686848/BAN0KYfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 660,
+          "like_count": 20254,
+          "listed_count": 1,
+          "media_count": 3139,
+          "tweet_count": 14953
+        },
+        "url": "https://t.co/fenRgwXFdD",
+        "username": "PP_MM_HALO",
+        "verified": false
+      }
+    ]
+  }
+}

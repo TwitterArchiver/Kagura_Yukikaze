@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997759827892944896"
+      ],
+      "media_source_tweet_id": [
+        "1997759835614724567"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1998032701862060340",
+    "created_at": "2025-12-08T14:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T15:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998032701862060340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4644760268",
+          "start": 3,
+          "username": "realiazed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fuk5sdTGmu",
+          "end": 38,
+          "expanded_url": "https://x.com/realiazed/status/1997759835614724567/photo/1",
+          "media_key": "3_1997759827892944896",
+          "start": 15,
+          "url": "https://t.co/fuk5sdTGmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998032701862060340",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4593
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997759835614724567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realiazed: https://t.co/fuk5sdTGmu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_1997759827892944896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7l3-pgawAAH6Jd.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997759827892944896"
+          ],
+          "media_source_tweet_id": [
+            "1997759835614724567"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1998032701862060340",
+        "created_at": "2025-12-08T14:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998032701862060340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4644760268",
+              "start": 3,
+              "username": "realiazed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fuk5sdTGmu",
+              "end": 38,
+              "expanded_url": "https://x.com/realiazed/status/1997759835614724567/photo/1",
+              "media_key": "3_1997759827892944896",
+              "start": 15,
+              "url": "https://t.co/fuk5sdTGmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998032701862060340",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4593
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997759835614724567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realiazed: https://t.co/fuk5sdTGmu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997759827892944896"
+          ]
+        },
+        "author_id": "4644760268",
+        "conversation_id": "1997759835614724567",
+        "created_at": "2025-12-07T20:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T21:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997759835614724567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fuk5sdTGmu",
+              "end": 23,
+              "expanded_url": "https://x.com/realiazed/status/1997759835614724567/photo/1",
+              "media_key": "3_1997759827892944896",
+              "start": 0,
+              "url": "https://t.co/fuk5sdTGmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997759835614724567",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 230164,
+          "like_count": 18705,
+          "quote_count": 106,
+          "reply_count": 213,
+          "retweet_count": 4593
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fuk5sdTGmu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 2049,
+          "like_count": 74887,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 8377
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-24T18:44:11.000Z",
+        "description": "she’s chaos personified",
+        "id": "4644760268",
+        "name": "Theana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941567423729238016/mQU5uaPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 629,
+          "like_count": 57717,
+          "listed_count": 6,
+          "media_count": 282,
+          "tweet_count": 58245
+        },
+        "username": "realiazed",
+        "verified": true
+      }
+    ]
+  }
+}

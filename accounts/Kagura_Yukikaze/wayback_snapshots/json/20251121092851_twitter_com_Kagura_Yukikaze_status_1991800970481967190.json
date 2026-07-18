@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991449841894060033"
+      ],
+      "media_source_tweet_id": [
+        "1991449852723753313"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1991800970481967190",
+    "created_at": "2025-11-21T09:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T10:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991800970481967190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2148475878",
+          "start": 3,
+          "username": "kimukimu557188"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lgWShsylo5",
+          "end": 43,
+          "expanded_url": "https://x.com/kimukimu557188/status/1991449852723753313/photo/1",
+          "media_key": "3_1991449841894060033",
+          "start": 20,
+          "url": "https://t.co/lgWShsylo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991800970481967190",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991449852723753313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimukimu557188: https://t.co/lgWShsylo5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_1991449841894060033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6MNFH4acAEuy_w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991449841894060033"
+          ],
+          "media_source_tweet_id": [
+            "1991449852723753313"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991800970481967190",
+        "created_at": "2025-11-21T09:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991800970481967190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2148475878",
+              "start": 3,
+              "username": "kimukimu557188"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgWShsylo5",
+              "end": 43,
+              "expanded_url": "https://x.com/kimukimu557188/status/1991449852723753313/photo/1",
+              "media_key": "3_1991449841894060033",
+              "start": 20,
+              "url": "https://t.co/lgWShsylo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991800970481967190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991449852723753313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimukimu557188: https://t.co/lgWShsylo5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991449841894060033"
+          ]
+        },
+        "author_id": "2148475878",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991449852723753313",
+        "created_at": "2025-11-20T10:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T11:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991449852723753313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgWShsylo5",
+              "end": 23,
+              "expanded_url": "https://x.com/kimukimu557188/status/1991449852723753313/photo/1",
+              "media_key": "3_1991449841894060033",
+              "start": 0,
+              "url": "https://t.co/lgWShsylo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991449852723753313",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 22848,
+          "like_count": 821,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lgWShsylo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 1894,
+          "like_count": 71432,
+          "listed_count": 2,
+          "media_count": 549,
+          "tweet_count": 7969
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-22T06:45:45.000Z",
+        "description": ".请和我交朋友，查成分互fo",
+        "id": "2148475878",
+        "name": "让世界变得更热闹的兔妹",
+        "pinned_tweet_id": "1989520951332261891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967629264758439936/6WnlOcIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 168,
+          "like_count": 2041,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 217
+        },
+        "username": "kimukimu557188",
+        "verified": false
+      }
+    ]
+  }
+}

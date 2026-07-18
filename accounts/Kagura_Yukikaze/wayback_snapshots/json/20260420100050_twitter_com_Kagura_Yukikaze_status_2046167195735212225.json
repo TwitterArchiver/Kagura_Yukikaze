@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2046167195735212225",
+    "created_at": "2026-04-20T10:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046167195735212225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1378376814389694468",
+          "start": 3,
+          "username": "McFlurry_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046167195735212225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046045365527560663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @McFlurry_2001: 1. 中国当局对酷儿群体的打压比西方国家更甚，各省(直辖市)都可见残害酷儿的矫正机构以及网络上到处可见的谩骂，生活工作处处受限，身心健康也很难维持。\n2.  中国当局至今为止没有出台任何针对酷儿群体的反歧视法，甚至对女性的权益维护的立法都停…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2046167195735212225",
+        "created_at": "2026-04-20T10:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046167195735212225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1378376814389694468",
+              "start": 3,
+              "username": "McFlurry_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046167195735212225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046045365527560663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @McFlurry_2001: 1. 中国当局对酷儿群体的打压比西方国家更甚，各省(直辖市)都可见残害酷儿的矫正机构以及网络上到处可见的谩骂，生活工作处处受限，身心健康也很难维持。\n2.  中国当局至今为止没有出台任何针对酷儿群体的反歧视法，甚至对女性的权益维护的立法都停…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378376814389694468",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2046045365527560663",
+        "created_at": "2026-04-20T01:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046045365527560663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/McFlurry_2001/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/McFlurry_2001/status/2045837398882582567",
+              "start": 143,
+              "url": "https://t.co/pz0X9rXtaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046045365527560663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 672,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045837398882582567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1. 中国当局对酷儿群体的打压比西方国家更甚，各省(直辖市)都可见残害酷儿的矫正机构以及网络上到处可见的谩骂，生活工作处处受限，身心健康也很难维持。\n2.  中国当局至今为止没有出台任何针对酷儿群体的反歧视法，甚至对女性的权益维护的立法都停滞不前。\n3. 切勿维持一种模棱两可的立场。 https://t.co/pz0X9rXtaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2933,
+          "following_count": 2823,
+          "like_count": 101975,
+          "listed_count": 6,
+          "media_count": 760,
+          "tweet_count": 12393
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "🍉🇵🇸/最喜欢的动物是捷克狼犬/Transles",
+        "id": "1378376814389694468",
+        "name": "β Cygni🏳️‍🌈",
+        "pinned_tweet_id": "2044753408876576792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036160430503231488/lb99aN1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 7415,
+          "like_count": 150548,
+          "listed_count": 3,
+          "media_count": 880,
+          "tweet_count": 25772
+        },
+        "username": "McFlurry_2001",
+        "verified": false
+      }
+    ]
+  }
+}

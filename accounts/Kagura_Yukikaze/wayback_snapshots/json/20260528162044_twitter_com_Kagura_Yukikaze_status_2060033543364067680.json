@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060033538469298176"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2060033543364067680",
+    "created_at": "2026-05-28T16:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060033543364067680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2tksUUtTny",
+          "end": 56,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/2060033543364067680/photo/1",
+          "media_key": "3_2060033538469298176",
+          "start": 33,
+          "url": "https://t.co/2tksUUtTny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060033543364067680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经b掉了2k人\n比我涨fo还要快\n一个个举报太浪费时间还不管用 https://t.co/2tksUUtTny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1103,
+        "media_key": "3_2060033538469298176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa1lrXagAApgsD.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060033538469298176"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2060033543364067680",
+        "created_at": "2026-05-28T16:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060033543364067680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tksUUtTny",
+              "end": 56,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2060033543364067680/photo/1",
+              "media_key": "3_2060033538469298176",
+              "start": 33,
+              "url": "https://t.co/2tksUUtTny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060033543364067680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经b掉了2k人\n比我涨fo还要快\n一个个举报太浪费时间还不管用 https://t.co/2tksUUtTny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 2995,
+          "like_count": 109116,
+          "listed_count": 7,
+          "media_count": 797,
+          "tweet_count": 13299
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

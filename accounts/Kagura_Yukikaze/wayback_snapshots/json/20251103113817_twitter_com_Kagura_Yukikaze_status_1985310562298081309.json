@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984673575962624002"
+      ],
+      "media_source_tweet_id": [
+        "1984676309096657184"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1985310562298081309",
+    "created_at": "2025-11-03T11:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T12:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985310562298081309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "14463502",
+          "start": 3,
+          "username": "cdoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sbE3GSzIgf",
+          "end": 41,
+          "expanded_url": "https://x.com/cdoll/status/1984676309096657184/photo/1",
+          "media_key": "3_1984673575962624002",
+          "start": 18,
+          "url": "https://t.co/sbE3GSzIgf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985310562298081309",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40258
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984676309096657184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cdoll: real 😭 https://t.co/sbE3GSzIgf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1733,
+        "media_key": "3_1984673575962624002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4r6GiJbQAIBUH6.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984673575962624002"
+          ],
+          "media_source_tweet_id": [
+            "1984676309096657184"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1985310562298081309",
+        "created_at": "2025-11-03T11:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985310562298081309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "14463502",
+              "start": 3,
+              "username": "cdoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbE3GSzIgf",
+              "end": 41,
+              "expanded_url": "https://x.com/cdoll/status/1984676309096657184/photo/1",
+              "media_key": "3_1984673575962624002",
+              "start": 18,
+              "url": "https://t.co/sbE3GSzIgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985310562298081309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40258
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984676309096657184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cdoll: real 😭 https://t.co/sbE3GSzIgf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984673575962624002"
+          ]
+        },
+        "author_id": "14463502",
+        "conversation_id": "1984676309096657184",
+        "created_at": "2025-11-01T17:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984676309096657184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbE3GSzIgf",
+              "end": 30,
+              "expanded_url": "https://x.com/cdoll/status/1984676309096657184/photo/1",
+              "media_key": "3_1984673575962624002",
+              "start": 7,
+              "url": "https://t.co/sbE3GSzIgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984676309096657184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2941,
+          "impression_count": 1769296,
+          "like_count": 119826,
+          "quote_count": 885,
+          "reply_count": 216,
+          "retweet_count": 40258
+        },
+        "reply_settings": "everyone",
+        "text": "real 😭 https://t.co/sbE3GSzIgf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1777,
+          "like_count": 68751,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 7692
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-21T16:06:27.000Z",
+        "description": "",
+        "id": "14463502",
+        "name": "౨ৎ",
+        "pinned_tweet_id": "1981106788549157210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268502665621505/XFJCOb4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43989,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 106,
+          "media_count": 2446,
+          "tweet_count": 2508
+        },
+        "username": "cdoll",
+        "verified": true
+      }
+    ]
+  }
+}

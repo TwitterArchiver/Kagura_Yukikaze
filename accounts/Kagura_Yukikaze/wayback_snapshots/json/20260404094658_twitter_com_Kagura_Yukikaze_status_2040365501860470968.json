@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Abema TV",
+          "id": "989515172690542593",
+          "name": "Abema TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Abema TV",
+          "id": "989515172690542593",
+          "name": "Abema TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "2040365501860470968",
+    "created_at": "2026-04-04T09:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040365501860470968"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "ニディガ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980941101763842049",
+          "start": 3,
+          "username": "needygirl_anime"
+        }
+      ],
+      "urls": [
+        {
+          "description": "最強の配信者を目指す承認欲求強めな女の子と、 彼女を支える「ピ」の30日間を描いたマルチエンディング… アニメの動画を無料で見るならABEMA！今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実なラインナップ！ここでしか見られないオリジナル声優番組も今すぐ楽しめる！",
+          "display_url": "abema.tv/channels/abema…",
+          "end": 112,
+          "expanded_url": "https://abema.tv/channels/abema-anime/slots/EBoEi31YdyNUd5",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2040361284449742848/o0-kibZY?format=png&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2040361284449742848/o0-kibZY?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 89,
+          "status": 200,
+          "title": "NEEDY GIRL OVERDOSE #1【地上波同時・単独先行】 | 新しい未来のテレビ | ABEMA",
+          "unwound_url": "https://abema.tv/channels/abema-anime/slots/EBoEi31YdyNUd5",
+          "url": "https://t.co/3W1i1szJVK"
+        },
+        {
+          "display_url": "t.co/KzCK2v",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/KzCK2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040365501860470968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040361233774186873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_anime: 初回放送まであと6️⃣時間📺\n\n🎀4/4(土)24:30~\nTOKYO MX、BS11ほかにて放送\nABEMAにて地上波同時・最速配信\nhttps://t.co/3W1i1szJVK\n\n#ニディガ https://t.co/KzCK2v…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2039996776246312960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-GQncagAApcJL.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2039996776879673344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-GQpza0AANGo9.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2039996776250540032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-GQndbAAApgPb.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2039996776883904512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-GQp0bYAA_xo5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2040365501860470968",
+        "created_at": "2026-04-04T09:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040365501860470968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "ニディガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980941101763842049",
+              "start": 3,
+              "username": "needygirl_anime"
+            }
+          ],
+          "urls": [
+            {
+              "description": "最強の配信者を目指す承認欲求強めな女の子と、 彼女を支える「ピ」の30日間を描いたマルチエンディング… アニメの動画を無料で見るならABEMA！今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実なラインナップ！ここでしか見られないオリジナル声優番組も今すぐ楽しめる！",
+              "display_url": "abema.tv/channels/abema…",
+              "end": 112,
+              "expanded_url": "https://abema.tv/channels/abema-anime/slots/EBoEi31YdyNUd5",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2040361284449742848/o0-kibZY?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040361284449742848/o0-kibZY?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "NEEDY GIRL OVERDOSE #1【地上波同時・単独先行】 | 新しい未来のテレビ | ABEMA",
+              "unwound_url": "https://abema.tv/channels/abema-anime/slots/EBoEi31YdyNUd5",
+              "url": "https://t.co/3W1i1szJVK"
+            },
+            {
+              "display_url": "t.co/KzCK2v",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/KzCK2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040365501860470968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040361233774186873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_anime: 初回放送まであと6️⃣時間📺\n\n🎀4/4(土)24:30~\nTOKYO MX、BS11ほかにて放送\nABEMAにて地上波同時・最速配信\nhttps://t.co/3W1i1szJVK\n\n#ニディガ https://t.co/KzCK2v…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039996776246312960",
+            "3_2039996776879673344",
+            "3_2039996776250540032",
+            "3_2039996776883904512"
+          ]
+        },
+        "author_id": "1980941101763842049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2040361233774186873",
+        "created_at": "2026-04-04T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040361233774186873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "最強の配信者を目指す承認欲求強めな女の子と、 彼女を支える「ピ」の30日間を描いたマルチエンディング… アニメの動画を無料で見るならABEMA！今期アニメ(最新作)の見逃し配信から懐かしの名作まで充実なラインナップ！ここでしか見られないオリジナル声優番組も今すぐ楽しめる！",
+              "display_url": "abema.tv/channels/abema…",
+              "end": 91,
+              "expanded_url": "https://abema.tv/channels/abema-anime/slots/EBoEi31YdyNUd5",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2040361284449742848/o0-kibZY?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040361284449742848/o0-kibZY?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "NEEDY GIRL OVERDOSE #1【地上波同時・単独先行】 | 新しい未来のテレビ | ABEMA",
+              "unwound_url": "https://abema.tv/channels/abema-anime/slots/EBoEi31YdyNUd5",
+              "url": "https://t.co/3W1i1szJVK"
+            },
+            {
+              "display_url": "pic.x.com/KzCK2vXY3a",
+              "end": 122,
+              "expanded_url": "https://x.com/needygirl_anime/status/2040361233774186873/photo/1",
+              "media_key": "3_2039996776246312960",
+              "start": 99,
+              "url": "https://t.co/KzCK2vXY3a"
+            },
+            {
+              "display_url": "pic.x.com/KzCK2vXY3a",
+              "end": 122,
+              "expanded_url": "https://x.com/needygirl_anime/status/2040361233774186873/photo/1",
+              "media_key": "3_2039996776879673344",
+              "start": 99,
+              "url": "https://t.co/KzCK2vXY3a"
+            },
+            {
+              "display_url": "pic.x.com/KzCK2vXY3a",
+              "end": 122,
+              "expanded_url": "https://x.com/needygirl_anime/status/2040361233774186873/photo/1",
+              "media_key": "3_2039996776250540032",
+              "start": 99,
+              "url": "https://t.co/KzCK2vXY3a"
+            },
+            {
+              "display_url": "pic.x.com/KzCK2vXY3a",
+              "end": 122,
+              "expanded_url": "https://x.com/needygirl_anime/status/2040361233774186873/photo/1",
+              "media_key": "3_2039996776883904512",
+              "start": 99,
+              "url": "https://t.co/KzCK2vXY3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040361233774186873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5646,
+          "like_count": 208,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "初回放送まであと6️⃣時間📺\n\n🎀4/4(土)24:30~\nTOKYO MX、BS11ほかにて放送\nABEMAにて地上波同時・最速配信\nhttps://t.co/3W1i1szJVK\n\n#ニディガ https://t.co/KzCK2vXY3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 2763,
+          "like_count": 98943,
+          "listed_count": 3,
+          "media_count": 738,
+          "tweet_count": 11899
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T10:17:13.000Z",
+        "description": "『NEEDY GIRL OVERDOSE』アニメ公式アカウント｜劇場先行版『NEEDY GIRL OVERDOSE -OVERTURE-』公開中｜TVアニメ2026年4月4日より毎週土曜24:30～ 順次放送開始｜アニメーション制作：Yostar Pictures｜【推奨タグ】#ニディガ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "ニディガ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 23,
+                "expanded_url": "https://needygirl-anime.com/",
+                "start": 0,
+                "url": "https://t.co/6rMK2MS8Mu"
+              }
+            ]
+          }
+        },
+        "id": "1980941101763842049",
+        "name": "アニメ『NEEDY GIRL OVERDOSE』公式",
+        "pinned_tweet_id": "2039267021716644244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031308461120884736/op5QKraD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33049,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 82,
+          "media_count": 278,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/6rMK2MS8Mu",
+        "username": "needygirl_anime",
+        "verified": false
+      }
+    ]
+  }
+}

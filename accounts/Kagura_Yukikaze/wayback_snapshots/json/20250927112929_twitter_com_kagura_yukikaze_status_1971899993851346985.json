@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971850937724817410"
+      ],
+      "media_source_tweet_id": [
+        "1971850950567776408"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1971899993851346985",
+    "created_at": "2025-09-27T11:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971899993851346985"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 13,
+          "tag": "メルメリィマーケット"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990587604146925568",
+          "start": 3,
+          "username": "Nakkar7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MyT7ZgEAHO",
+          "end": 48,
+          "expanded_url": "https://x.com/Nakkar7/status/1971850950567776408/photo/1",
+          "media_key": "3_1971850937724817410",
+          "start": 25,
+          "url": "https://t.co/MyT7ZgEAHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971899993851346985",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971850950567776408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakkar7: #メルメリィマーケット https://t.co/MyT7ZgEAHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1971850937724817410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11r-wUb0AI_L-m.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971850937724817410"
+          ],
+          "media_source_tweet_id": [
+            "1971850950567776408"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1971899993851346985",
+        "created_at": "2025-09-27T11:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971899993851346985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "メルメリィマーケット"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990587604146925568",
+              "start": 3,
+              "username": "Nakkar7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyT7ZgEAHO",
+              "end": 48,
+              "expanded_url": "https://x.com/Nakkar7/status/1971850950567776408/photo/1",
+              "media_key": "3_1971850937724817410",
+              "start": 25,
+              "url": "https://t.co/MyT7ZgEAHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971899993851346985",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971850950567776408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakkar7: #メルメリィマーケット https://t.co/MyT7ZgEAHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971850937724817410"
+          ]
+        },
+        "author_id": "990587604146925568",
+        "conversation_id": "1971850950567776408",
+        "created_at": "2025-09-27T08:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971850950567776408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "メルメリィマーケット"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyT7ZgEAHO",
+              "end": 35,
+              "expanded_url": "https://x.com/Nakkar7/status/1971850950567776408/photo/1",
+              "media_key": "3_1971850937724817410",
+              "start": 12,
+              "url": "https://t.co/MyT7ZgEAHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971850950567776408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 8670,
+          "like_count": 672,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "#メルメリィマーケット https://t.co/MyT7ZgEAHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 1215,
+          "like_count": 57181,
+          "listed_count": 3,
+          "media_count": 482,
+          "tweet_count": 6391
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-29T13:44:23.000Z",
+        "description": "かわいいイラストレ〜タ〜　\n┊SHOP ➭ https://t.co/AAZW8Vxyje\n┊FANBOX ➭ https://t.co/YgsKSZVNtu\n┊感想とか！ ➭ #かなめなかエゴサ用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 89,
+                "tag": "かなめなかエゴサ用"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shanshando.booth.pm",
+                "end": 45,
+                "expanded_url": "http://shanshando.booth.pm",
+                "start": 22,
+                "url": "https://t.co/AAZW8Vxyje"
+              },
+              {
+                "display_url": "nakkar7.fanbox.cc",
+                "end": 79,
+                "expanded_url": "https://nakkar7.fanbox.cc/",
+                "start": 56,
+                "url": "https://t.co/YgsKSZVNtu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nakkar7",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nakkar7",
+                "start": 0,
+                "url": "https://t.co/HcT4NaaKwI"
+              }
+            ]
+          }
+        },
+        "id": "990587604146925568",
+        "location": "現在ご依頼受付しておりません",
+        "name": "かなめなか　9/27.28 メルメリィ【A01】",
+        "pinned_tweet_id": "1970789083032264784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970698538691764225/NvaHdUTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67558,
+          "following_count": 199,
+          "like_count": 15935,
+          "listed_count": 646,
+          "media_count": 987,
+          "tweet_count": 27040
+        },
+        "url": "https://t.co/HcT4NaaKwI",
+        "username": "Nakkar7",
+        "verified": false
+      }
+    ]
+  }
+}

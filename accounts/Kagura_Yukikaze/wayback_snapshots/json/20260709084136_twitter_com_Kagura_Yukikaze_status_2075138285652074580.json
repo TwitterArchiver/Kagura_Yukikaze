@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074897912035942400"
+      ],
+      "media_source_tweet_id": [
+        "2075112723973595271"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2075138285652074580",
+    "created_at": "2026-07-09T08:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075138285652074580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013776155166539776",
+          "start": 3,
+          "username": "l3010045822"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3rIHpEIdQt",
+          "end": 46,
+          "expanded_url": "https://x.com/l3010045822/status/2075112723973595271/photo/1",
+          "media_key": "3_2074897912035942400",
+          "start": 23,
+          "url": "https://t.co/3rIHpEIdQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075138285652074580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075112723973595271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l3010045822: 即刻退治！ https://t.co/3rIHpEIdQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2074897912035942400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuEqGAaIAAzxrE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074897912035942400"
+          ],
+          "media_source_tweet_id": [
+            "2075112723973595271"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2075138285652074580",
+        "created_at": "2026-07-09T08:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075138285652074580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013776155166539776",
+              "start": 3,
+              "username": "l3010045822"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rIHpEIdQt",
+              "end": 46,
+              "expanded_url": "https://x.com/l3010045822/status/2075112723973595271/photo/1",
+              "media_key": "3_2074897912035942400",
+              "start": 23,
+              "url": "https://t.co/3rIHpEIdQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075138285652074580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075112723973595271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @l3010045822: 即刻退治！ https://t.co/3rIHpEIdQt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074897912035942400"
+          ]
+        },
+        "author_id": "2013776155166539776",
+        "conversation_id": "2075112723973595271",
+        "created_at": "2026-07-09T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075112723973595271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rIHpEIdQt",
+              "end": 29,
+              "expanded_url": "https://x.com/l3010045822/status/2075112723973595271/photo/1",
+              "media_key": "3_2074897912035942400",
+              "start": 6,
+              "url": "https://t.co/3rIHpEIdQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075112723973595271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "即刻退治！ https://t.co/3rIHpEIdQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 3070,
+          "like_count": 114694,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 13908
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "生产日期：2004.5丨小证含糖丨 HRT since2026.1.17｜半个家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜亮点会放一些亲身实践，后期可能会更新自拍｜欢迎同类互fo（没看见的话私我私我喵）｜",
+        "id": "2013776155166539776",
+        "name": "琪露诺🍥（冰雪聪明版）",
+        "pinned_tweet_id": "2060153159570641397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 510,
+          "like_count": 1832,
+          "listed_count": 2,
+          "media_count": 822,
+          "tweet_count": 1623
+        },
+        "url": "",
+        "username": "l3010045822",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2026878715762979005",
+    "created_at": "2026-02-26T04:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T05:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026878715762979005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419403960696385546",
+          "start": 3,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026878715762979005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026816333355086317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @WaiFu8964: 完结撒花了\n2020-2026.\n提醒一下，如果有人跳出来声称是waifu,均为诈骗。\n这是本账号的最后一条公开信息。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2026878715762979005",
+        "created_at": "2026-02-26T04:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026878715762979005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419403960696385546",
+              "start": 3,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026878715762979005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026816333355086317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @WaiFu8964: 完结撒花了\n2020-2026.\n提醒一下，如果有人跳出来声称是waifu,均为诈骗。\n这是本账号的最后一条公开信息。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "2026816333355086317",
+        "created_at": "2026-02-26T00:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026816333355086317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026816333355086317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5664,
+          "like_count": 134,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "完结撒花了\n2020-2026.\n提醒一下，如果有人跳出来声称是waifu,均为诈骗。\n这是本账号的最后一条公开信息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 2525,
+          "like_count": 90132,
+          "listed_count": 2,
+          "media_count": 668,
+          "tweet_count": 10576
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "warma@tuta.io 邮件箱查看频率1-2 周",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chakaifang.org",
+                "end": 23,
+                "expanded_url": "https://chakaifang.org",
+                "start": 0,
+                "url": "https://t.co/0KU4n3OswH"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地: 阿联酋",
+        "name": "Waifu已经退休了！",
+        "pinned_tweet_id": "2008135237100826920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999617518881701893/dlgBtwTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7847,
+          "following_count": 2352,
+          "like_count": 5216,
+          "listed_count": 18,
+          "media_count": 851,
+          "tweet_count": 7323
+        },
+        "url": "https://t.co/0KU4n3OswH",
+        "username": "WaiFu8964",
+        "verified": false
+      }
+    ]
+  }
+}

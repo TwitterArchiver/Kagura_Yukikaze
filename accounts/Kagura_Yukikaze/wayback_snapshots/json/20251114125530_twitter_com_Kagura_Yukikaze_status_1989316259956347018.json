@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988919576508395520"
+      ],
+      "media_source_tweet_id": [
+        "1988922572054946055"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "1989316259956347018",
+    "created_at": "2025-11-14T12:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989316259956347018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3191445576",
+          "start": 3,
+          "username": "yuimisu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XMaIx4kT9Y",
+          "end": 54,
+          "expanded_url": "https://x.com/yuimisu_/status/1988922572054946055/photo/1",
+          "media_key": "3_1988919576508395520",
+          "start": 31,
+          "url": "https://t.co/XMaIx4kT9Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989316259956347018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 872
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988922572054946055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuimisu_: 二郎系ラーメン vs 地雷系女子 https://t.co/XMaIx4kT9Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_1988919576508395520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oP0SyacAASrbX.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988919576508395520"
+          ],
+          "media_source_tweet_id": [
+            "1988922572054946055"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "1989316259956347018",
+        "created_at": "2025-11-14T12:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989316259956347018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3191445576",
+              "start": 3,
+              "username": "yuimisu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMaIx4kT9Y",
+              "end": 54,
+              "expanded_url": "https://x.com/yuimisu_/status/1988922572054946055/photo/1",
+              "media_key": "3_1988919576508395520",
+              "start": 31,
+              "url": "https://t.co/XMaIx4kT9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989316259956347018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 872
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988922572054946055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuimisu_: 二郎系ラーメン vs 地雷系女子 https://t.co/XMaIx4kT9Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988919576508395520"
+          ]
+        },
+        "author_id": "3191445576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "1988922572054946055",
+        "created_at": "2025-11-13T10:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988922572054946055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMaIx4kT9Y",
+              "end": 40,
+              "expanded_url": "https://x.com/yuimisu_/status/1988922572054946055/photo/1",
+              "media_key": "3_1988919576508395520",
+              "start": 17,
+              "url": "https://t.co/XMaIx4kT9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988922572054946055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 638,
+          "impression_count": 254869,
+          "like_count": 8454,
+          "quote_count": 29,
+          "reply_count": 40,
+          "retweet_count": 872
+        },
+        "reply_settings": "everyone",
+        "text": "二郎系ラーメン vs 地雷系女子 https://t.co/XMaIx4kT9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 1837,
+          "like_count": 70206,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 7819
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-10T23:56:15.000Z",
+        "description": "かわいい絵を描くオタクです！🎀✨冬コミ2日目ユ43ab┊CG集https://t.co/MiENmzbz2W ┊sub @blaulac ┊ Fantia https://t.co/CMeXngWV53┊お仕事依頼→ https://t.co/CuAxBHJE1F",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "blaulac"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/ziraicg1",
+                "end": 54,
+                "expanded_url": "https://bit.ly/ziraicg1",
+                "start": 31,
+                "url": "https://t.co/MiENmzbz2W"
+              },
+              {
+                "display_url": "fantia.jp/6870",
+                "end": 101,
+                "expanded_url": "http://fantia.jp/6870",
+                "start": 78,
+                "url": "https://t.co/CMeXngWV53"
+              },
+              {
+                "display_url": "yuimisu.com/contact/",
+                "end": 132,
+                "expanded_url": "https://yuimisu.com/contact/",
+                "start": 109,
+                "url": "https://t.co/CuAxBHJE1F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/14325286",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/14325286",
+                "start": 0,
+                "url": "https://t.co/4MSRI5D63x"
+              }
+            ]
+          }
+        },
+        "id": "3191445576",
+        "name": "ゆいみす🎀地雷系女子イラストレーター",
+        "pinned_tweet_id": "1988198088809562612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170503243866112/Lo2rTm8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325978,
+          "following_count": 458,
+          "like_count": 10714,
+          "listed_count": 2654,
+          "media_count": 173,
+          "tweet_count": 5891
+        },
+        "url": "https://t.co/4MSRI5D63x",
+        "username": "yuimisu_",
+        "verified": true
+      }
+    ]
+  }
+}

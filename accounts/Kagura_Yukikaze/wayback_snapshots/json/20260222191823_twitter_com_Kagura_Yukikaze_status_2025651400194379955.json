@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2025418113458884608"
+      ],
+      "media_source_tweet_id": [
+        "2025418171751301299"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025651400194379955",
+    "created_at": "2026-02-22T19:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T20:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025651400194379955"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 25,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1665042728260890625",
+          "start": 3,
+          "username": "Moumouffly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/csvSsikH5I",
+          "end": 65,
+          "expanded_url": "https://x.com/Moumouffly/status/2025418171751301299/video/1",
+          "media_key": "7_2025418113458884608",
+          "start": 42,
+          "url": "https://t.co/csvSsikH5I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025651400194379955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025418171751301299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moumouffly: 依旧意义不明视频\n#kigurumi \n#着ぐるみ https://t.co/csvSsikH5I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19816,
+        "height": 1280,
+        "media_key": "7_2025418113458884608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025418113458884608/pu/img/gWJRo2F9gLdbEGIp.jpg",
+        "public_metrics": {
+          "view_count": 3427
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025418113458884608/pu/vid/avc1/320x568/OtbzzkSUKW27UMVe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025418113458884608/pu/vid/avc1/480x852/uXLR19c8F1ks0Upx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025418113458884608/pu/vid/avc1/720x1280/Gm141ZqoyVHfhfx4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025418113458884608/pu/pl/8HXiiO61-MEuwKrX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025418113458884608"
+          ],
+          "media_source_tweet_id": [
+            "2025418171751301299"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025651400194379955",
+        "created_at": "2026-02-22T19:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T20:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025651400194379955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1665042728260890625",
+              "start": 3,
+              "username": "Moumouffly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/csvSsikH5I",
+              "end": 65,
+              "expanded_url": "https://x.com/Moumouffly/status/2025418171751301299/video/1",
+              "media_key": "7_2025418113458884608",
+              "start": 42,
+              "url": "https://t.co/csvSsikH5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025651400194379955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025418171751301299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moumouffly: 依旧意义不明视频\n#kigurumi \n#着ぐるみ https://t.co/csvSsikH5I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025418113458884608"
+          ]
+        },
+        "author_id": "1665042728260890625",
+        "conversation_id": "2025418171751301299",
+        "created_at": "2026-02-22T03:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025418171751301299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/csvSsikH5I",
+              "end": 49,
+              "expanded_url": "https://x.com/Moumouffly/status/2025418171751301299/video/1",
+              "media_key": "7_2025418113458884608",
+              "start": 26,
+              "url": "https://t.co/csvSsikH5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025418171751301299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 11087,
+          "like_count": 685,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "依旧意义不明视频\n#kigurumi \n#着ぐるみ https://t.co/csvSsikH5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 2479,
+          "like_count": 89419,
+          "listed_count": 2,
+          "media_count": 662,
+          "tweet_count": 10481
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T17:08:31.000Z",
+        "description": "人类 170/47  欢迎骚扰",
+        "id": "1665042728260890625",
+        "location": "西安人的城墙下",
+        "name": "Mouffly",
+        "pinned_tweet_id": "2016819590249267661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016818968062021637/AitbJWqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 306,
+          "like_count": 2425,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 143
+        },
+        "username": "Moumouffly",
+        "verified": false
+      }
+    ]
+  }
+}

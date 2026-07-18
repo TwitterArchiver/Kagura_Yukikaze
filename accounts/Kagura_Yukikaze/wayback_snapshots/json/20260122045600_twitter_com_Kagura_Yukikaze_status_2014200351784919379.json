@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013967309602230272"
+      ],
+      "media_source_tweet_id": [
+        "2013967312395890970"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2014200351784919379",
+    "created_at": "2026-01-22T04:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014200351784919379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1923259064123011072",
+          "start": 3,
+          "username": "ririririri__x_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ziSNHu4tNV",
+          "end": 53,
+          "expanded_url": "https://x.com/ririririri__x_x/status/2013967312395890970/photo/1",
+          "media_key": "3_2013967309602230272",
+          "start": 30,
+          "url": "https://t.co/ziSNHu4tNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014200351784919379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013967312395890970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ririririri__x_x: 闇︎🌟   🐿🦟 https://t.co/ziSNHu4tNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1926,
+        "media_key": "3_2013967309602230272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MMmP4XEAAqDFu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013967309602230272"
+          ],
+          "media_source_tweet_id": [
+            "2013967312395890970"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2014200351784919379",
+        "created_at": "2026-01-22T04:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014200351784919379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1923259064123011072",
+              "start": 3,
+              "username": "ririririri__x_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziSNHu4tNV",
+              "end": 53,
+              "expanded_url": "https://x.com/ririririri__x_x/status/2013967312395890970/photo/1",
+              "media_key": "3_2013967309602230272",
+              "start": 30,
+              "url": "https://t.co/ziSNHu4tNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014200351784919379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013967312395890970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ririririri__x_x: 闇︎🌟   🐿🦟 https://t.co/ziSNHu4tNV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013967309602230272"
+          ]
+        },
+        "author_id": "1923259064123011072",
+        "conversation_id": "2013967312395890970",
+        "created_at": "2026-01-21T13:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013967312395890970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziSNHu4tNV",
+              "end": 32,
+              "expanded_url": "https://x.com/ririririri__x_x/status/2013967312395890970/photo/1",
+              "media_key": "3_2013967309602230272",
+              "start": 9,
+              "url": "https://t.co/ziSNHu4tNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013967312395890970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 5389,
+          "like_count": 706,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "闇︎🌟   🐿🦟 https://t.co/ziSNHu4tNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 2250,
+          "like_count": 82153,
+          "listed_count": 2,
+          "media_count": 603,
+          "tweet_count": 9536
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T06:08:03.000Z",
+        "description": "F外🔕/不定期/壁打ち/雑多/キャラ崩壊 闇︎🌟/リトリン必読/実妹(@rururururu__x_x)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "rururururu__x_x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ririsan6",
+                "end": 23,
+                "expanded_url": "https://lit.link/ririsan6",
+                "start": 0,
+                "url": "https://t.co/QRJU3HMIYj"
+              }
+            ]
+          }
+        },
+        "id": "1923259064123011072",
+        "location": "ブロックミュート推奨⚠️",
+        "name": "りぃ",
+        "pinned_tweet_id": "2005981895658725422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984229979878723586/ILVn_YTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 89,
+          "like_count": 3550,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/QRJU3HMIYj",
+        "username": "ririririri__x_x",
+        "verified": false
+      }
+    ]
+  }
+}

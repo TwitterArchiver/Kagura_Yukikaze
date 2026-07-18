@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2027965846778482842",
+    "created_at": "2026-03-01T04:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T05:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027965846778482842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko_nya2026/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/neko_nya2026/status/2027669114471248304",
+          "start": 8,
+          "url": "https://t.co/wigxTcCU49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027965846778482842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027669114471248304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睾酮坏事做尽喵 https://t.co/wigxTcCU49"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2027965846778482842",
+        "created_at": "2026-03-01T04:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027965846778482842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko_nya2026/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/neko_nya2026/status/2027669114471248304",
+              "start": 8,
+              "url": "https://t.co/wigxTcCU49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027965846778482842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027669114471248304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睾酮坏事做尽喵 https://t.co/wigxTcCU49"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2027669114471248304",
+        "created_at": "2026-02-28T08:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027669114471248304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027669114471248304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1376,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睾酮坏事做尽喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2015392548286824749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 2546,
+          "like_count": 90740,
+          "listed_count": 2,
+          "media_count": 671,
+          "tweet_count": 10647
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "MTF🏳️‍⚧️/生产日期200807/无证含🍥/hrt20260126/同类互fo/天残党/喜欢画画w",
+        "id": "1960198897827282944",
+        "location": "america",
+        "name": "nya🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027163854027808768/aHituPXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 249,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 111
+        },
+        "username": "Neko_nya2026",
+        "verified": false
+      }
+    ]
+  }
+}

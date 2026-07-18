@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042997299811667968"
+      ],
+      "media_source_tweet_id": [
+        "2042997318677598293"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2043006868071813419",
+    "created_at": "2026-04-11T16:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043006868071813419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980941101763842049",
+          "start": 3,
+          "username": "needygirl_anime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YGrSLgKjjG",
+          "end": 44,
+          "expanded_url": "https://x.com/needygirl_anime/status/2042997318677598293/photo/1",
+          "media_key": "3_2042997299811667968",
+          "start": 21,
+          "url": "https://t.co/YGrSLgKjjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043006868071813419",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042997318677598293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_anime: https://t.co/YGrSLgKjjG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042997299811667968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFovOExbUAARFJo.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042997299811667968"
+          ],
+          "media_source_tweet_id": [
+            "2042997318677598293"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2043006868071813419",
+        "created_at": "2026-04-11T16:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043006868071813419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980941101763842049",
+              "start": 3,
+              "username": "needygirl_anime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGrSLgKjjG",
+              "end": 44,
+              "expanded_url": "https://x.com/needygirl_anime/status/2042997318677598293/photo/1",
+              "media_key": "3_2042997299811667968",
+              "start": 21,
+              "url": "https://t.co/YGrSLgKjjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043006868071813419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042997318677598293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_anime: https://t.co/YGrSLgKjjG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042997299811667968"
+          ]
+        },
+        "author_id": "1980941101763842049",
+        "conversation_id": "2042997318677598293",
+        "created_at": "2026-04-11T16:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042997318677598293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGrSLgKjjG",
+              "end": 23,
+              "expanded_url": "https://x.com/needygirl_anime/status/2042997318677598293/photo/1",
+              "media_key": "3_2042997299811667968",
+              "start": 0,
+              "url": "https://t.co/YGrSLgKjjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042997318677598293",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 5236,
+          "like_count": 708,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YGrSLgKjjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2894,
+          "following_count": 2788,
+          "like_count": 100671,
+          "listed_count": 4,
+          "media_count": 752,
+          "tweet_count": 12152
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T10:17:13.000Z",
+        "description": "『NEEDY GIRL OVERDOSE』アニメ公式アカウント｜劇場先行版『NEEDY GIRL OVERDOSE -OVERTURE-』公開中｜TVアニメ26年4月より毎週土曜24:30～ 順次放送中｜アニメーション制作：Yostar Pictures｜【推奨タグ】#ニディガ ｜【ラジオ公式タグ】#ニディガラジオ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "ニディガ"
+              },
+              {
+                "end": 158,
+                "start": 150,
+                "tag": "ニディガラジオ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 23,
+                "expanded_url": "https://needygirl-anime.com/",
+                "start": 0,
+                "url": "https://t.co/6rMK2MS8Mu"
+              }
+            ]
+          }
+        },
+        "id": "1980941101763842049",
+        "name": "アニメ『NEEDY GIRL OVERDOSE』公式",
+        "pinned_tweet_id": "2042996597122802051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031308461120884736/op5QKraD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36729,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 100,
+          "media_count": 340,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/6rMK2MS8Mu",
+        "username": "needygirl_anime",
+        "verified": false
+      }
+    ]
+  }
+}

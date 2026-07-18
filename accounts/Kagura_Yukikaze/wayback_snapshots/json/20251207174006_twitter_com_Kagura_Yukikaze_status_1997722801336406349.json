@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1997608285667807558",
+    "created_at": "2025-12-07T17:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T18:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997722801336406349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690775362110926848",
+          "start": 0,
+          "username": "adioslasater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997722801336406349",
+    "in_reply_to_user_id": "1690775362110926848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997608285667807558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adioslasater 抱抱你呢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3585,
+        "height": 1280,
+        "media_key": "7_1997608265052831744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997608265052831744/pu/img/aIUkxuNlkBEyV9_X.jpg",
+        "public_metrics": {
+          "view_count": 171
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997608265052831744/pu/vid/avc1/320x568/PpM7t78vi08XFm64.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997608265052831744/pu/vid/avc1/480x852/_mGefRXiSMr5bm-G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997608265052831744/pu/vid/avc1/720x1280/8lxZKUc-bf44JrtN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997608265052831744/pu/pl/OTHtzoeBUZn-1lwV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997608266206171136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7juImOaUAAaE2R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1997608285667807558",
+        "created_at": "2025-12-07T17:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997722801336406349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690775362110926848",
+              "start": 0,
+              "username": "adioslasater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997722801336406349",
+        "in_reply_to_user_id": "1690775362110926848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997608285667807558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adioslasater 抱抱你呢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997608265052831744",
+            "3_1997608266206171136"
+          ]
+        },
+        "author_id": "1690775362110926848",
+        "conversation_id": "1997608285667807558",
+        "created_at": "2025-12-07T10:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T11:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997608285667807558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BoUtRiYeB",
+              "end": 98,
+              "expanded_url": "https://x.com/adioslasater/status/1997608285667807558/video/1",
+              "media_key": "7_1997608265052831744",
+              "start": 75,
+              "url": "https://t.co/7BoUtRiYeB"
+            },
+            {
+              "display_url": "pic.x.com/7BoUtRiYeB",
+              "end": 98,
+              "expanded_url": "https://x.com/adioslasater/status/1997608285667807558/video/1",
+              "media_key": "3_1997608266206171136",
+              "start": 75,
+              "url": "https://t.co/7BoUtRiYeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997608285667807558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路上遇到车祸没赶上车情绪崩溃打断卧轨自杀给工作人员带走了, 终于大哭了一场, 还差点呼吸碱中毒, 现在感觉有点魔幻, life is strange https://t.co/7BoUtRiYeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1995563026947473677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 2048,
+          "like_count": 74858,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 8370
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T17:20:54.000Z",
+        "description": "i am not made for the life i have, i never meant to hurt anyone.",
+        "id": "1690775362110926848",
+        "location": "in the swimming pool",
+        "name": "每天起床就想死",
+        "pinned_tweet_id": "1986139641930793185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802056394390265856/sEb_cZ69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 562,
+          "like_count": 3352,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 6952
+        },
+        "username": "adioslasater",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035944818598428672",
+        "3_2035944818598359040",
+        "3_2035944818984325120",
+        "3_2035944821089792000"
+      ],
+      "media_source_tweet_id": [
+        "2035944832976216388",
+        "2035944832976216388",
+        "2035944832976216388",
+        "2035944832976216388"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2037952572489965637",
+    "created_at": "2026-03-28T17:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T18:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037952572489965637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/dV9Xcr32NkXl",
+          "end": 44,
+          "expanded_url": "http://mp.weixin.qq.com/s/dV9Xcr32NkXl",
+          "start": 21,
+          "status": 501,
+          "unwound_url": "http://mp.weixin.qq.com/s/dV9Xcr32NkXl",
+          "url": "https://t.co/ozFwYftUuN"
+        },
+        {
+          "display_url": "pic.x.com/hMh2zZAQLv",
+          "end": 95,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+          "media_key": "3_2035944818598428672",
+          "start": 72,
+          "url": "https://t.co/hMh2zZAQLv"
+        },
+        {
+          "display_url": "pic.x.com/hMh2zZAQLv",
+          "end": 95,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+          "media_key": "3_2035944818598359040",
+          "start": 72,
+          "url": "https://t.co/hMh2zZAQLv"
+        },
+        {
+          "display_url": "pic.x.com/hMh2zZAQLv",
+          "end": 95,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+          "media_key": "3_2035944818984325120",
+          "start": 72,
+          "url": "https://t.co/hMh2zZAQLv"
+        },
+        {
+          "display_url": "pic.x.com/hMh2zZAQLv",
+          "end": 95,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+          "media_key": "3_2035944821089792000",
+          "start": 72,
+          "url": "https://t.co/hMh2zZAQLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037952572489965637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035944832976216388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: https://t.co/ozFwYftUuN…\n附文章完整版链接\n以及部分受害者在该体系自述内容… https://t.co/hMh2zZAQLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035944818598428672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEhBo7bQAAWV0J.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035944818598359040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEhBo7aMAAW_Ks.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035944818984325120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEhBqXbkAAsZfY.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035944821089792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEhByNacAAWq5b.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035944818598428672",
+            "3_2035944818598359040",
+            "3_2035944818984325120",
+            "3_2035944821089792000"
+          ],
+          "media_source_tweet_id": [
+            "2035944832976216388",
+            "2035944832976216388",
+            "2035944832976216388",
+            "2035944832976216388"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2037952572489965637",
+        "created_at": "2026-03-28T17:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037952572489965637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/dV9Xcr32NkXl",
+              "end": 44,
+              "expanded_url": "http://mp.weixin.qq.com/s/dV9Xcr32NkXl",
+              "start": 21,
+              "status": 501,
+              "unwound_url": "http://mp.weixin.qq.com/s/dV9Xcr32NkXl",
+              "url": "https://t.co/ozFwYftUuN"
+            },
+            {
+              "display_url": "pic.x.com/hMh2zZAQLv",
+              "end": 95,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+              "media_key": "3_2035944818598428672",
+              "start": 72,
+              "url": "https://t.co/hMh2zZAQLv"
+            },
+            {
+              "display_url": "pic.x.com/hMh2zZAQLv",
+              "end": 95,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+              "media_key": "3_2035944818598359040",
+              "start": 72,
+              "url": "https://t.co/hMh2zZAQLv"
+            },
+            {
+              "display_url": "pic.x.com/hMh2zZAQLv",
+              "end": 95,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+              "media_key": "3_2035944818984325120",
+              "start": 72,
+              "url": "https://t.co/hMh2zZAQLv"
+            },
+            {
+              "display_url": "pic.x.com/hMh2zZAQLv",
+              "end": 95,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+              "media_key": "3_2035944821089792000",
+              "start": 72,
+              "url": "https://t.co/hMh2zZAQLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037952572489965637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035944832976216388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: https://t.co/ozFwYftUuN…\n附文章完整版链接\n以及部分受害者在该体系自述内容… https://t.co/hMh2zZAQLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035944818598428672",
+            "3_2035944818598359040",
+            "3_2035944818984325120",
+            "3_2035944821089792000"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2035943197470511235",
+        "created_at": "2026-03-23T05:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035944832976216388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/dV9Xcr32NkXl",
+              "end": 23,
+              "expanded_url": "http://mp.weixin.qq.com/s/dV9Xcr32NkXl",
+              "start": 0,
+              "status": 501,
+              "unwound_url": "http://mp.weixin.qq.com/s/dV9Xcr32NkXl",
+              "url": "https://t.co/ozFwYftUuN"
+            },
+            {
+              "display_url": "pic.x.com/hMh2zZAQLv",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+              "media_key": "3_2035944818598428672",
+              "start": 51,
+              "url": "https://t.co/hMh2zZAQLv"
+            },
+            {
+              "display_url": "pic.x.com/hMh2zZAQLv",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+              "media_key": "3_2035944818598359040",
+              "start": 51,
+              "url": "https://t.co/hMh2zZAQLv"
+            },
+            {
+              "display_url": "pic.x.com/hMh2zZAQLv",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+              "media_key": "3_2035944818984325120",
+              "start": 51,
+              "url": "https://t.co/hMh2zZAQLv"
+            },
+            {
+              "display_url": "pic.x.com/hMh2zZAQLv",
+              "end": 74,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035944832976216388/photo/1",
+              "media_key": "3_2035944821089792000",
+              "start": 51,
+              "url": "https://t.co/hMh2zZAQLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035944832976216388",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2510,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035943197470511235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ozFwYftUuN…\n附文章完整版链接\n以及部分受害者在该体系自述内容… https://t.co/hMh2zZAQLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|http://en-jp-cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 2712,
+          "like_count": 96983,
+          "listed_count": 3,
+          "media_count": 726,
+          "tweet_count": 11573
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4003,
+          "following_count": 2300,
+          "like_count": 2188,
+          "listed_count": 15,
+          "media_count": 376,
+          "tweet_count": 2401
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063207489529868288"
+      ],
+      "media_source_tweet_id": [
+        "2063207492151283861"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2063316523301888492",
+    "created_at": "2026-06-06T17:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063316523301888492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1228406233738072064",
+          "start": 3,
+          "username": "AR10545614"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzOf4r9ADD",
+          "end": 52,
+          "expanded_url": "https://x.com/AR10545614/status/2063207492151283861/photo/1",
+          "media_key": "3_2063207489529868288",
+          "start": 29,
+          "url": "https://t.co/GzOf4r9ADD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063316523301888492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063207492151283861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AR10545614: 天使的魔法  也会失灵的 https://t.co/GzOf4r9ADD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063207489529868288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH8R8dacAAS5LZ.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063207489529868288"
+          ],
+          "media_source_tweet_id": [
+            "2063207492151283861"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2063316523301888492",
+        "created_at": "2026-06-06T17:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063316523301888492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1228406233738072064",
+              "start": 3,
+              "username": "AR10545614"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzOf4r9ADD",
+              "end": 52,
+              "expanded_url": "https://x.com/AR10545614/status/2063207492151283861/photo/1",
+              "media_key": "3_2063207489529868288",
+              "start": 29,
+              "url": "https://t.co/GzOf4r9ADD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063316523301888492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063207492151283861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AR10545614: 天使的魔法  也会失灵的 https://t.co/GzOf4r9ADD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063207489529868288"
+          ]
+        },
+        "author_id": "1228406233738072064",
+        "conversation_id": "2063207492151283861",
+        "created_at": "2026-06-06T10:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063207492151283861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzOf4r9ADD",
+              "end": 36,
+              "expanded_url": "https://x.com/AR10545614/status/2063207492151283861/photo/1",
+              "media_key": "3_2063207489529868288",
+              "start": 13,
+              "url": "https://t.co/GzOf4r9ADD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063207492151283861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 3747,
+          "like_count": 580,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "天使的魔法  也会失灵的 https://t.co/GzOf4r9ADD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 3028,
+          "like_count": 110349,
+          "listed_count": 7,
+          "media_count": 803,
+          "tweet_count": 13488
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "カッヤ𐙚⋆°.🏳️‍⚧️ ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 962,
+          "like_count": 274,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 737
+        },
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

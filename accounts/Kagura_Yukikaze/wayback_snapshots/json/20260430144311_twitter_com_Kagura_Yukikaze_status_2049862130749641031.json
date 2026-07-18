@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2049862130749641031",
+    "created_at": "2026-04-30T14:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049862130749641031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kama292091/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kama292091/status/2049717884268818871",
+          "start": 5,
+          "url": "https://t.co/IgVnYq3NV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049862130749641031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049717884268818871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚安…. https://t.co/IgVnYq3NV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2047696162044706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrgz2qbAAAMccH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2049862130749641031",
+        "created_at": "2026-04-30T14:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049862130749641031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kama292091/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kama292091/status/2049717884268818871",
+              "start": 5,
+              "url": "https://t.co/IgVnYq3NV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049862130749641031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049717884268818871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安…. https://t.co/IgVnYq3NV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047696162044706816"
+          ]
+        },
+        "author_id": "1828259497422528515",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049717884268818871",
+        "created_at": "2026-04-30T05:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049717884268818871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lc6P4g3bO7",
+              "end": 57,
+              "expanded_url": "https://x.com/kama292091/status/2049717884268818871/photo/1",
+              "media_key": "3_2047696162044706816",
+              "start": 34,
+              "url": "https://t.co/Lc6P4g3bO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049717884268818871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3687,
+          "like_count": 73,
+          "quote_count": 3,
+          "reply_count": 55,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我等，终将前往极乐，另外，这个帖子发出来说明我成功了，天天开心大家 https://t.co/Lc6P4g3bO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 2870,
+          "like_count": 103591,
+          "listed_count": 6,
+          "media_count": 771,
+          "tweet_count": 12595
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T02:33:39.000Z",
+        "description": "",
+        "id": "1828259497422528515",
+        "name": "しろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007443577316782080/08yOdtvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 1798,
+          "like_count": 21903,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 5203
+        },
+        "username": "kama292091",
+        "verified": false
+      }
+    ]
+  }
+}

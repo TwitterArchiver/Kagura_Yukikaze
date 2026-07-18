@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weddings",
+          "id": "847896684638097408",
+          "name": "Weddings"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Weddings",
+          "id": "847896684638097408",
+          "name": "Weddings"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278066760814456832",
+          "name": "Family"
+        }
+      }
+    ],
+    "conversation_id": "2067969253303881804",
+    "created_at": "2026-06-19T13:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067969253303881804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974619368920322048",
+          "start": 3,
+          "username": "reinainusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067969253303881804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067734371378061367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reinainusa: 女装さんの体型補正ってめちゃ大事だよ\n\n理想の可愛いを作る『体形補正テク5選』が超有益…！\n①バスト:シリコン&amp;位置高め\n②くびれ:ニッパーで肋骨下〜腰骨\n③ヒップ:パッド入りショーツ\n④姿勢:背筋を伸ばし内もも閉じる\n⑤全体:境目をなくすインナ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2067734365799682048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIRc0tbkAAbbmd.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weddings",
+              "id": "847896684638097408",
+              "name": "Weddings"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weddings",
+              "id": "847896684638097408",
+              "name": "Weddings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2067969253303881804",
+        "created_at": "2026-06-19T13:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067969253303881804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974619368920322048",
+              "start": 3,
+              "username": "reinainusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067969253303881804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067734371378061367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reinainusa: 女装さんの体型補正ってめちゃ大事だよ\n\n理想の可愛いを作る『体形補正テク5選』が超有益…！\n①バスト:シリコン&amp;位置高め\n②くびれ:ニッパーで肋骨下〜腰骨\n③ヒップ:パッド入りショーツ\n④姿勢:背筋を伸ばし内もも閉じる\n⑤全体:境目をなくすインナ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067734365799682048"
+          ]
+        },
+        "author_id": "1974619368920322048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weddings",
+              "id": "847896684638097408",
+              "name": "Weddings"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weddings",
+              "id": "847896684638097408",
+              "name": "Weddings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2067734371378061367",
+        "created_at": "2026-06-18T22:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067734371378061367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUmhwmkypd",
+              "end": 152,
+              "expanded_url": "https://x.com/reinainusa/status/2067734371378061367/photo/1",
+              "media_key": "3_2067734365799682048",
+              "start": 129,
+              "url": "https://t.co/DUmhwmkypd"
+            },
+            {
+              "display_url": "x.com/reinainusa/sta…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/reinainusa/status/2065381093977764124",
+              "start": 153,
+              "url": "https://t.co/wa3LQ64v18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067734371378061367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "女装さんの体型補正ってめちゃ大事だよ\n\n理想の可愛いを作る『体形補正テク5選』が超有益…！\n①バスト:シリコン&位置高め\n②くびれ:ニッパーで肋骨下〜腰骨\n③ヒップ:パッド入りショーツ\n④姿勢:背筋を伸ばし内もも閉じる\n⑤全体:境目をなくすインナー\nアイテム選びやコツなど詳細は下の画像を保存して見返してね👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 604,
+          "impression_count": 41925,
+          "like_count": 1078,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065381093977764124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女装さんの体型補正ってめちゃ大事だよ\n\n理想の可愛いを作る『体形補正テク5選』が超有益…！\n①バスト:シリコン&amp;位置高め\n②くびれ:ニッパーで肋骨下〜腰骨\n③ヒップ:パッド入りショーツ\n④姿勢:背筋を伸ばし内もも閉じる\n⑤全体:境目をなくすインナー https://t.co/DUmhwmkypd https://t.co/wa3LQ64v18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 3054,
+          "like_count": 111969,
+          "listed_count": 6,
+          "media_count": 811,
+          "tweet_count": 13627
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T23:35:33.000Z",
+        "description": "甘いものに目がない。 通訳 アメリカ育ち 旅行大好き 本垢半年で800万インプの真央のプラベート情報 アクセスアップの裏技も紹介するかも",
+        "id": "1974619368920322048",
+        "name": "斎藤真央　作品置き場(漫画や小説)",
+        "pinned_tweet_id": "2027931419457294717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026130883099652097/JPEBcRPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4260,
+          "following_count": 18,
+          "like_count": 2113,
+          "listed_count": 22,
+          "media_count": 236,
+          "tweet_count": 1220
+        },
+        "url": "",
+        "username": "reinainusa",
+        "verified": true
+      }
+    ]
+  }
+}

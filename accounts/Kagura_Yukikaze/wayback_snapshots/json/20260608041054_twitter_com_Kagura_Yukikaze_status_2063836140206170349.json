@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2063836140206170349",
+    "created_at": "2026-06-08T04:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063836140206170349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1218028959109210113",
+          "start": 3,
+          "username": "RizumuA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063836140206170349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063820594559541533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RizumuA3: 昨天在东京的 🏳️‍🌈 Tokyo Pride 游行感觉快哭出来了…\n\n从来没想过，在世界某些角落不被允许出现的少数群体可以在东京涩谷最繁华的街道上游行。路旁大家都举者小旗子在招手，大家喊着 We are here。\n\n游行路线是提前准备好的，交警帮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2063820571599921152",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKQp4BJbYAARodJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKQp4BJbYAARodJ.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2063836140206170349",
+        "created_at": "2026-06-08T04:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063836140206170349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1218028959109210113",
+              "start": 3,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063836140206170349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063820594559541533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RizumuA3: 昨天在东京的 🏳️‍🌈 Tokyo Pride 游行感觉快哭出来了…\n\n从来没想过，在世界某些角落不被允许出现的少数群体可以在东京涩谷最繁华的街道上游行。路旁大家都举者小旗子在招手，大家喊着 We are here。\n\n游行路线是提前准备好的，交警帮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063820571599921152"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2063820594559541533",
+        "created_at": "2026-06-08T03:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063820594559541533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejXH4f8vmA",
+              "end": 176,
+              "expanded_url": "https://x.com/RizumuA3/status/2063820594559541533/photo/1",
+              "media_key": "16_2063820571599921152",
+              "start": 153,
+              "url": "https://t.co/ejXH4f8vmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063820594559541533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天在东京的 🏳️‍🌈 Tokyo Pride 游行感觉快哭出来了…\n\n从来没想过，在世界某些角落不被允许出现的少数群体可以在东京涩谷最繁华的街道上游行。路旁大家都举者小旗子在招手，大家喊着 We are here。\n\n游行路线是提前准备好的，交警帮忙指挥交通维护秩序，而不是阻拦。可是我的脑子里居然在想 “这些都是正常的吗，居然会配合吗”。\n\n* 我本可以忍受黑暗，如果我不曾见过太阳。\n\n感觉到亲自经历过这样的事情之后，我的心里的某些东西发生改变了…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 658,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "昨天在东京的 🏳️‍🌈 Tokyo Pride 游行感觉快哭出来了…\n\n从来没想过，在世界某些角落不被允许出现的少数群体可以在东京涩谷最繁华的街道上游行。路旁大家都举者小旗子在招手，大家喊着 We are here。\n\n游行路线是提前准备好的，交警帮忙指挥交通维护秩序，而不是阻拦。可是我的脑子里居然在想 https://t.co/ejXH4f8vmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2062168480670240906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 3033,
+          "like_count": 110468,
+          "listed_count": 7,
+          "media_count": 804,
+          "tweet_count": 13498
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11940,
+          "following_count": 1562,
+          "like_count": 45216,
+          "listed_count": 58,
+          "media_count": 1924,
+          "tweet_count": 14448
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981049077916680192"
+      ],
+      "media_source_tweet_id": [
+        "1981049081700261952"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "1981395291808157723",
+    "created_at": "2025-10-23T16:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T17:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981395291808157723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353169870691549184",
+          "start": 3,
+          "username": "iPaulCanada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4aic4Vid7M",
+          "end": 44,
+          "expanded_url": "https://x.com/iPaulCanada/status/1981049081700261952/photo/1",
+          "media_key": "3_1981049077916680192",
+          "start": 21,
+          "url": "https://t.co/4aic4Vid7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981395291808157723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981049081700261952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iPaulCanada: 真实了 https://t.co/4aic4Vid7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_1981049077916680192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G34Zo-vWwAAPkIU.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981049077916680192"
+          ],
+          "media_source_tweet_id": [
+            "1981049081700261952"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "1981395291808157723",
+        "created_at": "2025-10-23T16:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981395291808157723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353169870691549184",
+              "start": 3,
+              "username": "iPaulCanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4aic4Vid7M",
+              "end": 44,
+              "expanded_url": "https://x.com/iPaulCanada/status/1981049081700261952/photo/1",
+              "media_key": "3_1981049077916680192",
+              "start": 21,
+              "url": "https://t.co/4aic4Vid7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981395291808157723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981049081700261952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iPaulCanada: 真实了 https://t.co/4aic4Vid7M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981049077916680192"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1981049081700261952",
+        "created_at": "2025-10-22T17:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981049081700261952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4aic4Vid7M",
+              "end": 27,
+              "expanded_url": "https://x.com/iPaulCanada/status/1981049081700261952/photo/1",
+              "media_key": "3_1981049077916680192",
+              "start": 4,
+              "url": "https://t.co/4aic4Vid7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981049081700261952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 422,
+          "impression_count": 574570,
+          "like_count": 5388,
+          "quote_count": 8,
+          "reply_count": 73,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "真实了 https://t.co/4aic4Vid7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 1629,
+          "like_count": 65501,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 7407
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147422,
+          "following_count": 501,
+          "like_count": 7531,
+          "listed_count": 608,
+          "media_count": 10195,
+          "tweet_count": 16602
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

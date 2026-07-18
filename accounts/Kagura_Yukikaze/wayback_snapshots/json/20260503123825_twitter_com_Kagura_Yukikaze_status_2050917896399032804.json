@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050916993373732864",
+        "3_2050916993373818880"
+      ],
+      "media_source_tweet_id": [
+        "2050917006900363495",
+        "2050917006900363495"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050917896399032804",
+    "created_at": "2026-05-03T12:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050917896399032804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1565981667746914304",
+          "start": 3,
+          "username": "Kagura_Yukikaze"
+        },
+        {
+          "end": 31,
+          "id": "1695108682605080576",
+          "start": 21,
+          "username": "ccnanoQAQ"
+        },
+        {
+          "end": 42,
+          "id": "1693842830173831168",
+          "start": 33,
+          "username": "hao14083"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2wzdGgjF7l",
+          "end": 82,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/2050917006900363495/photo/1",
+          "media_key": "3_2050916993373732864",
+          "start": 59,
+          "url": "https://t.co/2wzdGgjF7l"
+        },
+        {
+          "display_url": "pic.x.com/2wzdGgjF7l",
+          "end": 82,
+          "expanded_url": "https://x.com/Kagura_Yukikaze/status/2050917006900363495/photo/1",
+          "media_key": "3_2050916993373818880",
+          "start": 59,
+          "url": "https://t.co/2wzdGgjF7l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050917896399032804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050917006900363495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kagura_Yukikaze: @ccnanoQAQ \n@hao14083 没来及拍qwq\n舞萌time～ https://t.co/2wzdGgjF7l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050916993373732864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZSI6XagAAB-D3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050916993373818880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZSI6Xb0AAkbJ4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050916993373732864",
+            "3_2050916993373818880"
+          ],
+          "media_source_tweet_id": [
+            "2050917006900363495",
+            "2050917006900363495"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050917896399032804",
+        "created_at": "2026-05-03T12:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050917896399032804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1565981667746914304",
+              "start": 3,
+              "username": "Kagura_Yukikaze"
+            },
+            {
+              "end": 31,
+              "id": "1695108682605080576",
+              "start": 21,
+              "username": "ccnanoQAQ"
+            },
+            {
+              "end": 42,
+              "id": "1693842830173831168",
+              "start": 33,
+              "username": "hao14083"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wzdGgjF7l",
+              "end": 82,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2050917006900363495/photo/1",
+              "media_key": "3_2050916993373732864",
+              "start": 59,
+              "url": "https://t.co/2wzdGgjF7l"
+            },
+            {
+              "display_url": "pic.x.com/2wzdGgjF7l",
+              "end": 82,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2050917006900363495/photo/1",
+              "media_key": "3_2050916993373818880",
+              "start": 59,
+              "url": "https://t.co/2wzdGgjF7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050917896399032804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050917006900363495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kagura_Yukikaze: @ccnanoQAQ \n@hao14083 没来及拍qwq\n舞萌time～ https://t.co/2wzdGgjF7l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050916993373732864",
+            "3_2050916993373818880"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050917006900363495",
+        "created_at": "2026-05-03T12:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050917006900363495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695108682605080576",
+              "start": 0,
+              "username": "ccnanoQAQ"
+            },
+            {
+              "end": 21,
+              "id": "1693842830173831168",
+              "start": 12,
+              "username": "hao14083"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wzdGgjF7l",
+              "end": 61,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2050917006900363495/photo/1",
+              "media_key": "3_2050916993373732864",
+              "start": 38,
+              "url": "https://t.co/2wzdGgjF7l"
+            },
+            {
+              "display_url": "pic.x.com/2wzdGgjF7l",
+              "end": 61,
+              "expanded_url": "https://x.com/Kagura_Yukikaze/status/2050917006900363495/photo/1",
+              "media_key": "3_2050916993373818880",
+              "start": 38,
+              "url": "https://t.co/2wzdGgjF7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050917006900363495",
+        "in_reply_to_user_id": "1695108682605080576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@ccnanoQAQ \n@hao14083 没来及拍qwq\n舞萌time～ https://t.co/2wzdGgjF7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 2880,
+          "like_count": 104132,
+          "listed_count": 6,
+          "media_count": 777,
+          "tweet_count": 12669
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T16:20:04.000Z",
+        "description": "INTJ丨一个在码头搬运薯条的日常推（人生はお疲れ様でした~",
+        "id": "1695108682605080576",
+        "location": "浙江。",
+        "name": "ccnano🇫🇷 （废萌版）",
+        "pinned_tweet_id": "1779609957475680724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759962566225481728/ktAnhzqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3218,
+          "following_count": 1019,
+          "like_count": 70423,
+          "listed_count": 2,
+          "media_count": 1919,
+          "tweet_count": 15478
+        },
+        "username": "ccnanoQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T04:29:43.000Z",
+        "description": "我的资料简介，其实不知道应该写什么。难道应该去简单的给我挂几个标签么。 呐 #mtx #mtf #ACG #绘画 还是 ……。 呃 唔不喜欢标签来定义自己，就算是别人也亦是如此…呃我有点啰嗦了，但我不介意嘿嘿 总之来说我会经常发推，嗯对。在寻找存在的意义，努力的幸存………呃对没了 那个我叫面包",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 38,
+                "tag": "mtx"
+              },
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "mtf"
+              },
+              {
+                "end": 52,
+                "start": 48,
+                "tag": "ACG"
+              },
+              {
+                "end": 56,
+                "start": 53,
+                "tag": "绘画"
+              }
+            ]
+          }
+        },
+        "id": "1693842830173831168",
+        "location": "珠三角。。。〃＾▽。，＿一。 上面显示更多记得点！↑ ↑ ↑",
+        "name": "パン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044341056242642944/JTwYJ_oL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 280,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 512
+        },
+        "username": "hao14083",
+        "verified": false
+      }
+    ]
+  }
+}

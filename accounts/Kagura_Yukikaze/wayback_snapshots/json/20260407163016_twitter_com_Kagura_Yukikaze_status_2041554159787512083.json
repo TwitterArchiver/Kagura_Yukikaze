@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2041554159787512083",
+    "created_at": "2026-04-07T16:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041554159787512083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974619368920322048",
+          "start": 3,
+          "username": "reinainusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041554159787512083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041461360396308541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reinainusa: 【完全保存版】\nメイクや服よりもバレやすいのは、実は仕草です\n\n男性特有の硬い動きを払拭し、\n一瞬で女の子に見える「魔法の女子力仕草」3選\n\n✅ 指先はいつも柔らかく\n✅ 首を少し傾ける\n✅ 手を口元に添える\n\n毎日の練習や、お出かけ前のチェック…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2041461356029939712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS6SYTaEAABqfZ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2041554159787512083",
+        "created_at": "2026-04-07T16:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041554159787512083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974619368920322048",
+              "start": 3,
+              "username": "reinainusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041554159787512083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041461360396308541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reinainusa: 【完全保存版】\nメイクや服よりもバレやすいのは、実は仕草です\n\n男性特有の硬い動きを払拭し、\n一瞬で女の子に見える「魔法の女子力仕草」3選\n\n✅ 指先はいつも柔らかく\n✅ 首を少し傾ける\n✅ 手を口元に添える\n\n毎日の練習や、お出かけ前のチェック…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041461356029939712"
+          ]
+        },
+        "author_id": "1974619368920322048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2041461360396308541",
+        "created_at": "2026-04-07T10:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041461360396308541"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "女装"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "女装子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDSwHX4Gk5",
+              "end": 169,
+              "expanded_url": "https://x.com/reinainusa/status/2041461360396308541/photo/1",
+              "media_key": "3_2041461356029939712",
+              "start": 146,
+              "url": "https://t.co/uDSwHX4Gk5"
+            },
+            {
+              "display_url": "x.com/reinainusa/sta…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/reinainusa/status/2040734522363498789",
+              "start": 170,
+              "url": "https://t.co/KtTVi6Hh4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041461360396308541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 15730,
+          "like_count": 413,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040734522363498789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【完全保存版】\nメイクや服よりもバレやすいのは、実は仕草です\n\n男性特有の硬い動きを払拭し、\n一瞬で女の子に見える「魔法の女子力仕草」3選\n\n✅ 指先はいつも柔らかく\n✅ 首を少し傾ける\n✅ 手を口元に添える\n\n毎日の練習や、お出かけ前のチェック用に【保存】推奨です！👇\n\n#女装 #女装子 https://t.co/uDSwHX4Gk5 https://t.co/KtTVi6Hh4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥（清水推.ing",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2883,
+          "following_count": 2784,
+          "like_count": 99874,
+          "listed_count": 3,
+          "media_count": 749,
+          "tweet_count": 12042
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T23:35:33.000Z",
+        "description": "甘いものに目がない。 通訳 アメリカ育ち 旅行大好き 本垢半年で800万インプの真央のプラベート情報　アクセスアップの裏技も紹介するかも",
+        "id": "1974619368920322048",
+        "name": "斎藤真央　私生活垢",
+        "pinned_tweet_id": "2027931419457294717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026130883099652097/JPEBcRPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2415,
+          "following_count": 17,
+          "like_count": 1115,
+          "listed_count": 15,
+          "media_count": 128,
+          "tweet_count": 626
+        },
+        "username": "reinainusa",
+        "verified": false
+      }
+    ]
+  }
+}

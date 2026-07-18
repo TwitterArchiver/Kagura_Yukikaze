@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2060027525733273867",
+    "created_at": "2026-05-28T15:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060027525733273867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1924086718145380352",
+          "start": 3,
+          "username": "43NlrivDwp953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060027525733273867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3247
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059602999014769032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @43NlrivDwp953: 飛び降りはしません。後遺症が怖いからです。\n首吊りはしません。首を吊れるいい高さがないからです。\n餓死はしません。苦しいらしいからです。\n人身事故はしません。人に迷惑をかけたくないからです。\n死ぬ時全部迷惑かかるの本当に辛い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2060027525733273867",
+        "created_at": "2026-05-28T15:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060027525733273867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1924086718145380352",
+              "start": 3,
+              "username": "43NlrivDwp953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060027525733273867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3247
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059602999014769032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @43NlrivDwp953: 飛び降りはしません。後遺症が怖いからです。\n首吊りはしません。首を吊れるいい高さがないからです。\n餓死はしません。苦しいらしいからです。\n人身事故はしません。人に迷惑をかけたくないからです。\n死ぬ時全部迷惑かかるの本当に辛い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924086718145380352",
+        "conversation_id": "2059602999014769032",
+        "created_at": "2026-05-27T11:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059602999014769032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059602999014769032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2077,
+          "impression_count": 3332989,
+          "like_count": 54887,
+          "quote_count": 442,
+          "reply_count": 220,
+          "retweet_count": 3247
+        },
+        "reply_settings": "everyone",
+        "text": "飛び降りはしません。後遺症が怖いからです。\n首吊りはしません。首を吊れるいい高さがないからです。\n餓死はしません。苦しいらしいからです。\n人身事故はしません。人に迷惑をかけたくないからです。\n死ぬ時全部迷惑かかるの本当に辛い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3130,
+          "following_count": 2995,
+          "like_count": 109074,
+          "listed_count": 7,
+          "media_count": 795,
+          "tweet_count": 13297
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T12:56:56.000Z",
+        "description": "やみあか　一応受験生やってます",
+        "id": "1924086718145380352",
+        "name": "微糖メンヘラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962105970328498176/rt-U20yT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 66,
+          "like_count": 1191,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 162
+        },
+        "username": "43NlrivDwp953",
+        "verified": false
+      }
+    ]
+  }
+}

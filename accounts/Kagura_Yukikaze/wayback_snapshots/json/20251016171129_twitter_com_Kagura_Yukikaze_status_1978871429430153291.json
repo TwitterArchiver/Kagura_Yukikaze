@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "1978871429430153291",
+    "created_at": "2025-10-16T17:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T18:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978871429430153291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866821173755121666",
+          "start": 3,
+          "username": "cnyzgkc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978871429430153291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 222
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978375939131129974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cnyzgkc: 再次看到这张\"互联网排泄链\"，突然想明白了一件事：\n\n在X上，你确实站在链条前端，但这不是终点。\n\n真正的机会是成为\"内容中间商\"——在海量信息和用户之间做筛选、过滤、策展，成为他们的\"山姆超市\"。\n\n不是所有人都想泡在信息源头，但所有人都需要优质内容…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_1978375832793128960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SaVonaIAA7t4Y.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1978871429430153291",
+        "created_at": "2025-10-16T17:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T18:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978871429430153291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866821173755121666",
+              "start": 3,
+              "username": "cnyzgkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978871429430153291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978375939131129974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cnyzgkc: 再次看到这张\"互联网排泄链\"，突然想明白了一件事：\n\n在X上，你确实站在链条前端，但这不是终点。\n\n真正的机会是成为\"内容中间商\"——在海量信息和用户之间做筛选、过滤、策展，成为他们的\"山姆超市\"。\n\n不是所有人都想泡在信息源头，但所有人都需要优质内容…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978375832793128960"
+          ]
+        },
+        "author_id": "1866821173755121666",
+        "conversation_id": "1978375939131129974",
+        "created_at": "2025-10-15T08:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978375939131129974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gs9b1p013I",
+              "end": 162,
+              "expanded_url": "https://x.com/cnyzgkc/status/1978375939131129974/photo/1",
+              "media_key": "3_1978375832793128960",
+              "start": 139,
+              "url": "https://t.co/gs9b1p013I"
+            },
+            {
+              "display_url": "x.com/cellinlab/stat…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/cellinlab/status/1978371859172278424",
+              "start": 163,
+              "url": "https://t.co/XkzW0u3eSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978375939131129974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 727,
+          "impression_count": 747539,
+          "like_count": 1615,
+          "quote_count": 14,
+          "reply_count": 103,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978371859172278424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次看到这张\"互联网排泄链\"，突然想明白了一件事：\n\n在X上，你确实站在链条前端，但这不是终点。\n\n真正的机会是成为\"内容中间商\"——在海量信息和用户之间做筛选、过滤、策展，成为他们的\"山姆超市\"。\n\n不是所有人都想泡在信息源头，但所有人都需要优质内容。这才是长期值得做的事。 https://t.co/gs9b1p013I https://t.co/XkzW0u3eSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is Kagura Yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975925849322098688/f7yfwQcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1531,
+          "like_count": 63434,
+          "listed_count": 2,
+          "media_count": 526,
+          "tweet_count": 7173
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T12:23:59.000Z",
+        "description": "🚀 Frontend @ Big Tech | ESTJ ✍️分享AI 资讯 / AI 副业实战 / AI 自媒体 📍公众号：木马人 AI",
+        "id": "1866821173755121666",
+        "location": "China",
+        "name": "木马人",
+        "pinned_tweet_id": "1978843020867866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963499609017495553/kuzkS82V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 943,
+          "like_count": 1179,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 1532
+        },
+        "username": "cnyzgkc",
+        "verified": false
+      }
+    ]
+  }
+}

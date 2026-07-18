@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2053043821995606296",
+    "created_at": "2026-05-09T09:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053043821995606296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053043821995606296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053024904145174980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 你真的好自私，一个人丢下一堆烂摊子，跑掉了...\n我没想到再次回到宁波是因为这种事情\n没想到上次离开之前明明还抱过我，这次回来再看你一眼是天人永隔了\n你真的改变了我好多，整理你的遗物的时候...我看到你还留着我送的东西，我真的好想你...\n总之..事…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2053043821995606296",
+        "created_at": "2026-05-09T09:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053043821995606296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053043821995606296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053024904145174980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 你真的好自私，一个人丢下一堆烂摊子，跑掉了...\n我没想到再次回到宁波是因为这种事情\n没想到上次离开之前明明还抱过我，这次回来再看你一眼是天人永隔了\n你真的改变了我好多，整理你的遗物的时候...我看到你还留着我送的东西，我真的好想你...\n总之..事…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2053024904145174980",
+        "created_at": "2026-05-09T08:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:09:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053024665397035377",
+          "2053024904145174980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiyouNeko/stat…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/HiyouNeko/status/2053020919187329198",
+              "start": 150,
+              "url": "https://t.co/aagonjIg7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053024904145174980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053020919187329198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你真的好自私，一个人丢下一堆烂摊子，跑掉了...\n我没想到再次回到宁波是因为这种事情\n没想到上次离开之前明明还抱过我，这次回来再看你一眼是天人永隔了\n你真的改变了我好多，整理你的遗物的时候...我看到你还留着我送的东西，我真的好想你...\n总之..事情已经发生了，只能尊重你的选择....那么晚安啦 https://t.co/aagonjIg7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 2924,
+          "like_count": 105621,
+          "listed_count": 8,
+          "media_count": 781,
+          "tweet_count": 12835
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 1683,
+          "like_count": 27413,
+          "listed_count": 7,
+          "media_count": 869,
+          "tweet_count": 6881
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

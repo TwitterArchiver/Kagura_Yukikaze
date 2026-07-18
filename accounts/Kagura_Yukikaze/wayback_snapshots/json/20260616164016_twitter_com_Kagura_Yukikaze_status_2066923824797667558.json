@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066901980526915584"
+      ],
+      "media_source_tweet_id": [
+        "2066901988043067407"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2066923824797667558",
+    "created_at": "2026-06-16T16:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066923824797667558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1439465002851725314",
+          "start": 3,
+          "username": "chengzi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HkcKZeFz86",
+          "end": 67,
+          "expanded_url": "https://x.com/chengzi/status/2066901988043067407/photo/1",
+          "media_key": "3_2066901980526915584",
+          "start": 44,
+          "url": "https://t.co/HkcKZeFz86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066923824797667558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066901988043067407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chengzi: 夏天到了，分享一下我觉得很好看的穿搭！\n还是很喜欢玛丽珍的！ https://t.co/HkcKZeFz86"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066901980526915584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8cZn7bsAAmk7C.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066901980526915584"
+          ],
+          "media_source_tweet_id": [
+            "2066901988043067407"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2066923824797667558",
+        "created_at": "2026-06-16T16:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066923824797667558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1439465002851725314",
+              "start": 3,
+              "username": "chengzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkcKZeFz86",
+              "end": 67,
+              "expanded_url": "https://x.com/chengzi/status/2066901988043067407/photo/1",
+              "media_key": "3_2066901980526915584",
+              "start": 44,
+              "url": "https://t.co/HkcKZeFz86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066923824797667558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066901988043067407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chengzi: 夏天到了，分享一下我觉得很好看的穿搭！\n还是很喜欢玛丽珍的！ https://t.co/HkcKZeFz86"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066901980526915584"
+          ]
+        },
+        "author_id": "1439465002851725314",
+        "conversation_id": "2066901988043067407",
+        "created_at": "2026-06-16T15:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066901988043067407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkcKZeFz86",
+              "end": 54,
+              "expanded_url": "https://x.com/chengzi/status/2066901988043067407/photo/1",
+              "media_key": "3_2066901980526915584",
+              "start": 31,
+              "url": "https://t.co/HkcKZeFz86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066901988043067407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "夏天到了，分享一下我觉得很好看的穿搭！\n还是很喜欢玛丽珍的！ https://t.co/HkcKZeFz86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 3045,
+          "like_count": 111518,
+          "listed_count": 7,
+          "media_count": 809,
+          "tweet_count": 13589
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "iiii| 记录一些日常生活碎片｜vlog博主｜艺术家｜美食博主｜看黄的不要来关注我！| This is an interesting account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lSP0q"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "name": "橙子𝗖𝗵𝗲𝗻𝗴𝘇𝗶",
+        "pinned_tweet_id": "2066759541056999809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044051122789273600/7sRjs3xI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18498,
+          "following_count": 832,
+          "like_count": 3303,
+          "listed_count": 55,
+          "media_count": 569,
+          "tweet_count": 2009
+        },
+        "url": "https://t.co/VCsG9lSP0q",
+        "username": "chengzi",
+        "verified": true
+      }
+    ]
+  }
+}

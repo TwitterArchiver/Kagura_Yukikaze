@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075476248860798976"
+      ],
+      "media_source_tweet_id": [
+        "2075476253252174229"
+      ]
+    },
+    "author_id": "1565981667746914304",
+    "conversation_id": "2075538099367714992",
+    "created_at": "2026-07-10T11:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075538099367714992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1888327741004730368",
+          "start": 3,
+          "username": "kingofjing0_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKls0aVVhy",
+          "end": 45,
+          "expanded_url": "https://x.com/kingofjing0_ai/status/2075476253252174229/photo/1",
+          "media_key": "3_2075476248860798976",
+          "start": 22,
+          "url": "https://t.co/kKls0aVVhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075538099367714992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075476253252174229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kingofjing0_ai: 📐 https://t.co/kKls0aVVhy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2075476248860798976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2SpukbsAA2jM1.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075476248860798976"
+          ],
+          "media_source_tweet_id": [
+            "2075476253252174229"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "conversation_id": "2075538099367714992",
+        "created_at": "2026-07-10T11:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075538099367714992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1888327741004730368",
+              "start": 3,
+              "username": "kingofjing0_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKls0aVVhy",
+              "end": 45,
+              "expanded_url": "https://x.com/kingofjing0_ai/status/2075476253252174229/photo/1",
+              "media_key": "3_2075476248860798976",
+              "start": 22,
+              "url": "https://t.co/kKls0aVVhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075538099367714992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075476253252174229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kingofjing0_ai: 📐 https://t.co/kKls0aVVhy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075476248860798976"
+          ]
+        },
+        "author_id": "1888327741004730368",
+        "conversation_id": "2075476253252174229",
+        "created_at": "2026-07-10T07:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075476253252174229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKls0aVVhy",
+              "end": 25,
+              "expanded_url": "https://x.com/kingofjing0_ai/status/2075476253252174229/photo/1",
+              "media_key": "3_2075476248860798976",
+              "start": 2,
+              "url": "https://t.co/kKls0aVVhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075476253252174229",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 7544,
+          "like_count": 881,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "📐 https://t.co/kKls0aVVhy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3181,
+          "following_count": 3070,
+          "like_count": 114892,
+          "listed_count": 6,
+          "media_count": 824,
+          "tweet_count": 13937
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T20:43:21.000Z",
+        "description": "aiイラスト用アカウント🇯🇵 | NSFW | OC:🐶albino border collie ダフニス(Daphnis) | 加筆修正したり出力した絵を参考資料に絵を描く事もある | Japanese | 絵以外でもaiに関するものはこっちで |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tensor.art/u/813733222956…",
+                "end": 23,
+                "expanded_url": "https://tensor.art/u/813733222956504619",
+                "start": 0,
+                "url": "https://t.co/D06EXQHwu6"
+              }
+            ]
+          }
+        },
+        "id": "1888327741004730368",
+        "name": "仁(ジン)🔞AI関連",
+        "pinned_tweet_id": "2017612558359048347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942215000891785217/Fi2Kydl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 661,
+          "like_count": 4848,
+          "listed_count": 6,
+          "media_count": 328,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/D06EXQHwu6",
+        "username": "kingofjing0_ai",
+        "verified": false
+      }
+    ]
+  }
+}

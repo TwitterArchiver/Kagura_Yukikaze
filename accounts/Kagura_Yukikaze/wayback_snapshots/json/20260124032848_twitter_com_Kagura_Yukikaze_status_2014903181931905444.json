@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2014861069853065276",
+    "created_at": "2026-01-24T03:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T04:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014903181931905444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830803687939416065",
+          "start": 0,
+          "username": "CantaSerin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014903181931905444",
+    "in_reply_to_user_id": "1830803687939416065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014861069853065276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CantaSerin 姐姐太强了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014861038819368960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Y5cIqaYAA5BJt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014861038986899457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Y5cJSWsAEYtgH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2014861069853065276",
+        "created_at": "2026-01-24T03:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014903181931905444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830803687939416065",
+              "start": 0,
+              "username": "CantaSerin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014903181931905444",
+        "in_reply_to_user_id": "1830803687939416065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014861069853065276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CantaSerin 姐姐太强了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014861038819368960",
+            "3_2014861038986899457"
+          ]
+        },
+        "author_id": "1830803687939416065",
+        "conversation_id": "2014861069853065276",
+        "created_at": "2026-01-24T00:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T01:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014861069853065276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/leYDxqCYgB",
+              "end": 26,
+              "expanded_url": "https://x.com/CantaSerin/status/2014861069853065276/photo/1",
+              "media_key": "3_2014861038819368960",
+              "start": 3,
+              "url": "https://t.co/leYDxqCYgB"
+            },
+            {
+              "display_url": "pic.x.com/leYDxqCYgB",
+              "end": 26,
+              "expanded_url": "https://x.com/CantaSerin/status/2014861069853065276/photo/1",
+              "media_key": "3_2014861038986899457",
+              "start": 3,
+              "url": "https://t.co/leYDxqCYgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014861069853065276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗车 https://t.co/leYDxqCYgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone  |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2008211725728788642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006719443901280256/XF8yHWep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 2276,
+          "like_count": 82636,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 9633
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T03:03:30.000Z",
+        "description": "CantaSerin詁詫&Tapin小葵 轻微精神分裂 🏳️‍⚧️当时没状态 ｜JDM🔰｜赛车运动｜抽象派｜无证含糖｜吃糖被制裁了。。｜2010.8.5｜171cm47kg｜assolutoracing｜pjsk｜重度焦虑症｜中度抑郁｜fo所有人｜视奸所有人",
+        "id": "1830803687939416065",
+        "name": "Tapin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005639249484197888/ULxi-DB2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 411,
+          "like_count": 5188,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 559
+        },
+        "username": "CantaSerin",
+        "verified": false
+      }
+    ]
+  }
+}

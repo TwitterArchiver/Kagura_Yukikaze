@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1565981667746914304",
+    "conversation_id": "2071995039685689372",
+    "created_at": "2026-06-30T23:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T00:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072105922827305470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1892197607109476352",
+          "start": 0,
+          "username": "lianshufa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072105922827305470",
+    "in_reply_to_user_id": "1892197607109476352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071995039685689372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianshufa 唉…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2071995039685689372",
+        "created_at": "2026-06-30T23:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072105922827305470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892197607109476352",
+              "start": 0,
+              "username": "lianshufa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072105922827305470",
+        "in_reply_to_user_id": "1892197607109476352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071995039685689372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianshufa 唉…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892197607109476352",
+        "conversation_id": "2071995039685689372",
+        "created_at": "2026-06-30T16:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071995039685689372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoHuiHuiH/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/2039094400928661552",
+              "start": 6,
+              "url": "https://t.co/xY5qOfnw37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071995039685689372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039094400928661552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天。。。 https://t.co/xY5qOfnw37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "China",
+              "geo": {
+                "coordinates": [
+                  105.0,
+                  35.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "pinned_tweet_id": "2070462188402413624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 3064,
+          "like_count": 113464,
+          "listed_count": 6,
+          "media_count": 819,
+          "tweet_count": 13788
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "个人主页:https://t.co/zZum0DqESa｜生日2009.10.02｜两性畸形?｜X?tF｜舞萌痴｜化学竞赛｜弹电吉他🎸",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 28,
+                "expanded_url": "http://lsfself.top",
+                "start": 5,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "北京回龙观医院门诊2层13诊室",
+        "name": "lsf",
+        "pinned_tweet_id": "2062467564228452669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035628512263221248/duwFcH0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4283,
+          "following_count": 1849,
+          "like_count": 2542,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/zZum0DqESa",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}
